@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1872895422559338655",
+    "created_at": "2024-12-29T04:20:17.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-29T05:20:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1873222483060707805"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1433678976564662273",
+          "start": 0,
+          "username": "hsn8086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1873222483060707805",
+    "in_reply_to_user_id": "1433678976564662273",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872895422559338655",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hsn8086 古人的智慧，以银测毒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1872895422559338655",
+        "created_at": "2024-12-29T04:20:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-29T05:20:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1873222483060707805"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1433678976564662273",
+              "start": 0,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873222483060707805",
+        "in_reply_to_user_id": "1433678976564662273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872895422559338655",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086 古人的智慧，以银测毒"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1872895413654831106"
+          ]
+        },
+        "author_id": "1433678976564662273",
+        "conversation_id": "1872895422559338655",
+        "created_at": "2024-12-28T06:40:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-28T07:40:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1872895422559338655"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tmJaNBHZZx",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086/status/1872895422559338655/photo/1",
+              "media_key": "3_1872895413654831106",
+              "start": 0,
+              "url": "https://t.co/tmJaNBHZZx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872895422559338655",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 133,
+          "impression_count": 168556,
+          "like_count": 1648,
+          "quote_count": 12,
+          "reply_count": 57,
+          "retweet_count": 69
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/tmJaNBHZZx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，有兴趣就可以一起玩",
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844188914451365901/gNnOT4GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 294,
+          "like_count": 1608,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 661
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 避难所: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1869317700327199087",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1707161507161944064/DD0pRpE6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25591,
+          "following_count": 895,
+          "like_count": 36206,
+          "listed_count": 73,
+          "media_count": 4439,
+          "tweet_count": 9048
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

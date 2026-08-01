@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1865775593536774307",
+    "created_at": "2024-12-09T11:36:46.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-09T12:36:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1866084570418012522"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1438743924269588480",
+          "start": 0,
+          "username": "nottoday01_11"
+        },
+        {
+          "end": 28,
+          "id": "1845804987311595520",
+          "start": 15,
+          "username": "kakashiuvu09"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1866084570418012522",
+    "in_reply_to_user_id": "1438743924269588480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1865987684801597891",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nottoday01_11 @kakashiuvu09 给我笑拉了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1865775593536774307",
+        "created_at": "2024-12-09T11:36:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-09T12:36:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866084570418012522"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1438743924269588480",
+              "start": 0,
+              "username": "nottoday01_11"
+            },
+            {
+              "end": 28,
+              "id": "1845804987311595520",
+              "start": 15,
+              "username": "kakashiuvu09"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866084570418012522",
+        "in_reply_to_user_id": "1438743924269588480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1865987684801597891",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nottoday01_11 @kakashiuvu09 给我笑拉了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438743924269588480",
+        "conversation_id": "1865775593536774307",
+        "created_at": "2024-12-09T05:11:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-09T06:11:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1865987684801597891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1845804987311595520",
+              "start": 0,
+              "username": "kakashiuvu09"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865987684801597891",
+        "in_reply_to_user_id": "1845804987311595520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 361,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1865780227345133581",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kakashiuvu09 你们不懂纯爱🥀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，有兴趣就可以一起玩",
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844188914451365901/gNnOT4GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 235,
+          "like_count": 988,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 288
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-17T05:58:18.000Z",
+        "description": "我很垃圾 | 社交能力丧失  |  我有一个不被绷带绊倒的办法，你想听吗？",
+        "id": "1438743924269588480",
+        "name": "HusH",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1440492435772043269/xqm1Yfd8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 33,
+          "like_count": 80,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 35
+        },
+        "username": "nottoday01_11",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-14T12:33:12.000Z",
+        "description": "我要幸福",
+        "id": "1845804987311595520",
+        "name": "潮嘲熊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845809946484727808/HMc_LLcj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1201,
+          "following_count": 110,
+          "like_count": 737,
+          "listed_count": 2,
+          "media_count": 51,
+          "tweet_count": 451
+        },
+        "username": "kakashiuvu09",
+        "verified": false
+      }
+    ]
+  }
+}

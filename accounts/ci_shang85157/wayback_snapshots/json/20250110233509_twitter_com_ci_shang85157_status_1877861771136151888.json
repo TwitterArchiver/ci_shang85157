@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1877771576999068029",
+    "created_at": "2025-01-10T23:35:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-11T00:35:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1877861771136151888"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1831961897899585536",
+          "start": 0,
+          "username": "lemon_boochi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1877861771136151888",
+    "in_reply_to_user_id": "1831961897899585536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1877771576999068029",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lemon_boochi 😅，哔站弹幕现在已经看不了了，全是挠餐"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1877771576999068029].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1877771576999068029",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1877771576999068029"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1877771576999068029",
+        "created_at": "2025-01-10T23:35:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-11T00:35:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1877861771136151888"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1831961897899585536",
+              "start": 0,
+              "username": "lemon_boochi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877861771136151888",
+        "in_reply_to_user_id": "1831961897899585536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1877771576999068029",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lemon_boochi 😅，哔站弹幕现在已经看不了了，全是挠餐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲",
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844188914451365901/gNnOT4GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 215,
+          "like_count": 2031,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 905
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-06T07:45:44.000Z",
+        "description": "互fo请私信👆🏻✉️回复不及请见谅/御主人様@KRKRDKDK2024杂鱼@karasu1stgen小屁孩@baizhou_kawaii 曼波😹我们在任丘裕华西路种子站旁边把子肉板面店，欢迎大家打卡，感谢支持🙏🏻",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 22,
+                "username": "KRKRDKDK2024"
+              },
+              {
+                "end": 50,
+                "start": 37,
+                "username": "karasu1stgen"
+              },
+              {
+                "end": 68,
+                "start": 53,
+                "username": "baizhou_kawaii"
+              }
+            ]
+          }
+        },
+        "id": "1831961897899585536",
+        "name": "西风凉",
+        "pinned_tweet_id": "1875230304342024683",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877711248823033856/tX5fO5aV_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 639,
+          "following_count": 761,
+          "like_count": 40121,
+          "listed_count": 2,
+          "media_count": 834,
+          "tweet_count": 7068
+        },
+        "username": "lemon_boochi",
+        "verified": false
+      }
+    ]
+  }
+}

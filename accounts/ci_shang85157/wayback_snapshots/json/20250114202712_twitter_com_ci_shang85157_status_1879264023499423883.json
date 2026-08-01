@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1876299891422761147",
+    "created_at": "2025-01-14T20:27:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-14T21:27:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1879264023499423883"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1541257518156218368",
+          "start": 0,
+          "username": "U4PSSBmeoADv1hp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1879264023499423883",
+    "in_reply_to_user_id": "1541257518156218368",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876299891422761147",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@U4PSSBmeoADv1hp 可爱捏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1876299891422761147",
+        "created_at": "2025-01-14T20:27:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-14T21:27:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1879264023499423883"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1541257518156218368",
+              "start": 0,
+              "username": "U4PSSBmeoADv1hp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879264023499423883",
+        "in_reply_to_user_id": "1541257518156218368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876299891422761147",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@U4PSSBmeoADv1hp 可爱捏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1876299888209911808"
+          ]
+        },
+        "author_id": "1541257518156218368",
+        "conversation_id": "1876299891422761147",
+        "created_at": "2025-01-06T16:08:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-06T17:08:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1876299891422761147"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IRFvsbq4E4",
+              "end": 31,
+              "expanded_url": "https://x.com/U4PSSBmeoADv1hp/status/1876299891422761147/photo/1",
+              "media_key": "3_1876299888209911808",
+              "start": 8,
+              "url": "https://t.co/IRFvsbq4E4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876299891422761147",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 638,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "求锐评不玻璃心 https://t.co/IRFvsbq4E4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲",
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844188914451365901/gNnOT4GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 222,
+          "like_count": 2173,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 975
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-27T03:10:23.000Z",
+        "description": "cn小曦 一个很普通的人，很善解人意喜欢沟通，很欢迎来找我聊天!我会暖死你的😎互fo嘞，几乎全天都在线",
+        "id": "1541257518156218368",
+        "location": "四川",
+        "name": "TAMIA",
+        "pinned_tweet_id": "1876299891422761147",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877388642920050688/ROKChI52_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 57,
+          "like_count": 538,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 273
+        },
+        "username": "U4PSSBmeoADv1hp",
+        "verified": false
+      }
+    ]
+  }
+}
