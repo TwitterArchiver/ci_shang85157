@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1908908896028352563",
+    "created_at": "2025-04-06T21:29:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-06T22:29:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908995418803032261"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1589203507852152832",
+          "start": 0,
+          "username": "JianLv117"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908995418803032261",
+    "in_reply_to_user_id": "1589203507852152832",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908908896028352563",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JianLv117 首先排除a"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 954,
+        "media_key": "3_1908908893734146048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gn3OhmebkAAmMcO.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1908908896028352563",
+        "created_at": "2025-04-06T21:29:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T22:29:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908995418803032261"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1589203507852152832",
+              "start": 0,
+              "username": "JianLv117"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908995418803032261",
+        "in_reply_to_user_id": "1589203507852152832",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908908896028352563",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JianLv117 首先排除a"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1908908893734146048"
+          ]
+        },
+        "author_id": "1589203507852152832",
+        "conversation_id": "1908908896028352563",
+        "created_at": "2025-04-06T15:45:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T16:45:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908908896028352563"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/36QYgie1q8",
+              "end": 29,
+              "expanded_url": "https://x.com/JianLv117/status/1908908896028352563/photo/1",
+              "media_key": "3_1908908893734146048",
+              "start": 6,
+              "url": "https://t.co/36QYgie1q8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908908896028352563",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1971,
+          "like_count": 51,
+          "quote_count": 2,
+          "reply_count": 22,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "该选什么？ https://t.co/36QYgie1q8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 348,
+          "following_count": 350,
+          "like_count": 5012,
+          "listed_count": 1,
+          "media_count": 89,
+          "tweet_count": 2278
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-06T10:30:25.000Z",
+        "description": "一个奇怪的人，人物志评分创始人 INTJ\n二次元 热爱与大家讨论交流 爱评论点赞❤️\n华北人\n可互关(需私信)\n逃生舱：@lyngxu3  \n搭档：@KawawaDiana8964\n朋友: @HANABIRIKAJIANG\n伙伴：@RealColidora3",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "lyngxu3"
+              },
+              {
+                "end": 90,
+                "start": 74,
+                "username": "KawawaDiana8964"
+              },
+              {
+                "end": 111,
+                "start": 95,
+                "username": "HANABIRIKAJIANG"
+              },
+              {
+                "end": 129,
+                "start": 115,
+                "username": "RealColidora3"
+              }
+            ]
+          }
+        },
+        "id": "1589203507852152832",
+        "location": "新西兰（回复1和转推多为广告❛˓◞˂̵✧）",
+        "name": "简律",
+        "pinned_tweet_id": "1908435423443247326",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873689474133274624/7nI7UtsB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15108,
+          "following_count": 916,
+          "like_count": 56863,
+          "listed_count": 59,
+          "media_count": 2763,
+          "tweet_count": 6923
+        },
+        "username": "JianLv117",
+        "verified": true
+      }
+    ]
+  }
+}

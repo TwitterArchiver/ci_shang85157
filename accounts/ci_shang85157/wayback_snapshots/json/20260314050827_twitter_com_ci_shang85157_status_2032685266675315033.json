@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "2032451011453886632",
+    "created_at": "2026-03-14T05:08:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T06:08:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032685266675315033"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1997578809844047873",
+          "start": 0,
+          "username": "sun_tian66206"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032685266675315033",
+    "in_reply_to_user_id": "1997578809844047873",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032451011453886632",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sun_tian66206 神了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "2032451011453886632",
+        "created_at": "2026-03-14T05:08:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T06:08:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032685266675315033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1997578809844047873",
+              "start": 0,
+              "username": "sun_tian66206"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032685266675315033",
+        "in_reply_to_user_id": "1997578809844047873",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032451011453886632",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sun_tian66206 神了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997578809844047873",
+        "conversation_id": "2032451011453886632",
+        "created_at": "2026-03-13T13:37:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T14:37:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032451011453886632"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032451011453886632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 17868,
+          "like_count": 238,
+          "quote_count": 2,
+          "reply_count": 40,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "我同学在我的影响下都知道了八九六四😂😂😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧 https://t.co/ILEWFdOQz0。 ngl匿名问答 想交朋友或者互fo尽管私信我 每个人都会回",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%8950122",
+                "end": 45,
+                "expanded_url": "https://ngl.link/%E6%B3%8950122",
+                "start": 22,
+                "url": "https://t.co/ILEWFdOQz0"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "永雏泉",
+        "pinned_tweet_id": "2019557886406578564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978274114138996736/r_khhgIT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1095,
+          "following_count": 707,
+          "like_count": 22119,
+          "listed_count": 2,
+          "media_count": 246,
+          "tweet_count": 8069
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-07T08:08:15.000Z",
+        "description": "中国普通学生（互关私信）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "114514.com",
+                "end": 23,
+                "expanded_url": "http://www.114514.com",
+                "start": 0,
+                "url": "https://t.co/XKF2L8eMdC"
+              }
+            ]
+          }
+        },
+        "id": "1997578809844047873",
+        "location": "近平帝国",
+        "name": "涛声依旧",
+        "pinned_tweet_id": "2024084172629848322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998765491083685896/t9NHAGgJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 660,
+          "following_count": 444,
+          "like_count": 5260,
+          "listed_count": 1,
+          "media_count": 202,
+          "tweet_count": 742
+        },
+        "url": "https://t.co/XKF2L8eMdC",
+        "username": "sun_tian66206",
+        "verified": false
+      }
+    ]
+  }
+}

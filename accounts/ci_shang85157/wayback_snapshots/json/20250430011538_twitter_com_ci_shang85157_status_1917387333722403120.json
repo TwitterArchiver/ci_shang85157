@@ -1,0 +1,780 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1916335944472682496"
+      ],
+      "media_source_tweet_id": [
+        "1916336024172810268"
+      ]
+    },
+    "author_id": "1826281483675299840",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303989823011606528",
+          "name": "Tech events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10024011738",
+          "name": "Apple - iPhone"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile",
+          "id": "848985956778561538",
+          "name": "Mobile"
+        }
+      }
+    ],
+    "conversation_id": "1917387333722403120",
+    "created_at": "2025-04-30T01:15:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-30T02:15:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917387333722403120"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 19,
+          "normalized_text": "ちーーーーーん",
+          "probability": 0.4729,
+          "start": 13,
+          "type": "Person"
+        },
+        {
+          "end": 44,
+          "normalized_text": "iPhoneシネマティック",
+          "probability": 0.2711,
+          "start": 32,
+          "type": "Product"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 72,
+          "start": 60,
+          "tag": "ニコニコ超会議2025"
+        },
+        {
+          "end": 89,
+          "start": 73,
+          "tag": "ニコニコ超会議2025コスプレ"
+        },
+        {
+          "end": 104,
+          "start": 90,
+          "tag": "ダウナーお姉さんは遊びたい"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1581537283207237633",
+          "start": 3,
+          "username": "ICO_999"
+        },
+        {
+          "end": 57,
+          "id": "1553739387737100288",
+          "start": 46,
+          "username": "mocha_mcmc"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2qFmlx1m6y",
+          "end": 128,
+          "expanded_url": "https://x.com/ICO_999/status/1916336024172810268/video/1",
+          "media_key": "13_1916335944472682496",
+          "start": 105,
+          "url": "https://t.co/2qFmlx1m6y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917387333722403120",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 769
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916336024172810268",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ICO_999: ちーーーーーん。の撮影風景オフショ\n\niPhoneシネマティック🎥@mocha_mcmc \n\n#ニコニコ超会議2025 #ニコニコ超会議2025コスプレ #ダウナーお姉さんは遊びたい https://t.co/2qFmlx1m6y"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13600,
+        "height": 1440,
+        "media_key": "13_1916335944472682496",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1916335944472682496/img/sUNDS3-5WSnEYoGi.jpg",
+        "public_metrics": {
+          "view_count": 96874
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1916335944472682496/vid/avc1/1080x1440/IzTluPH0C9zob1d8.mp4?tag=16"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1916335944472682496/vid/avc1/320x426/UsUY-yUYcJymlhiw.mp4?tag=16"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1916335944472682496/vid/avc1/480x640/qyoUFCBJOL8swutz.mp4?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1916335944472682496/vid/avc1/720x960/UAvwHFuU9tsRQF8F.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1916335944472682496/pl/KR1L7J-kOJ4m3SIs.m3u8?tag=16&v=cfc"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1916335944472682496"
+          ],
+          "media_source_tweet_id": [
+            "1916336024172810268"
+          ]
+        },
+        "author_id": "1826281483675299840",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10024011738",
+              "name": "Apple - iPhone"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "1917387333722403120",
+        "created_at": "2025-04-30T01:15:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-30T02:15:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917387333722403120"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 19,
+              "normalized_text": "ちーーーーーん",
+              "probability": 0.4729,
+              "start": 13,
+              "type": "Person"
+            },
+            {
+              "end": 44,
+              "normalized_text": "iPhoneシネマティック",
+              "probability": 0.2711,
+              "start": 32,
+              "type": "Product"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 72,
+              "start": 60,
+              "tag": "ニコニコ超会議2025"
+            },
+            {
+              "end": 89,
+              "start": 73,
+              "tag": "ニコニコ超会議2025コスプレ"
+            },
+            {
+              "end": 104,
+              "start": 90,
+              "tag": "ダウナーお姉さんは遊びたい"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1581537283207237633",
+              "start": 3,
+              "username": "ICO_999"
+            },
+            {
+              "end": 57,
+              "id": "1553739387737100288",
+              "start": 46,
+              "username": "mocha_mcmc"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2qFmlx1m6y",
+              "end": 128,
+              "expanded_url": "https://x.com/ICO_999/status/1916336024172810268/video/1",
+              "media_key": "13_1916335944472682496",
+              "start": 105,
+              "url": "https://t.co/2qFmlx1m6y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917387333722403120",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 769
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916336024172810268",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ICO_999: ちーーーーーん。の撮影風景オフショ\n\niPhoneシネマティック🎥@mocha_mcmc \n\n#ニコニコ超会議2025 #ニコニコ超会議2025コスプレ #ダウナーお姉さんは遊びたい https://t.co/2qFmlx1m6y"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1916335944472682496"
+          ]
+        },
+        "author_id": "1581537283207237633",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10024011738",
+              "name": "Apple - iPhone"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "1916336024172810268",
+        "created_at": "2025-04-27T03:38:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T04:38:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916336024172810268"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 6,
+              "normalized_text": "ちーーーーーん",
+              "probability": 0.5422,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 59,
+              "start": 47,
+              "tag": "ニコニコ超会議2025"
+            },
+            {
+              "end": 76,
+              "start": 60,
+              "tag": "ニコニコ超会議2025コスプレ"
+            },
+            {
+              "end": 91,
+              "start": 77,
+              "tag": "ダウナーお姉さんは遊びたい"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 44,
+              "id": "1553739387737100288",
+              "start": 33,
+              "username": "mocha_mcmc"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2qFmlx1m6y",
+              "end": 115,
+              "expanded_url": "https://x.com/ICO_999/status/1916336024172810268/video/1",
+              "media_key": "13_1916335944472682496",
+              "start": 92,
+              "url": "https://t.co/2qFmlx1m6y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916336024172810268",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3425,
+          "impression_count": 158971,
+          "like_count": 15700,
+          "quote_count": 15,
+          "reply_count": 25,
+          "retweet_count": 769
+        },
+        "reply_settings": "everyone",
+        "text": "ちーーーーーん。の撮影風景オフショ\n\niPhoneシネマティック🎥@mocha_mcmc \n\n#ニコニコ超会議2025 #ニコニコ超会議2025コスプレ #ダウナーお姉さんは遊びたい https://t.co/2qFmlx1m6y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 429,
+          "following_count": 410,
+          "like_count": 7535,
+          "listed_count": 1,
+          "media_count": 134,
+          "tweet_count": 3244
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-16T06:47:37.000Z",
+        "description": "イコ… 無言フォロー歓迎/「コスプレでそこまでやるか！？」シリーズが好評中/ 仕事、撮影依頼以外のDM返信できません/無許可掲載✖︎ ファンネ＆ファンマ→イコぴよ🐣⚡️/Fantia→https://t.co/Dqx8Dp5TPW BOOTH→ https://t.co/kQJeTvoJ1U",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "fantia.jp/ICO_999",
+                "end": 115,
+                "expanded_url": "https://fantia.jp/ICO_999",
+                "start": 92,
+                "url": "https://t.co/Dqx8Dp5TPW"
+              },
+              {
+                "display_url": "maison-icopiyo.booth.pm",
+                "end": 146,
+                "expanded_url": "https://maison-icopiyo.booth.pm/",
+                "start": 123,
+                "url": "https://t.co/kQJeTvoJ1U"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@ico_999",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@ico_999",
+                "start": 0,
+                "url": "https://t.co/MMILEHYQC8"
+              }
+            ]
+          }
+        },
+        "id": "1581537283207237633",
+        "location": "都内",
+        "name": "ICO🐣⚡️@4/26 超会議、5/25 ReFROGオフ会",
+        "pinned_tweet_id": "1916336024172810268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879047412368699392/9yHLP25k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22372,
+          "following_count": 457,
+          "like_count": 53068,
+          "listed_count": 110,
+          "media_count": 2671,
+          "tweet_count": 45184
+        },
+        "url": "https://t.co/MMILEHYQC8",
+        "username": "ICO_999",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-31T13:48:47.000Z",
+        "description": "もちゃといいます💓コスプレ/Fate/リコリコ/ジョジョ/七つの大罪/ゲーム🎮(ポケモン、ドラクエ、モンハン)いろんなものが好きな雑多な垢です🥰最近はリコリコ沼です‼︎お写真以外のDMは基本お返しし兼ねます😭撮影していただいたお写真はDMにてくださると嬉しいです🙌🏻投稿の際は一声ください！",
+        "id": "1553739387737100288",
+        "name": "もちゃ",
+        "pinned_tweet_id": "1915024240946065582",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915053469582675968/bTt1x1u4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11555,
+          "following_count": 488,
+          "like_count": 15847,
+          "listed_count": 77,
+          "media_count": 531,
+          "tweet_count": 10198
+        },
+        "username": "mocha_mcmc",
+        "verified": true
+      }
+    ]
+  }
+}

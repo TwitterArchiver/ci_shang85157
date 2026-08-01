@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1968708763449278510",
+    "created_at": "2025-09-18T16:27:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-18T17:27:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968713487879716867"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1165569045292142593",
+          "start": 0,
+          "username": "m1H2RN7Hn2qPywK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968713487879716867",
+    "in_reply_to_user_id": "1165569045292142593",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968713007313142178",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@m1H2RN7Hn2qPywK 是的是的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1968708763449278510",
+        "created_at": "2025-09-18T16:27:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T17:27:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968713487879716867"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1165569045292142593",
+              "start": 0,
+              "username": "m1H2RN7Hn2qPywK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968713487879716867",
+        "in_reply_to_user_id": "1165569045292142593",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968713007313142178",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@m1H2RN7Hn2qPywK 是的是的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165569045292142593",
+        "conversation_id": "1968708763449278510",
+        "created_at": "2025-09-18T16:25:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T17:25:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968713007313142178"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1826281483675299840",
+              "start": 0,
+              "username": "ci_shang85157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968713007313142178",
+        "in_reply_to_user_id": "1826281483675299840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968711573892972619",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ci_shang85157 真的捏。mbti也不是说刻板印象，我周围朋友都测过，基本上分析下来，你会发现其实蛮准的。主要是体现在性格上。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧   小男友@pertx114514\n星努@wuyan_sleeeepy还有穹璃\n互fo可以私信我交朋友什么的 反正我还挺闲 然后就是没有然后了 一切都是最好的安排",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 27,
+                "username": "pertx114514"
+              },
+              {
+                "end": 57,
+                "start": 42,
+                "username": "wuyan_sleeeepy"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉方",
+        "pinned_tweet_id": "1932824152811188484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 792,
+          "following_count": 625,
+          "like_count": 15198,
+          "listed_count": 3,
+          "media_count": 183,
+          "tweet_count": 6036
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-25T10:18:25.000Z",
+        "description": "",
+        "id": "1165569045292142593",
+        "name": "blyy",
+        "pinned_tweet_id": "1943909991330853296",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959944884833624064/SzmUE3LR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 40,
+          "like_count": 519,
+          "listed_count": 1,
+          "media_count": 169,
+          "tweet_count": 827
+        },
+        "username": "m1H2RN7Hn2qPywK",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1959965185025937776",
+    "created_at": "2025-08-25T13:11:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-25T14:11:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959966898214604943"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1705262200036925440",
+          "start": 0,
+          "username": "xinjie87288"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959966898214604943",
+    "in_reply_to_user_id": "1705262200036925440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959965185025937776",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xinjie87288 太好玩了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1959965130873266176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzMx5vXaYAA6iuy.jpg",
+        "width": 1553
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1959965146224504832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzMx6ojbsAA6T2-.jpg",
+        "width": 1553
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1959965167699316736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzMx74jbUAA6jrL.jpg",
+        "width": 1553
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1959965185025937776",
+        "created_at": "2025-08-25T13:11:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T14:11:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959966898214604943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1705262200036925440",
+              "start": 0,
+              "username": "xinjie87288"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959966898214604943",
+        "in_reply_to_user_id": "1705262200036925440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959965185025937776",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinjie87288 太好玩了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1959965130873266176",
+            "3_1959965146224504832",
+            "3_1959965167699316736"
+          ]
+        },
+        "author_id": "1705262200036925440",
+        "conversation_id": "1959965185025937776",
+        "created_at": "2025-08-25T13:04:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T14:04:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959965185025937776"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LaA9mUMnr3",
+              "end": 40,
+              "expanded_url": "https://x.com/xinjie87288/status/1959965185025937776/photo/1",
+              "media_key": "3_1959965130873266176",
+              "start": 17,
+              "url": "https://t.co/LaA9mUMnr3"
+            },
+            {
+              "display_url": "pic.x.com/LaA9mUMnr3",
+              "end": 40,
+              "expanded_url": "https://x.com/xinjie87288/status/1959965185025937776/photo/1",
+              "media_key": "3_1959965146224504832",
+              "start": 17,
+              "url": "https://t.co/LaA9mUMnr3"
+            },
+            {
+              "display_url": "pic.x.com/LaA9mUMnr3",
+              "end": 40,
+              "expanded_url": "https://x.com/xinjie87288/status/1959965185025937776/photo/1",
+              "media_key": "3_1959965167699316736",
+              "start": 17,
+              "url": "https://t.co/LaA9mUMnr3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959965185025937776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "察尔汗盐湖和水上雅丹，超级漂亮😘 https://t.co/LaA9mUMnr3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像失去了一条时间线，算了，我们从来吧",
+        "id": "1826281483675299840",
+        "name": "泉方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 720,
+          "following_count": 573,
+          "like_count": 13325,
+          "listed_count": 3,
+          "media_count": 161,
+          "tweet_count": 5413
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-22T16:46:18.000Z",
+        "description": "现在大二，无证含糖，要当小药娘了25年3月9号开始吃的色，20号开始吃的补记录一下身体的变化，不定期上线",
+        "id": "1705262200036925440",
+        "name": "心劫🏳‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864526109850914822/92ZGss9i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 738,
+          "like_count": 195,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 201
+        },
+        "username": "xinjie87288",
+        "verified": false
+      }
+    ]
+  }
+}

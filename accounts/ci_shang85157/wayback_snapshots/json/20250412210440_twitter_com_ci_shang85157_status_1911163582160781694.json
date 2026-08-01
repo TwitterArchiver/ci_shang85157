@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1911042592986521923",
+    "created_at": "2025-04-12T21:04:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-12T22:04:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1911163582160781694"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1247769753097101318",
+          "start": 0,
+          "username": "X09COTCC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1911163582160781694",
+    "in_reply_to_user_id": "1247769753097101318",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1911042592986521923",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@X09COTCC 我一直哭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1911042592986521923",
+        "created_at": "2025-04-12T21:04:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-12T22:04:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911163582160781694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1247769753097101318",
+              "start": 0,
+              "username": "X09COTCC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911163582160781694",
+        "in_reply_to_user_id": "1247769753097101318",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911042592986521923",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@X09COTCC 我一直哭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1247769753097101318",
+        "conversation_id": "1911042592986521923",
+        "created_at": "2025-04-12T13:03:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-12T14:03:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911042592986521923"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1911042592986521923",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5595,
+          "like_count": 104,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "0.5的txl最可怕，他会勾引你老公，同时操掉你最好的姐妹，让你孤立无援。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 363,
+          "following_count": 356,
+          "like_count": 5294,
+          "listed_count": 1,
+          "media_count": 91,
+          "tweet_count": 2435
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-08T06:15:29.000Z",
+        "description": "No sé si lo volveré a ver, vaya con Dios. @Queviveent1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 42,
+                "username": "Queviveent1"
+              }
+            ]
+          }
+        },
+        "id": "1247769753097101318",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "太阳瓜",
+        "pinned_tweet_id": "1910350017187221603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907763452908810242/1ugrDtjf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5734,
+          "following_count": 1607,
+          "like_count": 133465,
+          "listed_count": 14,
+          "media_count": 1081,
+          "tweet_count": 37332
+        },
+        "username": "X09COTCC",
+        "verified": false
+      }
+    ]
+  }
+}

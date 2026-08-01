@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1951660835840864292",
+    "created_at": "2025-08-18T04:19:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-18T05:19:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957296223930786138"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1489584031402504195",
+          "start": 0,
+          "username": "xxxtentaxoo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957296223930786138",
+    "in_reply_to_user_id": "1489584031402504195",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951660835840864292",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxxtentaxoo 其实无所谓了，没人陪自己在寝室玩玩，出门喝点东西也蛮好的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1951660835840864292",
+        "created_at": "2025-08-18T04:19:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T05:19:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957296223930786138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1489584031402504195",
+              "start": 0,
+              "username": "xxxtentaxoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957296223930786138",
+        "in_reply_to_user_id": "1489584031402504195",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951660835840864292",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxxtentaxoo 其实无所谓了，没人陪自己在寝室玩玩，出门喝点东西也蛮好的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1489584031402504195",
+        "conversation_id": "1951660835840864292",
+        "created_at": "2025-08-02T15:06:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T16:06:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951660835840864292"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1951660835840864292",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 104,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想出去旅游啊 可惜没人陪我 自己去也太孤独了 最重要是没人给我拍照"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像失去了一条时间线，算了，我们从来吧",
+        "id": "1826281483675299840",
+        "name": "泉方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 698,
+          "following_count": 547,
+          "like_count": 12821,
+          "listed_count": 2,
+          "media_count": 160,
+          "tweet_count": 5244
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-04T12:58:11.000Z",
+        "description": "废话×碎碎念",
+        "id": "1489584031402504195",
+        "location": "你的心里",
+        "name": "一条魚",
+        "pinned_tweet_id": "1708411745059115469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1545396097597579264/poeOpbT2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275,
+          "following_count": 144,
+          "like_count": 1592,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 660
+        },
+        "username": "xxxtentaxoo",
+        "verified": false
+      }
+    ]
+  }
+}

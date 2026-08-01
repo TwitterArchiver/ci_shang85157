@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "2055858383303971135",
+    "created_at": "2026-05-17T04:25:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T05:25:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055867284422541745"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1821153303834873856",
+          "start": 0,
+          "username": "konato_11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055867284422541745",
+    "in_reply_to_user_id": "1821153303834873856",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055858383303971135",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@konato_11 🉑"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1296,
+        "media_key": "3_2055858357496418305",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIfgSKMXkAE0RfC.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "2055858383303971135",
+        "created_at": "2026-05-17T04:25:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T05:25:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055867284422541745"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1821153303834873856",
+              "start": 0,
+              "username": "konato_11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055867284422541745",
+        "in_reply_to_user_id": "1821153303834873856",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055858383303971135",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@konato_11 🉑"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055858357496418305"
+          ]
+        },
+        "author_id": "1821153303834873856",
+        "conversation_id": "2055858383303971135",
+        "created_at": "2026-05-17T03:50:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T04:50:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055858383303971135"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hBHMElyCsk",
+              "end": 50,
+              "expanded_url": "https://x.com/konato_11/status/2055858383303971135/photo/1",
+              "media_key": "3_2055858357496418305",
+              "start": 27,
+              "url": "https://t.co/hBHMElyCsk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055858383303971135",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们去死啊满心欢喜以为有人和我玩呢没想到是一群大傻比 https://t.co/hBHMElyCsk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧 https://t.co/ILEWFdOQz0。 ngl匿名问答",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%8950122",
+                "end": 45,
+                "expanded_url": "https://ngl.link/%E6%B3%8950122",
+                "start": 22,
+                "url": "https://t.co/ILEWFdOQz0"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "永雏泉",
+        "pinned_tweet_id": "2034295067847147660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978274114138996736/r_khhgIT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1102,
+          "following_count": 731,
+          "like_count": 24332,
+          "listed_count": 2,
+          "media_count": 268,
+          "tweet_count": 8654
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-07T11:56:08.000Z",
+        "description": "日常",
+        "id": "1821153303834873856",
+        "name": "小会",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042678437090136064/uZ9PE1TZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 361,
+          "following_count": 69,
+          "like_count": 4126,
+          "listed_count": 1,
+          "media_count": 595,
+          "tweet_count": 3194
+        },
+        "username": "konato_11",
+        "verified": false
+      }
+    ]
+  }
+}

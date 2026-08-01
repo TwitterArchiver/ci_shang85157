@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1913918738639773880",
+    "created_at": "2025-04-20T20:00:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-20T21:00:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914046550986330487"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1675133488524328961",
+          "start": 0,
+          "username": "Kietter387803"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914046550986330487",
+    "in_reply_to_user_id": "1675133488524328961",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913918738639773880",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kietter387803 一直都能啊，只是说敢不敢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 802,
+        "media_key": "3_1913918724085837824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Go-a8G4a8AA6ybA.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1913918738639773880",
+        "created_at": "2025-04-20T20:00:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-20T21:00:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914046550986330487"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1675133488524328961",
+              "start": 0,
+              "username": "Kietter387803"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914046550986330487",
+        "in_reply_to_user_id": "1675133488524328961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913918738639773880",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kietter387803 一直都能啊，只是说敢不敢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1913918724085837824"
+          ]
+        },
+        "author_id": "1675133488524328961",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1913918738639773880",
+        "created_at": "2025-04-20T11:32:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-20T12:32:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913918738639773880"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jgwzbYQKDT",
+              "end": 28,
+              "expanded_url": "https://x.com/Kietter387803/status/1913918738639773880/photo/1",
+              "media_key": "3_1913918724085837824",
+              "start": 5,
+              "url": "https://t.co/jgwzbYQKDT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913918738639773880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2310,
+          "like_count": 59,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "？气笑了 https://t.co/jgwzbYQKDT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 367,
+          "like_count": 6058,
+          "listed_count": 1,
+          "media_count": 106,
+          "tweet_count": 2812
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-01T13:25:30.000Z",
+        "description": "很喜欢你们，如果能多多看我就更喜欢了。不可替代的@fuyumonya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 24,
+                "username": "fuyumonya"
+              }
+            ]
+          }
+        },
+        "id": "1675133488524328961",
+        "location": "日本104-0045 tokyo, chuo city",
+        "name": "kiehésitent",
+        "pinned_tweet_id": "1907347106945438057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892928085554827264/9Q1HEcUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6908,
+          "following_count": 1509,
+          "like_count": 24837,
+          "listed_count": 16,
+          "media_count": 2854,
+          "tweet_count": 19102
+        },
+        "username": "Kietter387803",
+        "verified": false
+      }
+    ]
+  }
+}

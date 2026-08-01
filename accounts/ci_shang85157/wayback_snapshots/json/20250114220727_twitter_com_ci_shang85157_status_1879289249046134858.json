@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1879120690135392525",
+    "created_at": "2025-01-14T22:07:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-14T23:07:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1879289249046134858"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "995325573323833344",
+          "start": 0,
+          "username": "HSG85777952"
+        },
+        {
+          "end": 21,
+          "id": "1433678976564662273",
+          "start": 13,
+          "username": "hsn8086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1879289249046134858",
+    "in_reply_to_user_id": "995325573323833344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1879288483405271061",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HSG85777952 @hsn8086 那也不错"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1879120690135392525",
+        "created_at": "2025-01-14T22:07:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-14T23:07:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1879289249046134858"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "995325573323833344",
+              "start": 0,
+              "username": "HSG85777952"
+            },
+            {
+              "end": 21,
+              "id": "1433678976564662273",
+              "start": 13,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879289249046134858",
+        "in_reply_to_user_id": "995325573323833344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879288483405271061",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HSG85777952 @hsn8086 那也不错"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "995325573323833344",
+        "conversation_id": "1879120690135392525",
+        "created_at": "2025-01-14T22:04:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-14T23:04:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1879288483405271061"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1826281483675299840",
+              "start": 0,
+              "username": "ci_shang85157"
+            },
+            {
+              "end": 23,
+              "id": "1433678976564662273",
+              "start": 15,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879288483405271061",
+        "in_reply_to_user_id": "1826281483675299840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879238647599558733",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ci_shang85157 @hsn8086 不多来一份炸鸡鸡吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲",
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844188914451365901/gNnOT4GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 222,
+          "like_count": 2182,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 984
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-12T15:31:23.000Z",
+        "description": "We are from Babel go to America. 我们从分离之地，前往团结之地。对于基督徒来说，在面对这个世界上的所有变量时，唯一不要忘记的常量，就是我爱耶稣，我主耶和华。无限大x33%=无限大 。 2 x 爱人=爱主。罪是因果，爱是扭曲，阴阳非善恶，生非平等，契约平等",
+        "id": "995325573323833344",
+        "name": "HSG",
+        "pinned_tweet_id": "1751723135676899806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1471930949281595392/jsmv-_31_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 142,
+          "like_count": 3919,
+          "listed_count": 1,
+          "media_count": 245,
+          "tweet_count": 14044
+        },
+        "username": "HSG85777952",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 避难所: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1875403771435700438",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1707161507161944064/DD0pRpE6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29712,
+          "following_count": 902,
+          "like_count": 36306,
+          "listed_count": 85,
+          "media_count": 5019,
+          "tweet_count": 9816
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

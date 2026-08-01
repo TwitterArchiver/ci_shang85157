@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1976660017224073704",
+    "created_at": "2025-10-10T18:09:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T19:09:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976711780081844273"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1493116248137383938",
+          "start": 0,
+          "username": "FE68359693"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976711780081844273",
+    "in_reply_to_user_id": "1493116248137383938",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976660017224073704",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FE68359693 你早说你这么帅啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6265,
+        "height": 1280,
+        "media_key": "7_1976659964212252672",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1976659964212252672/pu/img/CRyWicbyJeEBn9KU.jpg",
+        "public_metrics": {
+          "view_count": 5
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1976659964212252672/pu/vid/avc1/320x568/B8pR59moU-ccrQ9O.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1976659964212252672/pu/vid/avc1/480x852/VNsKiXeAJrzJ5VaL.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1976659964212252672/pu/vid/avc1/720x1280/uCRHS4oow62K4P-p.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1976659964212252672/pu/pl/IntjeT_iV2HDWZb7.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1976660017224073704",
+        "created_at": "2025-10-10T18:09:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T19:09:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976711780081844273"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1493116248137383938",
+              "start": 0,
+              "username": "FE68359693"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976711780081844273",
+        "in_reply_to_user_id": "1493116248137383938",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976660017224073704",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FE68359693 你早说你这么帅啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1976659964212252672"
+          ]
+        },
+        "author_id": "1493116248137383938",
+        "conversation_id": "1976660017224073704",
+        "created_at": "2025-10-10T14:44:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T15:44:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976660017224073704"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NgGYZvzlzB",
+              "end": 63,
+              "expanded_url": "https://x.com/FE68359693/status/1976660017224073704/video/1",
+              "media_key": "7_1976659964212252672",
+              "start": 40,
+              "url": "https://t.co/NgGYZvzlzB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976660017224073704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "天天下雨，天天下雨，老天爷你淋亖我吧。天天又饿又困又冷，冻死我了现在还没吃上饭 https://t.co/NgGYZvzlzB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧 小男友@pertx114514  结义兄弟@wuyan_sleeeepy还有穹璃 互fo可以私信我交朋友什么的 反正我还挺闲 然后就是没有然后了 一切都是最好的安排https://t.co/ILEWFdOQz0。 ngl匿名问答",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "pertx114514"
+              },
+              {
+                "end": 58,
+                "start": 43,
+                "username": "wuyan_sleeeepy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%8950122",
+                "end": 127,
+                "expanded_url": "https://ngl.link/%E6%B3%8950122",
+                "start": 104,
+                "url": "https://t.co/ILEWFdOQz0"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉",
+        "pinned_tweet_id": "1970427616353296660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 817,
+          "following_count": 660,
+          "like_count": 16794,
+          "listed_count": 2,
+          "media_count": 197,
+          "tweet_count": 6521
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-14T06:53:54.000Z",
+        "description": "希望我们都幸福，每种情绪都能被重视。",
+        "id": "1493116248137383938",
+        "location": "梦想中的世界",
+        "name": "野风",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850897959883546624/l5XGbf1F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 99,
+          "like_count": 31682,
+          "listed_count": 2,
+          "media_count": 453,
+          "tweet_count": 2687
+        },
+        "username": "FE68359693",
+        "verified": false
+      }
+    ]
+  }
+}

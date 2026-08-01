@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1840827513393811857",
+    "created_at": "2024-10-01T21:50:43.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-01T22:50:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1841234312680612081"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1747138924450029568",
+          "start": 0,
+          "username": "od_wiki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1841234312680612081",
+    "in_reply_to_user_id": "1747138924450029568",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1840827513393811857",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@od_wiki 就看就看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1840827513393811857",
+        "created_at": "2024-10-01T21:50:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-01T22:50:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1841234312680612081"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1747138924450029568",
+              "start": 0,
+              "username": "od_wiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841234312680612081",
+        "in_reply_to_user_id": "1747138924450029568",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1840827513393811857",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@od_wiki 就看就看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1747138924450029568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1840827513393811857",
+        "created_at": "2024-09-30T18:54:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-30T19:54:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1840827513393811857"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1840827513393811857",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 115867,
+          "like_count": 749,
+          "quote_count": 12,
+          "reply_count": 243,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "作为一个三年的twitter体验用户来讲，经我常年累积的观察，玩这个软件有95%的用户都是用来看黄片，特别是在中国极为严重，这类人甚至没有社交，现实中卑微懦弱，胆小"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "",
+        "id": "1826281483675299840",
+        "name": "伤心慈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826328643179802624/ScytKW-C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 143,
+          "like_count": 389,
+          "listed_count": 0,
+          "tweet_count": 21
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-16T06:09:23.000Z",
+        "description": "个人Galgame站：https://t.co/OXiOIO9QLM\n个人博客：https://t.co/jzBbyyNnJF\n赌狗俱乐部：https://t.co/VGq4FK04Cv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "58game.xyz",
+                "end": 34,
+                "expanded_url": "https://58game.xyz/",
+                "start": 11,
+                "url": "https://t.co/OXiOIO9QLM"
+              },
+              {
+                "display_url": "hiv.icu",
+                "end": 63,
+                "expanded_url": "https://hiv.icu/",
+                "start": 40,
+                "url": "https://t.co/jzBbyyNnJF"
+              },
+              {
+                "display_url": "t.me/dugoujulebu",
+                "end": 93,
+                "expanded_url": "https://t.me/dugoujulebu",
+                "start": 70,
+                "url": "https://t.co/VGq4FK04Cv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "https://www.od-wiki.com/",
+                "start": 0,
+                "url": "https://t.co/YHP0zrJSxF"
+              }
+            ]
+          }
+        },
+        "id": "1747138924450029568",
+        "location": "東京 港区",
+        "name": "胖猫🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1836034369275773338",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821511007279206400/sD9YYCcq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13627,
+          "following_count": 5933,
+          "like_count": 5589,
+          "listed_count": 11,
+          "tweet_count": 4308
+        },
+        "url": "https://t.co/YHP0zrJSxF",
+        "username": "od_wiki",
+        "verified": false
+      }
+    ]
+  }
+}

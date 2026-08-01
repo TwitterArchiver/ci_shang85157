@@ -1,0 +1,561 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+          "id": "1557697378571808768",
+          "name": "Textile, Apparel & Luxury Good Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "Neon Genesis Evangelion (新世紀エヴァンゲリオン)",
+          "id": "1010244637770985472",
+          "name": "Neon Genesis Evangelion"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Neon Genesis Evangelion (新世紀エヴァンゲリオン)",
+          "id": "1010244637770985472",
+          "name": "Neon Genesis Evangelion"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      }
+    ],
+    "conversation_id": "1936518287783026744",
+    "created_at": "2025-06-21T20:15:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-21T21:15:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1936518287783026744"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/QOOZA_JP/statu…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/QOOZA_JP/status/1895840329603162616",
+          "start": 6,
+          "url": "https://t.co/5O5e7bLdr9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936518287783026744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895840329603162616",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我想买这个 https://t.co/5O5e7bLdr9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1895839894573887488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gk9gVusXMAAQpnm.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+              "id": "1557697378571808768",
+              "name": "Textile, Apparel & Luxury Good Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "Neon Genesis Evangelion (新世紀エヴァンゲリオン)",
+              "id": "1010244637770985472",
+              "name": "Neon Genesis Evangelion"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Neon Genesis Evangelion (新世紀エヴァンゲリオン)",
+              "id": "1010244637770985472",
+              "name": "Neon Genesis Evangelion"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1936518287783026744",
+        "created_at": "2025-06-21T20:15:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T21:15:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936518287783026744"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/QOOZA_JP/statu…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/QOOZA_JP/status/1895840329603162616",
+              "start": 6,
+              "url": "https://t.co/5O5e7bLdr9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936518287783026744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895840329603162616",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我想买这个 https://t.co/5O5e7bLdr9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1895839894573887488"
+          ]
+        },
+        "author_id": "2516810545",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+              "id": "1557697378571808768",
+              "name": "Textile, Apparel & Luxury Good Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "Neon Genesis Evangelion (新世紀エヴァンゲリオン)",
+              "id": "1010244637770985472",
+              "name": "Neon Genesis Evangelion"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Neon Genesis Evangelion (新世紀エヴァンゲリオン)",
+              "id": "1010244637770985472",
+              "name": "Neon Genesis Evangelion"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1895840329603162616",
+        "created_at": "2025-03-01T14:15:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-01T15:15:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1895840329603162616"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 22,
+              "normalized_text": "EVANGELION x NEW ROCK",
+              "probability": 0.488,
+              "start": 2,
+              "type": "Organization"
+            },
+            {
+              "end": 36,
+              "normalized_text": "エヴァンゲリオン",
+              "probability": 0.5565,
+              "start": 29,
+              "type": "Other"
+            },
+            {
+              "end": 74,
+              "normalized_text": "NEW ROCK",
+              "probability": 0.5771,
+              "start": 67,
+              "type": "Other"
+            },
+            {
+              "end": 86,
+              "normalized_text": "EVANGELION",
+              "probability": 0.462,
+              "start": 77,
+              "type": "Organization"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 147,
+              "start": 136,
+              "tag": "EVANGELION"
+            },
+            {
+              "end": 157,
+              "start": 148,
+              "tag": "エヴァンゲリオン"
+            },
+            {
+              "end": 167,
+              "start": 160,
+              "tag": "エヴァコラボ"
+            }
+          ],
+          "urls": [
+            {
+              "description": "EVANGELIONの商品一覧ページです。",
+              "display_url": "qooza.jp/products/list?…",
+              "end": 134,
+              "expanded_url": "https://qooza.jp/products/list?category_id=1007",
+              "images": [
+                {
+                  "height": 1200,
+                  "url": "https://pbs.twimg.com/news_img/1934912180098617345/Z7daKGLr?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1934912180098617345/Z7daKGLr?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 111,
+              "status": 200,
+              "title": "EVANGELIONの商品一覧 - QOOZA",
+              "unwound_url": "https://qooza.jp/products/list?category_id=1007",
+              "url": "https://t.co/Sk7rwPvsZ3"
+            },
+            {
+              "display_url": "pic.x.com/Z0ORxXjszj",
+              "end": 191,
+              "expanded_url": "https://x.com/QOOZA_JP/status/1895840329603162616/photo/1",
+              "media_key": "3_1895839894573887488",
+              "start": 168,
+              "url": "https://t.co/Z0ORxXjszj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895840329603162616",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1005,
+          "impression_count": 1213546,
+          "like_count": 8907,
+          "quote_count": 391,
+          "reply_count": 47,
+          "retweet_count": 820
+        },
+        "reply_settings": "everyone",
+        "text": "〈 EVANGELION x NEW ROCK 〉\n\n 『エヴァンゲリオン』とのコラボレーションアイテム！  世界的シューズブランド「NEW ROCK」とEVANGELION の公式コラボシューズがQOOZAで登場。 \n https://t.co/Sk7rwPvsZ3\n\n#EVANGELION\n#エヴァンゲリオン  \n#エヴァコラボ https://t.co/Z0ORxXjszj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲，生理性别男，请不要私信给我发那种奇怪的东西了\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 74,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 740,
+          "following_count": 563,
+          "like_count": 12999,
+          "listed_count": 2,
+          "media_count": 199,
+          "tweet_count": 5218
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2014-05-23T01:35:24.000Z",
+        "description": "ヴィラン系ファッション「QOOZA(クーザ)」\nダークファンタジーやアンダーグラウンドな世界観が混合するファッションブランド\n\n・ ラフォーレ店 ⇒ @QOOZA_laforet",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 75,
+                "username": "QOOZA_laforet"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "qooza.jp",
+                "end": 23,
+                "expanded_url": "https://qooza.jp",
+                "start": 0,
+                "url": "https://t.co/MDM9ebtEdU"
+              }
+            ]
+          }
+        },
+        "id": "2516810545",
+        "location": "大阪府大阪市",
+        "name": "QOOZA【クーザ】",
+        "pinned_tweet_id": "1929840493854097538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1223584271597572099/5txPtOOU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66941,
+          "following_count": 21386,
+          "like_count": 9355,
+          "listed_count": 712,
+          "media_count": 43552,
+          "tweet_count": 53622
+        },
+        "url": "https://t.co/MDM9ebtEdU",
+        "username": "QOOZA_JP",
+        "verified": true
+      }
+    ]
+  }
+}

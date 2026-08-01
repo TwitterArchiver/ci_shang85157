@@ -1,0 +1,118 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1980978762050335152",
+    "created_at": "2025-10-22T12:45:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T13:45:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1980978762050335152"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1980978762050335152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "兄弟！你屁股上那条缝是谁砍的 我去给你报仇( ；꒳； )"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1980978762050335152",
+        "created_at": "2025-10-22T12:45:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T13:45:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980978762050335152"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1980978762050335152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "兄弟！你屁股上那条缝是谁砍的 我去给你报仇( ；꒳； )"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧 小男友@pertx114514  结义兄弟@wuyan_sleeeepy还有穹璃 求求你们了找我聊天好不好https://t.co/ILEWFdOiJs。 ngl匿名问答",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "pertx114514"
+              },
+              {
+                "end": 58,
+                "start": 43,
+                "username": "wuyan_sleeeepy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%8950122",
+                "end": 98,
+                "expanded_url": "https://ngl.link/%E6%B3%8950122",
+                "start": 75,
+                "url": "https://t.co/ILEWFdOiJs"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉",
+        "pinned_tweet_id": "1970427616353296660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978274114138996736/r_khhgIT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 828,
+          "following_count": 662,
+          "like_count": 17786,
+          "listed_count": 2,
+          "media_count": 204,
+          "tweet_count": 6730
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      }
+    ]
+  }
+}

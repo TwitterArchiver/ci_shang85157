@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1871667156380704768"
+      ]
+    },
+    "author_id": "1826281483675299840",
+    "conversation_id": "1871456020024992143",
+    "created_at": "2024-12-24T21:20:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-24T22:20:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1871667166434771245"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1860519931537719296",
+          "start": 0,
+          "username": "KR_100505"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Sn7j3XeQ3M",
+          "end": 39,
+          "expanded_url": "https://x.com/ci_shang85157/status/1871667166434771245/photo/1",
+          "media_key": "3_1871667156380704768",
+          "start": 16,
+          "url": "https://t.co/Sn7j3XeQ3M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1871667166434771245",
+    "in_reply_to_user_id": "1860519931537719296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1871456020024992143",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KR_100505 还有这个 https://t.co/Sn7j3XeQ3M"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1871667166434771245].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1871667166434771245",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1871667166434771245"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1871667156380704768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gfl_XLnWYAAXBx3.jpg",
+        "width": 926
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1871456017801793536"
+          ]
+        },
+        "author_id": "1860519931537719296",
+        "conversation_id": "1871456020024992143",
+        "created_at": "2024-12-24T07:20:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-24T08:20:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1871456020024992143"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3zMP4woSo8",
+              "end": 27,
+              "expanded_url": "https://x.com/KR_100505/status/1871456020024992143/photo/1",
+              "media_key": "3_1871456017801793536",
+              "start": 4,
+              "url": "https://t.co/3zMP4woSo8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1871456020024992143",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 17944,
+          "like_count": 178,
+          "quote_count": 5,
+          "reply_count": 53,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "又一个 https://t.co/3zMP4woSo8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，有兴趣就可以一起玩",
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844188914451365901/gNnOT4GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 282,
+          "like_count": 1457,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 582
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-24T03:05:13.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zr_100505",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zr_100505",
+                "start": 0,
+                "url": "https://t.co/Ch2BqnxhbX"
+              }
+            ]
+          }
+        },
+        "id": "1860519931537719296",
+        "location": "皮特凯恩群岛",
+        "name": "Zara",
+        "pinned_tweet_id": "1870246778580177070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860520250892046336/jStXQrnN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 119,
+          "like_count": 354,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 255
+        },
+        "url": "https://t.co/Ch2BqnxhbX",
+        "username": "KR_100505",
+        "verified": false
+      }
+    ]
+  }
+}

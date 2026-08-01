@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1870818525868388384",
+    "created_at": "2024-12-22T18:43:17.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-22T19:43:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1870902950807425095"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1855427972787777536",
+          "start": 0,
+          "username": "su_song92698"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1870902950807425095",
+    "in_reply_to_user_id": "1855427972787777536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1870902358626242945",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@su_song92698 我闲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1870818525868388384",
+        "created_at": "2024-12-22T18:43:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-22T19:43:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1870902950807425095"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1855427972787777536",
+              "start": 0,
+              "username": "su_song92698"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1870902950807425095",
+        "in_reply_to_user_id": "1855427972787777536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1870902358626242945",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@su_song92698 我闲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1855427972787777536",
+        "conversation_id": "1870818525868388384",
+        "created_at": "2024-12-22T18:40:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-22T19:40:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1870902358626242945"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1826281483675299840",
+              "start": 0,
+              "username": "ci_shang85157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1870902358626242945",
+        "in_reply_to_user_id": "1826281483675299840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1870901163371159725",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ci_shang85157 那可能我没什么精力了 顺手打个字都懒得…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，有兴趣就可以一起玩",
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844188914451365901/gNnOT4GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 278,
+          "like_count": 1348,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 534
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-10T01:51:25.000Z",
+        "description": "一个屌丝",
+        "id": "1855427972787777536",
+        "name": "诉讼主动",
+        "pinned_tweet_id": "1857738674693132710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855429461077884928/EEJk9t6x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376,
+          "following_count": 363,
+          "like_count": 1905,
+          "listed_count": 3,
+          "media_count": 22,
+          "tweet_count": 256
+        },
+        "username": "su_song92698",
+        "verified": false
+      }
+    ]
+  }
+}

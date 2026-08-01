@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "2012935050195882239",
+    "created_at": "2026-01-19T04:35:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T05:35:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013108010844110902"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1969343564695158786",
+          "start": 0,
+          "username": "lennon_joh14132"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013108010844110902",
+    "in_reply_to_user_id": "1969343564695158786",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012935050195882239",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lennon_joh14132 你哪有钱？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "2012935050195882239",
+        "created_at": "2026-01-19T04:35:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T05:35:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013108010844110902"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1969343564695158786",
+              "start": 0,
+              "username": "lennon_joh14132"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013108010844110902",
+        "in_reply_to_user_id": "1969343564695158786",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012935050195882239",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lennon_joh14132 你哪有钱？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1969343564695158786",
+        "conversation_id": "2012935050195882239",
+        "created_at": "2026-01-18T17:08:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T18:08:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012935050195882239"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2012935050195882239",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 156,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的钱呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧 https://t.co/ILEWFdOiJs。 ngl匿名问答 想交朋友或者互fo尽管私信我 每个人都会回",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%8950122",
+                "end": 45,
+                "expanded_url": "https://ngl.link/%E6%B3%8950122",
+                "start": 22,
+                "url": "https://t.co/ILEWFdOiJs"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉",
+        "pinned_tweet_id": "2006393841994371256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978274114138996736/r_khhgIT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 982,
+          "following_count": 671,
+          "like_count": 20337,
+          "listed_count": 2,
+          "media_count": 232,
+          "tweet_count": 7519
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-20T10:11:15.000Z",
+        "description": "我是无敌流浪汉｜见证大欢迎｜男｜杀人如麻的恶鬼｜我是精神病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lennon_joh",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lennon_joh",
+                "start": 0,
+                "url": "https://t.co/MCmCF3HWFE"
+              }
+            ]
+          }
+        },
+        "id": "1969343564695158786",
+        "name": "江列侬",
+        "pinned_tweet_id": "1975922301947535862",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969343592629223425/b1SugD5g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 376,
+          "like_count": 4598,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 697
+        },
+        "url": "https://t.co/MCmCF3HWFE",
+        "username": "lennon_joh14132",
+        "verified": false
+      }
+    ]
+  }
+}

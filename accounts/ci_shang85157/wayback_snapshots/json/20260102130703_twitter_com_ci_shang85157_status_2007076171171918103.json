@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "2007065143797309505",
+    "created_at": "2026-01-02T13:07:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T14:07:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007076171171918103"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1815812612191576066",
+          "start": 0,
+          "username": "Eeu_0829"
+        },
+        {
+          "end": 23,
+          "id": "1944677694962294784",
+          "start": 10,
+          "username": "suicide_ang1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007076171171918103",
+    "in_reply_to_user_id": "1815812612191576066",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007074236805030264",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Eeu_0829 @suicide_ang1 咋这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "2007065143797309505",
+        "created_at": "2026-01-02T13:07:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T14:07:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007076171171918103"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1815812612191576066",
+              "start": 0,
+              "username": "Eeu_0829"
+            },
+            {
+              "end": 23,
+              "id": "1944677694962294784",
+              "start": 10,
+              "username": "suicide_ang1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007076171171918103",
+        "in_reply_to_user_id": "1815812612191576066",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007074236805030264",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Eeu_0829 @suicide_ang1 咋这样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1815812612191576066",
+        "conversation_id": "2007065143797309505",
+        "created_at": "2026-01-02T12:59:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T13:59:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007074236805030264"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1826281483675299840",
+              "start": 0,
+              "username": "ci_shang85157"
+            },
+            {
+              "end": 28,
+              "id": "1944677694962294784",
+              "start": 15,
+              "username": "suicide_ang1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007074236805030264",
+        "in_reply_to_user_id": "1826281483675299840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007073389140467783",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ci_shang85157 @suicide_ang1 她直接全部搬我的推文😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧 https://t.co/ILEWFdOiJs。 ngl匿名问答 想交朋友或者互fo尽管私信我 每个人都会回",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%8950122",
+                "end": 45,
+                "expanded_url": "https://ngl.link/%E6%B3%8950122",
+                "start": 22,
+                "url": "https://t.co/ILEWFdOiJs"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉",
+        "pinned_tweet_id": "2006393841994371256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978274114138996736/r_khhgIT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 914,
+          "following_count": 676,
+          "like_count": 20260,
+          "listed_count": 2,
+          "media_count": 230,
+          "tweet_count": 7419
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-23T18:14:07.000Z",
+        "description": "@suicide_ang1  ⬅️此账号非本人 偷我图复制狗你全家死了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "suicide_ang1"
+              }
+            ]
+          }
+        },
+        "id": "1815812612191576066",
+        "location": "ад",
+        "name": "Eeu",
+        "pinned_tweet_id": "1991833805553045957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007073979916333056/0X6DZ-WB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 47,
+          "like_count": 2383,
+          "listed_count": 2,
+          "media_count": 170,
+          "tweet_count": 1473
+        },
+        "username": "Eeu_0829",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-14T08:37:55.000Z",
+        "description": "滚",
+        "id": "1944677694962294784",
+        "name": "Eeu",
+        "pinned_tweet_id": "1997222712608280640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007065187409711104/rv4z_pTr_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1013,
+          "following_count": 13,
+          "like_count": 165,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 116
+        },
+        "username": "suicide_ang1",
+        "verified": false
+      }
+    ]
+  }
+}

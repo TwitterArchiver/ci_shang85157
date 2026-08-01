@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1957278445320425846",
+    "created_at": "2025-08-18T21:31:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-18T22:31:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957555961276821659"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1899167359182548992",
+          "start": 0,
+          "username": "nyoho_nyoho9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957555961276821659",
+    "in_reply_to_user_id": "1899167359182548992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957523855494570408",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nyoho_nyoho9 我一次抽五六根"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1957278445320425846",
+        "created_at": "2025-08-18T21:31:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T22:31:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957555961276821659"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1899167359182548992",
+              "start": 0,
+              "username": "nyoho_nyoho9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957555961276821659",
+        "in_reply_to_user_id": "1899167359182548992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957523855494570408",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nyoho_nyoho9 我一次抽五六根"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1899167359182548992",
+        "conversation_id": "1957278445320425846",
+        "created_at": "2025-08-18T19:23:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T20:23:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957523855494570408"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1826281483675299840",
+              "start": 0,
+              "username": "ci_shang85157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957523855494570408",
+        "in_reply_to_user_id": "1826281483675299840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957278445320425846",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ci_shang85157 一次抽两根香烟🤓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像失去了一条时间线，算了，我们从来吧",
+        "id": "1826281483675299840",
+        "name": "泉方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 705,
+          "following_count": 548,
+          "like_count": 12880,
+          "listed_count": 2,
+          "media_count": 159,
+          "tweet_count": 5257
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-10T18:36:09.000Z",
+        "description": "睡在沙拉上的邪恶生物maki｜男生｜05｜超多碎碎念｜互fo请留言！ ｜拉普兰德的狗｜淡粥｜火p｜杀戮尖塔｜云顶｜泰拉瑞亚｜星露谷",
+        "id": "1899167359182548992",
+        "location": "蔬菜沙拉",
+        "name": "Maki cat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956096285708312580/LZ7BHiBc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 66,
+          "like_count": 737,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 186
+        },
+        "username": "nyoho_nyoho9",
+        "verified": false
+      }
+    ]
+  }
+}

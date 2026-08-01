@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1879210837082259630",
+    "created_at": "2025-01-15T19:33:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-15T20:33:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1879612809702719849"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1855427972787777536",
+          "start": 0,
+          "username": "su_song92698"
+        },
+        {
+          "end": 29,
+          "id": "1825921636224393216",
+          "start": 14,
+          "username": "n3789390364371"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1879612809702719849",
+    "in_reply_to_user_id": "1855427972787777536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1879594123935789421",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@su_song92698 @n3789390364371 小意思啦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1879210837082259630",
+        "created_at": "2025-01-15T19:33:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-15T20:33:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1879612809702719849"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1855427972787777536",
+              "start": 0,
+              "username": "su_song92698"
+            },
+            {
+              "end": 29,
+              "id": "1825921636224393216",
+              "start": 14,
+              "username": "n3789390364371"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879612809702719849",
+        "in_reply_to_user_id": "1855427972787777536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879594123935789421",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@su_song92698 @n3789390364371 小意思啦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1855427972787777536",
+        "conversation_id": "1879210837082259630",
+        "created_at": "2025-01-15T18:18:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-15T19:18:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1879594123935789421"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1825921636224393216",
+              "start": 0,
+              "username": "n3789390364371"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879594123935789421",
+        "in_reply_to_user_id": "1825921636224393216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879210837082259630",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@n3789390364371 太强悍了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲",
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844188914451365901/gNnOT4GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 228,
+          "like_count": 2223,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 1012
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-10T01:51:25.000Z",
+        "description": "社交无能且阳气有限的贪财屌丝",
+        "id": "1855427972787777536",
+        "location": "🚪30纯绿",
+        "name": "诉讼主动",
+        "pinned_tweet_id": "1875380344926695892",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855429461077884928/EEJk9t6x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1970,
+          "following_count": 415,
+          "like_count": 2590,
+          "listed_count": 5,
+          "media_count": 29,
+          "tweet_count": 298
+        },
+        "username": "su_song92698",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-20T15:43:44.000Z",
+        "description": "年轻辣妈",
+        "id": "1825921636224393216",
+        "name": "一心",
+        "pinned_tweet_id": "1873312476424712412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1825926253251276800/kmR3S4c__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2006,
+          "following_count": 160,
+          "like_count": 495,
+          "listed_count": 1,
+          "media_count": 163,
+          "tweet_count": 1114
+        },
+        "username": "n3789390364371",
+        "verified": false
+      }
+    ]
+  }
+}

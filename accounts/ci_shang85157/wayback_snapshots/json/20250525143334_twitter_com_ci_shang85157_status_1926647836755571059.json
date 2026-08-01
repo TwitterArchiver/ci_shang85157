@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1926568070488764418",
+    "created_at": "2025-05-25T14:33:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-25T15:33:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926647836755571059"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1237191088185544704",
+          "start": 0,
+          "username": "Rencai_Nina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926647836755571059",
+    "in_reply_to_user_id": "1237191088185544704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926568070488764418",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rencai_Nina 中国人怎么这么坏"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 430,
+        "media_key": "16_1926568038196789248",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/GryLbGBXQAAW5ex.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/GryLbGBXQAAW5ex.mp4"
+          }
+        ],
+        "width": 512
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1926568070488764418",
+        "created_at": "2025-05-25T14:33:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-25T15:33:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926647836755571059"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1237191088185544704",
+              "start": 0,
+              "username": "Rencai_Nina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926647836755571059",
+        "in_reply_to_user_id": "1237191088185544704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926568070488764418",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rencai_Nina 中国人怎么这么坏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1926568038196789248"
+          ]
+        },
+        "author_id": "1237191088185544704",
+        "conversation_id": "1926568070488764418",
+        "created_at": "2025-05-25T09:16:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-25T10:16:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1926568070488764418"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6eAwru3cpa",
+              "end": 38,
+              "expanded_url": "https://x.com/Rencai_Nina/status/1926568070488764418/photo/1",
+              "media_key": "16_1926568038196789248",
+              "start": 15,
+              "url": "https://t.co/6eAwru3cpa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926568070488764418",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1326,
+          "like_count": 69,
+          "quote_count": 1,
+          "reply_count": 22,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我艹他🐴，我的拼好饭被偷了😭 https://t.co/6eAwru3cpa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲，生理性别男，请不要私信给我发那种奇怪的东西了\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 74,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 600,
+          "following_count": 514,
+          "like_count": 10392,
+          "listed_count": 2,
+          "media_count": 166,
+          "tweet_count": 4306
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-10T01:40:49.000Z",
+        "description": "👆中专少女乐队主唱🤓/爱玩战地1，荒野大镖客，GTA，COD，黄油🧈/❌见证/不太聪明，但又喜欢胡思乱想 / emmmm….. 逃生舱@ninininanina1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 67,
+                "username": "ninininanina1"
+              }
+            ]
+          }
+        },
+        "id": "1237191088185544704",
+        "location": "熊本县🦔",
+        "name": "仁仁菜🦔仁菜菜🦔",
+        "pinned_tweet_id": "1917036758627455333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906894124353310721/RoFGcYI7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 737,
+          "following_count": 837,
+          "like_count": 13419,
+          "listed_count": 1,
+          "media_count": 287,
+          "tweet_count": 3773
+        },
+        "username": "Rencai_Nina",
+        "verified": false
+      }
+    ]
+  }
+}

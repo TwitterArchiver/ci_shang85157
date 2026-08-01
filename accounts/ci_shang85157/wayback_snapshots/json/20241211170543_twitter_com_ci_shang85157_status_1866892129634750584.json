@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1866786668256301397",
+    "created_at": "2024-12-11T17:05:43.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-11T18:05:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1866892129634750584"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1527743101242064896",
+          "start": 0,
+          "username": "MaimaiLee123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1866892129634750584",
+    "in_reply_to_user_id": "1527743101242064896",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1866786668256301397",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MaimaiLee123 笑死我了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1866786668256301397",
+        "created_at": "2024-12-11T17:05:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-11T18:05:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866892129634750584"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1527743101242064896",
+              "start": 0,
+              "username": "MaimaiLee123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866892129634750584",
+        "in_reply_to_user_id": "1527743101242064896",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866786668256301397",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MaimaiLee123 笑死我了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1866786653748203525"
+          ]
+        },
+        "author_id": "1527743101242064896",
+        "conversation_id": "1866786668256301397",
+        "created_at": "2024-12-11T10:06:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-11T11:06:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1866786668256301397"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/O6gZOJmBT6",
+              "end": 35,
+              "expanded_url": "https://x.com/MaimaiLee123/status/1866786668256301397/photo/1",
+              "media_key": "3_1866786653748203525",
+              "start": 12,
+              "url": "https://t.co/O6gZOJmBT6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866786668256301397",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1108,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我挺好骗的，开心，谢谢 https://t.co/O6gZOJmBT6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，有兴趣就可以一起玩",
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844188914451365901/gNnOT4GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 245,
+          "like_count": 1052,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 338
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-20T20:08:57.000Z",
+        "description": "人只有醒来才知道自己睡了一觉\n\n｜ INTJ ｜感谢follow ｜\n电报   https://t.co/qYINMLQgVt \n自留地  https://t.co/WQYgnkH9Ew",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/maimaitalk",
+                "end": 63,
+                "expanded_url": "https://t.me/maimaitalk",
+                "start": 40,
+                "url": "https://t.co/qYINMLQgVt"
+              },
+              {
+                "display_url": "imleemaimai.com",
+                "end": 93,
+                "expanded_url": "http://imleemaimai.com",
+                "start": 70,
+                "url": "https://t.co/WQYgnkH9Ew"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@lim0102",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@lim0102",
+                "start": 0,
+                "url": "https://t.co/TnPIUW2gMT"
+              }
+            ]
+          }
+        },
+        "id": "1527743101242064896",
+        "location": "IP属地:由于相关法律法规及政策,该地址不予显示",
+        "name": "李麦麦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3177,
+          "following_count": 726,
+          "like_count": 13646,
+          "listed_count": 11,
+          "media_count": 860,
+          "tweet_count": 3986
+        },
+        "url": "https://t.co/TnPIUW2gMT",
+        "username": "MaimaiLee123",
+        "verified": true
+      }
+    ]
+  }
+}

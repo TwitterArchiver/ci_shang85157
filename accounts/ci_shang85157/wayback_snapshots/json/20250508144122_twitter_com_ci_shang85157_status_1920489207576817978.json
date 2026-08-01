@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1920489195790868480"
+      ]
+    },
+    "author_id": "1826281483675299840",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1920489207576817978",
+    "created_at": "2025-05-08T14:41:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-08T15:41:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1920489207576817978"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/U4mf3tvCod",
+          "end": 28,
+          "expanded_url": "https://x.com/ci_shang85157/status/1920489207576817978/photo/1",
+          "media_key": "3_1920489195790868480",
+          "start": 5,
+          "url": "https://t.co/U4mf3tvCod"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920489207576817978",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有点意思 https://t.co/U4mf3tvCod"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1920489195790868480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gqbyv5YXIAA9uFA.jpg",
+        "width": 362
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1920489195790868480"
+          ]
+        },
+        "author_id": "1826281483675299840",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1920489207576817978",
+        "created_at": "2025-05-08T14:41:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-08T15:41:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920489207576817978"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/U4mf3tvCod",
+              "end": 28,
+              "expanded_url": "https://x.com/ci_shang85157/status/1920489207576817978/photo/1",
+              "media_key": "3_1920489195790868480",
+              "start": 5,
+              "url": "https://t.co/U4mf3tvCod"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920489207576817978",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有点意思 https://t.co/U4mf3tvCod"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 508,
+          "following_count": 465,
+          "like_count": 8771,
+          "listed_count": 2,
+          "media_count": 143,
+          "tweet_count": 3688
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      }
+    ]
+  }
+}

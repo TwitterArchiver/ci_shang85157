@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1906781970044223498",
+    "created_at": "2025-04-16T08:35:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-16T09:35:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912424641118740671"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1912424641118740671",
+    "in_reply_to_user_id": "1826281483675299840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912015901223997683",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "今天早上吃了一个鸡蛋饼，然后中午是狮子头和西兰花，以及粉丝炒豆芽，还有米饭，这样一份饭才9块，非常便宜，主播昨天晚上没有跑步，因为睡过头了，晚点名也没有去，前两天买了个哑铃，听说有氧无氧混合会减肥有效果一点，其实有拍吃饭的照片但是感觉卖相不好就没有发出来🥲🥲🥲，请监督我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1906781970044223498",
+        "created_at": "2025-04-16T08:35:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T09:35:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912424641118740671"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1912424641118740671",
+        "in_reply_to_user_id": "1826281483675299840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912015901223997683",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今天早上吃了一个鸡蛋饼，然后中午是狮子头和西兰花，以及粉丝炒豆芽，还有米饭，这样一份饭才9块，非常便宜，主播昨天晚上没有跑步，因为睡过头了，晚点名也没有去，前两天买了个哑铃，听说有氧无氧混合会减肥有效果一点，其实有拍吃饭的照片但是感觉卖相不好就没有发出来🥲🥲🥲，请监督我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1906781970044223498",
+        "created_at": "2025-04-15T05:31:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-15T06:31:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912015901223997683"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1912015901223997683",
+        "in_reply_to_user_id": "1826281483675299840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 74,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912008138397716690",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "非常好吃且便宜的饭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 361,
+          "like_count": 5537,
+          "listed_count": 1,
+          "media_count": 96,
+          "tweet_count": 2574
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      }
+    ]
+  }
+}

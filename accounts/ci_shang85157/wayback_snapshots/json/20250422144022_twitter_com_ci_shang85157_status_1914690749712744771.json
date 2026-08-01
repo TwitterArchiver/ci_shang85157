@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1914332671309930826",
+    "created_at": "2025-04-22T14:40:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-22T15:40:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914690749712744771"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1901326914750738432",
+          "start": 0,
+          "username": "qingmengxyn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914690749712744771",
+    "in_reply_to_user_id": "1901326914750738432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914332671309930826",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qingmengxyn 不好意思，我是坏蛋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 446,
+        "media_key": "3_1914332668617265152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpETa2bbkAAn5W5.jpg",
+        "width": 403
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1914332671309930826",
+        "created_at": "2025-04-22T14:40:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T15:40:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914690749712744771"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1901326914750738432",
+              "start": 0,
+              "username": "qingmengxyn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914690749712744771",
+        "in_reply_to_user_id": "1901326914750738432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914332671309930826",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingmengxyn 不好意思，我是坏蛋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1914332668617265152"
+          ]
+        },
+        "author_id": "1901326914750738432",
+        "conversation_id": "1914332671309930826",
+        "created_at": "2025-04-21T14:57:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-21T15:57:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914332671309930826"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HjOIyJYArc",
+              "end": 36,
+              "expanded_url": "https://x.com/qingmengxyn/status/1914332671309930826/photo/1",
+              "media_key": "3_1914332668617265152",
+              "start": 13,
+              "url": "https://t.co/HjOIyJYArc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914332671309930826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3804,
+          "like_count": 107,
+          "quote_count": 0,
+          "reply_count": 27,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "呜呜\n关注咱的都是好人！ https://t.co/HjOIyJYArc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 375,
+          "like_count": 6335,
+          "listed_count": 1,
+          "media_count": 111,
+          "tweet_count": 2915
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-16T17:37:32.000Z",
+        "description": "咱咱咱 是一只神奇的木...木饭桶！\n                                                         唔...咱脑子超级灵光的！都不许嘲笑咱(ﾉ｀⊿´)ﾉ",
+        "id": "1901326914750738432",
+        "location": "鲨鲨城鲨鲨区新鲨小区 10086 号",
+        "name": "清梦呀🍥（潜力无限版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903614475594588160/boAd6fb0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 360,
+          "following_count": 434,
+          "like_count": 561,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 233
+        },
+        "username": "qingmengxyn",
+        "verified": false
+      }
+    ]
+  }
+}

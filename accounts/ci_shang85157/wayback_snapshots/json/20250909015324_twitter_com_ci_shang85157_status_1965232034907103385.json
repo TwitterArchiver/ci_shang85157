@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1964997757787308033",
+        "3_1964997758626230272"
+      ],
+      "media_source_tweet_id": [
+        "1964997770823205113",
+        "1964997770823205113"
+      ]
+    },
+    "author_id": "1826281483675299840",
+    "conversation_id": "1965232034907103385",
+    "created_at": "2025-09-09T01:53:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-09T02:53:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965232034907103385"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1563785543967965195",
+          "start": 3,
+          "username": "c9_ynk"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OkiFNQfqjs",
+          "end": 35,
+          "expanded_url": "https://x.com/c9_ynk/status/1964997770823205113/photo/1",
+          "media_key": "3_1964997757787308033",
+          "start": 12,
+          "url": "https://t.co/OkiFNQfqjs"
+        },
+        {
+          "display_url": "pic.x.com/OkiFNQfqjs",
+          "end": 35,
+          "expanded_url": "https://x.com/c9_ynk/status/1964997770823205113/photo/1",
+          "media_key": "3_1964997758626230272",
+          "start": 12,
+          "url": "https://t.co/OkiFNQfqjs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965232034907103385",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 129
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964997770823205113",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @c9_ynk: https://t.co/OkiFNQfqjs"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1965232034907103385].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1965232034907103385",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1965232034907103385"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1770,
+        "media_key": "3_1964997757787308033",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0UTDLlaAAE5byz.jpg",
+        "width": 1278
+      },
+      {
+        "height": 1637,
+        "media_key": "3_1964997758626230272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0UTDOta8AARJd3.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1964997757787308033",
+            "3_1964997758626230272"
+          ]
+        },
+        "author_id": "1563785543967965195",
+        "conversation_id": "1964997770823205113",
+        "created_at": "2025-09-08T10:22:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T11:22:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964997770823205113"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OkiFNQfqjs",
+              "end": 23,
+              "expanded_url": "https://x.com/c9_ynk/status/1964997770823205113/photo/1",
+              "media_key": "3_1964997757787308033",
+              "start": 0,
+              "url": "https://t.co/OkiFNQfqjs"
+            },
+            {
+              "display_url": "pic.x.com/OkiFNQfqjs",
+              "end": 23,
+              "expanded_url": "https://x.com/c9_ynk/status/1964997770823205113/photo/1",
+              "media_key": "3_1964997758626230272",
+              "start": 0,
+              "url": "https://t.co/OkiFNQfqjs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964997770823205113",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 609,
+          "impression_count": 45275,
+          "like_count": 3487,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 129
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/OkiFNQfqjs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧   小男友@pertx114514",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 27,
+                "username": "pertx114514"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉方",
+        "pinned_tweet_id": "1963923748203139355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 776,
+          "following_count": 608,
+          "like_count": 14546,
+          "listed_count": 3,
+          "media_count": 175,
+          "tweet_count": 5817
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-28T07:08:46.000Z",
+        "description": "HoYoCREATORS/cosplay/成人済/無断転載禁止💗→@ytki_412サブ垢··▸@c9_ynL    \n                                            お仕事はDMかMailにて\n→yunyamaru07@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 33,
+                "username": "ytki_412"
+              },
+              {
+                "end": 55,
+                "start": 48,
+                "username": "c9_ynL"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/yunyamaru",
+                "end": 23,
+                "expanded_url": "https://lit.link/yunyamaru",
+                "start": 0,
+                "url": "https://t.co/HBHh7CAB3v"
+              }
+            ]
+          }
+        },
+        "id": "1563785543967965195",
+        "location": "yunyamaru07@gmail.com",
+        "name": "ゆにゃまる🐱池a!6,7",
+        "pinned_tweet_id": "1901334669939134922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963165232387477504/Gv5zgmpK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59001,
+          "following_count": 305,
+          "like_count": 33963,
+          "listed_count": 260,
+          "media_count": 367,
+          "tweet_count": 12388
+        },
+        "url": "https://t.co/HBHh7CAB3v",
+        "username": "c9_ynk",
+        "verified": false
+      }
+    ]
+  }
+}

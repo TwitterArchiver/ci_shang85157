@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1920500597280878893",
+    "created_at": "2025-05-09T01:58:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-09T02:58:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920659711679942790"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1619650668247097349",
+          "start": 0,
+          "username": "CoryBarber13"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920659711679942790",
+    "in_reply_to_user_id": "1619650668247097349",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920659403595763910",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CoryBarber13 我讨厌借钱，也讨厌别人向我借钱，一个是开不了口，一个是不容易要"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1920500597280878893",
+        "created_at": "2025-05-09T01:58:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-09T02:58:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920659711679942790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1619650668247097349",
+              "start": 0,
+              "username": "CoryBarber13"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920659711679942790",
+        "in_reply_to_user_id": "1619650668247097349",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920659403595763910",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CoryBarber13 我讨厌借钱，也讨厌别人向我借钱，一个是开不了口，一个是不容易要"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1619650668247097349",
+        "conversation_id": "1920500597280878893",
+        "created_at": "2025-05-09T01:57:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-09T02:57:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920659403595763910"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1826281483675299840",
+              "start": 0,
+              "username": "ci_shang85157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920659403595763910",
+        "in_reply_to_user_id": "1826281483675299840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920500597280878893",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ci_shang85157 跟他借点钱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 507,
+          "following_count": 466,
+          "like_count": 8830,
+          "listed_count": 2,
+          "media_count": 144,
+          "tweet_count": 3714
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-29T10:56:36.000Z",
+        "description": "/压榨傻逼母人/试探投稿/分享好货/",
+        "id": "1619650668247097349",
+        "location": "8bit",
+        "name": "母人克星",
+        "pinned_tweet_id": "1892472180299968536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920380833610817536/Ti5a5fYb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1294,
+          "following_count": 197,
+          "like_count": 137,
+          "listed_count": 6,
+          "media_count": 158,
+          "tweet_count": 521
+        },
+        "username": "CoryBarber13",
+        "verified": false
+      }
+    ]
+  }
+}

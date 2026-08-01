@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1927733260550848948",
+    "created_at": "2025-05-29T08:29:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-29T09:29:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928005740251206041"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "848887445550649354",
+          "start": 0,
+          "username": "123Balzac"
+        },
+        {
+          "end": 23,
+          "id": "1857335218673483776",
+          "start": 11,
+          "username": "xiao_mengyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928005740251206041",
+    "in_reply_to_user_id": "848887445550649354",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927938921800859654",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@123Balzac @xiao_mengyu 好的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1927733260550848948",
+        "created_at": "2025-05-29T08:29:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-29T09:29:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928005740251206041"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "848887445550649354",
+              "start": 0,
+              "username": "123Balzac"
+            },
+            {
+              "end": 23,
+              "id": "1857335218673483776",
+              "start": 11,
+              "username": "xiao_mengyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928005740251206041",
+        "in_reply_to_user_id": "848887445550649354",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927938921800859654",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@123Balzac @xiao_mengyu 好的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "848887445550649354",
+        "conversation_id": "1927733260550848948",
+        "created_at": "2025-05-29T04:03:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-29T05:03:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927938921800859654"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1826281483675299840",
+              "start": 0,
+              "username": "ci_shang85157"
+            },
+            {
+              "end": 27,
+              "id": "1857335218673483776",
+              "start": 15,
+              "username": "xiao_mengyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927938921800859654",
+        "in_reply_to_user_id": "1826281483675299840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927734031728230711",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ci_shang85157 @xiao_mengyu 少抽～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲，生理性别男，请不要私信给我发那种奇怪的东西了\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 74,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 603,
+          "following_count": 528,
+          "like_count": 10705,
+          "listed_count": 2,
+          "media_count": 170,
+          "tweet_count": 4432
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2017-04-03T13:18:33.000Z",
+        "description": "从忧虑症到社恐人的无缝切换……咳咳，是爷们",
+        "id": "848887445550649354",
+        "location": "英仙座.天船三. Ω智能统合中枢",
+        "name": "芝麻",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913582408353587200/hOJxkRk3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 1433,
+          "like_count": 3864,
+          "listed_count": 5,
+          "media_count": 301,
+          "tweet_count": 4090
+        },
+        "username": "123Balzac",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "description": "可以叫我小雨//亚文化//电波系//阴湿//ACG//GalGame//精神状态不定//小孩不懂事发着玩//情绪不稳定会自伤//有点抽象//打看状态情绪发，希望自己能开心，生活好了回归现实退推//只fo女孩子或者有意思的男孩子",
+        "id": "1857335218673483776",
+        "location": "天国",
+        "name": "永雏小雨",
+        "pinned_tweet_id": "1924890836325826971",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920099793604669440/absLlf75_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1735,
+          "following_count": 258,
+          "like_count": 1799,
+          "listed_count": 1,
+          "media_count": 75,
+          "tweet_count": 797
+        },
+        "username": "xiao_mengyu",
+        "verified": false
+      }
+    ]
+  }
+}

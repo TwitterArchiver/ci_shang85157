@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1875448313195192360",
+    "created_at": "2025-01-04T11:37:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-04T12:37:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1875506945387589799"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "702827952803680256",
+          "start": 0,
+          "username": "allvulples"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1875506945387589799",
+    "in_reply_to_user_id": "702827952803680256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1875448313195192360",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@allvulples 讲的很清晰，说出了大部分人看这件事情的状态"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1875448313195192360",
+        "created_at": "2025-01-04T11:37:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-04T12:37:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875506945387589799"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "702827952803680256",
+              "start": 0,
+              "username": "allvulples"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875506945387589799",
+        "in_reply_to_user_id": "702827952803680256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875448313195192360",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@allvulples 讲的很清晰，说出了大部分人看这件事情的状态"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "702827952803680256",
+        "conversation_id": "1875448313195192360",
+        "created_at": "2025-01-04T07:44:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-04T08:44:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875448313195192360"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1875448313195192360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 69,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我爲啥對大陸如此厭惡，主要有以下幾點:\n❶ 互相衝突的邏輯原則。\n ⑴，在俄烏衝突初期，牆內人對俄烏衝突的觀點還是對半開的。一部分人認爲俄羅斯是不義之舉，既在俄吞併克裏米亞後不滿足與現有領土，又想繼續向西擴張。另一部分人很天真的認爲，俄單純想反烏克蘭的納粹主義，還有一部分呢——"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，有兴趣就可以一起玩",
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844188914451365901/gNnOT4GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 203,
+          "like_count": 1844,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 804
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2016-02-25T12:10:16.000Z",
+        "description": "BIG BANG BAD BOYS AND GIRLS.",
+        "id": "702827952803680256",
+        "location": "Hong Kong",
+        "name": "Demonkeyse Manell",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873637459722211328/xhsKFaVI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 295,
+          "following_count": 1627,
+          "like_count": 13281,
+          "listed_count": 4,
+          "media_count": 146,
+          "tweet_count": 17055
+        },
+        "username": "allvulples",
+        "verified": false
+      }
+    ]
+  }
+}

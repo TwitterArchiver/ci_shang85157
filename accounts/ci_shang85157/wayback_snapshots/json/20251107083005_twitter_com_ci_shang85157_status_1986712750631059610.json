@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1986486871355236643",
+    "created_at": "2025-11-07T08:30:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T09:30:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986712750631059610"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1939352450714202112",
+          "start": 0,
+          "username": "inwhtk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986712750631059610",
+    "in_reply_to_user_id": "1939352450714202112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986486871355236643",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@inwhtk 妈妈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1986486859741229056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5FrRinbcAAU_4e.jpg",
+        "width": 1622
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1986486871355236643",
+        "created_at": "2025-11-07T08:30:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T09:30:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986712750631059610"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1939352450714202112",
+              "start": 0,
+              "username": "inwhtk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986712750631059610",
+        "in_reply_to_user_id": "1939352450714202112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986486871355236643",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@inwhtk 妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986486859741229056"
+          ]
+        },
+        "author_id": "1939352450714202112",
+        "conversation_id": "1986486871355236643",
+        "created_at": "2025-11-06T17:32:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T18:32:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986486871355236643"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FCQ36SmQqD",
+              "end": 34,
+              "expanded_url": "https://x.com/inwhtk/status/1986486871355236643/photo/1",
+              "media_key": "3_1986486859741229056",
+              "start": 11,
+              "url": "https://t.co/FCQ36SmQqD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986486871355236643",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 1797,
+          "like_count": 114,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嗯嗯嗯今天是指奸视角 https://t.co/FCQ36SmQqD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧 小男友@pertx114514  结义兄弟@wuyan_sleeeepy @SoSleepy4wy还有穹璃 求求你们了找我聊天好不好https://t.co/ILEWFdOiJs。 ngl匿名问答",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "pertx114514"
+              },
+              {
+                "end": 58,
+                "start": 43,
+                "username": "wuyan_sleeeepy"
+              },
+              {
+                "end": 71,
+                "start": 59,
+                "username": "SoSleepy4wy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%8950122",
+                "end": 111,
+                "expanded_url": "https://ngl.link/%E6%B3%8950122",
+                "start": 88,
+                "url": "https://t.co/ILEWFdOiJs"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉",
+        "pinned_tweet_id": "1970427616353296660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978274114138996736/r_khhgIT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 823,
+          "following_count": 666,
+          "like_count": 18163,
+          "listed_count": 2,
+          "media_count": 210,
+          "tweet_count": 6915
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-29T15:57:22.000Z",
+        "description": "你们到底咋了？",
+        "id": "1939352450714202112",
+        "name": "好宅宅",
+        "pinned_tweet_id": "1982874248474722547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983231045001740288/CB5Bwugo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4483,
+          "following_count": 240,
+          "like_count": 9362,
+          "listed_count": 10,
+          "media_count": 66,
+          "tweet_count": 5097
+        },
+        "username": "inwhtk",
+        "verified": false
+      }
+    ]
+  }
+}

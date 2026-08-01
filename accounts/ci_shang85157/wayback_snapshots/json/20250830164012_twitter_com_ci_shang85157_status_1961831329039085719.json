@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1961694312770781567",
+    "created_at": "2025-08-30T16:40:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-30T17:40:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961831329039085719"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1913491200046436352",
+          "start": 0,
+          "username": "lmbleedingovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961831329039085719",
+    "in_reply_to_user_id": "1913491200046436352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961824884411204050",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lmbleedingovo 太好了，准备买点什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1961694312770781567",
+        "created_at": "2025-08-30T16:40:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T17:40:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961831329039085719"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1913491200046436352",
+              "start": 0,
+              "username": "lmbleedingovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961831329039085719",
+        "in_reply_to_user_id": "1913491200046436352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961824884411204050",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lmbleedingovo 太好了，准备买点什么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913491200046436352",
+        "conversation_id": "1961694312770781567",
+        "created_at": "2025-08-30T16:14:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T17:14:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961824884411204050"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1826281483675299840",
+              "start": 0,
+              "username": "ci_shang85157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961824884411204050",
+        "in_reply_to_user_id": "1826281483675299840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961818341989032124",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ci_shang85157 存了一千五ww"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧   小男友@pertx114514",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 27,
+                "username": "pertx114514"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉方",
+        "pinned_tweet_id": "1932824152811188484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 747,
+          "following_count": 581,
+          "like_count": 13773,
+          "listed_count": 3,
+          "media_count": 167,
+          "tweet_count": 5566
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-19T07:14:33.000Z",
+        "description": "我的日记本",
+        "id": "1913491200046436352",
+        "name": "lmbleeding",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955316383480451072/NC-l9xHA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 265,
+          "like_count": 25,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 410
+        },
+        "username": "lmbleedingovo",
+        "verified": false
+      }
+    ]
+  }
+}

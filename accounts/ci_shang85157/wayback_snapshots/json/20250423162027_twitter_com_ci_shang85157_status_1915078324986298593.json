@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1915055997007368464",
+    "created_at": "2025-04-23T16:20:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-23T17:20:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915078324986298593"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1656733330421981184",
+          "start": 0,
+          "username": "tshshis"
+        },
+        {
+          "end": 24,
+          "id": "1865052657586704387",
+          "start": 9,
+          "username": "xiaoyuanlucky1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915078324986298593",
+    "in_reply_to_user_id": "1656733330421981184",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915066391104983146",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tshshis @xiaoyuanlucky1 好吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1915055997007368464",
+        "created_at": "2025-04-23T16:20:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-23T17:20:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915078324986298593"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1656733330421981184",
+              "start": 0,
+              "username": "tshshis"
+            },
+            {
+              "end": 24,
+              "id": "1865052657586704387",
+              "start": 9,
+              "username": "xiaoyuanlucky1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915078324986298593",
+        "in_reply_to_user_id": "1656733330421981184",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915066391104983146",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tshshis @xiaoyuanlucky1 好吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1656733330421981184",
+        "conversation_id": "1915055997007368464",
+        "created_at": "2025-04-23T15:33:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-23T16:33:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915066391104983146"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1826281483675299840",
+              "start": 0,
+              "username": "ci_shang85157"
+            },
+            {
+              "end": 30,
+              "id": "1865052657586704387",
+              "start": 15,
+              "username": "xiaoyuanlucky1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915066391104983146",
+        "in_reply_to_user_id": "1826281483675299840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915064315134239145",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ci_shang85157 @xiaoyuanlucky1 因为没什么好笑的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 404,
+          "following_count": 378,
+          "like_count": 6612,
+          "listed_count": 1,
+          "media_count": 114,
+          "tweet_count": 3003
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-11T18:50:09.000Z",
+        "description": "直男/全是碎碎念/大一牲/经常性发电/表达能力极差/enfp/喜欢rnb，指弹等等等等/欢迎互关唠嗑，私信实在太卡，实在喜欢煮啵可以恰v哈/https://t.co/ogdo3kB85e",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wuwuhui",
+                "end": 93,
+                "expanded_url": "https://ngl.link/wuwuhui",
+                "start": 70,
+                "url": "https://t.co/ogdo3kB85e"
+              }
+            ]
+          }
+        },
+        "id": "1656733330421981184",
+        "location": "地球",
+        "name": "伍伍惠狂吃米粉撑死后魂穿异世界化身吉他指弹大神实录",
+        "pinned_tweet_id": "1906750861151445436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831345100309614592/hqDlQiYm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 553,
+          "like_count": 5319,
+          "listed_count": 3,
+          "media_count": 93,
+          "tweet_count": 922
+        },
+        "username": "tshshis",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-06T15:16:34.000Z",
+        "description": "05｜esfp｜置顶推广自辨！！！不会加除了互关以外的任何人！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyuan19403",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyuan19403",
+                "start": 0,
+                "url": "https://t.co/MKfLw1y6ie"
+              }
+            ]
+          }
+        },
+        "id": "1865052657586704387",
+        "name": "小圆",
+        "pinned_tweet_id": "1914697438570668217",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885339658038505472/vePVHRPw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3990,
+          "following_count": 208,
+          "like_count": 4129,
+          "listed_count": 4,
+          "media_count": 75,
+          "tweet_count": 805
+        },
+        "url": "https://t.co/MKfLw1y6ie",
+        "username": "xiaoyuanlucky1",
+        "verified": false
+      }
+    ]
+  }
+}

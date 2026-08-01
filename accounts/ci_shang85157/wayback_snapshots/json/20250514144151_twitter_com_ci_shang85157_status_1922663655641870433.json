@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1922621885608509827",
+    "created_at": "2025-05-14T14:41:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-14T15:41:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922663655641870433"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1794387376384376832",
+          "start": 0,
+          "username": "Starry_Sand_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922663655641870433",
+    "in_reply_to_user_id": "1794387376384376832",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922621885608509827",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Starry_Sand_ 接受不了"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "晚餐。",
+        "height": 922,
+        "media_key": "3_1922621879229014017",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gq6GaaTW4AEYCMC.jpg",
+        "width": 2048
+      },
+      {
+        "alt_text": "午餐。",
+        "height": 922,
+        "media_key": "3_1922621876586582016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gq6GaQdWkAAeveq.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1922621885608509827",
+        "created_at": "2025-05-14T14:41:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T15:41:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922663655641870433"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1794387376384376832",
+              "start": 0,
+              "username": "Starry_Sand_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922663655641870433",
+        "in_reply_to_user_id": "1794387376384376832",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922621885608509827",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Starry_Sand_ 接受不了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1922621879229014017",
+            "3_1922621876586582016"
+          ]
+        },
+        "author_id": "1794387376384376832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1922621885608509827",
+        "created_at": "2025-05-14T11:55:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T12:55:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1922621885608509827"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XHchcMjqAo",
+              "end": 56,
+              "expanded_url": "https://x.com/Starry_Sand_/status/1922621885608509827/photo/1",
+              "media_key": "3_1922621879229014017",
+              "start": 33,
+              "url": "https://t.co/XHchcMjqAo"
+            },
+            {
+              "display_url": "pic.x.com/XHchcMjqAo",
+              "end": 56,
+              "expanded_url": "https://x.com/Starry_Sand_/status/1922621885608509827/photo/1",
+              "media_key": "3_1922621876586582016",
+              "start": 33,
+              "url": "https://t.co/XHchcMjqAo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922621885608509827",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 248,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这些就是厂子的伙食，午餐十七，晚餐十一块钱，都不包吃，就只包住。 https://t.co/XHchcMjqAo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 570,
+          "following_count": 506,
+          "like_count": 9537,
+          "listed_count": 2,
+          "media_count": 156,
+          "tweet_count": 4017
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-25T15:18:17.000Z",
+        "description": "只是透明人，并不想把时间浪费在推特上。有些PTSD，性情乖僻，生活推（可能半学术推？）岁静状态，无关键政无特别政治立场、无明显意识形态。比较讨厌吵架对线，一律屏蔽与发推文展示所遇到的诈骗机器人、喷子、黄推、媚黄推、广告推、恶意账户、冒仿账户、乞讨账户、各类恶俗账户与三无账户，也包括了寻衅滋事者与对我恶意键政的用户🚫。",
+        "id": "1794387376384376832",
+        "location": "自己家里",
+        "name": "☨保禄伊纳爵 ♰✝︎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921413635093450752/6ZHHiSBy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 816,
+          "following_count": 858,
+          "like_count": 97106,
+          "listed_count": 2,
+          "media_count": 2232,
+          "tweet_count": 11993
+        },
+        "username": "Starry_Sand_",
+        "verified": false
+      }
+    ]
+  }
+}

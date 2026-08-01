@@ -1,0 +1,445 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1968909143689019392"
+      ],
+      "media_source_tweet_id": [
+        "1968909154224923076"
+      ]
+    },
+    "author_id": "1826281483675299840",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1236052936121151488",
+          "name": "Chainsaw Man"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1236052936121151488",
+          "name": "Chainsaw Man"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "1969000032092201201",
+    "created_at": "2025-09-19T11:26:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-19T12:26:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969000032092201201"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 19,
+          "start": 15,
+          "tag": "マキマ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1582889727694295041",
+          "start": 3,
+          "username": "Seo_miaa_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Bo2ygIRAka",
+          "end": 43,
+          "expanded_url": "https://x.com/Seo_miaa_/status/1968909154224923076/photo/1",
+          "media_key": "3_1968909143689019392",
+          "start": 20,
+          "url": "https://t.co/Bo2ygIRAka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969000032092201201",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 33
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968909154224923076",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Seo_miaa_: #マキマ https://t.co/Bo2ygIRAka"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1968909143689019392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1L4bziaQAApxrT.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968909143689019392"
+          ],
+          "media_source_tweet_id": [
+            "1968909154224923076"
+          ]
+        },
+        "author_id": "1826281483675299840",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "1969000032092201201",
+        "created_at": "2025-09-19T11:26:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T12:26:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969000032092201201"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 15,
+              "tag": "マキマ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1582889727694295041",
+              "start": 3,
+              "username": "Seo_miaa_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Bo2ygIRAka",
+              "end": 43,
+              "expanded_url": "https://x.com/Seo_miaa_/status/1968909154224923076/photo/1",
+              "media_key": "3_1968909143689019392",
+              "start": 20,
+              "url": "https://t.co/Bo2ygIRAka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969000032092201201",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 33
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968909154224923076",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Seo_miaa_: #マキマ https://t.co/Bo2ygIRAka"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968909143689019392"
+          ]
+        },
+        "author_id": "1582889727694295041",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "1968909154224923076",
+        "created_at": "2025-09-19T05:24:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T06:24:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968909154224923076"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "マキマ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Bo2ygIRAka",
+              "end": 28,
+              "expanded_url": "https://x.com/Seo_miaa_/status/1968909154224923076/photo/1",
+              "media_key": "3_1968909143689019392",
+              "start": 5,
+              "url": "https://t.co/Bo2ygIRAka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968909154224923076",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 129,
+          "impression_count": 11852,
+          "like_count": 824,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "#マキマ https://t.co/Bo2ygIRAka"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧   小男友@pertx114514\n星努@wuyan_sleeeepy还有穹璃\n互fo可以私信我交朋友什么的 反正我还挺闲 然后就是没有然后了 一切都是最好的安排",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 27,
+                "username": "pertx114514"
+              },
+              {
+                "end": 57,
+                "start": 42,
+                "username": "wuyan_sleeeepy"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉方",
+        "pinned_tweet_id": "1932824152811188484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 792,
+          "following_count": 624,
+          "like_count": 15270,
+          "listed_count": 3,
+          "media_count": 183,
+          "tweet_count": 6063
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-20T00:23:01.000Z",
+        "description": "可以叫我小包包🫶是本人 同步照片ing",
+        "id": "1582889727694295041",
+        "name": "小包包一枚",
+        "pinned_tweet_id": "1923761669588820155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892525705927299072/yEGOGu05_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12620,
+          "following_count": 129,
+          "like_count": 2081,
+          "listed_count": 63,
+          "media_count": 84,
+          "tweet_count": 139
+        },
+        "username": "Seo_miaa_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1866337154986824016",
+    "created_at": "2024-12-11T23:03:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-12T00:03:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1866982179701735668"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1247123754158702593",
+          "start": 0,
+          "username": "RokuNanami"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1866982179701735668",
+    "in_reply_to_user_id": "1247123754158702593",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1866337154986824016",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RokuNanami 玩galgame玩出幻想了吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1866337154986824016",
+        "created_at": "2024-12-11T23:03:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-12T00:03:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866982179701735668"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1247123754158702593",
+              "start": 0,
+              "username": "RokuNanami"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866982179701735668",
+        "in_reply_to_user_id": "1247123754158702593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866337154986824016",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RokuNanami 玩galgame玩出幻想了吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1247123754158702593",
+        "conversation_id": "1866337154986824016",
+        "created_at": "2024-12-10T04:20:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-10T05:20:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1866337154986824016"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1866337154986824016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 12560,
+          "like_count": 175,
+          "quote_count": 3,
+          "reply_count": 28,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "新同桌好像挺不错的。准备攻略了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，有兴趣就可以一起玩",
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844188914451365901/gNnOT4GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 247,
+          "like_count": 1063,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 352
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-06T11:27:44.000Z",
+        "description": "",
+        "id": "1247123754158702593",
+        "name": "海うみ ✞",
+        "pinned_tweet_id": "1865401990655926280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863088436845916160/OI859fpp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1452,
+          "following_count": 788,
+          "like_count": 57608,
+          "listed_count": 8,
+          "media_count": 338,
+          "tweet_count": 6628
+        },
+        "username": "RokuNanami",
+        "verified": false
+      }
+    ]
+  }
+}

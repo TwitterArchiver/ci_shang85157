@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "2004889608908390482",
+    "created_at": "2025-12-28T05:01:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-28T06:01:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005142151320248365"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1970976458039492609",
+          "start": 0,
+          "username": "qolAm0hvmW89213"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005142151320248365",
+    "in_reply_to_user_id": "1970976458039492609",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005082751909986327",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qolAm0hvmW89213 我鸟你！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "2004889608908390482",
+        "created_at": "2025-12-28T05:01:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T06:01:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005142151320248365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1970976458039492609",
+              "start": 0,
+              "username": "qolAm0hvmW89213"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005142151320248365",
+        "in_reply_to_user_id": "1970976458039492609",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005082751909986327",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qolAm0hvmW89213 我鸟你！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970976458039492609",
+        "conversation_id": "2004889608908390482",
+        "created_at": "2025-12-28T01:05:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T02:05:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005082751909986327"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1826281483675299840",
+              "start": 0,
+              "username": "ci_shang85157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005082751909986327",
+        "in_reply_to_user_id": "1826281483675299840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004889608908390482",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ci_shang85157 我鸟你（表情包先欠着）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧 结义兄弟 @SoSleepy4wy还有穹璃 求求你们了找我聊天好不好https://t.co/ILEWFdOQz0。 ngl匿名问答",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 27,
+                "username": "SoSleepy4wy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%8950122",
+                "end": 79,
+                "expanded_url": "https://ngl.link/%E6%B3%8950122",
+                "start": 56,
+                "url": "https://t.co/ILEWFdOQz0"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉",
+        "pinned_tweet_id": "1970427616353296660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978274114138996736/r_khhgIT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 812,
+          "following_count": 650,
+          "like_count": 19551,
+          "listed_count": 2,
+          "media_count": 220,
+          "tweet_count": 7194
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-24T22:19:52.000Z",
+        "description": "我就碎碎念碎碎念……当日记本发，想到什么发什么，基本无攻击性除非遇见很逆天的人跟事₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1970976458039492609",
+        "name": "到底该吃什么好",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005087711904907264/VPLxZTGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 42,
+          "like_count": 599,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 234
+        },
+        "username": "qolAm0hvmW89213",
+        "verified": false
+      }
+    ]
+  }
+}

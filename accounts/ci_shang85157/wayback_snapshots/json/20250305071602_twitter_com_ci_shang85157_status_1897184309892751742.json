@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1865752143837462744",
+    "created_at": "2025-03-05T07:16:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-05T08:16:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897184309892751742"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1516941936971554817",
+          "start": 0,
+          "username": "Wolfy_XBT"
+        },
+        {
+          "end": 27,
+          "id": "1445634345142611972",
+          "start": 11,
+          "username": "zhangxiaomiaoya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897184309892751742",
+    "in_reply_to_user_id": "1516941936971554817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1865752305800458541",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wolfy_XBT @zhangxiaomiaoya 现在呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1865752143837462744",
+        "created_at": "2025-03-05T07:16:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-05T08:16:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897184309892751742"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1516941936971554817",
+              "start": 0,
+              "username": "Wolfy_XBT"
+            },
+            {
+              "end": 27,
+              "id": "1445634345142611972",
+              "start": 11,
+              "username": "zhangxiaomiaoya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897184309892751742",
+        "in_reply_to_user_id": "1516941936971554817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1865752305800458541",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wolfy_XBT @zhangxiaomiaoya 现在呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1516941936971554817",
+        "conversation_id": "1865752143837462744",
+        "created_at": "2024-12-08T13:36:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-08T14:36:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1865752305800458541"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1445634345142611972",
+              "start": 0,
+              "username": "zhangxiaomiaoya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865752305800458541",
+        "in_reply_to_user_id": "1445634345142611972",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 13661,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1865752236485468511",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhangxiaomiaoya 男人的第六感。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲\n小猫：@kimKAAAAAILUV",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kimKAAAAAILUV"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844188914451365901/gNnOT4GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 295,
+          "like_count": 2876,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 1330
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-21T00:48:42.000Z",
+        "description": "数据分析 & 信息整理博主｜全职韭菜｜兼职傻逼｜尽我所能地真诚对待所有人｜商务合作请联系小助理：@Wolf_Assist｜买 Memecoin 推荐使用 GMGN 工具：https://t.co/So9qyNKHTQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 48,
+                "username": "Wolf_Assist"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "gmgn.ai/?ref=rYYybUsv&…",
+                "end": 108,
+                "expanded_url": "http://gmgn.ai/?ref=rYYybUsv&chain=sol",
+                "start": 85,
+                "url": "https://t.co/So9qyNKHTQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/killthewolf",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/killthewolf",
+                "start": 0,
+                "url": "https://t.co/qzROKKvQHj"
+              }
+            ]
+          }
+        },
+        "id": "1516941936971554817",
+        "location": "🚪520/1314 不约线下",
+        "name": "杀破狼 WolfyXBT",
+        "pinned_tweet_id": "1867589668700926395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1680938637628944384/2FYk0Ft4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 812215,
+          "following_count": 5186,
+          "like_count": 39721,
+          "listed_count": 2952,
+          "media_count": 1874,
+          "tweet_count": 16794
+        },
+        "url": "https://t.co/qzROKKvQHj",
+        "username": "Wolfy_XBT",
+        "verified": true
+      },
+      {
+        "created_at": "2021-10-06T06:18:01.000Z",
+        "description": "",
+        "id": "1445634345142611972",
+        "name": "張小喵🦎Chameleon",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778756605645066241/9xIg1XxI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 406,
+          "following_count": 1718,
+          "like_count": 3948,
+          "listed_count": 16,
+          "media_count": 76,
+          "tweet_count": 2860
+        },
+        "username": "zhangxiaomiaoya",
+        "verified": false
+      }
+    ]
+  }
+}

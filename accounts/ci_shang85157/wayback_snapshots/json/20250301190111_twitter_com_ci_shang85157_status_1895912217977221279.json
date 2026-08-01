@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1895818949972922559",
+    "created_at": "2025-03-01T19:01:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-01T20:01:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895912217977221279"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1692013623319969792",
+          "start": 0,
+          "username": "Sugita_Midoriko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895912217977221279",
+    "in_reply_to_user_id": "1692013623319969792",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895818949972922559",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sugita_Midoriko 可以啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1895818945023655936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gk9NSTiXQAABAPZ.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1895818949972922559",
+        "created_at": "2025-03-01T19:01:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-01T20:01:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895912217977221279"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1692013623319969792",
+              "start": 0,
+              "username": "Sugita_Midoriko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895912217977221279",
+        "in_reply_to_user_id": "1692013623319969792",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895818949972922559",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sugita_Midoriko 可以啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1895818945023655936"
+          ]
+        },
+        "author_id": "1692013623319969792",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1895818949972922559",
+        "created_at": "2025-03-01T12:50:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-01T13:50:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1895818949972922559"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinityweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinityweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1893458724360245248/rtmQfOtw?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1893458724360245248/rtmQfOtw?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinityweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/0orTwabDyW"
+            },
+            {
+              "display_url": "pic.x.com/gJ234sKQdq",
+              "end": 64,
+              "expanded_url": "https://x.com/Sugita_Midoriko/status/1895818949972922559/photo/1",
+              "media_key": "3_1895818945023655936",
+              "start": 41,
+              "url": "https://t.co/gJ234sKQdq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895818949972922559",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 267,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/0orTwabDyW https://t.co/gJ234sKQdq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲",
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844188914451365901/gNnOT4GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 272,
+          "like_count": 2600,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 1213
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-17T03:21:22.000Z",
+        "description": "妹妹@_AkitaYura💓\n电波宗教系、跨性别🏳️‍⚧️、无性恋、二次元、健全逼，喜欢轻音乐，现在的想法是写小说，喜欢萌萌的和电波的视觉小说，不喜欢外星人设定，猫娘设定，异世界设定，不建政🈲黄赌毒\n|she/they|mtp|无性别主义|女权主义|包容主义♋🍥✝️♓\n|hrt主后2025年2月7日|基督徒💮",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "_AkitaYura"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/koshian_green",
+                "end": 23,
+                "expanded_url": "http://ngl.link/koshian_green",
+                "start": 0,
+                "url": "https://t.co/ELFVWyur34"
+              }
+            ]
+          }
+        },
+        "id": "1692013623319969792",
+        "location": "夏の大三角",
+        "name": "♓杉田 緑子🍥",
+        "pinned_tweet_id": "1889119681577099571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892057652416704512/odRdK0Uh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 473,
+          "following_count": 330,
+          "like_count": 13944,
+          "listed_count": 3,
+          "media_count": 257,
+          "tweet_count": 2116
+        },
+        "url": "https://t.co/ELFVWyur34",
+        "username": "Sugita_Midoriko",
+        "verified": false
+      }
+    ]
+  }
+}

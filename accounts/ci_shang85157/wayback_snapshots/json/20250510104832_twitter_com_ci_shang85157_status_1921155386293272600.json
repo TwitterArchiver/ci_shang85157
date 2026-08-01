@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1921154432261066801",
+    "created_at": "2025-05-10T10:48:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-10T11:48:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921155386293272600"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1921155386293272600",
+    "in_reply_to_user_id": "1826281483675299840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921154432261066801",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我发那个帖子也只是对劳动者的处境感到不满，没有人提出问题怎么会有改变呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1921154432261066801",
+        "created_at": "2025-05-10T10:48:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-10T11:48:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921155386293272600"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1921155386293272600",
+        "in_reply_to_user_id": "1826281483675299840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921154432261066801",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我发那个帖子也只是对劳动者的处境感到不满，没有人提出问题怎么会有改变呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1921154432261066801",
+        "created_at": "2025-05-10T10:44:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-10T11:44:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921154432261066801"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aoprf/status/1…",
+              "end": 144,
+              "expanded_url": "https://twitter.com/aoprf/status/1921122481999380972",
+              "start": 121,
+              "url": "https://t.co/JAg38yVAVx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921154432261066801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 212,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921122481999380972",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "继续上一条帖子，针对我嘛，我不知道你是说二次元群体还是什么，和工作方面并没有关系吧，我就一脱产的学生，有这个时间骂还想想咋样干点正事让自己过的好点吧，这个权利也是需要广大劳动群众所共同争取的，张口闭口就是不配，可以告诉我你是多么高尚的人吗？ https://t.co/JAg38yVAVx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 534,
+          "following_count": 485,
+          "like_count": 9081,
+          "listed_count": 2,
+          "media_count": 146,
+          "tweet_count": 3833
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      }
+    ]
+  }
+}

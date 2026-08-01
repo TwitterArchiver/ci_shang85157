@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1958496597488054779",
+    "created_at": "2025-08-23T23:41:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-24T00:41:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959400556138823934"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1782463420631220227",
+          "start": 0,
+          "username": "wsmwsmwuwuwu555"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959400556138823934",
+    "in_reply_to_user_id": "1782463420631220227",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958496597488054779",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wsmwsmwuwuwu555 那好吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1958496597488054779",
+        "created_at": "2025-08-23T23:41:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T00:41:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959400556138823934"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1782463420631220227",
+              "start": 0,
+              "username": "wsmwsmwuwuwu555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959400556138823934",
+        "in_reply_to_user_id": "1782463420631220227",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958496597488054779",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wsmwsmwuwuwu555 那好吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782463420631220227",
+        "conversation_id": "1958496597488054779",
+        "created_at": "2025-08-21T11:49:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T12:49:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958496597488054779"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1958496597488054779",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 657,
+          "like_count": 37,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "曼波曼波哦马几里曼波\n哈基米呐咩鲁嗨呀库呐鲁\n达布 达布 尤达尤达阿西噶\n哈基米哈基米曼波\nWOW!\n阿西嘎\n哈基米哈基米曼波\nWOW！\n哈基米哈基米曼波\nWOW！\n阿西嘎\n哈基米哈基米曼波\nWOW！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像失去了一条时间线，算了，我们从来吧",
+        "id": "1826281483675299840",
+        "name": "泉方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 714,
+          "following_count": 563,
+          "like_count": 13226,
+          "listed_count": 2,
+          "media_count": 161,
+          "tweet_count": 5383
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-22T17:36:21.000Z",
+        "description": "绿豆糕绿豆糕绿豆糕绿豆糕绿豆糕\n糕糕糕糕糕糕糕糕糕糕糕糕糕糕糕",
+        "id": "1782463420631220227",
+        "location": "绿豆糕星球",
+        "name": "绿豆糕糕",
+        "pinned_tweet_id": "1944709893430317426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886824583879340032/qInsLAxs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 839,
+          "like_count": 73034,
+          "listed_count": 1,
+          "media_count": 205,
+          "tweet_count": 2091
+        },
+        "username": "wsmwsmwuwuwu555",
+        "verified": false
+      }
+    ]
+  }
+}

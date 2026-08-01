@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1920054674876445020",
+    "created_at": "2025-05-07T09:54:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-07T10:54:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1920054674876445020"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Tiandaidaidai/…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/Tiandaidaidai/status/1920048259009073606",
+          "start": 6,
+          "url": "https://t.co/88gRqMT6au"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920054674876445020",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920048259009073606",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不辣吗这个 https://t.co/88gRqMT6au"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1920054674876445020",
+        "created_at": "2025-05-07T09:54:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T10:54:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920054674876445020"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Tiandaidaidai/…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/Tiandaidaidai/status/1920048259009073606",
+              "start": 6,
+              "url": "https://t.co/88gRqMT6au"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920054674876445020",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920048259009073606",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不辣吗这个 https://t.co/88gRqMT6au"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561588899499196417",
+        "conversation_id": "1920048259009073606",
+        "created_at": "2025-05-07T09:29:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T10:29:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920048259009073606"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/XMYao1998/stat…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/XMYao1998/status/1919968551592403051",
+              "start": 5,
+              "url": "https://t.co/C4V6c9KDzk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920048259009073606",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919968551592403051",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不行了 https://t.co/C4V6c9KDzk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 492,
+          "following_count": 451,
+          "like_count": 8491,
+          "listed_count": 2,
+          "media_count": 140,
+          "tweet_count": 3565
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-22T05:39:42.000Z",
+        "description": "碎碎念餐券女 🏳️‍⚧️🏳️‍🌈友好 看黄的别关注了没有好看的",
+        "id": "1561588899499196417",
+        "name": "⊹天填甜田添恬黛⊹",
+        "pinned_tweet_id": "1891478658998575281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919579079751434243/uckYyxwP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1225,
+          "following_count": 1500,
+          "like_count": 47766,
+          "listed_count": 4,
+          "media_count": 430,
+          "tweet_count": 7132
+        },
+        "username": "Tiandaidaidai",
+        "verified": false
+      }
+    ]
+  }
+}

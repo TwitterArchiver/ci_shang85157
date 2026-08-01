@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1903906432799719778",
+    "created_at": "2025-03-24T01:09:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-24T02:09:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903977468836646971"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1177007765493100544",
+          "start": 0,
+          "username": "xiaokaotu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903977468836646971",
+    "in_reply_to_user_id": "1177007765493100544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903910565116096854",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaokaotu 我基本上每天都跑的还是没有用"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1903906432799719778",
+        "created_at": "2025-03-24T01:09:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-24T02:09:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903977468836646971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1177007765493100544",
+              "start": 0,
+              "username": "xiaokaotu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903977468836646971",
+        "in_reply_to_user_id": "1177007765493100544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903910565116096854",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaokaotu 我基本上每天都跑的还是没有用"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1177007765493100544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1129067985451118593",
+              "name": "Physical Education"
+            }
+          }
+        ],
+        "conversation_id": "1903906432799719778",
+        "created_at": "2025-03-23T20:43:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T21:43:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903910565116096854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1826281483675299840",
+              "start": 0,
+              "username": "ci_shang85157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903910565116096854",
+        "in_reply_to_user_id": "1826281483675299840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903906432799719778",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ci_shang85157 我以前失眠时会服用褪黑素，但剂量不能太大，通常半粒或更少就足够了。不过，最好的助眠方式还是尽量避免依赖药物，比如白天多到户外活动，跑步或进行其他体育锻炼，让身体在白天消耗足够的能量，晚上自然更容易入睡。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 334,
+          "following_count": 327,
+          "like_count": 4442,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 1978
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-25T23:51:44.000Z",
+        "description": "要是LA能少点堵车，该多好。",
+        "id": "1177007765493100544",
+        "location": "Los Angeles, CA",
+        "name": "小烤兔",
+        "pinned_tweet_id": "1315864690292068354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1530597125662208000/cz0DPr8V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2425,
+          "following_count": 252,
+          "like_count": 8502,
+          "listed_count": 15,
+          "media_count": 11,
+          "tweet_count": 553
+        },
+        "username": "xiaokaotu",
+        "verified": false
+      }
+    ]
+  }
+}

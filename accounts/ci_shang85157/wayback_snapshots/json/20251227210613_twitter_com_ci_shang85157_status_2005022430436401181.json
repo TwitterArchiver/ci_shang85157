@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1973984422094598311",
+    "created_at": "2025-12-27T21:06:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T22:06:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005022430436401181"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1973043347658059776",
+          "start": 0,
+          "username": "Naixu_01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005022430436401181",
+    "in_reply_to_user_id": "1973043347658059776",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973984422094598311",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Naixu_01 萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1444,
+        "media_key": "3_1973984275516010496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2UAPW5WsAAltG2.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1973984422094598311",
+        "created_at": "2025-12-27T21:06:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T22:06:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005022430436401181"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1973043347658059776",
+              "start": 0,
+              "username": "Naixu_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005022430436401181",
+        "in_reply_to_user_id": "1973043347658059776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973984422094598311",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Naixu_01 萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1973984275516010496"
+          ]
+        },
+        "author_id": "1973043347658059776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "1973984422094598311",
+        "created_at": "2025-10-03T05:32:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T06:32:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1973984422094598311"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1jsXdwNXM0",
+              "end": 49,
+              "expanded_url": "https://x.com/Naixu_01/status/1973984422094598311/photo/1",
+              "media_key": "3_1973984275516010496",
+              "start": 26,
+              "url": "https://t.co/1jsXdwNXM0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973984422094598311",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 284,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "邦邦卡邦～\n#天童爱丽丝#cosplay#蔚蓝档案 https://t.co/1jsXdwNXM0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧 结义兄弟 @SoSleepy4wy还有穹璃 求求你们了找我聊天好不好https://t.co/ILEWFdOQz0。 ngl匿名问答",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 27,
+                "username": "SoSleepy4wy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%8950122",
+                "end": 79,
+                "expanded_url": "https://ngl.link/%E6%B3%8950122",
+                "start": 56,
+                "url": "https://t.co/ILEWFdOQz0"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉",
+        "pinned_tweet_id": "1970427616353296660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978274114138996736/r_khhgIT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 805,
+          "following_count": 648,
+          "like_count": 19515,
+          "listed_count": 2,
+          "media_count": 220,
+          "tweet_count": 7184
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-30T15:12:54.000Z",
+        "description": "QwQ",
+        "id": "1973043347658059776",
+        "name": "晓奈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973047186972942336/l7XcCi06_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 66,
+          "like_count": 398,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 58
+        },
+        "username": "Naixu_01",
+        "verified": false
+      }
+    ]
+  }
+}

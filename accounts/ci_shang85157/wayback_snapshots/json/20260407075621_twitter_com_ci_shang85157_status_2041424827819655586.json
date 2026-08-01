@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "2039696685967032477",
+    "created_at": "2026-04-07T07:56:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T08:56:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041424827819655586"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1537785059289100288",
+          "start": 0,
+          "username": "niganma20586"
+        },
+        {
+          "end": 26,
+          "id": "1705262200036925440",
+          "start": 14,
+          "username": "xinjie87288"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041424827819655586",
+    "in_reply_to_user_id": "1537785059289100288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041371371083808993",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@niganma20586 @xinjie87288 我就说吧。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "2039696685967032477",
+        "created_at": "2026-04-07T07:56:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T08:56:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041424827819655586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1537785059289100288",
+              "start": 0,
+              "username": "niganma20586"
+            },
+            {
+              "end": 26,
+              "id": "1705262200036925440",
+              "start": 14,
+              "username": "xinjie87288"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041424827819655586",
+        "in_reply_to_user_id": "1537785059289100288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041371371083808993",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@niganma20586 @xinjie87288 我就说吧。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1537785059289100288",
+        "conversation_id": "2039696685967032477",
+        "created_at": "2026-04-07T04:23:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T05:23:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041371371083808993"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1705262200036925440",
+              "start": 0,
+              "username": "xinjie87288"
+            },
+            {
+              "end": 27,
+              "id": "1826281483675299840",
+              "start": 13,
+              "username": "ci_shang85157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041371371083808993",
+        "in_reply_to_user_id": "1705262200036925440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039718952457445590",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinjie87288 @ci_shang85157 难怪我每天就想着手冲，疼了我也想冲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧 https://t.co/ILEWFdOQz0。 ngl匿名问答",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%8950122",
+                "end": 45,
+                "expanded_url": "https://ngl.link/%E6%B3%8950122",
+                "start": 22,
+                "url": "https://t.co/ILEWFdOQz0"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "永雏泉",
+        "pinned_tweet_id": "2034295067847147660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978274114138996736/r_khhgIT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1085,
+          "following_count": 720,
+          "like_count": 23259,
+          "listed_count": 2,
+          "media_count": 260,
+          "tweet_count": 8345
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-17T13:11:59.000Z",
+        "description": "157，110丑八怪矮子一个。喜欢Lolita。当日记发。如果不幸刷到了我的推文有冒犯到您请您立即把我屏蔽，本人内心是玻璃最怕被骂",
+        "id": "1537785059289100288",
+        "name": "别骂我",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040184922154131456/i7TVeJ8t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 836,
+          "like_count": 2150,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 558
+        },
+        "username": "niganma20586",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-22T16:46:18.000Z",
+        "description": "无证含糖，要当小药娘了25年3月9号开始吃的色，20号开始吃的补记录一下身体的变化，不定期上线",
+        "id": "1705262200036925440",
+        "location": "北京",
+        "name": "心劫🏳‍⚧️🍥",
+        "pinned_tweet_id": "1979934845250761204",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989262151329136640/WuLZlCxG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 765,
+          "like_count": 373,
+          "listed_count": 1,
+          "media_count": 156,
+          "tweet_count": 677
+        },
+        "username": "xinjie87288",
+        "verified": false
+      }
+    ]
+  }
+}

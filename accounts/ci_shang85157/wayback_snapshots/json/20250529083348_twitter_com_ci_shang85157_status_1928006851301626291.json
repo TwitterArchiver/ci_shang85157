@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1927796465365070052",
+    "created_at": "2025-05-29T08:33:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-29T09:33:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928006851301626291"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1926204280500899843",
+          "start": 0,
+          "username": "LiangZizzz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928006851301626291",
+    "in_reply_to_user_id": "1926204280500899843",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927796465365070052",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LiangZizzz 有点意思"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7306,
+        "height": 960,
+        "media_key": "13_1927796406527610881",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1927796406527610881/img/8FGIv3WWg2sxKk3W.jpg",
+        "public_metrics": {
+          "view_count": 7
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1927796406527610881/vid/avc1/320x568/23FR_-h5P1gsOLUE.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1927796406527610881/vid/avc1/480x852/aUOak5miTCOGtIo1.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1927796406527610881/vid/avc1/540x960/WhvFn5_MdC4km1R3.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1927796406527610881/pl/gSirUYyAqdmmEiTL.m3u8"
+          }
+        ],
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1927796465365070052",
+        "created_at": "2025-05-29T08:33:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-29T09:33:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928006851301626291"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1926204280500899843",
+              "start": 0,
+              "username": "LiangZizzz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928006851301626291",
+        "in_reply_to_user_id": "1926204280500899843",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927796465365070052",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiangZizzz 有点意思"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1927796406527610881"
+          ]
+        },
+        "author_id": "1926204280500899843",
+        "conversation_id": "1927796465365070052",
+        "created_at": "2025-05-28T18:37:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T19:37:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927796465365070052"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EjOvus6lyx",
+              "end": 28,
+              "expanded_url": "https://x.com/LiangZizzz/status/1927796465365070052/video/1",
+              "media_key": "13_1927796406527610881",
+              "start": 5,
+              "url": "https://t.co/EjOvus6lyx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927796465365070052",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是奶龙 https://t.co/EjOvus6lyx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲，生理性别男，请不要私信给我发那种奇怪的东西了\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 74,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 603,
+          "following_count": 529,
+          "like_count": 10713,
+          "listed_count": 2,
+          "media_count": 170,
+          "tweet_count": 4436
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-24T09:11:13.000Z",
+        "description": "再也不要掉眼泪",
+        "id": "1926204280500899843",
+        "name": "凉子子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926204388546158593/C2WdXeM3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 35,
+          "like_count": 39,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 32
+        },
+        "username": "LiangZizzz",
+        "verified": false
+      }
+    ]
+  }
+}

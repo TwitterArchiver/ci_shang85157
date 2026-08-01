@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1912737169862746294",
+    "created_at": "2025-04-17T11:35:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-17T12:35:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912832195116601542"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1889748858466607109",
+          "start": 0,
+          "username": "824050xing"
+        },
+        {
+          "end": 23,
+          "id": "1768558050615668736",
+          "start": 12,
+          "username": "Vera_29510"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912832195116601542",
+    "in_reply_to_user_id": "1889748858466607109",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912747042075533662",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@824050xing @Vera_29510 其实团购券也是精挑细选的便宜货"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1912737169862746294",
+        "created_at": "2025-04-17T11:35:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-17T12:35:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912832195116601542"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1889748858466607109",
+              "start": 0,
+              "username": "824050xing"
+            },
+            {
+              "end": 23,
+              "id": "1768558050615668736",
+              "start": 12,
+              "username": "Vera_29510"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912832195116601542",
+        "in_reply_to_user_id": "1889748858466607109",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912747042075533662",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@824050xing @Vera_29510 其实团购券也是精挑细选的便宜货"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889748858466607109",
+        "conversation_id": "1912737169862746294",
+        "created_at": "2025-04-17T05:56:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-17T06:56:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912747042075533662"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1768558050615668736",
+              "start": 0,
+              "username": "Vera_29510"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912747042075533662",
+        "in_reply_to_user_id": "1768558050615668736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912737169862746294",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Vera_29510 其实这很好的治好了我的选择纠结症"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376,
+          "following_count": 364,
+          "like_count": 5722,
+          "listed_count": 1,
+          "media_count": 99,
+          "tweet_count": 2651
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-12T18:50:30.000Z",
+        "description": "叽里咕噜胡说八道",
+        "id": "1889748858466607109",
+        "name": "c",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905136802496970752/JgqGsAUZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 28,
+          "like_count": 1207,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 751
+        },
+        "username": "824050xing",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-15T08:41:21.000Z",
+        "description": "此女子负能量爆棚\n不约不线下(*´I`*)\n不接推广",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/Vera3766995223…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/Vera3766995223781763",
+                "start": 0,
+                "url": "https://t.co/9tyHlvRapu"
+              }
+            ]
+          }
+        },
+        "id": "1768558050615668736",
+        "location": "🚪 88 💚好友位 可闲聊，pyq开放",
+        "name": "黄金薯饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846041168439922688/ZWTZkitC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1725,
+          "following_count": 389,
+          "like_count": 33975,
+          "listed_count": 3,
+          "media_count": 99,
+          "tweet_count": 7109
+        },
+        "url": "https://t.co/9tyHlvRapu",
+        "username": "Vera_29510",
+        "verified": false
+      }
+    ]
+  }
+}

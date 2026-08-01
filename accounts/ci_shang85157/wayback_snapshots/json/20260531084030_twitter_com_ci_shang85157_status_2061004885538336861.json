@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "2060899506099757396",
+    "created_at": "2026-05-31T08:40:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T09:40:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061004885538336861"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1664271185524424705",
+          "start": 0,
+          "username": "_HATSUNEMIKU0_0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061004885538336861",
+    "in_reply_to_user_id": "1664271185524424705",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060899506099757396",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_HATSUNEMIKU0_0 想操你"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8614,
+        "height": 960,
+        "media_key": "7_2060899471136108544",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2060899471136108544/pu/img/GhpYCoVUj8awERVH.jpg",
+        "public_metrics": {
+          "view_count": 526
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2060899471136108544/pu/vid/avc1/320x426/bWWhN6ASZuTbWSVu.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2060899471136108544/pu/vid/avc1/480x640/E14AhnbSGfqhg_hZ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2060899471136108544/pu/vid/avc1/720x960/N7Lq_iA-GOow6rET.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2060899471136108544/pu/pl/ynvtaKnPuNPqli_d.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "2060899506099757396",
+        "created_at": "2026-05-31T08:40:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T09:40:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061004885538336861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1664271185524424705",
+              "start": 0,
+              "username": "_HATSUNEMIKU0_0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061004885538336861",
+        "in_reply_to_user_id": "1664271185524424705",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060899506099757396",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_HATSUNEMIKU0_0 想操你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2060899471136108544"
+          ]
+        },
+        "author_id": "1664271185524424705",
+        "conversation_id": "2060899506099757396",
+        "created_at": "2026-05-31T01:41:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T02:41:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060899506099757396"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 37,
+              "start": 31,
+              "tag": "可爱男孩子"
+            },
+            {
+              "end": 41,
+              "start": 38,
+              "tag": "伪娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/skWN2Olegp",
+              "end": 65,
+              "expanded_url": "https://x.com/_HATSUNEMIKU0_0/status/2060899506099757396/video/1",
+              "media_key": "7_2060899471136108544",
+              "start": 42,
+              "url": "https://t.co/skWN2Olegp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060899506099757396",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1669,
+          "like_count": 66,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉短发比长发好看，而且把后面扎起来父母也不会对我发难了…… #可爱男孩子 #伪娘 https://t.co/skWN2Olegp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧 https://t.co/ILEWFdOQz0。 ngl匿名问答。  嗯我是男生 不要认错了。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%8950122",
+                "end": 45,
+                "expanded_url": "https://ngl.link/%E6%B3%8950122",
+                "start": 22,
+                "url": "https://t.co/ILEWFdOQz0"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "永雏泉",
+        "pinned_tweet_id": "2060026487768760460",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978274114138996736/r_khhgIT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1156,
+          "following_count": 748,
+          "like_count": 24639,
+          "listed_count": 2,
+          "media_count": 270,
+          "tweet_count": 8783
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-01T14:02:34.000Z",
+        "description": "这里是我的推推空间，当朋友圈发的不要对我太严格…相比于其他虚无缥缈的东西，我更想点赞和夸奖谢谢。其实更喜欢你们说好看啊，可爱啊什么的。\n年龄19 体重50 身高172 含糖3年半",
+        "id": "1664271185524424705",
+        "location": "Republic of Korea",
+        "name": "咚咚咪",
+        "pinned_tweet_id": "1877554995194900912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959204642958852096/AuutbRtN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 553,
+          "following_count": 68,
+          "like_count": 94,
+          "listed_count": 2,
+          "media_count": 29,
+          "tweet_count": 228
+        },
+        "username": "_HATSUNEMIKU0_0",
+        "verified": false
+      }
+    ]
+  }
+}

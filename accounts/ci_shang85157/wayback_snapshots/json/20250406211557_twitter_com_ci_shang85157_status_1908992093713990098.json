@@ -1,0 +1,408 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1908992093713990098",
+    "created_at": "2025-04-06T21:15:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-06T22:15:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1908992093713990098"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 160,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/1907341162798883259",
+          "start": 137,
+          "url": "https://t.co/4WRauLfElV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908992093713990098",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907341162798883259",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "早上刚刚醒就刷到这个，想哭，为什么还会有这种人出现，我的政治立场一直都是中立的，不想作出太多评价，但是每次我看到这种视频我都感觉好难受，劳动人民只是想让生活过的好一点，为什么这么难，让人民过得幸福一些就这么难吗？这也不是个例，也不会是最后一例，革命尚未成功，同志仍需努力。 https://t.co/4WRauLfElV"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13300,
+        "height": 1280,
+        "media_key": "7_1907339963370496000",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1907339963370496000/pu/img/h_RHECeZ3ijyadPU.jpg",
+        "public_metrics": {
+          "view_count": 163106
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1907339963370496000/pu/vid/avc1/320x568/PVT7zcxmx5FtryIa.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1907339963370496000/pu/vid/avc1/480x852/MHhL5MzurVLdWYo2.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1907339963370496000/pu/vid/avc1/720x1280/nE7eLnzMQTY3nJ4d.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1907339963370496000/pu/pl/faSISuzVpvlLv6iB.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 30933,
+        "height": 1920,
+        "media_key": "7_1907339993263341568",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1907339993263341568/pu/img/Dqa4t6h6IxD2UIAL.jpg",
+        "public_metrics": {
+          "view_count": 27969
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1907339993263341568/pu/vid/avc1/320x568/90ImhcbnXQhST1KE.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1907339993263341568/pu/vid/avc1/480x852/ajkCF39h_0jd0v76.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1907339993263341568/pu/vid/avc1/720x1280/Pr478fGMPFJZ4s69.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1907339993263341568/pu/pl/QG9YTz-_pQYaQ7_O.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 1080
+      },
+      {
+        "duration_ms": 20949,
+        "height": 1280,
+        "media_key": "7_1907340006609625088",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1907340006609625088/pu/img/g30hhMcw2_h9lvIM.jpg",
+        "public_metrics": {
+          "view_count": 20081
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1907340006609625088/pu/vid/avc1/320x568/zchNLw56diICPraV.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1907340006609625088/pu/vid/avc1/480x852/GhZJfC_VWZ-wd7gA.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1907340006609625088/pu/vid/avc1/720x1280/4GoZaKZPqaE85XVF.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1907340006609625088/pu/pl/O441wSh4_9yK-GyR.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 1670,
+        "media_key": "3_1907340542444441600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gng8HioaEAAVsgQ.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1908992093713990098",
+        "created_at": "2025-04-06T21:15:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T22:15:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908992093713990098"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 160,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1907341162798883259",
+              "start": 137,
+              "url": "https://t.co/4WRauLfElV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908992093713990098",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907341162798883259",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "早上刚刚醒就刷到这个，想哭，为什么还会有这种人出现，我的政治立场一直都是中立的，不想作出太多评价，但是每次我看到这种视频我都感觉好难受，劳动人民只是想让生活过的好一点，为什么这么难，让人民过得幸福一些就这么难吗？这也不是个例，也不会是最后一例，革命尚未成功，同志仍需努力。 https://t.co/4WRauLfElV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1907339963370496000",
+            "7_1907339993263341568",
+            "7_1907340006609625088",
+            "3_1907340542444441600"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1907341162798883259",
+        "created_at": "2025-04-02T07:55:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T08:55:04.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907340994435240213",
+          "1907341162798883259"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/p7Q4AVxgWs",
+              "end": 87,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1907341162798883259/video/1",
+              "media_key": "7_1907339963370496000",
+              "start": 64,
+              "url": "https://t.co/p7Q4AVxgWs"
+            },
+            {
+              "display_url": "pic.x.com/p7Q4AVxgWs",
+              "end": 87,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1907341162798883259/video/1",
+              "media_key": "7_1907339993263341568",
+              "start": 64,
+              "url": "https://t.co/p7Q4AVxgWs"
+            },
+            {
+              "display_url": "pic.x.com/p7Q4AVxgWs",
+              "end": 87,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1907341162798883259/video/1",
+              "media_key": "7_1907340006609625088",
+              "start": 64,
+              "url": "https://t.co/p7Q4AVxgWs"
+            },
+            {
+              "display_url": "pic.x.com/p7Q4AVxgWs",
+              "end": 87,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1907341162798883259/video/1",
+              "media_key": "3_1907340542444441600",
+              "start": 64,
+              "url": "https://t.co/p7Q4AVxgWs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907341162798883259",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 305,
+          "impression_count": 968585,
+          "like_count": 1781,
+          "quote_count": 43,
+          "reply_count": 224,
+          "retweet_count": 276
+        },
+        "reply_settings": "everyone",
+        "text": "4月1日，浙江湖州。视频显示，采茶工人们吃着白水煮面条，十几号人挤在一间简易的铁皮房里，工人们还要哄抢食物，否则有可能吃不上。 https://t.co/p7Q4AVxgWs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 348,
+          "following_count": 349,
+          "like_count": 5001,
+          "listed_count": 1,
+          "media_count": 89,
+          "tweet_count": 2270
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n欢迎关注我们的社区账号 @Li_DAOmeme\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Li_DAOmeme"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/TeacherLiSubmi…",
+                "end": 31,
+                "expanded_url": "http://t.me/TeacherLiSubmissionBot",
+                "start": 8,
+                "url": "https://t.co/9wAEWYYL4J"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 121,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 98,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1895792411546398743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1967120,
+          "following_count": 948,
+          "like_count": 6182,
+          "listed_count": 8086,
+          "media_count": 26034,
+          "tweet_count": 32456
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

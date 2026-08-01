@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1857124023421095936"
+      ]
+    },
+    "author_id": "1826281483675299840",
+    "conversation_id": "1857124031096615403",
+    "created_at": "2024-11-14T18:10:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-14T19:10:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1857124031096615403"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mS3AWwgNUw",
+          "end": 73,
+          "expanded_url": "https://x.com/ci_shang85157/status/1857124031096615403/photo/1",
+          "media_key": "3_1857124023421095936",
+          "start": 50,
+          "url": "https://t.co/mS3AWwgNUw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1857124031096615403",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有没有人能分享一下减肥的方法，总觉得很焦虑身材，却又感觉很难减下来，羡慕有的女生的身材怎么这么好😭 https://t.co/mS3AWwgNUw"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1857124031096615403].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1857124031096615403",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1857124031096615403"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1064,
+        "media_key": "3_1857124023421095936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GcXUdbfb0AAj6Y_.jpg",
+        "width": 1080
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，有兴趣就可以一起玩",
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844188914451365901/gNnOT4GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 157,
+          "like_count": 506,
+          "listed_count": 0,
+          "tweet_count": 80
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      }
+    ]
+  }
+}

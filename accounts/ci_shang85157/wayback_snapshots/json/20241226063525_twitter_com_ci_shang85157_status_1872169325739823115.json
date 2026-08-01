@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1872167628200087658",
+    "created_at": "2024-12-26T06:35:25.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-26T07:35:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1872169325739823115"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "702827952803680256",
+          "start": 0,
+          "username": "allvulples"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1872169325739823115",
+    "in_reply_to_user_id": "702827952803680256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872169127848427745",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@allvulples 我胡乱说的，嘻嘻嘻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1872167628200087658",
+        "created_at": "2024-12-26T06:35:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-26T07:35:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872169325739823115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "702827952803680256",
+              "start": 0,
+              "username": "allvulples"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872169325739823115",
+        "in_reply_to_user_id": "702827952803680256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872169127848427745",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@allvulples 我胡乱说的，嘻嘻嘻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "702827952803680256",
+        "conversation_id": "1872167628200087658",
+        "created_at": "2024-12-26T06:34:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-26T07:34:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872169127848427745"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1826281483675299840",
+              "start": 0,
+              "username": "ci_shang85157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872169127848427745",
+        "in_reply_to_user_id": "1826281483675299840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872167628200087658",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ci_shang85157 誰說的？哪怕厲害國也沒敢全部取締吧。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，有兴趣就可以一起玩",
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844188914451365901/gNnOT4GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 284,
+          "like_count": 1460,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 599
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2016-02-25T12:10:16.000Z",
+        "description": "BIG BANG BAD BOYS AND GIRLS.",
+        "id": "702827952803680256",
+        "location": "Hong Kong",
+        "name": "Demonkeyse Manell",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851675836552003584/P9GHvu4w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 1533,
+          "like_count": 12304,
+          "listed_count": 4,
+          "media_count": 128,
+          "tweet_count": 15749
+        },
+        "username": "allvulples",
+        "verified": false
+      }
+    ]
+  }
+}

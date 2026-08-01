@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1958010794949382564",
+    "created_at": "2025-08-20T04:22:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-20T05:22:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958021858219159752"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1656733330421981184",
+          "start": 0,
+          "username": "Satoshi_go_go"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958021858219159752",
+    "in_reply_to_user_id": "1656733330421981184",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958010794949382564",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Satoshi_go_go 吃🍬"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1958010794949382564",
+        "created_at": "2025-08-20T04:22:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-20T05:22:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958021858219159752"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1656733330421981184",
+              "start": 0,
+              "username": "Satoshi_go_go"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958021858219159752",
+        "in_reply_to_user_id": "1656733330421981184",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958010794949382564",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Satoshi_go_go 吃🍬"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1656733330421981184",
+        "conversation_id": "1958010794949382564",
+        "created_at": "2025-08-20T03:38:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-20T04:38:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958010794949382564"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1958010794949382564",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 155,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们腋下都是怎么管理的。感觉我腋毛好多。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像失去了一条时间线，算了，我们从来吧",
+        "id": "1826281483675299840",
+        "name": "泉方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 707,
+          "following_count": 550,
+          "like_count": 13024,
+          "listed_count": 2,
+          "media_count": 159,
+          "tweet_count": 5318
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-11T18:50:09.000Z",
+        "description": "碎碎念/经常性发电/表达能力极差/enfp/喜欢rnb，指弹等等等等/不会骂人也不会安慰人/私信不卡/https://t.co/AM1jiWAwbg自用蜂鸟VPN：https://t.co/nBhfi58bKd",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wuwuhui/",
+                "end": 74,
+                "expanded_url": "https://ngl.link/wuwuhui/",
+                "start": 51,
+                "url": "https://t.co/AM1jiWAwbg"
+              },
+              {
+                "display_url": "vpn.fnwebnet.sbs/#/register?cod…",
+                "end": 105,
+                "expanded_url": "https://vpn.fnwebnet.sbs/#/register?code=j6jLlbuy",
+                "start": 82,
+                "url": "https://t.co/nBhfi58bKd"
+              }
+            ]
+          }
+        },
+        "id": "1656733330421981184",
+        "location": "地球",
+        "name": "伍伍惠",
+        "pinned_tweet_id": "1906750861151445436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946930344373997568/6pgsaGFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 650,
+          "following_count": 765,
+          "like_count": 16425,
+          "listed_count": 5,
+          "media_count": 382,
+          "tweet_count": 5169
+        },
+        "username": "Satoshi_go_go",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1959437215928619326",
+    "created_at": "2025-08-24T02:33:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-24T03:33:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959444042485543017"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1948974359798005760",
+          "start": 0,
+          "username": "duduarmy319575"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959444042485543017",
+    "in_reply_to_user_id": "1948974359798005760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959443181373927902",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@duduarmy319575 我知道啊，但是我还是想说"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1959437215928619326",
+        "created_at": "2025-08-24T02:33:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T03:33:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959444042485543017"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1948974359798005760",
+              "start": 0,
+              "username": "duduarmy319575"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959444042485543017",
+        "in_reply_to_user_id": "1948974359798005760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959443181373927902",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@duduarmy319575 我知道啊，但是我还是想说"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948974359798005760",
+        "conversation_id": "1959437215928619326",
+        "created_at": "2025-08-24T02:30:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T03:30:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959443181373927902"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1826281483675299840",
+              "start": 0,
+              "username": "ci_shang85157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959443181373927902",
+        "in_reply_to_user_id": "1826281483675299840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959443071093047686",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ci_shang85157 宝子我们已经互关了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像失去了一条时间线，算了，我们从来吧",
+        "id": "1826281483675299840",
+        "name": "泉方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 717,
+          "following_count": 567,
+          "like_count": 13255,
+          "listed_count": 2,
+          "media_count": 161,
+          "tweet_count": 5391
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-26T05:11:21.000Z",
+        "description": "有重度抑郁症的美术牲\n只要主页帖子不是太猎奇的都会回关（🐔和🦆别来噢）\n看见男的的脚和腿毛就会原地转圈干呕喷射爆炸 \n聊骚的盗图的死妈了",
+        "id": "1948974359798005760",
+        "name": "爱吃洋芋的洋芋",
+        "pinned_tweet_id": "1959315117675622549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959103893595688960/gqEInB86_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 112,
+          "like_count": 479,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 82
+        },
+        "username": "duduarmy319575",
+        "verified": false
+      }
+    ]
+  }
+}

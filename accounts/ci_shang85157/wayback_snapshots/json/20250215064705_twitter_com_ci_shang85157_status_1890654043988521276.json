@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1890353194498142314",
+    "created_at": "2025-02-15T06:47:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-15T07:47:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1890654043988521276"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1687307776073297921",
+          "start": 0,
+          "username": "Pragevich2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890654043988521276",
+    "in_reply_to_user_id": "1687307776073297921",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890353194498142314",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Pragevich2 三千块到不至于吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1890353194498142314",
+        "created_at": "2025-02-15T06:47:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-15T07:47:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890654043988521276"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1687307776073297921",
+              "start": 0,
+              "username": "Pragevich2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890654043988521276",
+        "in_reply_to_user_id": "1687307776073297921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890353194498142314",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Pragevich2 三千块到不至于吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1890353191868592128"
+          ]
+        },
+        "author_id": "1687307776073297921",
+        "conversation_id": "1890353194498142314",
+        "created_at": "2025-02-14T10:51:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-14T11:51:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1890353194498142314"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IdpjewPgu6",
+              "end": 44,
+              "expanded_url": "https://x.com/Pragevich2/status/1890353194498142314/photo/1",
+              "media_key": "3_1890353191868592128",
+              "start": 21,
+              "url": "https://t.co/IdpjewPgu6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890353194498142314",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 7019,
+          "like_count": 104,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "我是怎么做到天天忙，但一个月只赚三千块的 https://t.co/IdpjewPgu6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲",
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844188914451365901/gNnOT4GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 240,
+          "like_count": 2357,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 1083
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-04T03:41:45.000Z",
+        "description": "trans_xyn_pansexuality_live in a virtual world_really want company_love you all\n❤️@H_galgame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 82,
+                "username": "H_galgame"
+              }
+            ]
+          }
+        },
+        "id": "1687307776073297921",
+        "location": "Guangzhou, China",
+        "name": "alchemist",
+        "pinned_tweet_id": "1859876422518727107",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756846101553168384/7MMtf2WW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6801,
+          "following_count": 289,
+          "like_count": 35922,
+          "listed_count": 5,
+          "media_count": 2978,
+          "tweet_count": 19663
+        },
+        "username": "Pragevich2",
+        "verified": false
+      }
+    ]
+  }
+}

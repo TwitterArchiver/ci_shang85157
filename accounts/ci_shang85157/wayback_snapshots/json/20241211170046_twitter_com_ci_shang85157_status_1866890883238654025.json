@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1866561230267355505",
+    "created_at": "2024-12-11T17:00:46.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-11T18:00:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1866890883238654025"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1622553210073546754",
+          "start": 0,
+          "username": "Nyxal_X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1866890883238654025",
+    "in_reply_to_user_id": "1622553210073546754",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1866790950842011868",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nyxal_X 摸摸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1866561230267355505",
+        "created_at": "2024-12-11T17:00:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-11T18:00:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866890883238654025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1622553210073546754",
+              "start": 0,
+              "username": "Nyxal_X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866890883238654025",
+        "in_reply_to_user_id": "1622553210073546754",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866790950842011868",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nyxal_X 摸摸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622553210073546754",
+        "conversation_id": "1866561230267355505",
+        "created_at": "2024-12-11T10:23:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-11T11:23:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866790950842011868"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1826281483675299840",
+              "start": 0,
+              "username": "ci_shang85157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866790950842011868",
+        "in_reply_to_user_id": "1826281483675299840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866561230267355505",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ci_shang85157 摸摸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，有兴趣就可以一起玩",
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844188914451365901/gNnOT4GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 245,
+          "like_count": 1047,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 332
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-06T11:10:27.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/415371963/",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/415371963/",
+                "start": 0,
+                "url": "https://t.co/J0xZejYeAL"
+              }
+            ]
+          }
+        },
+        "id": "1622553210073546754",
+        "location": "幻想鄉",
+        "name": "Nyxal",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860105099302912000/WDdwag-u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 35,
+          "like_count": 119,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 14
+        },
+        "url": "https://t.co/J0xZejYeAL",
+        "username": "Nyxal_X",
+        "verified": false
+      }
+    ]
+  }
+}

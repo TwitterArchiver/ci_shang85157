@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1963176601145008344",
+    "created_at": "2025-09-03T10:32:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-03T11:32:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963188397293633573"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1888631961930891264",
+          "start": 0,
+          "username": "ijiandan11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963188397293633573",
+    "in_reply_to_user_id": "1888631961930891264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963176601145008344",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@ijiandan11 多少钱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1171,
+        "media_key": "3_1963176592848646144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz6atbga8AA1H-t.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1963176601145008344",
+        "created_at": "2025-09-03T10:32:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T11:32:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963188397293633573"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1888631961930891264",
+              "start": 0,
+              "username": "ijiandan11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963188397293633573",
+        "in_reply_to_user_id": "1888631961930891264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963176601145008344",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@ijiandan11 多少钱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963176592848646144"
+          ]
+        },
+        "author_id": "1888631961930891264",
+        "conversation_id": "1963176601145008344",
+        "created_at": "2025-09-03T09:45:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T10:45:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963176601145008344"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QYluVolRBo",
+              "end": 34,
+              "expanded_url": "https://x.com/ijiandan11/status/1963176601145008344/photo/1",
+              "media_key": "3_1963176592848646144",
+              "start": 11,
+              "url": "https://t.co/QYluVolRBo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963176601145008344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1219,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 7
+        },
+        "reply_settings": "following",
+        "text": "这个号已经卖掉了！！ https://t.co/QYluVolRBo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧   小男友@pertx114514",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 27,
+                "username": "pertx114514"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉方",
+        "pinned_tweet_id": "1932824152811188484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 753,
+          "following_count": 588,
+          "like_count": 14049,
+          "listed_count": 3,
+          "media_count": 170,
+          "tweet_count": 5638
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-09T16:52:16.000Z",
+        "description": "颜控",
+        "id": "1888631961930891264",
+        "name": "芝士火鸡烤冷面",
+        "pinned_tweet_id": "1963176601145008344",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956700474285109248/odXyYnHl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6119,
+          "following_count": 262,
+          "like_count": 6669,
+          "listed_count": 10,
+          "media_count": 53,
+          "tweet_count": 2326
+        },
+        "username": "ijiandan11",
+        "verified": false
+      }
+    ]
+  }
+}

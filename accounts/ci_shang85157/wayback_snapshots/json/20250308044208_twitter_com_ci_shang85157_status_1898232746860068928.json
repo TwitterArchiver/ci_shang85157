@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1897628374656491974",
+    "created_at": "2025-03-08T04:42:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-08T05:42:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898232746860068928"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1876046206004342784",
+          "start": 0,
+          "username": "lucky11348"
+        },
+        {
+          "end": 25,
+          "id": "1786565196913541120",
+          "start": 12,
+          "username": "dimangmu8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898232746860068928",
+    "in_reply_to_user_id": "1876046206004342784",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897859843220029501",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lucky11348 @dimangmu8964 神人"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 50409,
+        "height": 1280,
+        "media_key": "13_1897859330474754051",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1897859330474754051/img/sdVM6_DqmUQUM7n6.jpg",
+        "public_metrics": {
+          "view_count": 6089
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1897859330474754051/vid/avc1/320x568/iS3a3jyIamn0PXDD.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1897859330474754051/vid/avc1/480x852/8U7k2tU6lwh0PoLF.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1897859330474754051/vid/avc1/720x1280/42qFhh85Gpn8aSVi.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1897859330474754051/pl/Vf7LU4QQIIdhIwnV.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1897628374656491974",
+        "created_at": "2025-03-08T04:42:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-08T05:42:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898232746860068928"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1876046206004342784",
+              "start": 0,
+              "username": "lucky11348"
+            },
+            {
+              "end": 25,
+              "id": "1786565196913541120",
+              "start": 12,
+              "username": "dimangmu8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898232746860068928",
+        "in_reply_to_user_id": "1876046206004342784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897859843220029501",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lucky11348 @dimangmu8964 神人"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1897859330474754051"
+          ]
+        },
+        "author_id": "1876046206004342784",
+        "conversation_id": "1897628374656491974",
+        "created_at": "2025-03-07T04:00:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-07T05:00:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897859843220029501"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1786565196913541120",
+              "start": 0,
+              "username": "dimangmu8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HdixGsL9aI",
+              "end": 44,
+              "expanded_url": "https://x.com/lucky11348/status/1897859843220029501/video/1",
+              "media_key": "13_1897859330474754051",
+              "start": 21,
+              "url": "https://t.co/HdixGsL9aI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897859843220029501",
+        "in_reply_to_user_id": "1786565196913541120",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 11266,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897628374656491974",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dimangmu8964 幸好我保存了 https://t.co/HdixGsL9aI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844188914451365901/gNnOT4GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 310,
+          "like_count": 3292,
+          "listed_count": 1,
+          "media_count": 63,
+          "tweet_count": 1508
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-05T23:21:00.000Z",
+        "description": "我一直愛你，📮lucky@ottohub.icu",
+        "id": "1876046206004342784",
+        "location": "Taipei City, Taiwan",
+        "name": "Lucky Star!⭐️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876046339500593152/q6JrQUZV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 27,
+          "like_count": 390,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 193
+        },
+        "username": "lucky11348",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-04T01:15:24.000Z",
+        "description": "种花崛起之希望全在于我",
+        "id": "1786565196913541120",
+        "location": "东突厥斯坦教育营学员",
+        "name": "迅鸽🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888808700875509760/Myhp0mOE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1986,
+          "following_count": 1127,
+          "like_count": 77539,
+          "listed_count": 18,
+          "media_count": 1246,
+          "tweet_count": 21227
+        },
+        "username": "dimangmu8964",
+        "verified": false
+      }
+    ]
+  }
+}

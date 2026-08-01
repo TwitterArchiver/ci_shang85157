@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1896790463044284485",
+    "created_at": "2025-03-04T13:50:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-04T14:50:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896921221603958928"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1533485103254732801",
+          "start": 0,
+          "username": "Sunnythreewater"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896921221603958928",
+    "in_reply_to_user_id": "1533485103254732801",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896790463044284485",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sunnythreewater 爆炒"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 23366,
+        "height": 960,
+        "media_key": "13_1896790388431900672",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1896790388431900672/img/kk9b8P_6VEsYaO12.jpg",
+        "public_metrics": {
+          "view_count": 6238
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1896790388431900672/vid/avc1/320x426/Vi9sB7bz2B2rqGLN.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1896790388431900672/vid/avc1/480x640/CvWfHjTA_Lak-ccA.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1896790388431900672/vid/avc1/720x960/OIyNsCxSg_sZAq9R.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1896790388431900672/pl/uGHm6YafRguwCZYl.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1896790463044284485",
+        "created_at": "2025-03-04T13:50:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-04T14:50:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896921221603958928"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1533485103254732801",
+              "start": 0,
+              "username": "Sunnythreewater"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896921221603958928",
+        "in_reply_to_user_id": "1533485103254732801",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896790463044284485",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sunnythreewater 爆炒"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1896790388431900672"
+          ]
+        },
+        "author_id": "1533485103254732801",
+        "conversation_id": "1896790463044284485",
+        "created_at": "2025-03-04T05:11:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-04T06:11:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896790463044284485"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BdrxVID5V8",
+              "end": 47,
+              "expanded_url": "https://x.com/Sunnythreewater/status/1896790463044284485/video/1",
+              "media_key": "13_1896790388431900672",
+              "start": 24,
+              "url": "https://t.co/BdrxVID5V8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896790463044284485",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 12807,
+          "like_count": 186,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "世上怎会有像我们这样的孤男寡男，不能成双成对？ https://t.co/BdrxVID5V8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲",
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844188914451365901/gNnOT4GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 290,
+          "like_count": 2771,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 1271
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-05T16:25:23.000Z",
+        "description": "Ts B抖快ID：Sunny水水水 有事+v：口令200 或抖音✈️ 推特当朋友圈发的，好好吃饭好好睡觉祝你开心！",
+        "id": "1533485103254732801",
+        "name": "Sunny水水水",
+        "pinned_tweet_id": "1845516675116052981",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1737206375158263808/CMRKmlQ6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133885,
+          "following_count": 5,
+          "like_count": 554,
+          "listed_count": 271,
+          "media_count": 299,
+          "tweet_count": 812
+        },
+        "username": "Sunnythreewater",
+        "verified": false
+      }
+    ]
+  }
+}

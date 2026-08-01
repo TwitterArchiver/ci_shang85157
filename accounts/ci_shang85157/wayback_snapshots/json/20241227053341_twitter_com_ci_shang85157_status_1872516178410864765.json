@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1872504880054804884",
+    "created_at": "2024-12-27T05:33:41.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-27T06:33:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1872516178410864765"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1703762928",
+          "start": 0,
+          "username": "1965chich"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1872516178410864765",
+    "in_reply_to_user_id": "1703762928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872504880054804884",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1965chich 我是回民的女婿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1872504880054804884",
+        "created_at": "2024-12-27T05:33:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-27T06:33:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872516178410864765"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1703762928",
+              "start": 0,
+              "username": "1965chich"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872516178410864765",
+        "in_reply_to_user_id": "1703762928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872504880054804884",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1965chich 我是回民的女婿"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1872504664635404288"
+          ]
+        },
+        "author_id": "1703762928",
+        "conversation_id": "1872504880054804884",
+        "created_at": "2024-12-27T04:48:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-27T05:48:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1872504880054804884"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CzUlbaFQxq",
+              "end": 95,
+              "expanded_url": "https://x.com/1965chich/status/1872504880054804884/photo/1",
+              "media_key": "3_1872504664635404288",
+              "start": 72,
+              "url": "https://t.co/CzUlbaFQxq"
+            },
+            {
+              "display_url": "x.com/nuannuan23333/…",
+              "end": 119,
+              "expanded_url": "https://twitter.com/nuannuan23333/status/1694312390349955329",
+              "start": 96,
+              "url": "https://t.co/eNQcdv2RUw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872504880054804884",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 283,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1694312390349955329",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真的希望大家来看看这个，这个评论区真是恶，她说这样的话得出这样的结论又有什么问题？她除了拍色图给大家看，还要当一个供人辱骂的宣泄口...... https://t.co/CzUlbaFQxq https://t.co/eNQcdv2RUw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，有兴趣就可以一起玩",
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844188914451365901/gNnOT4GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 289,
+          "like_count": 1505,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 626
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2013-08-27T05:20:31.000Z",
+        "description": "🇨🇳欢迎来到KFC的内心世界 高中生 有点社恐 喜欢看帅帅的女孩子/无性恋 /非跨/不会尊重人的关小黑屋/心尖尖上的明珠：浪浪宝贝",
+        "id": "1703762928",
+        "name": "Kentucky Fried Chicken",
+        "pinned_tweet_id": "1871436316367634718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870466048157483008/j1wzAao0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3393,
+          "following_count": 849,
+          "like_count": 11106,
+          "listed_count": 1,
+          "media_count": 117,
+          "tweet_count": 3280
+        },
+        "username": "1965chich",
+        "verified": false
+      }
+    ]
+  }
+}

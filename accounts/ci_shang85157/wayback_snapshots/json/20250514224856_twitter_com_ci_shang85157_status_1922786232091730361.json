@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1922542028195340501",
+    "created_at": "2025-05-14T22:48:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-14T23:48:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922786232091730361"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1823729658833055745",
+          "start": 0,
+          "username": "pijiuyayaya"
+        },
+        {
+          "end": 23,
+          "id": "1899865755031920641",
+          "start": 13,
+          "username": "aslsl2887"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922786232091730361",
+    "in_reply_to_user_id": "1823729658833055745",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922545730259914873",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pijiuyayaya @aslsl2887 我是手控，我起反应了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1922542028195340501",
+        "created_at": "2025-05-14T22:48:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T23:48:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922786232091730361"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1823729658833055745",
+              "start": 0,
+              "username": "pijiuyayaya"
+            },
+            {
+              "end": 23,
+              "id": "1899865755031920641",
+              "start": 13,
+              "username": "aslsl2887"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922786232091730361",
+        "in_reply_to_user_id": "1823729658833055745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922545730259914873",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pijiuyayaya @aslsl2887 我是手控，我起反应了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1823729658833055745",
+        "conversation_id": "1922542028195340501",
+        "created_at": "2025-05-14T06:53:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T07:53:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922545730259914873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1899865755031920641",
+              "start": 0,
+              "username": "aslsl2887"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922545730259914873",
+        "in_reply_to_user_id": "1899865755031920641",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922542959569899663",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aslsl2887 太清淡了搞点莫名其妙的东西 我衣服和影子也打码了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 569,
+          "following_count": 507,
+          "like_count": 9564,
+          "listed_count": 2,
+          "media_count": 156,
+          "tweet_count": 4024
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-14T14:33:41.000Z",
+        "description": "鹈鹕不知道写什么所以决定睡觉觉觉觉觉觉觉觉觉觉觉觉去了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kaochang",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kaochang",
+                "start": 0,
+                "url": "https://t.co/Fhu75lPXQN"
+              }
+            ]
+          }
+        },
+        "id": "1823729658833055745",
+        "name": "鹈鹕吃烤肠也吃鹌鹑",
+        "pinned_tweet_id": "1920792923378942040",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919898307712983040/-d0gWgAN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 318,
+          "like_count": 7140,
+          "listed_count": 4,
+          "media_count": 496,
+          "tweet_count": 5112
+        },
+        "url": "https://t.co/Fhu75lPXQN",
+        "username": "pijiuyayaya",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-12T16:51:30.000Z",
+        "description": "你好😊",
+        "id": "1899865755031920641",
+        "name": "AMINOAC",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914023686665101312/ii89lpqj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 341,
+          "like_count": 10268,
+          "listed_count": 2,
+          "media_count": 148,
+          "tweet_count": 2057
+        },
+        "username": "aslsl2887",
+        "verified": false
+      }
+    ]
+  }
+}

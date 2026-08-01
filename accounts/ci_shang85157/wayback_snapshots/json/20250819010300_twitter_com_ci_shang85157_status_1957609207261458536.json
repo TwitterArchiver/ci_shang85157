@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1957608664841490587",
+    "created_at": "2025-08-19T01:03:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-19T02:03:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957609207261458536"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1957609207261458536",
+    "in_reply_to_user_id": "1826281483675299840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957608664841490587",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "东西吃少了昨天晚上低血糖想起来口袋放了一个棒棒糖，边抽烟边吃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1957608664841490587",
+        "created_at": "2025-08-19T01:03:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T02:03:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957609207261458536"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1957609207261458536",
+        "in_reply_to_user_id": "1826281483675299840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957608664841490587",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "东西吃少了昨天晚上低血糖想起来口袋放了一个棒棒糖，边抽烟边吃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1957608664841490587",
+        "created_at": "2025-08-19T01:00:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T02:00:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957608664841490587"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1957608664841490587",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "胃不好，早上五点的时候喝了瓶易拉罐的健力宝太渴了，刚刚和朋友走回来寝室，我想今天有点胃口了，买了瓶橙汁一个包子，一个饼，吃了半个包子吃不下了，一直在吐，我不想哭了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像失去了一条时间线，算了，我们从来吧",
+        "id": "1826281483675299840",
+        "name": "泉方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 704,
+          "following_count": 548,
+          "like_count": 12883,
+          "listed_count": 2,
+          "media_count": 159,
+          "tweet_count": 5260
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      }
+    ]
+  }
+}

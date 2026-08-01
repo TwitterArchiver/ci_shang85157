@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1997614642009608604",
+    "created_at": "2025-12-08T06:03:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T07:03:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997909814249451604"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1961009347443761152",
+          "start": 0,
+          "username": "TaiSui1255"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997909814249451604",
+    "in_reply_to_user_id": "1961009347443761152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997614642009608604",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TaiSui1255 我躯体化了 我一直在哭"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11466,
+        "height": 1280,
+        "media_key": "13_1997614581469081600",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1997614581469081600/img/mbbNkd-cDgEk6NEA.jpg",
+        "public_metrics": {
+          "view_count": 56
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1997614581469081600/vid/avc1/320x568/xa77TwCs55Ie4m2y.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1997614581469081600/vid/avc1/480x852/v_EVZ2yLhMca1Gdm.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1997614581469081600/vid/avc1/720x1280/1zXNm8h97xaFkFXc.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1997614581469081600/pl/g_gFX65-Ar-97_nF.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1997614642009608604",
+        "created_at": "2025-12-08T06:03:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T07:03:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997909814249451604"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1961009347443761152",
+              "start": 0,
+              "username": "TaiSui1255"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997909814249451604",
+        "in_reply_to_user_id": "1961009347443761152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997614642009608604",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TaiSui1255 我躯体化了 我一直在哭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1997614581469081600"
+          ]
+        },
+        "author_id": "1961009347443761152",
+        "conversation_id": "1997614642009608604",
+        "created_at": "2025-12-07T10:30:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T11:30:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997614642009608604"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yrgw2LBAXX",
+              "end": 27,
+              "expanded_url": "https://x.com/TaiSui1255/status/1997614642009608604/video/1",
+              "media_key": "13_1997614581469081600",
+              "start": 4,
+              "url": "https://t.co/yrgw2LBAXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997614642009608604",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "求放过 https://t.co/yrgw2LBAXX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧 结义兄弟 @SoSleepy4wy还有穹璃 求求你们了找我聊天好不好https://t.co/ILEWFdOQz0。 ngl匿名问答",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 27,
+                "username": "SoSleepy4wy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%8950122",
+                "end": 79,
+                "expanded_url": "https://ngl.link/%E6%B3%8950122",
+                "start": 56,
+                "url": "https://t.co/ILEWFdOQz0"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉",
+        "pinned_tweet_id": "1970427616353296660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978274114138996736/r_khhgIT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 821,
+          "following_count": 652,
+          "like_count": 19504,
+          "listed_count": 2,
+          "media_count": 218,
+          "tweet_count": 7125
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-28T10:14:33.000Z",
+        "description": "社交力为0",
+        "id": "1961009347443761152",
+        "name": "太岁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961010941375688704/gqvZtYME_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 27,
+          "like_count": 2653,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 388
+        },
+        "username": "TaiSui1255",
+        "verified": false
+      }
+    ]
+  }
+}

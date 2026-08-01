@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1916786253581733897",
+    "created_at": "2025-04-28T16:10:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-28T17:10:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916887637174149242"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1758428820045189120",
+          "start": 0,
+          "username": "YuSuQAQ"
+        },
+        {
+          "end": 16,
+          "id": "1901165386709823490",
+          "start": 9,
+          "username": "wuruto"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916887637174149242",
+    "in_reply_to_user_id": "1758428820045189120",
+    "lang": "fr",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916878959121248504",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YuSuQAQ @wuruto maimai？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1916786253581733897",
+        "created_at": "2025-04-28T16:10:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-28T17:10:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916887637174149242"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1758428820045189120",
+              "start": 0,
+              "username": "YuSuQAQ"
+            },
+            {
+              "end": 16,
+              "id": "1901165386709823490",
+              "start": 9,
+              "username": "wuruto"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916887637174149242",
+        "in_reply_to_user_id": "1758428820045189120",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916878959121248504",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuSuQAQ @wuruto maimai？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758428820045189120",
+        "conversation_id": "1916786253581733897",
+        "created_at": "2025-04-28T15:35:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-28T16:35:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916878959121248504"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1901165386709823490",
+              "start": 0,
+              "username": "wuruto"
+            },
+            {
+              "end": 22,
+              "id": "1826281483675299840",
+              "start": 8,
+              "username": "ci_shang85157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916878959121248504",
+        "in_reply_to_user_id": "1901165386709823490",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916850371613409591",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wuruto @ci_shang85157 你说的对，但是现在maimai是地雷女的版本T0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 419,
+          "following_count": 419,
+          "like_count": 7372,
+          "listed_count": 1,
+          "media_count": 131,
+          "tweet_count": 3201
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-16T09:51:25.000Z",
+        "description": "喜欢碎碎念，可以互fo，主页是我最可爱的好妹妹。主玩明日方舟，是音游痴，有好听的日电推荐给我听🥰",
+        "id": "1758428820045189120",
+        "name": "魚蘇（prts版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912608912848891904/kWg8aRN-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 208,
+          "like_count": 708,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 2235
+        },
+        "username": "YuSuQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-16T06:55:39.000Z",
+        "description": "19岁大二生，村里唯一的贝斯手‖日摇‖ACG‖少女乐队！‖碎碎念分享生活政治内容NG，成分纯良，在推上努力谋求生存😣‖挂：@Asaak1111 @27rainyseason",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 61,
+                "username": "Asaak1111"
+              },
+              {
+                "end": 86,
+                "start": 72,
+                "username": "27rainyseason"
+              }
+            ]
+          }
+        },
+        "id": "1901165386709823490",
+        "name": "wuruto",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910395468691226624/jWfQLWQn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 256,
+          "like_count": 3404,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 2069
+        },
+        "username": "wuruto",
+        "verified": false
+      }
+    ]
+  }
+}

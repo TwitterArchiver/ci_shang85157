@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1957481452658118780",
+    "created_at": "2025-08-19T02:28:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-19T03:28:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957630779980411013"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1831961897899585536",
+          "start": 0,
+          "username": "kiriyama_hitori"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957630779980411013",
+    "in_reply_to_user_id": "1831961897899585536",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957481452658118780",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kiriyama_hitori 雪碧周瑜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1957481452658118780",
+        "created_at": "2025-08-19T02:28:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T03:28:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957630779980411013"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1831961897899585536",
+              "start": 0,
+              "username": "kiriyama_hitori"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957630779980411013",
+        "in_reply_to_user_id": "1831961897899585536",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957481452658118780",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kiriyama_hitori 雪碧周瑜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1831961897899585536",
+        "conversation_id": "1957481452658118780",
+        "created_at": "2025-08-18T16:35:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T17:35:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957481452658118780"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1957481452658118780",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 138,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你给我刷过几个子儿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像失去了一条时间线，算了，我们从来吧",
+        "id": "1826281483675299840",
+        "name": "泉方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 704,
+          "following_count": 550,
+          "like_count": 12910,
+          "listed_count": 2,
+          "media_count": 159,
+          "tweet_count": 5278
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-06T07:45:44.000Z",
+        "description": "典型低端人口 射手座 ISFP- T 鱼鱼蒸 先天心脏病 另外一个意识体是自己猜去吧哈哈/号主极度劳保 ✂️⛓️且精神异常",
+        "id": "1831961897899585536",
+        "location": "距离你7.8公里",
+        "name": "被山东人操过是我一生的耻辱",
+        "pinned_tweet_id": "1957220821912657936",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957107055556460544/3L7FeiKt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 983,
+          "following_count": 801,
+          "like_count": 87369,
+          "listed_count": 3,
+          "media_count": 2641,
+          "tweet_count": 20088
+        },
+        "username": "kiriyama_hitori",
+        "verified": false
+      }
+    ]
+  }
+}

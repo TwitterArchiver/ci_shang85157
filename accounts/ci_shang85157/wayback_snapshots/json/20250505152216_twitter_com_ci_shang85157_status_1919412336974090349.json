@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1919252880495665462",
+    "created_at": "2025-05-05T15:22:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-05T16:22:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919412336974090349"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1683348184331059201",
+          "start": 0,
+          "username": "ccckoajiahao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919412336974090349",
+    "in_reply_to_user_id": "1683348184331059201",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919408272488174007",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ccckoajiahao 等着"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1919252880495665462",
+        "created_at": "2025-05-05T15:22:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-05T16:22:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919412336974090349"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1683348184331059201",
+              "start": 0,
+              "username": "ccckoajiahao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919412336974090349",
+        "in_reply_to_user_id": "1683348184331059201",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919408272488174007",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ccckoajiahao 等着"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1683348184331059201",
+        "conversation_id": "1919252880495665462",
+        "created_at": "2025-05-05T15:06:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-05T16:06:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919408272488174007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1826281483675299840",
+              "start": 0,
+              "username": "ci_shang85157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919408272488174007",
+        "in_reply_to_user_id": "1826281483675299840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919252880495665462",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ci_shang85157 我也要留长发，感觉我留长发还挺帅的！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 455,
+          "following_count": 440,
+          "like_count": 8187,
+          "listed_count": 1,
+          "media_count": 138,
+          "tweet_count": 3463
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-24T05:27:50.000Z",
+        "description": "我是男银… 常在线，求骚扰（互fo）",
+        "id": "1683348184331059201",
+        "name": "c cc ko a",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1683349322598068224/LTc07JBC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 297,
+          "like_count": 1767,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 974
+        },
+        "username": "ccckoajiahao",
+        "verified": false
+      }
+    ]
+  }
+}

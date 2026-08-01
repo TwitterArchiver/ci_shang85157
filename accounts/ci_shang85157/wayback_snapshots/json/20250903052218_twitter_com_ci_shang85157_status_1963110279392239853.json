@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1963107065066660314",
+    "created_at": "2025-09-03T05:22:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-03T06:22:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963110279392239853"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1811373871033102336",
+          "start": 0,
+          "username": "duoduolin8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963110279392239853",
+    "in_reply_to_user_id": "1811373871033102336",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963108767945629849",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@duoduolin8964 立了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1963107065066660314",
+        "created_at": "2025-09-03T05:22:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T06:22:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963110279392239853"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1811373871033102336",
+              "start": 0,
+              "username": "duoduolin8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963110279392239853",
+        "in_reply_to_user_id": "1811373871033102336",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963108767945629849",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@duoduolin8964 立了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811373871033102336",
+        "conversation_id": "1963107065066660314",
+        "created_at": "2025-09-03T05:16:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T06:16:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963108767945629849"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1826281483675299840",
+              "start": 0,
+              "username": "ci_shang85157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963108767945629849",
+        "in_reply_to_user_id": "1826281483675299840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963108690904645845",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ci_shang85157 一直阳痿啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧   小男友@pertx114514",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 27,
+                "username": "pertx114514"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉方",
+        "pinned_tweet_id": "1932824152811188484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 753,
+          "following_count": 589,
+          "like_count": 14102,
+          "listed_count": 3,
+          "media_count": 170,
+          "tweet_count": 5636
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-11T12:16:09.000Z",
+        "description": "废物/屌丝/养胃的3D精神病人💙💜💚，小账@duoduolin0/亲爱的@xuan5159",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 21,
+                "username": "duoduolin0"
+              },
+              {
+                "end": 45,
+                "start": 36,
+                "username": "xuan5159"
+              }
+            ]
+          }
+        },
+        "id": "1811373871033102336",
+        "location": "Rhodes",
+        "name": "朵朵玲",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929872617693122560/JOi31RwF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3452,
+          "following_count": 1417,
+          "like_count": 30547,
+          "listed_count": 7,
+          "media_count": 954,
+          "tweet_count": 10208
+        },
+        "username": "duoduolin8964",
+        "verified": false
+      }
+    ]
+  }
+}

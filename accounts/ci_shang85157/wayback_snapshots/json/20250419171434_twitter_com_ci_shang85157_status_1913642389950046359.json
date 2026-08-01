@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1913526302277017637",
+    "created_at": "2025-04-19T17:14:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-19T18:14:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913642389950046359"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1812854572001681408",
+          "start": 0,
+          "username": "JHY1215875"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913642389950046359",
+    "in_reply_to_user_id": "1812854572001681408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913642198404567270",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JHY1215875 对啊，完全是浪费"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1913526302277017637",
+        "created_at": "2025-04-19T17:14:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-19T18:14:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913642389950046359"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1812854572001681408",
+              "start": 0,
+              "username": "JHY1215875"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913642389950046359",
+        "in_reply_to_user_id": "1812854572001681408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913642198404567270",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JHY1215875 对啊，完全是浪费"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1812854572001681408",
+        "conversation_id": "1913526302277017637",
+        "created_at": "2025-04-19T17:13:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-19T18:13:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913642198404567270"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1826281483675299840",
+              "start": 0,
+              "username": "ci_shang85157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913642198404567270",
+        "in_reply_to_user_id": "1826281483675299840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913526302277017637",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ci_shang85157 每次看到这些图片，我都很好奇为啥要把食物做的一点卖相都没有"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376,
+          "following_count": 364,
+          "like_count": 5919,
+          "listed_count": 1,
+          "media_count": 103,
+          "tweet_count": 2764
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-15T14:19:58.000Z",
+        "description": "一起奇迹的始点",
+        "id": "1812854572001681408",
+        "name": "砂狼シロコ",
+        "pinned_tweet_id": "1913637211326799970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911096322611908608/HISQPrH9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 192,
+          "like_count": 1285,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 1477
+        },
+        "username": "JHY1215875",
+        "verified": false
+      }
+    ]
+  }
+}

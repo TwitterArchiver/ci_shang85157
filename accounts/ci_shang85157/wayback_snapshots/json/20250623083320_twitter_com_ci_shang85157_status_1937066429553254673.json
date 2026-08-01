@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1937065359233933545",
+    "created_at": "2025-06-23T08:33:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-23T09:33:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937066429553254673"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1857093685923504128",
+          "start": 0,
+          "username": "10txxx7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937066429553254673",
+    "in_reply_to_user_id": "1857093685923504128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937065359233933545",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@10txxx7 那好吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1222,
+        "media_key": "3_1937065347347013633",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuHWq59WYAEgTPq.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1937065359233933545",
+        "created_at": "2025-06-23T08:33:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T09:33:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937066429553254673"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1857093685923504128",
+              "start": 0,
+              "username": "10txxx7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937066429553254673",
+        "in_reply_to_user_id": "1857093685923504128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937065359233933545",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@10txxx7 那好吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1937065347347013633"
+          ]
+        },
+        "author_id": "1857093685923504128",
+        "conversation_id": "1937065359233933545",
+        "created_at": "2025-06-23T08:29:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T09:29:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937065359233933545"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 23,
+              "tag": "4i"
+            },
+            {
+              "end": 31,
+              "start": 27,
+              "tag": "dom"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/E0r8dA11lP",
+              "end": 55,
+              "expanded_url": "https://x.com/10txxx7/status/1937065359233933545/photo/1",
+              "media_key": "3_1937065347347013633",
+              "start": 32,
+              "url": "https://t.co/E0r8dA11lP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937065359233933545",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的积极像薯条 虽然软软的 但是吃起来香香的 #4i #dom https://t.co/E0r8dA11lP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲，生理性别男，请不要私信给我发那种奇怪的东西了\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 74,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 741,
+          "following_count": 562,
+          "like_count": 13056,
+          "listed_count": 2,
+          "media_count": 199,
+          "tweet_count": 5242
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-14T16:10:24.000Z",
+        "description": "dandan的淡人 1i/4i isfp 双子 分享我的日常 烦人 ｜匿名信：https://t.co/v9xFjsxLQf 自用VPN⬇️",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/10t56713",
+                "end": 62,
+                "expanded_url": "https://ngl.link/10t56713",
+                "start": 39,
+                "url": "https://t.co/v9xFjsxLQf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn.top/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://vpn1.fnvpn.top/#/register?code=aw3JiEQF",
+                "start": 0,
+                "url": "https://t.co/S6I3UfeD5s"
+              }
+            ]
+          }
+        },
+        "id": "1857093685923504128",
+        "location": "喜欢我请我吃饭",
+        "name": "10T",
+        "pinned_tweet_id": "1936666601165918477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928090635208445952/Sx5MmswD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1568,
+          "following_count": 81,
+          "like_count": 1215,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 668
+        },
+        "url": "https://t.co/S6I3UfeD5s",
+        "username": "10txxx7",
+        "verified": false
+      }
+    ]
+  }
+}

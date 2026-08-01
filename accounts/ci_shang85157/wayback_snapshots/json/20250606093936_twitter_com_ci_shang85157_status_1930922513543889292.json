@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1930913445035266344",
+    "created_at": "2025-06-06T09:39:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-06T10:39:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930922513543889292"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1918261520817065984",
+          "start": 0,
+          "username": "BipolarBP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930922513543889292",
+    "in_reply_to_user_id": "1918261520817065984",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930913445035266344",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BipolarBP 好"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1930913436650856448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gsv7ikuaYAAdY9N.jpg",
+        "width": 984
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1930913445035266344",
+        "created_at": "2025-06-06T09:39:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-06T10:39:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930922513543889292"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1918261520817065984",
+              "start": 0,
+              "username": "BipolarBP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930922513543889292",
+        "in_reply_to_user_id": "1918261520817065984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930913445035266344",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BipolarBP 好"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930913436650856448"
+          ]
+        },
+        "author_id": "1918261520817065984",
+        "conversation_id": "1930913445035266344",
+        "created_at": "2025-06-06T09:03:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-06T10:03:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930913445035266344"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DfMyHibDWW",
+              "end": 30,
+              "expanded_url": "https://x.com/BipolarBP/status/1930913445035266344/photo/1",
+              "media_key": "3_1930913436650856448",
+              "start": 7,
+              "url": "https://t.co/DfMyHibDWW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930913445035266344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 73,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "依旧气质/. https://t.co/DfMyHibDWW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲，生理性别男，请不要私信给我发那种奇怪的东西了\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 74,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 641,
+          "following_count": 555,
+          "like_count": 11693,
+          "listed_count": 2,
+          "media_count": 186,
+          "tweet_count": 4820
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-02T11:09:46.000Z",
+        "description": "非二元，非健全，取向男，友跨，看见了会回Fo，能和我交朋友吗 SHE/THEY/THEM",
+        "id": "1918261520817065984",
+        "location": "坐标河南",
+        "name": "双相情感障碍",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921442393619935232/GutosocN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 449,
+          "following_count": 182,
+          "like_count": 51,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 85
+        },
+        "username": "BipolarBP",
+        "verified": false
+      }
+    ]
+  }
+}

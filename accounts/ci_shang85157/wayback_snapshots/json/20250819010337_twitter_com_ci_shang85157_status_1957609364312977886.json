@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1957542135915520138",
+    "created_at": "2025-08-19T01:03:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-19T02:03:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957609364312977886"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1656733330421981184",
+          "start": 0,
+          "username": "Satoshi_go_go"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957609364312977886",
+    "in_reply_to_user_id": "1656733330421981184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957542135915520138",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Satoshi_go_go 这不好吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1957542135915520138",
+        "created_at": "2025-08-19T01:03:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T02:03:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957609364312977886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1656733330421981184",
+              "start": 0,
+              "username": "Satoshi_go_go"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957609364312977886",
+        "in_reply_to_user_id": "1656733330421981184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957542135915520138",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Satoshi_go_go 这不好吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1656733330421981184",
+        "conversation_id": "1957542135915520138",
+        "created_at": "2025-08-18T20:36:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T21:36:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957542135915520138"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1957542135915520138",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 213,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我也暗恋好几个互关。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像失去了一条时间线，算了，我们从来吧",
+        "id": "1826281483675299840",
+        "name": "泉方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 704,
+          "following_count": 549,
+          "like_count": 12883,
+          "listed_count": 2,
+          "media_count": 159,
+          "tweet_count": 5261
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-11T18:50:09.000Z",
+        "description": "碎碎念/经常性发电/表达能力极差/enfp/喜欢rnb，指弹等等等等/不会骂人也不会安慰人/私信不卡/https://t.co/AM1jiWAwbg自用蜂鸟VPN：https://t.co/nBhfi58bKd",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wuwuhui/",
+                "end": 74,
+                "expanded_url": "https://ngl.link/wuwuhui/",
+                "start": 51,
+                "url": "https://t.co/AM1jiWAwbg"
+              },
+              {
+                "display_url": "vpn.fnwebnet.sbs/#/register?cod…",
+                "end": 105,
+                "expanded_url": "https://vpn.fnwebnet.sbs/#/register?code=j6jLlbuy",
+                "start": 82,
+                "url": "https://t.co/nBhfi58bKd"
+              }
+            ]
+          }
+        },
+        "id": "1656733330421981184",
+        "location": "地球",
+        "name": "伍伍惠",
+        "pinned_tweet_id": "1906750861151445436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946930344373997568/6pgsaGFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 644,
+          "following_count": 756,
+          "like_count": 16107,
+          "listed_count": 5,
+          "media_count": 372,
+          "tweet_count": 5035
+        },
+        "username": "Satoshi_go_go",
+        "verified": false
+      }
+    ]
+  }
+}

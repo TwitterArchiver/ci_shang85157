@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1957284066979467462",
+    "created_at": "2025-08-18T21:31:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-18T22:31:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957555928557056044"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1499063886015725569",
+          "start": 0,
+          "username": "qingyou52867427"
+        },
+        {
+          "end": 29,
+          "id": "1788485889225834496",
+          "start": 17,
+          "username": "horizon_tem"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957555928557056044",
+    "in_reply_to_user_id": "1499063886015725569",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957514121269899752",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qingyou52867427 @horizon_tem 复活"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1957284066979467462",
+        "created_at": "2025-08-18T21:31:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T22:31:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957555928557056044"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1499063886015725569",
+              "start": 0,
+              "username": "qingyou52867427"
+            },
+            {
+              "end": 29,
+              "id": "1788485889225834496",
+              "start": 17,
+              "username": "horizon_tem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957555928557056044",
+        "in_reply_to_user_id": "1499063886015725569",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957514121269899752",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingyou52867427 @horizon_tem 复活"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499063886015725569",
+        "conversation_id": "1957284066979467462",
+        "created_at": "2025-08-18T18:45:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T19:45:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957514121269899752"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1826281483675299840",
+              "start": 0,
+              "username": "ci_shang85157"
+            },
+            {
+              "end": 27,
+              "id": "1788485889225834496",
+              "start": 15,
+              "username": "horizon_tem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957514121269899752",
+        "in_reply_to_user_id": "1826281483675299840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957286110142644444",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ci_shang85157 @horizon_tem 你是?复活!"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像失去了一条时间线，算了，我们从来吧",
+        "id": "1826281483675299840",
+        "name": "泉方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 705,
+          "following_count": 548,
+          "like_count": 12880,
+          "listed_count": 2,
+          "media_count": 159,
+          "tweet_count": 5256
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-02T16:47:45.000Z",
+        "description": "社交废物",
+        "id": "1499063886015725569",
+        "location": "幻想边缘",
+        "name": "清幽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939732970904109056/0kpQ0Gci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 224,
+          "like_count": 1285,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 505
+        },
+        "username": "qingyou52867427",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "那只不过是幻想，活着就是受苦，或者接受将来受苦的可能性。同班同学 @KunaAkem1 逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 33,
+                "username": "KunaAkem1"
+              },
+              {
+                "end": 64,
+                "start": 48,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "горизонт",
+        "pinned_tweet_id": "1957132227239653439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946779629358043136/5W74ck-A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5089,
+          "following_count": 2329,
+          "like_count": 40844,
+          "listed_count": 10,
+          "media_count": 822,
+          "tweet_count": 12106
+        },
+        "username": "horizon_tem",
+        "verified": false
+      }
+    ]
+  }
+}

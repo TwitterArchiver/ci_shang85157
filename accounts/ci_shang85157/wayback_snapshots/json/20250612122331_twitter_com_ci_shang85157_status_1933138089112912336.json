@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1932796799544152372",
+    "created_at": "2025-06-12T12:23:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-12T13:23:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933138089112912336"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1859564040705671168",
+          "start": 0,
+          "username": "SW_ABY"
+        },
+        {
+          "end": 18,
+          "id": "1490976522362302465",
+          "start": 8,
+          "username": "whyuounot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933138089112912336",
+    "in_reply_to_user_id": "1859564040705671168",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933090751287619872",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SW_ABY @whyuounot 是啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1932796799544152372",
+        "created_at": "2025-06-12T12:23:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-12T13:23:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933138089112912336"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1859564040705671168",
+              "start": 0,
+              "username": "SW_ABY"
+            },
+            {
+              "end": 18,
+              "id": "1490976522362302465",
+              "start": 8,
+              "username": "whyuounot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933138089112912336",
+        "in_reply_to_user_id": "1859564040705671168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933090751287619872",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SW_ABY @whyuounot 是啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1859564040705671168",
+        "conversation_id": "1932796799544152372",
+        "created_at": "2025-06-12T09:15:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-12T10:15:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933090751287619872"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1826281483675299840",
+              "start": 0,
+              "username": "ci_shang85157"
+            },
+            {
+              "end": 25,
+              "id": "1490976522362302465",
+              "start": 15,
+              "username": "whyuounot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933090751287619872",
+        "in_reply_to_user_id": "1826281483675299840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932817471549157421",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ci_shang85157 @whyuounot 人礦還分學科?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲，生理性别男，请不要私信给我发那种奇怪的东西了\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 74,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 704,
+          "following_count": 562,
+          "like_count": 12493,
+          "listed_count": 2,
+          "media_count": 192,
+          "tweet_count": 5076
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-21T11:47:12.000Z",
+        "description": "兼聽則明！勿以善小而不為，勿以惡小而為之！中國人≠中共，中共是外來惡龍！中華民國才是中國，台灣即中華民國！批判的武器無法代替武器的批判！無調查則無發言權！朝鮮族台灣人正太、樂子人兼反共復國黨員，偶爾發牢騷。（N次涅槃）",
+        "id": "1859564040705671168",
+        "location": "塔圖因",
+        "name": "🇹🇼❂✠✮✪☉✡︎Die Sonne✡︎☉✪✮✠❂🇹🇼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859565292956844032/peVV1PRH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 207,
+          "like_count": 268,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 1573
+        },
+        "username": "SW_ABY",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-08T09:11:27.000Z",
+        "description": "临场发挥第一名",
+        "id": "1490976522362302465",
+        "location": "888",
+        "name": "蛋炒饭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927753690825510912/luz_DeSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6643,
+          "following_count": 1161,
+          "like_count": 7963,
+          "listed_count": 13,
+          "media_count": 1867,
+          "tweet_count": 13253
+        },
+        "username": "whyuounot",
+        "verified": false
+      }
+    ]
+  }
+}

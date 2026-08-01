@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1990244177456865716",
+    "created_at": "2025-11-17T02:52:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T03:52:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990251574862786787"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1850053428711718912",
+          "start": 0,
+          "username": "duoduolin0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990251574862786787",
+    "in_reply_to_user_id": "1850053428711718912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990248660370874573",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@duoduolin0 开始还说人神人舍友 现在能打日麻就太好了 朵朵玲这个善变"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1990248660370874573].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1990248660370874573",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1990248660370874573"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1990244177456865716",
+        "created_at": "2025-11-17T02:52:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T03:52:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990251574862786787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1850053428711718912",
+              "start": 0,
+              "username": "duoduolin0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990251574862786787",
+        "in_reply_to_user_id": "1850053428711718912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990248660370874573",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@duoduolin0 开始还说人神人舍友 现在能打日麻就太好了 朵朵玲这个善变"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧 小男友@pertx114514  结义兄弟@wuyan_sleeeepy @SoSleepy4wy还有穹璃 求求你们了找我聊天好不好https://t.co/ILEWFdOiJs。 ngl匿名问答",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "pertx114514"
+              },
+              {
+                "end": 58,
+                "start": 43,
+                "username": "wuyan_sleeeepy"
+              },
+              {
+                "end": 71,
+                "start": 59,
+                "username": "SoSleepy4wy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%8950122",
+                "end": 111,
+                "expanded_url": "https://ngl.link/%E6%B3%8950122",
+                "start": 88,
+                "url": "https://t.co/ILEWFdOiJs"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉",
+        "pinned_tweet_id": "1970427616353296660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978274114138996736/r_khhgIT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 822,
+          "following_count": 646,
+          "like_count": 18701,
+          "listed_count": 2,
+          "media_count": 212,
+          "tweet_count": 6989
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-26T05:55:05.000Z",
+        "description": "ddl的小账/小小小帐@ddlrsgt",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 11,
+                "username": "ddlrsgt"
+              }
+            ]
+          }
+        },
+        "id": "1850053428711718912",
+        "name": "玲朵朵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850053736913305600/7Gk6zFr1_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 238,
+          "like_count": 5656,
+          "listed_count": 0,
+          "media_count": 165,
+          "tweet_count": 1763
+        },
+        "username": "duoduolin0",
+        "verified": false
+      }
+    ]
+  }
+}

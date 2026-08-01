@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1928120639854104964",
+    "created_at": "2025-05-29T16:20:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-29T17:20:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928124259198459982"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1901165386709823490",
+          "start": 0,
+          "username": "wuruto"
+        },
+        {
+          "end": 23,
+          "id": "1492166667710783490",
+          "start": 8,
+          "username": "Jiji_O_o_jiiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928124259198459982",
+    "in_reply_to_user_id": "1901165386709823490",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928122352044310588",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wuruto @Jiji_O_o_jiiii 我也没认出来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1928120639854104964",
+        "created_at": "2025-05-29T16:20:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-29T17:20:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928124259198459982"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1901165386709823490",
+              "start": 0,
+              "username": "wuruto"
+            },
+            {
+              "end": 23,
+              "id": "1492166667710783490",
+              "start": 8,
+              "username": "Jiji_O_o_jiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928124259198459982",
+        "in_reply_to_user_id": "1901165386709823490",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928122352044310588",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wuruto @Jiji_O_o_jiiii 我也没认出来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901165386709823490",
+        "conversation_id": "1928120639854104964",
+        "created_at": "2025-05-29T16:12:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-29T17:12:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928122352044310588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1492166667710783490",
+              "start": 0,
+              "username": "Jiji_O_o_jiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928122352044310588",
+        "in_reply_to_user_id": "1492166667710783490",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928120639854104964",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jiji_O_o_jiiii 没认出来是你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲，生理性别男，请不要私信给我发那种奇怪的东西了\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 74,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 605,
+          "following_count": 532,
+          "like_count": 10808,
+          "listed_count": 2,
+          "media_count": 171,
+          "tweet_count": 4476
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-16T06:55:39.000Z",
+        "description": "贝斯与日常与碎碎念（其实并没有贝斯内容",
+        "id": "1901165386709823490",
+        "name": "wuruto",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910395468691226624/jWfQLWQn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 305,
+          "like_count": 13127,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 5471
+        },
+        "username": "wuruto",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-11T16:00:39.000Z",
+        "description": "今天也想成为贝斯高手。 纯绿。小号@Jijichikkk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "Jijichikkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiji1215",
+                "end": 23,
+                "expanded_url": "http://ngl.link/jiji1215",
+                "start": 0,
+                "url": "https://t.co/B75djz4pQx"
+              }
+            ]
+          }
+        },
+        "id": "1492166667710783490",
+        "location": "🚪98/198/328/648",
+        "name": "烟头烫你屁股",
+        "pinned_tweet_id": "1926574726828175534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923928982895906816/lqKv2WfB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1120,
+          "following_count": 415,
+          "like_count": 3137,
+          "listed_count": 4,
+          "media_count": 459,
+          "tweet_count": 7374
+        },
+        "url": "https://t.co/B75djz4pQx",
+        "username": "Jiji_O_o_jiiii",
+        "verified": false
+      }
+    ]
+  }
+}

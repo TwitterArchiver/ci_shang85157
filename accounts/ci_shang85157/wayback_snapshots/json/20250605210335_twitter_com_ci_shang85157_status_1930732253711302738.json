@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1930625443608293765",
+    "created_at": "2025-06-05T21:03:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-05T22:03:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930732253711302738"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1865052657586704387",
+          "start": 0,
+          "username": "yuanouo_11"
+        },
+        {
+          "end": 23,
+          "id": "1549393363002179587",
+          "start": 12,
+          "username": "yezijiO925"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930732253711302738",
+    "in_reply_to_user_id": "1865052657586704387",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930632863910969852",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuanouo_11 @yezijiO925 过年"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1930625443608293765",
+        "created_at": "2025-06-05T21:03:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T22:03:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930732253711302738"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1865052657586704387",
+              "start": 0,
+              "username": "yuanouo_11"
+            },
+            {
+              "end": 23,
+              "id": "1549393363002179587",
+              "start": 12,
+              "username": "yezijiO925"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930732253711302738",
+        "in_reply_to_user_id": "1865052657586704387",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930632863910969852",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuanouo_11 @yezijiO925 过年"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1865052657586704387",
+        "conversation_id": "1930625443608293765",
+        "created_at": "2025-06-05T14:28:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T15:28:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930632863910969852"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1549393363002179587",
+              "start": 0,
+              "username": "yezijiO925"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930632863910969852",
+        "in_reply_to_user_id": "1549393363002179587",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 76,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930625443608293765",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yezijiO925 我真的羡慕了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲，生理性别男，请不要私信给我发那种奇怪的东西了\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 74,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 641,
+          "following_count": 555,
+          "like_count": 11687,
+          "listed_count": 2,
+          "media_count": 186,
+          "tweet_count": 4817
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-06T15:16:34.000Z",
+        "description": "05｜esfp｜清水推｜熟人刷到我请当作没看见^ ^",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn.top/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://vpn1.fnvpn.top/#/register?code=in3tciv9",
+                "start": 0,
+                "url": "https://t.co/SmloMAtORD"
+              }
+            ]
+          }
+        },
+        "id": "1865052657586704387",
+        "location": "自用蜂鸟vpn",
+        "name": "圆粪",
+        "pinned_tweet_id": "1929184840982651158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885339658038505472/vePVHRPw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13675,
+          "following_count": 417,
+          "like_count": 22784,
+          "listed_count": 18,
+          "media_count": 107,
+          "tweet_count": 4389
+        },
+        "url": "https://t.co/SmloMAtORD",
+        "username": "yuanouo_11",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-19T13:59:13.000Z",
+        "description": "不线下不聊骚不参与任何网络纠纷｜推广自辨｜小号@yeyeo0_0o｜自用🪜 https://t.co/OfoMf2Jk1F",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 23,
+                "username": "yeyeo0_0o"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "xyz2.281968.xyz/#/register?cod…",
+                "end": 61,
+                "expanded_url": "https://xyz2.281968.xyz/#/register?code=PkQSNlgo",
+                "start": 38,
+                "url": "https://t.co/OfoMf2Jk1F"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yezijio925",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yezijio925",
+                "start": 0,
+                "url": "https://t.co/YigBelbVKa"
+              }
+            ]
+          }
+        },
+        "id": "1549393363002179587",
+        "location": "🚪68/98/198/648｜提问箱➡️",
+        "name": "Aaa椰子鸡供应批发",
+        "pinned_tweet_id": "1923759716024582461",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928118545604562947/x65IjSUb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4538,
+          "following_count": 677,
+          "like_count": 22987,
+          "listed_count": 8,
+          "media_count": 705,
+          "tweet_count": 6997
+        },
+        "url": "https://t.co/YigBelbVKa",
+        "username": "yezijiO925",
+        "verified": false
+      }
+    ]
+  }
+}

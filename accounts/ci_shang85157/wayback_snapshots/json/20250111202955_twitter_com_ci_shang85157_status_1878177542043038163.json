@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1877881725209989432",
+    "created_at": "2025-01-11T20:29:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-11T21:29:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1878177542043038163"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1860519931537719296",
+          "start": 0,
+          "username": "KR_100505"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1878177542043038163",
+    "in_reply_to_user_id": "1860519931537719296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1877881725209989432",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KR_100505 你小子喜歡看獵奇嗎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1877881725209989432",
+        "created_at": "2025-01-11T20:29:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-11T21:29:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1878177542043038163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1860519931537719296",
+              "start": 0,
+              "username": "KR_100505"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878177542043038163",
+        "in_reply_to_user_id": "1860519931537719296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1877881725209989432",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KR_100505 你小子喜歡看獵奇嗎"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1877881719392546816"
+          ]
+        },
+        "author_id": "1860519931537719296",
+        "conversation_id": "1877881725209989432",
+        "created_at": "2025-01-11T00:54:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-11T01:54:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1877881725209989432"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fMbZo9fCLU",
+              "end": 50,
+              "expanded_url": "https://x.com/KR_100505/status/1877881725209989432/photo/1",
+              "media_key": "3_1877881719392546816",
+              "start": 27,
+              "url": "https://t.co/fMbZo9fCLU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877881725209989432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 653,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看完\n千晴包皮垢 石原肉丝腿 恶臭飞诸伪娘的观后感： https://t.co/fMbZo9fCLU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲",
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844188914451365901/gNnOT4GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 215,
+          "like_count": 2046,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 914
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-24T03:05:13.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zr_100505",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zr_100505",
+                "start": 0,
+                "url": "https://t.co/Ch2BqnxhbX"
+              }
+            ]
+          }
+        },
+        "id": "1860519931537719296",
+        "location": "皮特凯恩群岛",
+        "name": "Zara",
+        "pinned_tweet_id": "1870246778580177070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860520250892046336/jStXQrnN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 153,
+          "like_count": 1541,
+          "listed_count": 1,
+          "media_count": 478,
+          "tweet_count": 893
+        },
+        "url": "https://t.co/Ch2BqnxhbX",
+        "username": "KR_100505",
+        "verified": false
+      }
+    ]
+  }
+}

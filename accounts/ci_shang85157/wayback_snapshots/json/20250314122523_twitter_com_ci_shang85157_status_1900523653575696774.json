@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1900029503784788186",
+    "created_at": "2025-03-14T12:25:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-14T13:25:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1900523653575696774"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1863458626725388288",
+          "start": 0,
+          "username": "Stella0511977"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900523653575696774",
+    "in_reply_to_user_id": "1863458626725388288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900029503784788186",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Stella0511977 那会有不安全"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1900029503784788186",
+        "created_at": "2025-03-14T12:25:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-14T13:25:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900523653575696774"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1863458626725388288",
+              "start": 0,
+              "username": "Stella0511977"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900523653575696774",
+        "in_reply_to_user_id": "1863458626725388288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900029503784788186",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Stella0511977 那会有不安全"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863458626725388288",
+        "conversation_id": "1900029503784788186",
+        "created_at": "2025-03-13T03:41:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-13T04:41:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1900029503784788186"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1900029503784788186",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实很想一个人出去旅游，但出于安全考虑，还是一直在上海兜圈子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 302,
+          "like_count": 3848,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 1752
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-02T05:42:27.000Z",
+        "description": "",
+        "id": "1863458626725388288",
+        "name": "Stella1977女的",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863475546807844864/1vz46exa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 2,
+          "like_count": 214,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 961
+        },
+        "username": "Stella0511977",
+        "verified": false
+      }
+    ]
+  }
+}

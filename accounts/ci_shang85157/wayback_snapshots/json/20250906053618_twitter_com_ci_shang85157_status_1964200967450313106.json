@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1961103648169328659",
+    "created_at": "2025-09-06T05:36:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-06T06:36:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964200967450313106"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1641348685693870080",
+          "start": 0,
+          "username": "meet9146"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964200967450313106",
+    "in_reply_to_user_id": "1641348685693870080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961103648169328659",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@meet9146 我靠我咋没抢到"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1961103636458876928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gzc9XfLbsAAlK_g.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1961103648169328659",
+        "created_at": "2025-09-06T05:36:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T06:36:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964200967450313106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1641348685693870080",
+              "start": 0,
+              "username": "meet9146"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964200967450313106",
+        "in_reply_to_user_id": "1641348685693870080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961103648169328659",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meet9146 我靠我咋没抢到"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961103636458876928"
+          ]
+        },
+        "author_id": "1641348685693870080",
+        "conversation_id": "1961103648169328659",
+        "created_at": "2025-08-28T16:28:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T17:28:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961103648169328659"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/f11rw49LBs",
+              "end": 31,
+              "expanded_url": "https://x.com/meet9146/status/1961103648169328659/photo/1",
+              "media_key": "3_1961103636458876928",
+              "start": 8,
+              "url": "https://t.co/f11rw49LBs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961103648169328659",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 145,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "七夕红包吗谢谢 https://t.co/f11rw49LBs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧   小男友@pertx114514",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 27,
+                "username": "pertx114514"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉方",
+        "pinned_tweet_id": "1963923748203139355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 768,
+          "following_count": 602,
+          "like_count": 14363,
+          "listed_count": 3,
+          "media_count": 171,
+          "tweet_count": 5749
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-30T07:56:43.000Z",
+        "description": "痛苦/一具尸体/说唱/💊/看动漫/喜欢萌妹子/coser/粥/烤/求你了和我聊天",
+        "id": "1641348685693870080",
+        "name": "好大一片麦子，咱俩一起坏掉吧",
+        "pinned_tweet_id": "1944668604697325695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956328268958744576/g5f0XFaQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 175,
+          "like_count": 2995,
+          "listed_count": 1,
+          "media_count": 87,
+          "tweet_count": 327
+        },
+        "username": "meet9146",
+        "verified": false
+      }
+    ]
+  }
+}

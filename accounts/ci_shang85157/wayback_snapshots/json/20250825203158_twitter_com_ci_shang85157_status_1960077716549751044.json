@@ -1,0 +1,476 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1959894462798385152"
+      ],
+      "media_source_tweet_id": [
+        "1959894472030032203"
+      ]
+    },
+    "author_id": "1826281483675299840",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10052344251",
+          "name": "ヴァイオレット・エヴァーガーデン"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A film like Rogue One: A Star Wars Story",
+          "id": "86",
+          "name": "Movie"
+        },
+        "entity": {
+          "id": "1599901058418888704",
+          "name": "Violet Evergarden: Recollections (Netflix)"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "1960077716549751044",
+    "created_at": "2025-08-25T20:31:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-25T21:31:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960077716549751044"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 32,
+          "start": 15,
+          "tag": "ヴァイオレット・エヴァーガーデン"
+        },
+        {
+          "end": 41,
+          "start": 33,
+          "tag": "cosplay"
+        },
+        {
+          "end": 61,
+          "start": 44,
+          "tag": "VioletEvergarden"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1847303724785635328",
+          "start": 3,
+          "username": "dirya_cos"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TGvf44OQ0G",
+          "end": 85,
+          "expanded_url": "https://x.com/dirya_cos/status/1959894472030032203/photo/1",
+          "media_key": "3_1959894462798385152",
+          "start": 62,
+          "url": "https://t.co/TGvf44OQ0G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960077716549751044",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 220
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959894472030032203",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dirya_cos: #ヴァイオレット・エヴァーガーデン #cosplay   #VioletEvergarden https://t.co/TGvf44OQ0G"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1657,
+        "media_key": "3_1959894462798385152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzLxoURaUAAaAbX.jpg",
+        "width": 905
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1959894462798385152"
+          ],
+          "media_source_tweet_id": [
+            "1959894472030032203"
+          ]
+        },
+        "author_id": "1826281483675299840",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10052344251",
+              "name": "ヴァイオレット・エヴァーガーデン"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A film like Rogue One: A Star Wars Story",
+              "id": "86",
+              "name": "Movie"
+            },
+            "entity": {
+              "id": "1599901058418888704",
+              "name": "Violet Evergarden: Recollections (Netflix)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "1960077716549751044",
+        "created_at": "2025-08-25T20:31:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T21:31:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960077716549751044"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 15,
+              "tag": "ヴァイオレット・エヴァーガーデン"
+            },
+            {
+              "end": 41,
+              "start": 33,
+              "tag": "cosplay"
+            },
+            {
+              "end": 61,
+              "start": 44,
+              "tag": "VioletEvergarden"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1847303724785635328",
+              "start": 3,
+              "username": "dirya_cos"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TGvf44OQ0G",
+              "end": 85,
+              "expanded_url": "https://x.com/dirya_cos/status/1959894472030032203/photo/1",
+              "media_key": "3_1959894462798385152",
+              "start": 62,
+              "url": "https://t.co/TGvf44OQ0G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960077716549751044",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 220
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959894472030032203",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dirya_cos: #ヴァイオレット・エヴァーガーデン #cosplay   #VioletEvergarden https://t.co/TGvf44OQ0G"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1959894462798385152"
+          ]
+        },
+        "author_id": "1847303724785635328",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10052344251",
+              "name": "ヴァイオレット・エヴァーガーデン"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A film like Rogue One: A Star Wars Story",
+              "id": "86",
+              "name": "Movie"
+            },
+            "entity": {
+              "id": "1599901058418888704",
+              "name": "Violet Evergarden: Recollections (Netflix)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "1959894472030032203",
+        "created_at": "2025-08-25T08:23:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T09:23:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959894472030032203"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 0,
+              "tag": "ヴァイオレット・エヴァーガーデン"
+            },
+            {
+              "end": 26,
+              "start": 18,
+              "tag": "cosplay"
+            },
+            {
+              "end": 46,
+              "start": 29,
+              "tag": "VioletEvergarden"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TGvf44OQ0G",
+              "end": 70,
+              "expanded_url": "https://x.com/dirya_cos/status/1959894472030032203/photo/1",
+              "media_key": "3_1959894462798385152",
+              "start": 47,
+              "url": "https://t.co/TGvf44OQ0G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959894472030032203",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 428,
+          "impression_count": 41686,
+          "like_count": 4823,
+          "quote_count": 3,
+          "reply_count": 17,
+          "retweet_count": 220
+        },
+        "reply_settings": "everyone",
+        "text": "#ヴァイオレット・エヴァーガーデン #cosplay   #VioletEvergarden https://t.co/TGvf44OQ0G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像失去了一条时间线，算了，我们从来吧",
+        "id": "1826281483675299840",
+        "name": "泉方",
+        "pinned_tweet_id": "1932824152811188484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 721,
+          "following_count": 573,
+          "like_count": 13392,
+          "listed_count": 3,
+          "media_count": 163,
+          "tweet_count": 5438
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-18T15:48:35.000Z",
+        "description": "ぢリャcosplayer, concept artist. thanks for following ～🚫all my works no reprinting&reproducting",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/dirya_cos?igsh…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/dirya_cos?igsh=OXg5NTRhem96ZTlq&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/ynVg2zOCww"
+              }
+            ]
+          }
+        },
+        "id": "1847303724785635328",
+        "name": "dirya",
+        "pinned_tweet_id": "1893978693292134770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893601971258474496/hJQoeTOz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95746,
+          "following_count": 12,
+          "like_count": 350,
+          "listed_count": 262,
+          "media_count": 309,
+          "tweet_count": 355
+        },
+        "url": "https://t.co/ynVg2zOCww",
+        "username": "dirya_cos",
+        "verified": false
+      }
+    ]
+  }
+}

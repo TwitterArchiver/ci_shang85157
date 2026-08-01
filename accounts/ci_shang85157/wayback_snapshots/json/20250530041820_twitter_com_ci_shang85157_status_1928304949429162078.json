@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1928243502611124247",
+    "created_at": "2025-05-30T04:18:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-30T05:18:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928304949429162078"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1791687125533958144",
+          "start": 0,
+          "username": "rosmarinou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928304949429162078",
+    "in_reply_to_user_id": "1791687125533958144",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928243502611124247",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rosmarinou 🥲🥲🥲想家了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1928243490183598082",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsJ_PPDaUAIf5sg.jpg",
+        "width": 1171
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1928243502611124247",
+        "created_at": "2025-05-30T04:18:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-30T05:18:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928304949429162078"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1791687125533958144",
+              "start": 0,
+              "username": "rosmarinou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928304949429162078",
+        "in_reply_to_user_id": "1791687125533958144",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928243502611124247",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rosmarinou 🥲🥲🥲想家了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1928243490183598082"
+          ]
+        },
+        "author_id": "1791687125533958144",
+        "conversation_id": "1928243502611124247",
+        "created_at": "2025-05-30T00:14:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-30T01:14:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928243502611124247"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QaifntLPTw",
+              "end": 23,
+              "expanded_url": "https://x.com/rosmarinou/status/1928243502611124247/photo/1",
+              "media_key": "3_1928243490183598082",
+              "start": 0,
+              "url": "https://t.co/QaifntLPTw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928243502611124247",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 224,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/QaifntLPTw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲，生理性别男，请不要私信给我发那种奇怪的东西了\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 74,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 605,
+          "following_count": 532,
+          "like_count": 10858,
+          "listed_count": 2,
+          "media_count": 172,
+          "tweet_count": 4495
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-18T04:28:16.000Z",
+        "description": "07年重度抑郁的废物呢，很高兴认识大家。可以称呼咱为ros哦 姐姐：@yehai0032                                                           晚安啦🕯️，面码姐姐@TianqiChen666",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "yehai0032"
+              },
+              {
+                "end": 127,
+                "start": 113,
+                "username": "TianqiChen666"
+              }
+            ]
+          }
+        },
+        "id": "1791687125533958144",
+        "location": "河南新乡",
+        "name": "Rosmarinus🧊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895856134432452609/ys8gvkqj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 68,
+          "like_count": 15571,
+          "listed_count": 1,
+          "media_count": 1138,
+          "tweet_count": 1668
+        },
+        "username": "rosmarinou",
+        "verified": false
+      }
+    ]
+  }
+}

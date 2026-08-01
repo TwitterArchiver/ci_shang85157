@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "2061076866585301003",
+    "created_at": "2026-06-04T10:37:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T11:37:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062483794616279257"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2047867480576794624",
+          "start": 0,
+          "username": "yuganbb823"
+        },
+        {
+          "end": 23,
+          "id": "2053298751863676935",
+          "start": 12,
+          "username": "Xiaohutysd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062483794616279257",
+    "in_reply_to_user_id": "2047867480576794624",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061076866585301003",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuganbb823 @Xiaohutysd 我哭了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 32133,
+        "height": 1280,
+        "media_key": "13_2061076630282366976",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2061076630282366976/img/CFR1_le2BwhVU3s8.jpg",
+        "public_metrics": {
+          "view_count": 214
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2061076630282366976/vid/avc1/320x568/Wxr3rNsba2TkVHmu.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2061076630282366976/vid/avc1/480x852/UHYjV3uA6qV-FZqO.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2061076630282366976/vid/avc1/720x1280/GRWRsUmKygVEvlse.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2061076630282366976/pl/eDzeInFdwp1CGMOP.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "2061076866585301003",
+        "created_at": "2026-06-04T10:37:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T11:37:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062483794616279257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2047867480576794624",
+              "start": 0,
+              "username": "yuganbb823"
+            },
+            {
+              "end": 23,
+              "id": "2053298751863676935",
+              "start": 12,
+              "username": "Xiaohutysd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062483794616279257",
+        "in_reply_to_user_id": "2047867480576794624",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061076866585301003",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuganbb823 @Xiaohutysd 我哭了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2061076630282366976"
+          ]
+        },
+        "author_id": "2047867480576794624",
+        "conversation_id": "2061076866585301003",
+        "created_at": "2026-05-31T13:26:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T14:26:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061076866585301003"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 144,
+              "id": "2053298751863676935",
+              "start": 133,
+              "username": "Xiaohutysd"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IEzV9FXoTv",
+              "end": 168,
+              "expanded_url": "https://x.com/yuganbb823/status/2061076866585301003/video/1",
+              "media_key": "13_2061076630282366976",
+              "start": 145,
+              "url": "https://t.co/IEzV9FXoTv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061076866585301003",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 522,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好想你我好舍不得你我还没有跟你说阳光城后面那里有个蛋糕也很好吃你就走了。明明我们昨天还在见面的，我想你了我想你了我讨厌你 为什么刚认识你就要去死了。为什么之前跟你互关我要咔你早知道我就直接问你怎么一条微博动态都没有了为什么我昨天不好好劝你昨天你要回去了我没有抱抱你@Xiaohutysd https://t.co/IEzV9FXoTv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧 https://t.co/ILEWFdOQz0。 ngl匿名问答。  嗯我是男生 不要认错了。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%8950122",
+                "end": 45,
+                "expanded_url": "https://ngl.link/%E6%B3%8950122",
+                "start": 22,
+                "url": "https://t.co/ILEWFdOQz0"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "永雏泉",
+        "pinned_tweet_id": "2060026487768760460",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978274114138996736/r_khhgIT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1152,
+          "following_count": 747,
+          "like_count": 24719,
+          "listed_count": 2,
+          "media_count": 270,
+          "tweet_count": 8811
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-25T02:40:37.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 只跟同类互fo 直fo是因为喜欢你呀 |",
+        "id": "2047867480576794624",
+        "location": "你身后",
+        "name": "为何人生如此凄惨",
+        "pinned_tweet_id": "2061102606643044586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058530430505107456/xZ6M8S5D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 198,
+          "like_count": 3597,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 612
+        },
+        "username": "yuganbb823",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-10T02:19:40.000Z",
+        "description": "=寻曜 🚪52/88/188 688一月电子女友 定制视频25一分钟",
+        "id": "2053298751863676935",
+        "name": "小户",
+        "pinned_tweet_id": "2053300726852473074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053299068051259399/DvR1pJF8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 39,
+          "like_count": 69,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 147
+        },
+        "username": "Xiaohutysd",
+        "verified": false
+      }
+    ]
+  }
+}

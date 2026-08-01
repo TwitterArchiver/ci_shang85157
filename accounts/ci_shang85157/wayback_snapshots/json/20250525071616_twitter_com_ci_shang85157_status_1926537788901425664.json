@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1926413399019192666",
+    "created_at": "2025-05-25T07:16:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-25T08:16:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926537788901425664"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1818214513059201024",
+          "start": 0,
+          "username": "1234568hhhhh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926537788901425664",
+    "in_reply_to_user_id": "1818214513059201024",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926413399019192666",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1234568hhhhh 你裹唛"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1926413384104263680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Grv-xCoXwAA_4c6.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1926413399019192666",
+        "created_at": "2025-05-25T07:16:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-25T08:16:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926537788901425664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1818214513059201024",
+              "start": 0,
+              "username": "1234568hhhhh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926537788901425664",
+        "in_reply_to_user_id": "1818214513059201024",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926413399019192666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1234568hhhhh 你裹唛"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1926413384104263680"
+          ]
+        },
+        "author_id": "1818214513059201024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1926413399019192666",
+        "created_at": "2025-05-24T23:02:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-25T00:02:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1926413399019192666"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YkvaotzAnm",
+              "end": 33,
+              "expanded_url": "https://x.com/1234568hhhhh/status/1926413399019192666/photo/1",
+              "media_key": "3_1926413384104263680",
+              "start": 10,
+              "url": "https://t.co/YkvaotzAnm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926413399019192666",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 286,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "7点多 饮早茶先咯 https://t.co/YkvaotzAnm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲，生理性别男，请不要私信给我发那种奇怪的东西了\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 74,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 600,
+          "following_count": 512,
+          "like_count": 10343,
+          "listed_count": 2,
+          "media_count": 166,
+          "tweet_count": 4294
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-30T09:18:22.000Z",
+        "description": "所谓过往，皆为序章",
+        "id": "1818214513059201024",
+        "location": "鸡窝托斯",
+        "name": "星野日向（互fo）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823799508263669761/CFFimO0K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 651,
+          "like_count": 9256,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 1740
+        },
+        "username": "1234568hhhhh",
+        "verified": false
+      }
+    ]
+  }
+}

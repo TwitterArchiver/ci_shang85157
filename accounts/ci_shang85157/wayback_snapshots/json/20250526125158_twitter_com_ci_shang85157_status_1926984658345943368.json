@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1926969099738816724",
+    "created_at": "2025-05-26T12:51:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-26T13:51:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926984658345943368"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2272358816",
+          "start": 0,
+          "username": "mmeiyangyang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926984658345943368",
+    "in_reply_to_user_id": "2272358816",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926969099738816724",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mmeiyangyang 涂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 648,
+        "media_key": "3_1926969096131727360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gr34LvQWUAA7w0C.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1926969099738816724",
+        "created_at": "2025-05-26T12:51:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T13:51:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926984658345943368"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2272358816",
+              "start": 0,
+              "username": "mmeiyangyang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926984658345943368",
+        "in_reply_to_user_id": "2272358816",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926969099738816724",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mmeiyangyang 涂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1926969096131727360"
+          ]
+        },
+        "author_id": "2272358816",
+        "conversation_id": "1926969099738816724",
+        "created_at": "2025-05-26T11:50:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T12:50:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1926969099738816724"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fU2dhZjw9B",
+              "end": 23,
+              "expanded_url": "https://x.com/mmeiyangyang/status/1926969099738816724/photo/1",
+              "media_key": "3_1926969096131727360",
+              "start": 0,
+              "url": "https://t.co/fU2dhZjw9B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926969099738816724",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3551,
+          "like_count": 31,
+          "quote_count": 1,
+          "reply_count": 26,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/fU2dhZjw9B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲，生理性别男，请不要私信给我发那种奇怪的东西了\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 74,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 598,
+          "following_count": 516,
+          "like_count": 10436,
+          "listed_count": 2,
+          "media_count": 166,
+          "tweet_count": 4318
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2014-01-02T02:23:31.000Z",
+        "description": "想和大家交朋友互相视奸嘻嘻(◍•ᴗ•◍)欢迎互 fo 有 fo 必回～给你带来快乐是我的荣幸✧٩(ˊωˋ*)و✧要不要试试我推荐的 vpn特别好用噢 https://t.co/KWr7xZ1Mfk 真的 9 元不限速！",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bit.ly/myy-tz",
+                "end": 98,
+                "expanded_url": "http://bit.ly/myy-tz",
+                "start": 75,
+                "url": "https://t.co/KWr7xZ1Mfk"
+              }
+            ]
+          }
+        },
+        "id": "2272358816",
+        "name": "不想早起（不论成分互fo记得私信）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926652730375876609/rf2Z0i_L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 334,
+          "following_count": 45,
+          "like_count": 554,
+          "listed_count": 4,
+          "media_count": 100,
+          "tweet_count": 476
+        },
+        "username": "mmeiyangyang",
+        "verified": false
+      }
+    ]
+  }
+}

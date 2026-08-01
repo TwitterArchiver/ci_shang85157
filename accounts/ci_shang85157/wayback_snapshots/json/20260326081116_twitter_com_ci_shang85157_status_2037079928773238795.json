@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "2036782944472478178",
+    "created_at": "2026-03-26T08:11:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T09:11:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037079928773238795"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1933730779571638272",
+          "start": 0,
+          "username": "creepioi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037079928773238795",
+    "in_reply_to_user_id": "1933730779571638272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036782944472478178",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@creepioi 还有这种用法嘛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "2036782944472478178",
+        "created_at": "2026-03-26T08:11:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T09:11:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037079928773238795"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1933730779571638272",
+              "start": 0,
+              "username": "creepioi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037079928773238795",
+        "in_reply_to_user_id": "1933730779571638272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036782944472478178",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@creepioi 还有这种用法嘛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1933730779571638272",
+        "conversation_id": "2036782944472478178",
+        "created_at": "2026-03-25T12:31:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T13:31:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036782944472478178"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036782944472478178",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 50125,
+          "like_count": 232,
+          "quote_count": 2,
+          "reply_count": 76,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "早泄是不是就可以一直装处男了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧 https://t.co/ILEWFdOQz0。 ngl匿名问答 想交朋友或者互fo尽管私信我 每个人都会回",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%8950122",
+                "end": 45,
+                "expanded_url": "https://ngl.link/%E6%B3%8950122",
+                "start": 22,
+                "url": "https://t.co/ILEWFdOQz0"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "永雏泉",
+        "pinned_tweet_id": "2034295067847147660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978274114138996736/r_khhgIT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1093,
+          "following_count": 716,
+          "like_count": 22753,
+          "listed_count": 2,
+          "media_count": 255,
+          "tweet_count": 8245
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-14T03:38:46.000Z",
+        "description": "",
+        "id": "1933730779571638272",
+        "location": "我来自地狱🚪",
+        "name": "creep",
+        "pinned_tweet_id": "2016353746368839901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035093926814916608/ZXpOF0bm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15155,
+          "following_count": 107,
+          "like_count": 2283,
+          "listed_count": 13,
+          "media_count": 13,
+          "tweet_count": 951
+        },
+        "username": "creepioi",
+        "verified": false
+      }
+    ]
+  }
+}

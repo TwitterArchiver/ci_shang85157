@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1924465068810612808",
+    "created_at": "2025-05-19T22:42:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-19T23:42:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924596626825609702"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1823729658833055745",
+          "start": 0,
+          "username": "pijiuyayaya"
+        },
+        {
+          "end": 25,
+          "id": "1592865779241734144",
+          "start": 13,
+          "username": "yuanyuan774"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924596626825609702",
+    "in_reply_to_user_id": "1823729658833055745",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924592842762289372",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pijiuyayaya @yuanyuan774 还没睡？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1924465068810612808",
+        "created_at": "2025-05-19T22:42:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-19T23:42:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924596626825609702"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1823729658833055745",
+              "start": 0,
+              "username": "pijiuyayaya"
+            },
+            {
+              "end": 25,
+              "id": "1592865779241734144",
+              "start": 13,
+              "username": "yuanyuan774"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924596626825609702",
+        "in_reply_to_user_id": "1823729658833055745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924592842762289372",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pijiuyayaya @yuanyuan774 还没睡？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1823729658833055745",
+        "conversation_id": "1924465068810612808",
+        "created_at": "2025-05-19T22:27:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-19T23:27:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924592842762289372"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1592865779241734144",
+              "start": 0,
+              "username": "yuanyuan774"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924592842762289372",
+        "in_reply_to_user_id": "1592865779241734144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924592443049078821",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuanyuan774 还没睡。？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲，生理性别男，请不要私信给我发那种奇怪的东西了\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 74,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 592,
+          "following_count": 511,
+          "like_count": 10004,
+          "listed_count": 2,
+          "media_count": 162,
+          "tweet_count": 4196
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-14T14:33:41.000Z",
+        "description": "鹈鹕不知道写什么所以决定睡觉觉觉觉觉觉觉觉觉觉觉觉去了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kaochang",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kaochang",
+                "start": 0,
+                "url": "https://t.co/Fhu75lPXQN"
+              }
+            ]
+          }
+        },
+        "id": "1823729658833055745",
+        "name": "鹈鹕吃烤肠也吃鹌鹑",
+        "pinned_tweet_id": "1920792923378942040",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919898307712983040/-d0gWgAN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 463,
+          "following_count": 315,
+          "like_count": 7433,
+          "listed_count": 4,
+          "media_count": 529,
+          "tweet_count": 5439
+        },
+        "url": "https://t.co/Fhu75lPXQN",
+        "username": "pijiuyayaya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-16T13:03:00.000Z",
+        "description": "路边的小猫是我变的⁃ ⩊ ⁃",
+        "id": "1592865779241734144",
+        "location": "喜欢就打钱",
+        "name": "你是不是欠",
+        "pinned_tweet_id": "1923714427540418916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922329752402051075/lE1Q0HWe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9453,
+          "following_count": 274,
+          "like_count": 24926,
+          "listed_count": 13,
+          "media_count": 937,
+          "tweet_count": 19672
+        },
+        "username": "yuanyuan774",
+        "verified": false
+      }
+    ]
+  }
+}

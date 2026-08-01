@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1929891771036647754",
+    "created_at": "2025-06-03T14:12:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-03T15:12:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929903918961832319"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1926313840557355008",
+          "start": 0,
+          "username": "yepa41"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929903918961832319",
+    "in_reply_to_user_id": "1926313840557355008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929891771036647754",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yepa41 一点东西"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15133,
+        "height": 960,
+        "media_key": "7_1929891595333091329",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1929891595333091329/pu/img/zTfMBuelKHF-WiTw.jpg",
+        "public_metrics": {
+          "view_count": 7
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1929891595333091329/pu/vid/avc1/320x426/tyCps1lF3ICluwRQ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1929891595333091329/pu/vid/avc1/480x640/liw3L2yROtcg8k2D.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1929891595333091329/pu/vid/avc1/720x960/xNgNDt-uM0cu-0De.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1929891595333091329/pu/pl/SKzMWFFNSHi7ZvfG.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1929891771036647754",
+        "created_at": "2025-06-03T14:12:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T15:12:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929903918961832319"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1926313840557355008",
+              "start": 0,
+              "username": "yepa41"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929903918961832319",
+        "in_reply_to_user_id": "1926313840557355008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929891771036647754",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yepa41 一点东西"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1929891595333091329"
+          ]
+        },
+        "author_id": "1926313840557355008",
+        "conversation_id": "1929891771036647754",
+        "created_at": "2025-06-03T13:23:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T14:23:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1929891771036647754"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jkJw1z8JWV",
+              "end": 31,
+              "expanded_url": "https://x.com/yepa41/status/1929891771036647754/video/1",
+              "media_key": "7_1929891595333091329",
+              "start": 8,
+              "url": "https://t.co/jkJw1z8JWV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929891771036647754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁给我挂网上了 https://t.co/jkJw1z8JWV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲，生理性别男，请不要私信给我发那种奇怪的东西了\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 74,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 620,
+          "following_count": 542,
+          "like_count": 11395,
+          "listed_count": 2,
+          "media_count": 180,
+          "tweet_count": 4701
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-24T16:26:40.000Z",
+        "description": "",
+        "id": "1926313840557355008",
+        "name": "斯德哥尔摩第二吉他手",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926626530458841089/XGA2cnHE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 65,
+          "like_count": 658,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 33
+        },
+        "username": "yepa41",
+        "verified": false
+      }
+    ]
+  }
+}

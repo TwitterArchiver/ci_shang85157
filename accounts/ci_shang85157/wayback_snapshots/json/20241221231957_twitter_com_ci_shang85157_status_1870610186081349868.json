@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1870353742568342014",
+    "created_at": "2024-12-21T23:19:57.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-22T00:19:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1870610186081349868"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1644328501980561409",
+          "start": 0,
+          "username": "LitangHospital2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1870610186081349868",
+    "in_reply_to_user_id": "1644328501980561409",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1870353742568342014",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LitangHospital2 你也要噶韭菜啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1870353742568342014",
+        "created_at": "2024-12-21T23:19:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-22T00:19:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1870610186081349868"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1644328501980561409",
+              "start": 0,
+              "username": "LitangHospital2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1870610186081349868",
+        "in_reply_to_user_id": "1644328501980561409",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1870353742568342014",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LitangHospital2 你也要噶韭菜啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1870353729221976064"
+          ]
+        },
+        "author_id": "1644328501980561409",
+        "conversation_id": "1870353742568342014",
+        "created_at": "2024-12-21T06:20:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-21T07:20:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1870353742568342014"
+        ],
+        "entities": {
+          "cashtags": [
+            {
+              "end": 35,
+              "start": 30,
+              "tag": "Ding"
+            },
+            {
+              "end": 60,
+              "start": 55,
+              "tag": "Ding"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VF7pdHl44g",
+              "end": 157,
+              "expanded_url": "https://x.com/LitangHospital2/status/1870353742568342014/photo/1",
+              "media_key": "3_1870353729221976064",
+              "start": 134,
+              "url": "https://t.co/VF7pdHl44g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1870353742568342014",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 48735,
+          "like_count": 742,
+          "quote_count": 10,
+          "reply_count": 72,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "今天我们很高兴的宣布，我们在 RELX上发行了我们的迷因币 $Ding ，以帮助我们的团队持续运营这个账号。\n$Ding 将以一个基金会架构,  后续会邀请更多动物朋友作为基金会成员，通过多签钱包管理基金会的支出，确保基金会的去中心化，以完全公开透明的方式进行运作。 https://t.co/VF7pdHl44g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，有兴趣就可以一起玩",
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844188914451365901/gNnOT4GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 270,
+          "like_count": 1297,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 488
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-07T13:17:27.000Z",
+        "description": "战友们，今天你 #炒币革命 了吗",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 13,
+                "start": 8,
+                "tag": "炒币革命"
+              }
+            ]
+          }
+        },
+        "id": "1644328501980561409",
+        "location": "理塘",
+        "name": "丁师傅",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868283264492093440/wjLOob4h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10776,
+          "following_count": 2771,
+          "like_count": 36629,
+          "listed_count": 36,
+          "media_count": 1332,
+          "tweet_count": 9191
+        },
+        "username": "LitangHospital2",
+        "verified": false
+      }
+    ]
+  }
+}

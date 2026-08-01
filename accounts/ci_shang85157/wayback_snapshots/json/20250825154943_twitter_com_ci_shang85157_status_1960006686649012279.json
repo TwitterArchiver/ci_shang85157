@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1959982611381813332",
+    "created_at": "2025-08-25T15:49:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-25T16:49:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960006686649012279"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1888631961930891264",
+          "start": 0,
+          "username": "ijiandan11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960006686649012279",
+    "in_reply_to_user_id": "1888631961930891264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959982611381813332",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@ijiandan11 真的可以吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1959982611381813332",
+        "created_at": "2025-08-25T15:49:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T16:49:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960006686649012279"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1888631961930891264",
+              "start": 0,
+              "username": "ijiandan11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960006686649012279",
+        "in_reply_to_user_id": "1888631961930891264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959982611381813332",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@ijiandan11 真的可以吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888631961930891264",
+        "conversation_id": "1959982611381813332",
+        "created_at": "2025-08-25T14:14:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T15:14:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959982611381813332"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1959982611381813332",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 902,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "互关来加我微信好吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像失去了一条时间线，算了，我们从来吧",
+        "id": "1826281483675299840",
+        "name": "泉方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 722,
+          "following_count": 575,
+          "like_count": 13378,
+          "listed_count": 3,
+          "media_count": 162,
+          "tweet_count": 5430
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-09T16:52:16.000Z",
+        "description": "颜控",
+        "id": "1888631961930891264",
+        "name": "芝士火鸡烤冷面",
+        "pinned_tweet_id": "1957868912592507226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956700474285109248/odXyYnHl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5051,
+          "following_count": 200,
+          "like_count": 5270,
+          "listed_count": 9,
+          "media_count": 41,
+          "tweet_count": 1923
+        },
+        "username": "ijiandan11",
+        "verified": false
+      }
+    ]
+  }
+}

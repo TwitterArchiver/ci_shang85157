@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1960867177252446597",
+    "created_at": "2025-08-28T23:55:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-29T00:55:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961216161883828437"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1669250248265302020",
+          "start": 0,
+          "username": "xu96175836"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961216161883828437",
+    "in_reply_to_user_id": "1669250248265302020",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960867177252446597",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xu96175836 抖音天天屏蔽那么多评论，几万点赞的视频底下评论全删完了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_1942385569310310400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvS9YlOWAAAMAM0.jpg",
+        "width": 675
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1960867177252446597",
+        "created_at": "2025-08-28T23:55:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T00:55:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961216161883828437"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1669250248265302020",
+              "start": 0,
+              "username": "xu96175836"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961216161883828437",
+        "in_reply_to_user_id": "1669250248265302020",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960867177252446597",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xu96175836 抖音天天屏蔽那么多评论，几万点赞的视频底下评论全删完了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942385569310310400"
+          ]
+        },
+        "author_id": "1669250248265302020",
+        "conversation_id": "1960867177252446597",
+        "created_at": "2025-08-28T00:49:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T01:49:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960867177252446597"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zb4rFkWNkl",
+              "end": 73,
+              "expanded_url": "https://x.com/xu96175836/status/1960867177252446597/photo/1",
+              "media_key": "3_1942385569310310400",
+              "start": 50,
+              "url": "https://t.co/zb4rFkWNkl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960867177252446597",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 73,
+          "impression_count": 284784,
+          "like_count": 1257,
+          "quote_count": 24,
+          "reply_count": 235,
+          "retweet_count": 178
+        },
+        "reply_settings": "everyone",
+        "text": "外交部发言人：中国政府不会屏蔽任何声音，也不会禁用任何软件。 \n\n 光明正大的撒谎，我差点就信了！ https://t.co/zb4rFkWNkl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧   小男友@pertx114514",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 27,
+                "username": "pertx114514"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉方",
+        "pinned_tweet_id": "1932824152811188484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 726,
+          "following_count": 568,
+          "like_count": 13591,
+          "listed_count": 3,
+          "media_count": 165,
+          "tweet_count": 5496
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-15T07:47:28.000Z",
+        "description": "一个人的各种品性之中，德行是第一位的。\n优良的品性是真正的财富，而衬显这品性的是良好的教养。",
+        "id": "1669250248265302020",
+        "name": "雪柔",
+        "pinned_tweet_id": "1855778217598337030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1690669189856444417/1SYUbSmR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109262,
+          "following_count": 1487,
+          "like_count": 7175,
+          "listed_count": 325,
+          "media_count": 10465,
+          "tweet_count": 11333
+        },
+        "username": "xu96175836",
+        "verified": true
+      }
+    ]
+  }
+}

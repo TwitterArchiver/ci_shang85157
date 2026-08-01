@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1908517621558829457",
+    "created_at": "2025-04-05T14:09:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-05T15:09:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908522330474897676"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1471640417519030275",
+          "start": 0,
+          "username": "TopGyaru"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908522330474897676",
+    "in_reply_to_user_id": "1471640417519030275",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908517621558829457",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TopGyaru 可爱捏"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 60045,
+        "height": 720,
+        "media_key": "7_1908517548435660801",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1908517548435660801/pu/img/KSFv61G02SzBYjR1.jpg",
+        "public_metrics": {
+          "view_count": 221
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1908517548435660801/pu/vid/avc1/480x270/nK6vhjhO0ie7rv6h.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1908517548435660801/pu/vid/avc1/640x360/RAz0e-BaItmJtHXv.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1908517548435660801/pu/vid/avc1/1280x720/nRJ4FvDtIz5wdNec.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1908517548435660801/pu/pl/-wk3Kmunq3kzlszr.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1908517621558829457",
+        "created_at": "2025-04-05T14:09:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T15:09:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908522330474897676"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1471640417519030275",
+              "start": 0,
+              "username": "TopGyaru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908522330474897676",
+        "in_reply_to_user_id": "1471640417519030275",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908517621558829457",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TopGyaru 可爱捏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1908517548435660801"
+          ]
+        },
+        "author_id": "1471640417519030275",
+        "conversation_id": "1908517621558829457",
+        "created_at": "2025-04-05T13:50:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T14:50:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908517621558829457"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/agOdTdeeYX",
+              "end": 36,
+              "expanded_url": "https://x.com/TopGyaru/status/1908517621558829457/video/1",
+              "media_key": "7_1908517548435660801",
+              "start": 13,
+              "url": "https://t.co/agOdTdeeYX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908517621558829457",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 622,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "Weekend Mood https://t.co/agOdTdeeYX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 342,
+          "like_count": 4900,
+          "listed_count": 1,
+          "media_count": 86,
+          "tweet_count": 2216
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-17T00:36:50.000Z",
+        "description": "Top Gyaru at your service! I just shitpost and retweet My Dress-up Darling stuff 😆",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ko-fi.com/topgyaru",
+                "end": 23,
+                "expanded_url": "https://ko-fi.com/topgyaru",
+                "start": 0,
+                "url": "https://t.co/PeVNLbcRpx"
+              }
+            ]
+          }
+        },
+        "id": "1471640417519030275",
+        "location": " She/Her",
+        "name": "Maririn~",
+        "pinned_tweet_id": "1892952150281539702",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1742239844129210369/Y0waOB9T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232426,
+          "following_count": 1297,
+          "like_count": 128630,
+          "listed_count": 388,
+          "media_count": 7296,
+          "tweet_count": 21931
+        },
+        "url": "https://t.co/PeVNLbcRpx",
+        "username": "TopGyaru",
+        "verified": true
+      }
+    ]
+  }
+}

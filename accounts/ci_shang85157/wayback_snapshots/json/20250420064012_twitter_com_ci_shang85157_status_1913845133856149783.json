@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1913688258439250348",
+    "created_at": "2025-04-20T06:40:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-20T07:40:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913845133856149783"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1439874052957491204",
+          "start": 0,
+          "username": "AyanMR_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913845133856149783",
+    "in_reply_to_user_id": "1439874052957491204",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913807340744409597",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AyanMR_ 怎么忍的了的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1913688258439250348",
+        "created_at": "2025-04-20T06:40:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-20T07:40:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913845133856149783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1439874052957491204",
+              "start": 0,
+              "username": "AyanMR_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913845133856149783",
+        "in_reply_to_user_id": "1439874052957491204",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913807340744409597",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AyanMR_ 怎么忍的了的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1439874052957491204",
+        "conversation_id": "1913688258439250348",
+        "created_at": "2025-04-20T04:10:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-20T05:10:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913807340744409597"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1826281483675299840",
+              "start": 0,
+              "username": "ci_shang85157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913807340744409597",
+        "in_reply_to_user_id": "1826281483675299840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913688258439250348",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ci_shang85157 没办法，宿舍就是四个生活不同的陌生人凑一起，我这其他三个人打呼噜，其中一个外放直播打农原，没事就叫几下，一个外放打农，打瓦喜欢狗叫😅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 383,
+          "following_count": 366,
+          "like_count": 5975,
+          "listed_count": 1,
+          "media_count": 103,
+          "tweet_count": 2785
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-20T08:48:39.000Z",
+        "description": "非经院式的马列毛主义学习者",
+        "id": "1439874052957491204",
+        "location": "NanChang",
+        "name": "skt otto",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852951157343469568/Gi7_WPMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 768,
+          "like_count": 172,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 227
+        },
+        "username": "AyanMR_",
+        "verified": false
+      }
+    ]
+  }
+}

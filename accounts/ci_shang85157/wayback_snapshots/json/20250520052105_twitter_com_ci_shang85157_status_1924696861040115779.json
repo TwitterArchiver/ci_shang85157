@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1924696857680478208"
+      ]
+    },
+    "author_id": "1826281483675299840",
+    "conversation_id": "1924696861040115779",
+    "created_at": "2025-05-20T05:21:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-20T06:21:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1924696861040115779"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 3,
+          "start": 0,
+          "tag": "日常"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/C7LQ3IzznZ",
+          "end": 27,
+          "expanded_url": "https://x.com/ci_shang85157/status/1924696861040115779/photo/1",
+          "media_key": "3_1924696857680478208",
+          "start": 4,
+          "url": "https://t.co/C7LQ3IzznZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924696861040115779",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "＃日常 https://t.co/C7LQ3IzznZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 300,
+        "media_key": "3_1924696857680478208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrXlmDZbAAAAJea.jpg",
+        "width": 138
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1924696857680478208"
+          ]
+        },
+        "author_id": "1826281483675299840",
+        "conversation_id": "1924696861040115779",
+        "created_at": "2025-05-20T05:21:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-20T06:21:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1924696861040115779"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "日常"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/C7LQ3IzznZ",
+              "end": 27,
+              "expanded_url": "https://x.com/ci_shang85157/status/1924696861040115779/photo/1",
+              "media_key": "3_1924696857680478208",
+              "start": 4,
+              "url": "https://t.co/C7LQ3IzznZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924696861040115779",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "＃日常 https://t.co/C7LQ3IzznZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲，生理性别男，请不要私信给我发那种奇怪的东西了\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 74,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 592,
+          "following_count": 512,
+          "like_count": 10039,
+          "listed_count": 2,
+          "media_count": 163,
+          "tweet_count": 4208
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      }
+    ]
+  }
+}

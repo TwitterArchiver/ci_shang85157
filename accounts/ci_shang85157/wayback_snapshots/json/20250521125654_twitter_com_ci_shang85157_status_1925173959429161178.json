@@ -1,0 +1,359 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1925160337659330952",
+    "created_at": "2025-05-21T12:56:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-21T13:56:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925173959429161178"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1818214513059201024",
+          "start": 0,
+          "username": "1234568hhhhh"
+        },
+        {
+          "end": 25,
+          "id": "1143547669698117632",
+          "start": 14,
+          "username": "nyachan233"
+        },
+        {
+          "end": 39,
+          "id": "1683348184331059201",
+          "start": 26,
+          "username": "ccckoajiahao"
+        },
+        {
+          "end": 55,
+          "id": "1833919115360436229",
+          "start": 40,
+          "username": "cleanDust_Chen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925173959429161178",
+    "in_reply_to_user_id": "1818214513059201024",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925173375644610783",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1234568hhhhh @nyachan233 @ccckoajiahao @cleanDust_Chen 有意思"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1925160337659330952",
+        "created_at": "2025-05-21T12:56:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-21T13:56:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925173959429161178"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1818214513059201024",
+              "start": 0,
+              "username": "1234568hhhhh"
+            },
+            {
+              "end": 25,
+              "id": "1143547669698117632",
+              "start": 14,
+              "username": "nyachan233"
+            },
+            {
+              "end": 39,
+              "id": "1683348184331059201",
+              "start": 26,
+              "username": "ccckoajiahao"
+            },
+            {
+              "end": 55,
+              "id": "1833919115360436229",
+              "start": 40,
+              "username": "cleanDust_Chen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925173959429161178",
+        "in_reply_to_user_id": "1818214513059201024",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925173375644610783",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1234568hhhhh @nyachan233 @ccckoajiahao @cleanDust_Chen 有意思"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1818214513059201024",
+        "conversation_id": "1925160337659330952",
+        "created_at": "2025-05-21T12:54:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-21T13:54:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925173375644610783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1143547669698117632",
+              "start": 0,
+              "username": "nyachan233"
+            },
+            {
+              "end": 25,
+              "id": "1683348184331059201",
+              "start": 12,
+              "username": "ccckoajiahao"
+            },
+            {
+              "end": 40,
+              "id": "1826281483675299840",
+              "start": 26,
+              "username": "ci_shang85157"
+            },
+            {
+              "end": 56,
+              "id": "1833919115360436229",
+              "start": 41,
+              "username": "cleanDust_Chen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925173375644610783",
+        "in_reply_to_user_id": "1143547669698117632",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925160337659330952",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nyachan233 @ccckoajiahao @ci_shang85157 @cleanDust_Chen"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲，生理性别男，请不要私信给我发那种奇怪的东西了\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 74,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 590,
+          "following_count": 512,
+          "like_count": 10125,
+          "listed_count": 2,
+          "media_count": 164,
+          "tweet_count": 4236
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-30T09:18:22.000Z",
+        "description": "所谓过往，皆为序章",
+        "id": "1818214513059201024",
+        "location": "鸡窝托斯",
+        "name": "星野日向（互fo）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823799508263669761/CFFimO0K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 611,
+          "like_count": 7788,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 1517
+        },
+        "username": "1234568hhhhh",
+        "verified": false
+      },
+      {
+        "created_at": "2019-06-25T15:53:05.000Z",
+        "description": "🍦///我的精神病一触即发🥺///ihavetwosides @nyachan_wwwww///唯一雪糕赞助途径⬇️微店///🍦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 31,
+                "username": "nyachan_wwwww"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "weidian.com/?userid=172620…",
+                "end": 23,
+                "expanded_url": "https://weidian.com/?userid=1726209669&wfr=c&source=home_shop&ifr=itemdetail&sfr=app",
+                "start": 0,
+                "url": "https://t.co/ZwXm8Bl3rs"
+              }
+            ]
+          }
+        },
+        "id": "1143547669698117632",
+        "location": "neko island",
+        "name": "🍧喵喵NyaChan🍧",
+        "pinned_tweet_id": "1923275426119524702",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1687726390022676480/gPuZX8uG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58774,
+          "following_count": 4200,
+          "like_count": 27793,
+          "listed_count": 201,
+          "media_count": 230,
+          "tweet_count": 846
+        },
+        "url": "https://t.co/ZwXm8Bl3rs",
+        "username": "nyachan233",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-24T05:27:50.000Z",
+        "description": "我是男银… 常在线，求骚扰（互fo）还有额…..算了算了不会写简介！就这样吧求骚扰！",
+        "id": "1683348184331059201",
+        "location": "1m",
+        "name": "c cc ko a",
+        "pinned_tweet_id": "1918351859032723600",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1683349322598068224/LTc07JBC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 451,
+          "following_count": 460,
+          "like_count": 5960,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 3125
+        },
+        "username": "ccckoajiahao",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-11T17:22:55.000Z",
+        "description": "✨今天也很棒！~✧*    \n🌸情绪稳定的咩咩树洞.:*♡    \n🤖情绪价值贩卖机器人ノ✿    \n🔔想用梗图meme治疗肌肤饥渴    \n🎮怪猎世界沉迷       //欢迎扩列//欢迎贴贴//偶尔涩涩//请私聊窝",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cleandust_chen",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cleandust_chen",
+                "start": 0,
+                "url": "https://t.co/zJyn77Q8sg"
+              }
+            ]
+          }
+        },
+        "id": "1833919115360436229",
+        "location": "月辰前线据点，新大陆",
+        "name": "自动发帖bot咩咩子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919740749937311744/kHTDC-5o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 295,
+          "following_count": 213,
+          "like_count": 793,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 206
+        },
+        "url": "https://t.co/zJyn77Q8sg",
+        "username": "cleanDust_Chen",
+        "verified": false
+      }
+    ]
+  }
+}

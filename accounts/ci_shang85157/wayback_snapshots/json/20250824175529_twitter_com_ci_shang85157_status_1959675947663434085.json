@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1959505210113507589",
+    "created_at": "2025-08-24T17:55:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-24T18:55:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959675947663434085"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1784300698533785600",
+          "start": 0,
+          "username": "mmisalwayssad"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959675947663434085",
+    "in_reply_to_user_id": "1784300698533785600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959505210113507589",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mmisalwayssad 我靠你成网红了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5750,
+        "height": 960,
+        "media_key": "13_1959505137464201216",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1959505137464201216/img/YefDLjoLMUY5BCvF.jpg",
+        "public_metrics": {
+          "view_count": 8444
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1959505137464201216/vid/avc1/320x426/RfO-KUoYMP5taNYI.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1959505137464201216/vid/avc1/480x640/Ij7-1xNuozbq2xBR.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1959505137464201216/vid/avc1/720x960/eg1xDGYHbvfPLopG.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1959505137464201216/pl/tecLqNWLswIXy5Fq.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1959505210113507589",
+        "created_at": "2025-08-24T17:55:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T18:55:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959675947663434085"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1784300698533785600",
+              "start": 0,
+              "username": "mmisalwayssad"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959675947663434085",
+        "in_reply_to_user_id": "1784300698533785600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959505210113507589",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mmisalwayssad 我靠你成网红了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1959505137464201216"
+          ]
+        },
+        "author_id": "1784300698533785600",
+        "conversation_id": "1959505210113507589",
+        "created_at": "2025-08-24T06:37:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T07:37:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959505210113507589"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sFYPGqLOzI",
+              "end": 28,
+              "expanded_url": "https://x.com/mmisalwayssad/status/1959505210113507589/video/1",
+              "media_key": "13_1959505137464201216",
+              "start": 5,
+              "url": "https://t.co/sFYPGqLOzI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959505210113507589",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 42302,
+          "like_count": 346,
+          "quote_count": 2,
+          "reply_count": 44,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "想玩几把 https://t.co/sFYPGqLOzI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像失去了一条时间线，算了，我们从来吧",
+        "id": "1826281483675299840",
+        "name": "泉方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 721,
+          "following_count": 572,
+          "like_count": 13279,
+          "listed_count": 3,
+          "media_count": 161,
+          "tweet_count": 5396
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-27T19:17:06.000Z",
+        "description": "我不想开学，目前在当她@opitia255274的小三",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "opitia255274"
+              }
+            ]
+          }
+        },
+        "id": "1784300698533785600",
+        "location": "穷逼滚",
+        "name": "mm",
+        "pinned_tweet_id": "1959505210113507589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957097521567940608/6fuZfsbT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5730,
+          "following_count": 380,
+          "like_count": 11144,
+          "listed_count": 11,
+          "media_count": 458,
+          "tweet_count": 9417
+        },
+        "username": "mmisalwayssad",
+        "verified": false
+      }
+    ]
+  }
+}

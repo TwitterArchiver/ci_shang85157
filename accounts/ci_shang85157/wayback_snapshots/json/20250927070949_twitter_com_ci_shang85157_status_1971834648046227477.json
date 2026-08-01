@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1971537638835486827",
+    "created_at": "2025-09-27T07:09:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-27T08:09:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971834648046227477"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1824688188750712832",
+          "start": 0,
+          "username": "FKDengism"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971834648046227477",
+    "in_reply_to_user_id": "1824688188750712832",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971537638835486827",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FKDengism 俺在看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1971537638835486827",
+        "created_at": "2025-09-27T07:09:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T08:09:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971834648046227477"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1824688188750712832",
+              "start": 0,
+              "username": "FKDengism"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971834648046227477",
+        "in_reply_to_user_id": "1824688188750712832",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971537638835486827",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FKDengism 俺在看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1824688188750712832",
+        "conversation_id": "1971537638835486827",
+        "created_at": "2025-09-26T11:29:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T12:29:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971537638835486827"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/FKDengism/stat…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/FKDengism/status/1971526373371256850",
+              "start": 7,
+              "url": "https://t.co/UMYKgjTZqL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971537638835486827",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 373,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971526373371256850",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为什么没人看 https://t.co/UMYKgjTZqL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧 小男友@pertx114514还有穹璃 互fo可以私信我交朋友什么的 反正我还挺闲 然后就是没有然后了 一切都是最好的安排https://t.co/ILEWFdOQz0。 ngl匿名问答",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "pertx114514"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%8950122",
+                "end": 106,
+                "expanded_url": "https://ngl.link/%E6%B3%8950122",
+                "start": 83,
+                "url": "https://t.co/ILEWFdOQz0"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉方",
+        "pinned_tweet_id": "1970427616353296660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 808,
+          "following_count": 643,
+          "like_count": 16050,
+          "listed_count": 0,
+          "media_count": 192,
+          "tweet_count": 6313
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-17T06:02:43.000Z",
+        "description": "大众的康米主义者\n也许我们能触及美好未来.\n精神病患者 维特根斯坦学习中\n左脑攻击右脑就是发病了\n是所有苏马蜘蛛的野爹\n你该去看看@wuyan_sleeeepy的主页",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 65,
+                "username": "wuyan_sleeeepy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.wiki",
+                "end": 23,
+                "expanded_url": "http://overdose.wiki",
+                "start": 0,
+                "url": "https://t.co/eGQ2d8iUc2"
+              }
+            ]
+          }
+        },
+        "id": "1824688188750712832",
+        "location": "贝尔法斯特的爱尔兰公民",
+        "name": "Miss M.",
+        "pinned_tweet_id": "1971526373371256850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969319937983594496/XrNIfsjA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 703,
+          "following_count": 1439,
+          "like_count": 29702,
+          "listed_count": 1,
+          "media_count": 391,
+          "tweet_count": 8309
+        },
+        "url": "https://t.co/eGQ2d8iUc2",
+        "username": "FKDengism",
+        "verified": false
+      }
+    ]
+  }
+}

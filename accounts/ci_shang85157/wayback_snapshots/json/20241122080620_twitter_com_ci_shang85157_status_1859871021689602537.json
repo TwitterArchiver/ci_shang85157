@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1859513268668334523",
+    "created_at": "2024-11-22T08:06:20.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-22T09:06:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1859871021689602537"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1826871427972362240",
+          "start": 0,
+          "username": "misaka__network"
+        },
+        {
+          "end": 28,
+          "id": "1513909585672736769",
+          "start": 17,
+          "username": "tianmei001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1859871021689602537",
+    "in_reply_to_user_id": "1826871427972362240",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1859675948893061149",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@misaka__network @tianmei001 什麼丑煙鬼，不抽煙國防資金誰來出"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1859513268668334523",
+        "created_at": "2024-11-22T08:06:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-22T09:06:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1859871021689602537"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1826871427972362240",
+              "start": 0,
+              "username": "misaka__network"
+            },
+            {
+              "end": 28,
+              "id": "1513909585672736769",
+              "start": 17,
+              "username": "tianmei001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859871021689602537",
+        "in_reply_to_user_id": "1826871427972362240",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1859675948893061149",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@misaka__network @tianmei001 什麼丑煙鬼，不抽煙國防資金誰來出"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826871427972362240",
+        "conversation_id": "1859513268668334523",
+        "created_at": "2024-11-21T19:11:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-21T20:11:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1859675948893061149"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1513909585672736769",
+              "start": 0,
+              "username": "tianmei001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859675948893061149",
+        "in_reply_to_user_id": "1513909585672736769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 788,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1859513268668334523",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tianmei001 省流：丑烟鬼😠"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，有兴趣就可以一起玩",
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844188914451365901/gNnOT4GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 194,
+          "like_count": 724,
+          "listed_count": 0,
+          "tweet_count": 138
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-23T06:38:09.000Z",
+        "description": "Pronoun: Misaka/Misaka's;\nGPG Key Fingerprint : \nC6EE 98C9 0714 4E04 81A7  8874 256D 314E F566 D12A\nCA25 14E9 3307 7868 A070  6314 469E 4E0E CE23 01E4",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "webpagesvc.misakanetworksystem.org",
+                "end": 23,
+                "expanded_url": "http://webpagesvc.misakanetworksystem.org/",
+                "start": 0,
+                "url": "https://t.co/LAe6nNsv0r"
+              }
+            ]
+          }
+        },
+        "id": "1826871427972362240",
+        "location": "/Users/MisakaNetworkServices/",
+        "name": "Misaka Makoto (御坂　まこと)🏳️‍🌈🏳️‍⚧️@🇳🇿*🇦🇶O🇹🇼",
+        "pinned_tweet_id": "1827748764364472464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854687585144389632/2PEUpl1n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 274,
+          "like_count": 16208,
+          "listed_count": 0,
+          "tweet_count": 4119
+        },
+        "url": "https://t.co/LAe6nNsv0r",
+        "username": "misaka__network",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-12T15:59:16.000Z",
+        "description": "祝我好运",
+        "id": "1513909585672736769",
+        "name": "黯淡星",
+        "pinned_tweet_id": "1850750719600845288",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757795319704961024/VYVDFtb__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22876,
+          "following_count": 265,
+          "like_count": 25125,
+          "listed_count": 55,
+          "tweet_count": 24917
+        },
+        "username": "tianmei001",
+        "verified": false
+      }
+    ]
+  }
+}

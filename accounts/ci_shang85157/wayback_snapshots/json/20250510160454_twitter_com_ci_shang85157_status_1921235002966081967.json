@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1921220990622707727",
+    "created_at": "2025-05-10T16:04:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-10T17:04:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921235002966081967"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1865052657586704387",
+          "start": 0,
+          "username": "xiaoyuanlucky1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921235002966081967",
+    "in_reply_to_user_id": "1865052657586704387",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921234813618372925",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoyuanlucky1 我心情不好的时候就喜欢喝酒，感觉什么都不会想"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1921220990622707727",
+        "created_at": "2025-05-10T16:04:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-10T17:04:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921235002966081967"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1865052657586704387",
+              "start": 0,
+              "username": "xiaoyuanlucky1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921235002966081967",
+        "in_reply_to_user_id": "1865052657586704387",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921234813618372925",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoyuanlucky1 我心情不好的时候就喜欢喝酒，感觉什么都不会想"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1865052657586704387",
+        "conversation_id": "1921220990622707727",
+        "created_at": "2025-05-10T16:04:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-10T17:04:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921234813618372925"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1826281483675299840",
+              "start": 0,
+              "username": "ci_shang85157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921234813618372925",
+        "in_reply_to_user_id": "1826281483675299840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921234626363679052",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ci_shang85157 还好吧🌚总喝酒的是你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 537,
+          "following_count": 486,
+          "like_count": 9117,
+          "listed_count": 2,
+          "media_count": 146,
+          "tweet_count": 3846
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-06T15:16:34.000Z",
+        "description": "05｜esfp｜清水推 想发什么就发什么 只加玩得好的互关vx｜喜欢我请给我打钱｜推广自辩｜自用蜂鸟vpn安全高效：https://t.co/SmloMAtORD",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn.top/#/register?cod…",
+                "end": 81,
+                "expanded_url": "https://vpn1.fnvpn.top/#/register?code=in3tciv9",
+                "start": 58,
+                "url": "https://t.co/SmloMAtORD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyuan19403",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyuan19403",
+                "start": 0,
+                "url": "https://t.co/MKfLw1y6ie"
+              }
+            ]
+          }
+        },
+        "id": "1865052657586704387",
+        "name": "圆来开始喜欢你",
+        "pinned_tweet_id": "1912546019092332857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885339658038505472/vePVHRPw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5767,
+          "following_count": 317,
+          "like_count": 13464,
+          "listed_count": 6,
+          "media_count": 71,
+          "tweet_count": 2294
+        },
+        "url": "https://t.co/MKfLw1y6ie",
+        "username": "xiaoyuanlucky1",
+        "verified": false
+      }
+    ]
+  }
+}

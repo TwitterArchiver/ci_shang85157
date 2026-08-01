@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1931741340486025217",
+    "created_at": "2025-06-08T17:41:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-08T18:41:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931768599762637252"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1493116248137383938",
+          "start": 0,
+          "username": "FE68359693"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931768599762637252",
+    "in_reply_to_user_id": "1493116248137383938",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931767314598527344",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FE68359693 那很好啊，我现在一吃饭就吐，完全没有胃口，我一天吃一顿我也在吐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1931741340486025217",
+        "created_at": "2025-06-08T17:41:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T18:41:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931768599762637252"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1493116248137383938",
+              "start": 0,
+              "username": "FE68359693"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931768599762637252",
+        "in_reply_to_user_id": "1493116248137383938",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931767314598527344",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FE68359693 那很好啊，我现在一吃饭就吐，完全没有胃口，我一天吃一顿我也在吐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493116248137383938",
+        "conversation_id": "1931741340486025217",
+        "created_at": "2025-06-08T17:36:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T18:36:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931767314598527344"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1826281483675299840",
+              "start": 0,
+              "username": "ci_shang85157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931767314598527344",
+        "in_reply_to_user_id": "1826281483675299840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931766928030552142",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ci_shang85157 主要是我真的很爱吃饭，感觉吃好吃的最重要"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲，生理性别男，请不要私信给我发那种奇怪的东西了\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 74,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 649,
+          "following_count": 557,
+          "like_count": 11920,
+          "listed_count": 2,
+          "media_count": 187,
+          "tweet_count": 4896
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-14T06:53:54.000Z",
+        "description": "直男，INFP，XP复杂，🚪0.01元，希望你们每种情绪都能被重视",
+        "id": "1493116248137383938",
+        "location": "梦想中的世界",
+        "name": "野风",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850897959883546624/l5XGbf1F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 171,
+          "like_count": 21949,
+          "listed_count": 2,
+          "media_count": 325,
+          "tweet_count": 1907
+        },
+        "username": "FE68359693",
+        "verified": false
+      }
+    ]
+  }
+}

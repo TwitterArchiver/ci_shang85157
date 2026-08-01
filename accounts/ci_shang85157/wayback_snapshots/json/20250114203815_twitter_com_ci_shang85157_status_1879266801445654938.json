@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1879203288702456318",
+    "created_at": "2025-01-14T20:38:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-14T21:38:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1879266801445654938"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1521508530552983552",
+          "start": 0,
+          "username": "leanshou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1879266801445654938",
+    "in_reply_to_user_id": "1521508530552983552",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1879203288702456318",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@leanshou 我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1879203288702456318",
+        "created_at": "2025-01-14T20:38:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-14T21:38:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1879266801445654938"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1521508530552983552",
+              "start": 0,
+              "username": "leanshou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879266801445654938",
+        "in_reply_to_user_id": "1521508530552983552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879203288702456318",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@leanshou 我"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1879203286060089344"
+          ]
+        },
+        "author_id": "1521508530552983552",
+        "conversation_id": "1879203288702456318",
+        "created_at": "2025-01-14T16:25:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-14T17:25:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1879203288702456318"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/u07lMq1tDL",
+              "end": 29,
+              "expanded_url": "https://x.com/leanshou/status/1879203288702456318/photo/1",
+              "media_key": "3_1879203286060089344",
+              "start": 6,
+              "url": "https://t.co/u07lMq1tDL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879203288702456318",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁陪我聊天 https://t.co/u07lMq1tDL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲",
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844188914451365901/gNnOT4GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 223,
+          "like_count": 2177,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 978
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-03T15:15:27.000Z",
+        "description": "可能仅周末在线/你好，欢迎来到凌宿予笙的主页！/不定时发电/发言如有错误，欢迎您的指正。有时不在线。/𝕏/ \n上兵伐谋 其次才伐兵 /\n愿望（每年的生日愿望基本都是这个）：世界和平。/(*╹▽╹*)（未来迷茫中ING）",
+        "id": "1521508530552983552",
+        "location": "Chongqing,China",
+        "name": "凌宿予笙",
+        "pinned_tweet_id": "1824783568834629969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867239159452299264/wKqist1C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 177,
+          "like_count": 37544,
+          "listed_count": 1,
+          "media_count": 154,
+          "tweet_count": 2563
+        },
+        "username": "leanshou",
+        "verified": false
+      }
+    ]
+  }
+}

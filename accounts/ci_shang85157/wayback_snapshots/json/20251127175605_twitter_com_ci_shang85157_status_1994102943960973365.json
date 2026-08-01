@@ -1,0 +1,450 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994102935186493441"
+      ]
+    },
+    "author_id": "1826281483675299840",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "1994102943960973365",
+    "created_at": "2025-11-27T17:56:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T18:56:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1994102943960973365"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 11,
+          "normalized_text": "�� My T",
+          "probability": 0.9242,
+          "start": -1,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 48,
+          "id": "1778696847563104256",
+          "start": 38,
+          "username": "gold_bihu"
+        },
+        {
+          "end": 59,
+          "id": "1880325371280912386",
+          "start": 49,
+          "username": "genya1976"
+        },
+        {
+          "end": 85,
+          "id": "1622226629136367674",
+          "start": 70,
+          "username": "kexuejiazhuang"
+        },
+        {
+          "end": 105,
+          "id": "1871589230809604096",
+          "start": 98,
+          "username": "Xtt005"
+        },
+        {
+          "end": 122,
+          "id": "1531874456997863424",
+          "start": 106,
+          "username": "guodongmaikefe2"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Meet your Twitter family: parents, spouse, and children! 🌳 This fun feature uses a secret algorithm to predict your closest Twitter connections, representing your parents, spouse, and children 👨‍👩‍👧‍👦",
+          "display_url": "infintytweet.me/family-tree",
+          "end": 150,
+          "expanded_url": "https://infintytweet.me/family-tree",
+          "images": [
+            {
+              "height": 1884,
+              "url": "https://pbs.twimg.com/news_img/1993519102556852224/gsgOTcyf?format=jpg&name=orig",
+              "width": 3600
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1993519102556852224/gsgOTcyf?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 127,
+          "status": 200,
+          "title": "Family Tree • Infinitweet",
+          "unwound_url": "https://infintytweet.me/family-tree",
+          "url": "https://t.co/OdexNnHYK5"
+        },
+        {
+          "display_url": "pic.x.com/EeGlQx1mdG",
+          "end": 174,
+          "expanded_url": "https://x.com/ci_shang85157/status/1994102943960973365/photo/1",
+          "media_key": "3_1994102935186493441",
+          "start": 151,
+          "url": "https://t.co/EeGlQx1mdG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994102943960973365",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "👨‍👩‍👧‍👦 My Twitter Family:\n👫 Parents: @gold_bihu @genya1976\n👰 Spouse: @kexuejiazhuang\n👶 Children: @Xtt005 @guodongmaikefe2\n\n➡️ https://t.co/OdexNnHYK5 https://t.co/EeGlQx1mdG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 811,
+        "media_key": "3_1994102935186493441",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6x6Dela0AEzbz8.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994102935186493441"
+          ]
+        },
+        "author_id": "1826281483675299840",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1994102943960973365",
+        "created_at": "2025-11-27T17:56:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T18:56:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994102943960973365"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 11,
+              "normalized_text": "�� My T",
+              "probability": 0.9242,
+              "start": -1,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 48,
+              "id": "1778696847563104256",
+              "start": 38,
+              "username": "gold_bihu"
+            },
+            {
+              "end": 59,
+              "id": "1880325371280912386",
+              "start": 49,
+              "username": "genya1976"
+            },
+            {
+              "end": 85,
+              "id": "1622226629136367674",
+              "start": 70,
+              "username": "kexuejiazhuang"
+            },
+            {
+              "end": 105,
+              "id": "1871589230809604096",
+              "start": 98,
+              "username": "Xtt005"
+            },
+            {
+              "end": 122,
+              "id": "1531874456997863424",
+              "start": 106,
+              "username": "guodongmaikefe2"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Meet your Twitter family: parents, spouse, and children! 🌳 This fun feature uses a secret algorithm to predict your closest Twitter connections, representing your parents, spouse, and children 👨‍👩‍👧‍👦",
+              "display_url": "infintytweet.me/family-tree",
+              "end": 150,
+              "expanded_url": "https://infintytweet.me/family-tree",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1993519102556852224/gsgOTcyf?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1993519102556852224/gsgOTcyf?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 127,
+              "status": 200,
+              "title": "Family Tree • Infinitweet",
+              "unwound_url": "https://infintytweet.me/family-tree",
+              "url": "https://t.co/OdexNnHYK5"
+            },
+            {
+              "display_url": "pic.x.com/EeGlQx1mdG",
+              "end": 174,
+              "expanded_url": "https://x.com/ci_shang85157/status/1994102943960973365/photo/1",
+              "media_key": "3_1994102935186493441",
+              "start": 151,
+              "url": "https://t.co/EeGlQx1mdG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994102943960973365",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "👨‍👩‍👧‍👦 My Twitter Family:\n👫 Parents: @gold_bihu @genya1976\n👰 Spouse: @kexuejiazhuang\n👶 Children: @Xtt005 @guodongmaikefe2\n\n➡️ https://t.co/OdexNnHYK5 https://t.co/EeGlQx1mdG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧 结义兄弟@wuyan_sleeeepy @SoSleepy4wy还有穹璃 求求你们了找我聊天好不好https://t.co/ILEWFdOQz0。 ngl匿名问答",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 26,
+                "username": "wuyan_sleeeepy"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "SoSleepy4wy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%8950122",
+                "end": 94,
+                "expanded_url": "https://ngl.link/%E6%B3%8950122",
+                "start": 71,
+                "url": "https://t.co/ILEWFdOQz0"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉",
+        "pinned_tweet_id": "1970427616353296660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978274114138996736/r_khhgIT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 823,
+          "following_count": 652,
+          "like_count": 19144,
+          "listed_count": 2,
+          "media_count": 218,
+          "tweet_count": 7080
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-12T08:09:17.000Z",
+        "description": "🦖 社恐｜当QQ空间用｜同类互fo｜有我能帮上忙的请尽管私聊｜喜欢一切有意思的东西",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dldlg1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dldlg1",
+                "start": 0,
+                "url": "https://t.co/pj8qiCyzau"
+              }
+            ]
+          }
+        },
+        "id": "1778696847563104256",
+        "location": "距你0.001km",
+        "name": "多拉贡",
+        "pinned_tweet_id": "1988544986514608235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993756546220871680/60Y0RNTt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 313,
+          "like_count": 6915,
+          "listed_count": 3,
+          "media_count": 119,
+          "tweet_count": 2027
+        },
+        "url": "https://t.co/pj8qiCyzau",
+        "username": "gold_bihu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-17T18:44:47.000Z",
+        "description": "圣彼得堡/莫斯科/叶卡捷琳堡/阿拉木图 偶尔兼职公狗 可线上线下 优先回复私信备注地区长度 拒绝回复小于18cm的男的 小鸡巴的勿扰除了@zhu6hua\n不定时活跃或视奸\n大号 @hy1194527",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 68,
+                "username": "zhu6hua"
+              },
+              {
+                "end": 99,
+                "start": 89,
+                "username": "hy1194527"
+              }
+            ]
+          }
+        },
+        "id": "1880325371280912386",
+        "name": "井冈山上的的江上清风游",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988511957402468352/Xig1tDba_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 614,
+          "like_count": 95018,
+          "listed_count": 2,
+          "media_count": 60,
+          "tweet_count": 633
+        },
+        "username": "genya1976",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-05T13:32:39.000Z",
+        "description": "此号起到一个墓碑的作用 https://t.co/qXcDn5D2HC",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kexuejiazhuang",
+                "end": 35,
+                "expanded_url": "https://ngl.link/kexuejiazhuang",
+                "start": 12,
+                "url": "https://t.co/qXcDn5D2HC"
+              }
+            ]
+          }
+        },
+        "id": "1622226629136367674",
+        "name": "给我寿司吧🍣",
+        "pinned_tweet_id": "1950532666186400211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965612372326060032/qYCNJqxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 125,
+          "like_count": 12307,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 1456
+        },
+        "username": "kexuejiazhuang",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-24T16:10:37.000Z",
+        "description": "自我介绍一下 我的真实身份是一根烤肠 整天平躺、偶尔翻身、压力大会爆、全身都是脂肪、廉价、不健康……",
+        "id": "1871589230809604096",
+        "name": "爱喝玉米排骨汤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992438343246987264/rFLhfT6i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 258,
+          "like_count": 2545,
+          "listed_count": 1,
+          "media_count": 105,
+          "tweet_count": 343
+        },
+        "username": "Xtt005",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-01T05:45:36.000Z",
+        "description": "纵欲无故，嗑药无度/不要做药物的奴隶，不要被任何事物掌控/我会一直给你点赞⌓‿⌓/抑郁焦虑/我脑子有病/同类互fo/发癫/异性恋/恐gay/恐跨/",
+        "id": "1531874456997863424",
+        "location": "明天",
+        "name": "不开心就od",
+        "pinned_tweet_id": "1993644506605146148",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984521028274700291/SnoaoxPJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 125,
+          "like_count": 5146,
+          "listed_count": 0,
+          "media_count": 127,
+          "tweet_count": 698
+        },
+        "username": "guodongmaikefe2",
+        "verified": false
+      }
+    ]
+  }
+}

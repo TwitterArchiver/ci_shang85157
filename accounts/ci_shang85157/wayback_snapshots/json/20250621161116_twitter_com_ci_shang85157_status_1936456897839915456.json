@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1936447681876127973",
+    "created_at": "2025-06-21T16:11:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-21T17:11:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936456897839915456"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1936456897839915456",
+    "in_reply_to_user_id": "1826281483675299840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936447681876127973",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "谢谢大家关心我，我今天可能不会去死了，我真的特别难受，我想说点很难听的话，但是又感觉对不起大家，我觉得我自从高强度玩推，我的精神状态和心理压力很大，也有我自己的原因，这也是我想淡推的一部分原因，但是大家都是很好的人，谢谢大家"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1936447681876127973",
+        "created_at": "2025-06-21T16:11:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T17:11:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936456897839915456"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1936456897839915456",
+        "in_reply_to_user_id": "1826281483675299840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936447681876127973",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谢谢大家关心我，我今天可能不会去死了，我真的特别难受，我想说点很难听的话，但是又感觉对不起大家，我觉得我自从高强度玩推，我的精神状态和心理压力很大，也有我自己的原因，这也是我想淡推的一部分原因，但是大家都是很好的人，谢谢大家"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1936447681876127973",
+        "created_at": "2025-06-21T15:34:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T16:34:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936447681876127973"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1936447681876127973",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 125,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想od，我想自杀，为什么要这样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲，生理性别男，请不要私信给我发那种奇怪的东西了\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 74,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 741,
+          "following_count": 562,
+          "like_count": 12966,
+          "listed_count": 2,
+          "media_count": 197,
+          "tweet_count": 5211
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      }
+    ]
+  }
+}

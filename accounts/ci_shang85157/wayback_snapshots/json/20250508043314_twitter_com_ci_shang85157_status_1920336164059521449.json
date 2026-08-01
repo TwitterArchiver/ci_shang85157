@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1920335094386209126",
+    "created_at": "2025-05-08T04:33:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-08T05:33:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920336164059521449"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1656733330421981184",
+          "start": 0,
+          "username": "tshshis"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920336164059521449",
+    "in_reply_to_user_id": "1656733330421981184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920335094386209126",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tshshis 吃食堂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1920335094386209126",
+        "created_at": "2025-05-08T04:33:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-08T05:33:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920336164059521449"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1656733330421981184",
+              "start": 0,
+              "username": "tshshis"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920336164059521449",
+        "in_reply_to_user_id": "1656733330421981184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920335094386209126",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tshshis 吃食堂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1656733330421981184",
+        "conversation_id": "1920335094386209126",
+        "created_at": "2025-05-08T04:28:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-08T05:28:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920335094386209126"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1920335094386209126",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "胃快废了中午吃什么。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 505,
+          "following_count": 462,
+          "like_count": 8714,
+          "listed_count": 2,
+          "media_count": 142,
+          "tweet_count": 3668
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-11T18:50:09.000Z",
+        "description": "碎碎念/经常性发电/表达能力极差/enfp/喜欢rnb，指弹等等等等/不会骂人也不会安慰人，私信不卡了，实在喜欢煮啵可以恰v哈/https://t.co/ogdo3kB85e",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wuwuhui",
+                "end": 87,
+                "expanded_url": "https://ngl.link/wuwuhui",
+                "start": 64,
+                "url": "https://t.co/ogdo3kB85e"
+              }
+            ]
+          }
+        },
+        "id": "1656733330421981184",
+        "location": "地球",
+        "name": "伍伍惠",
+        "pinned_tweet_id": "1915797978067222642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915224662134644736/cGn88Rhr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 430,
+          "like_count": 7069,
+          "listed_count": 4,
+          "media_count": 160,
+          "tweet_count": 1906
+        },
+        "username": "tshshis",
+        "verified": false
+      }
+    ]
+  }
+}

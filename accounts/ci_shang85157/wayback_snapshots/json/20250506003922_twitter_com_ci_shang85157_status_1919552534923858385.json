@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1919222899455471703",
+    "created_at": "2025-05-06T00:39:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-06T01:39:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919552534923858385"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1786434900511571968",
+          "start": 0,
+          "username": "aaur8817"
+        },
+        {
+          "end": 22,
+          "id": "1899591811859197952",
+          "start": 10,
+          "username": "kissme_catt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919552534923858385",
+    "in_reply_to_user_id": "1786434900511571968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919371422255710421",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aaur8817 @kissme_catt 八个小时就是毅力，那我坐33小时硬座算什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1919222899455471703",
+        "created_at": "2025-05-06T00:39:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T01:39:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919552534923858385"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1786434900511571968",
+              "start": 0,
+              "username": "aaur8817"
+            },
+            {
+              "end": 22,
+              "id": "1899591811859197952",
+              "start": 10,
+              "username": "kissme_catt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919552534923858385",
+        "in_reply_to_user_id": "1786434900511571968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919371422255710421",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aaur8817 @kissme_catt 八个小时就是毅力，那我坐33小时硬座算什么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786434900511571968",
+        "conversation_id": "1919222899455471703",
+        "created_at": "2025-05-05T12:39:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-05T13:39:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919371422255710421"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1899591811859197952",
+              "start": 0,
+              "username": "kissme_catt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919371422255710421",
+        "in_reply_to_user_id": "1899591811859197952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3382,
+          "like_count": 58,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919222899455471703",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kissme_catt 首先你有这个坐车的毅力干什么都会成功的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 458,
+          "following_count": 440,
+          "like_count": 8213,
+          "listed_count": 1,
+          "media_count": 139,
+          "tweet_count": 3473
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-03T16:37:47.000Z",
+        "description": "4i/1i switch 不加墙内 单纯分享日常",
+        "id": "1786434900511571968",
+        "name": "未通过人机验证",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908099354944225280/lW3b4qRI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 59,
+          "like_count": 94,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 115
+        },
+        "username": "aaur8817",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-11T22:42:46.000Z",
+        "description": "07infp｜专发废话｜喜欢跟小女孩互关｜好友位520/1314｜低于14.8cm包皮过长不许发鸟照｜喜欢讨厌都请投喂=⩌⩊⩌=",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%94%BE%E5%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%94%BE%E5%B1%81%E5%83%8F%E7%82%B8%E5%BC%B9",
+                "start": 0,
+                "url": "https://t.co/csP2UmmTek"
+              }
+            ]
+          }
+        },
+        "id": "1899591811859197952",
+        "location": "՞•･•՞窝叫屁屁",
+        "name": "放屁像炸弹",
+        "pinned_tweet_id": "1918534535685329244",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916398065730392067/QxSRqyHK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 795,
+          "following_count": 113,
+          "like_count": 3099,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 1539
+        },
+        "url": "https://t.co/csP2UmmTek",
+        "username": "kissme_catt",
+        "verified": false
+      }
+    ]
+  }
+}

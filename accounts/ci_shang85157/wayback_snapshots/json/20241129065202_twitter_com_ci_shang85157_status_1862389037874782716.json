@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1862033730329817135",
+    "created_at": "2024-11-29T06:52:02.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-29T07:52:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1862389037874782716"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1685499489493323776",
+          "start": 0,
+          "username": "mtfGuiMeng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862389037874782716",
+    "in_reply_to_user_id": "1685499489493323776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1862033730329817135",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mtfGuiMeng 感觉不错"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1862033730329817135",
+        "created_at": "2024-11-29T06:52:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-29T07:52:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862389037874782716"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1685499489493323776",
+              "start": 0,
+              "username": "mtfGuiMeng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862389037874782716",
+        "in_reply_to_user_id": "1685499489493323776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862033730329817135",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mtfGuiMeng 感觉不错"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "1862033730329817135",
+        "created_at": "2024-11-28T07:20:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-28T08:20:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862033730329817135"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1862033730329817135",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 23702,
+          "like_count": 137,
+          "quote_count": 0,
+          "reply_count": 31,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "可能想收留个妹妹？\n坐标杭州，因为一个人过于无聊qwq\n包吃住，可能会有零花钱...\n或许可以包糖？\n有需要的留言私聊吧..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，有兴趣就可以一起玩",
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844188914451365901/gNnOT4GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 207,
+          "like_count": 831,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 152
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "06年高中休学，重度依赖老婆@xynnuomi，都是mtf，#INTJ，对生活没有希望，随时有可能死亡",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 35,
+                "start": 30,
+                "tag": "INTJ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 23,
+                "start": 14,
+                "username": "xynnuomi"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "Texas, USA",
+        "name": "归梦🏳‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837418739912114176/BnpbtlSz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 65,
+          "like_count": 58,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 124
+        },
+        "username": "mtfGuiMeng",
+        "verified": false
+      }
+    ]
+  }
+}

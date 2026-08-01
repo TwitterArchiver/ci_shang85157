@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1964045129922335215",
+    "created_at": "2025-09-06T05:00:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-06T06:00:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964191900275265655"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1855890157989412864",
+          "start": 0,
+          "username": "tzmisaki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964191900275265655",
+    "in_reply_to_user_id": "1855890157989412864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964045129922335215",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tzmisaki 狙换步枪？"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 42700,
+        "height": 720,
+        "media_key": "13_1964044883670532096",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1964044883670532096/img/Iv60vR5y9JAIbRMg.jpg",
+        "public_metrics": {
+          "view_count": 68
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1964044883670532096/vid/avc1/480x270/rTLOeVwt5pFxWKjx.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1964044883670532096/vid/avc1/640x360/hCesoj8d3GpqQZOh.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1964044883670532096/vid/avc1/1280x720/mSZriRulqqvCjOZK.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1964044883670532096/pl/GqA0JKnhvyCa8OIr.m3u8?tag=14"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1964045129922335215",
+        "created_at": "2025-09-06T05:00:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T06:00:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964191900275265655"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1855890157989412864",
+              "start": 0,
+              "username": "tzmisaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964191900275265655",
+        "in_reply_to_user_id": "1855890157989412864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964045129922335215",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tzmisaki 狙换步枪？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1964044883670532096"
+          ]
+        },
+        "author_id": "1855890157989412864",
+        "conversation_id": "1964045129922335215",
+        "created_at": "2025-09-05T19:17:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T20:17:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964045129922335215"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AFvv4ucVNc",
+              "end": 25,
+              "expanded_url": "https://x.com/tzmisaki/status/1964045129922335215/video/1",
+              "media_key": "13_1964044883670532096",
+              "start": 2,
+              "url": "https://t.co/AFvv4ucVNc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964045129922335215",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 177,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "😁 https://t.co/AFvv4ucVNc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧   小男友@pertx114514",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 27,
+                "username": "pertx114514"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉方",
+        "pinned_tweet_id": "1963923748203139355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 766,
+          "following_count": 599,
+          "like_count": 14353,
+          "listed_count": 3,
+          "media_count": 171,
+          "tweet_count": 5745
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-11T08:27:58.000Z",
+        "description": "里@r18misaki1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 1,
+                "username": "r18misaki1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/d5kq7gfRZ6",
+                "end": 23,
+                "expanded_url": "https://discord.gg/d5kq7gfRZ6",
+                "start": 0,
+                "url": "https://t.co/ZTjhoE619T"
+              }
+            ]
+          }
+        },
+        "id": "1855890157989412864",
+        "location": "南京",
+        "name": "鳶沢 みさき",
+        "pinned_tweet_id": "1941651417351262408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941648532236271619/m-KHGAmr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2020,
+          "following_count": 1603,
+          "like_count": 68477,
+          "listed_count": 16,
+          "media_count": 330,
+          "tweet_count": 6591
+        },
+        "url": "https://t.co/ZTjhoE619T",
+        "username": "tzmisaki",
+        "verified": false
+      }
+    ]
+  }
+}

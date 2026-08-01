@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1911422478401876278",
+    "created_at": "2025-05-04T13:54:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-04T14:54:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919027828495933767"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1919027828495933767",
+    "in_reply_to_user_id": "1826281483675299840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918656819976962444",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我嘞个豆，今天更是虚弱，就跑了两公里就不行了，怎么回事"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2011,
+        "media_key": "3_1918656808434159616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqBwM6iaUAASdqa.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1911422478401876278",
+        "created_at": "2025-05-04T13:54:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-04T14:54:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919027828495933767"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1919027828495933767",
+        "in_reply_to_user_id": "1826281483675299840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918656819976962444",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我嘞个豆，今天更是虚弱，就跑了两公里就不行了，怎么回事"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1918656808434159616"
+          ]
+        },
+        "author_id": "1826281483675299840",
+        "conversation_id": "1911422478401876278",
+        "created_at": "2025-05-03T13:20:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-03T14:20:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918656819976962444"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PleSBjSfce",
+              "end": 32,
+              "expanded_url": "https://x.com/ci_shang85157/status/1918656819976962444/photo/1",
+              "media_key": "3_1918656808434159616",
+              "start": 9,
+              "url": "https://t.co/PleSBjSfce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918656819976962444",
+        "in_reply_to_user_id": "1826281483675299840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 79,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916494030722195588",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "歇了几天，好虚弱 https://t.co/PleSBjSfce"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 451,
+          "following_count": 432,
+          "like_count": 8024,
+          "listed_count": 1,
+          "media_count": 138,
+          "tweet_count": 3400
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      }
+    ]
+  }
+}

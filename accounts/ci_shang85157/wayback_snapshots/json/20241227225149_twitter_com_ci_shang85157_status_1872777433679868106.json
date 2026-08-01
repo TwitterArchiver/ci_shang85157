@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1872509739781030259",
+    "created_at": "2024-12-27T22:51:49.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-27T23:51:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1872777433679868106"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1847778949272584192",
+          "start": 0,
+          "username": "jingsheng237248"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1872777433679868106",
+    "in_reply_to_user_id": "1847778949272584192",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872509739781030259",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jingsheng237248 卷"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1872509739781030259",
+        "created_at": "2024-12-27T22:51:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-27T23:51:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872777433679868106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1847778949272584192",
+              "start": 0,
+              "username": "jingsheng237248"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872777433679868106",
+        "in_reply_to_user_id": "1847778949272584192",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872509739781030259",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jingsheng237248 卷"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1872509736597254144"
+          ]
+        },
+        "author_id": "1847778949272584192",
+        "conversation_id": "1872509739781030259",
+        "created_at": "2024-12-27T05:08:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-27T06:08:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1872509739781030259"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1KRJmr6iUU",
+              "end": 40,
+              "expanded_url": "https://x.com/jingsheng237248/status/1872509739781030259/photo/1",
+              "media_key": "3_1872509736597254144",
+              "start": 17,
+              "url": "https://t.co/1KRJmr6iUU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872509739781030259",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7678,
+          "like_count": 156,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "那到时候按姓名排序，都抢着姓A？ https://t.co/1KRJmr6iUU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，有兴趣就可以一起玩",
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844188914451365901/gNnOT4GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 293,
+          "like_count": 1571,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 647
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-19T23:17:00.000Z",
+        "description": "觉得梗图有意思的话麻烦给我的YouTube 频道点个订阅求求你了https://t.co/sbQiOktQdW｜电报https://t.co/TxjuPeke65 ｜🚪好友位9.9陪聊天💯回fo｜打赏/赞助见置顶",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@naofujiang?si…",
+                "end": 55,
+                "expanded_url": "https://youtube.com/@naofujiang?si=PB1KJBBda1TvehWg",
+                "start": 32,
+                "url": "https://t.co/sbQiOktQdW"
+              },
+              {
+                "display_url": "t.me/naofujiang",
+                "end": 81,
+                "expanded_url": "https://t.me/naofujiang",
+                "start": 58,
+                "url": "https://t.co/TxjuPeke65"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/xiaona…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/xiaonaofujiang.bsky.social",
+                "start": 0,
+                "url": "https://t.co/t48ryN9R9j"
+              }
+            ]
+          }
+        },
+        "id": "1847778949272584192",
+        "location": "小号@xiaobenzhu211",
+        "name": "脑斧酱🐯🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1869529191143866745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871008724325675008/1Px2BXtd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6849,
+          "following_count": 6707,
+          "like_count": 2053,
+          "listed_count": 5,
+          "media_count": 348,
+          "tweet_count": 2600
+        },
+        "url": "https://t.co/t48ryN9R9j",
+        "username": "jingsheng237248",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2013748781754552320"
+      ],
+      "media_source_tweet_id": [
+        "2013748853837537482"
+      ]
+    },
+    "author_id": "1826281483675299840",
+    "conversation_id": "2014160571206438919",
+    "created_at": "2026-01-22T02:17:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T03:17:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014160571206438919"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1370299304707989512",
+          "start": 3,
+          "username": "8co28"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cjTe4TcyNj",
+          "end": 51,
+          "expanded_url": "https://x.com/8co28/status/2013748853837537482/video/1",
+          "media_key": "13_2013748781754552320",
+          "start": 28,
+          "url": "https://t.co/cjTe4TcyNj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014160571206438919",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 138
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013748853837537482",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @8co28: 原作に存在しない AI Lain https://t.co/cjTe4TcyNj"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 28666,
+        "height": 1440,
+        "media_key": "13_2013748781754552320",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2013748781754552320/img/OzOwqvr424AUd3za.jpg",
+        "public_metrics": {
+          "view_count": 16277
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2013748781754552320/pl/BwTRICI8AQID9u01.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2013748781754552320/vid/avc1/540x540/DHXS5CICvfmeLlHv.mp4"
+          },
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2013748781754552320/vid/avc1/320x320/b4mF6JUv53GUcYVq.mp4"
+          },
+          {
+            "bit_rate": 8768000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2013748781754552320/vid/avc1/1080x1080/W0Jdhd_gV-Pl9Lw3.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2013748781754552320/vid/avc1/720x720/k8IbfOFHsOMbbUA4.mp4"
+          }
+        ],
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2013748781754552320"
+          ],
+          "media_source_tweet_id": [
+            "2013748853837537482"
+          ]
+        },
+        "author_id": "1826281483675299840",
+        "conversation_id": "2014160571206438919",
+        "created_at": "2026-01-22T02:17:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T03:17:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014160571206438919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1370299304707989512",
+              "start": 3,
+              "username": "8co28"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cjTe4TcyNj",
+              "end": 51,
+              "expanded_url": "https://x.com/8co28/status/2013748853837537482/video/1",
+              "media_key": "13_2013748781754552320",
+              "start": 28,
+              "url": "https://t.co/cjTe4TcyNj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014160571206438919",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 138
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013748853837537482",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @8co28: 原作に存在しない AI Lain https://t.co/cjTe4TcyNj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2013748781754552320"
+          ]
+        },
+        "author_id": "1370299304707989512",
+        "conversation_id": "2013748853837537482",
+        "created_at": "2026-01-20T23:01:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T00:01:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013748853837537482"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cjTe4TcyNj",
+              "end": 40,
+              "expanded_url": "https://x.com/8co28/status/2013748853837537482/video/1",
+              "media_key": "13_2013748781754552320",
+              "start": 17,
+              "url": "https://t.co/cjTe4TcyNj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013748853837537482",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 196,
+          "impression_count": 44792,
+          "like_count": 1069,
+          "quote_count": 8,
+          "reply_count": 11,
+          "retweet_count": 138
+        },
+        "reply_settings": "everyone",
+        "text": "原作に存在しない AI Lain https://t.co/cjTe4TcyNj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧 https://t.co/ILEWFdOiJs。 ngl匿名问答 想交朋友或者互fo尽管私信我 每个人都会回",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%8950122",
+                "end": 45,
+                "expanded_url": "https://ngl.link/%E6%B3%8950122",
+                "start": 22,
+                "url": "https://t.co/ILEWFdOiJs"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉",
+        "pinned_tweet_id": "2005263135222165835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978274114138996736/r_khhgIT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 982,
+          "following_count": 672,
+          "like_count": 20380,
+          "listed_count": 2,
+          "media_count": 233,
+          "tweet_count": 7534
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-12T09:03:18.000Z",
+        "description": "hakoniwa is the Executive Director of And Idea Co., Ltd. @AndIdea_jp For work requests, please contact info@andidea.jp. AI is a tool. 仕事のご依頼はメールへ。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 57,
+                "username": "AndIdea_jp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/8528",
+                "end": 23,
+                "expanded_url": "http://lit.link/8528",
+                "start": 0,
+                "url": "https://t.co/upytk33aYa"
+              }
+            ]
+          }
+        },
+        "id": "1370299304707989512",
+        "location": "Tokyo, Japan / 大切な家族最優先",
+        "name": "852話(hakoniwa)",
+        "pinned_tweet_id": "1933394839196086671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1499865775246815232/jRximB_o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394662,
+          "following_count": 216,
+          "like_count": 5528,
+          "listed_count": 2871,
+          "media_count": 6196,
+          "tweet_count": 11419
+        },
+        "url": "https://t.co/upytk33aYa",
+        "username": "8co28",
+        "verified": true
+      }
+    ]
+  }
+}

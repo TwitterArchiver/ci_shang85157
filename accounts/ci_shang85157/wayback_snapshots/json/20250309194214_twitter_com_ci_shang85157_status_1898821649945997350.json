@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1898594011251925102",
+    "created_at": "2025-03-09T19:42:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-09T20:42:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898821649945997350"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1689257282348158976",
+          "start": 0,
+          "username": "Inaba_Tsumugi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898821649945997350",
+    "in_reply_to_user_id": "1689257282348158976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898594011251925102",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Inaba_Tsumugi 只能看电子书吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1898594006822764544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlkpMKVbQAAePBd.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1898594011251925102",
+        "created_at": "2025-03-09T19:42:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T20:42:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898821649945997350"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1689257282348158976",
+              "start": 0,
+              "username": "Inaba_Tsumugi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898821649945997350",
+        "in_reply_to_user_id": "1689257282348158976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898594011251925102",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Inaba_Tsumugi 只能看电子书吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1898594006822764544"
+          ]
+        },
+        "author_id": "1689257282348158976",
+        "conversation_id": "1898594011251925102",
+        "created_at": "2025-03-09T04:37:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T05:37:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898594011251925102"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fPLbhGKlEW",
+              "end": 33,
+              "expanded_url": "https://x.com/Inaba_Tsumugi/status/1898594011251925102/photo/1",
+              "media_key": "3_1898594006822764544",
+              "start": 10,
+              "url": "https://t.co/fPLbhGKlEW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898594011251925102",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 781,
+          "like_count": 21,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "买了米家的电子书！ https://t.co/fPLbhGKlEW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844188914451365901/gNnOT4GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 314,
+          "like_count": 3429,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 1569
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-09T12:48:24.000Z",
+        "description": "保持生活感很重要！ 🌙 @Amamiya_kksk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 12,
+                "username": "Amamiya_kksk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "inaba.tsumugi.icu",
+                "end": 23,
+                "expanded_url": "http://inaba.tsumugi.icu",
+                "start": 0,
+                "url": "https://t.co/5WwyPDLAb8"
+              }
+            ]
+          }
+        },
+        "id": "1689257282348158976",
+        "location": "UTC+7",
+        "name": "つむぎ🌙",
+        "pinned_tweet_id": "1831989041300173159",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831988524444454912/2gt5GFYM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 589,
+          "following_count": 934,
+          "like_count": 27738,
+          "listed_count": 3,
+          "media_count": 871,
+          "tweet_count": 5643
+        },
+        "url": "https://t.co/5WwyPDLAb8",
+        "username": "Inaba_Tsumugi",
+        "verified": false
+      }
+    ]
+  }
+}

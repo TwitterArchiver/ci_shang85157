@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1898025439219876042",
+    "created_at": "2025-03-08T01:02:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-08T02:02:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898177450913546318"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1869201614415802368",
+          "start": 0,
+          "username": "Alen662341"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898177450913546318",
+    "in_reply_to_user_id": "1869201614415802368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898170010477933018",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Alen662341 我饿了，准备点个汉堡吃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1898025439219876042",
+        "created_at": "2025-03-08T01:02:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-08T02:02:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898177450913546318"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1869201614415802368",
+              "start": 0,
+              "username": "Alen662341"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898177450913546318",
+        "in_reply_to_user_id": "1869201614415802368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898170010477933018",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alen662341 我饿了，准备点个汉堡吃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1869201614415802368",
+        "conversation_id": "1898025439219876042",
+        "created_at": "2025-03-08T00:32:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-08T01:32:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898170010477933018"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1826281483675299840",
+              "start": 0,
+              "username": "ci_shang85157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898170010477933018",
+        "in_reply_to_user_id": "1826281483675299840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898025439219876042",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ci_shang85157 早饭也不吃了，泉此方两刀给我细细切做臊子了，大家拿去下面条吃吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844188914451365901/gNnOT4GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 307,
+          "like_count": 3234,
+          "listed_count": 1,
+          "media_count": 62,
+          "tweet_count": 1483
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-18T02:03:06.000Z",
+        "description": "|本人S/dom😊处女座/不白来，都不白来嗷|😋\n是会捧着你的脸说爱你的那种ｸﾞｯ!(๑•̀ㅂ•́)و✧",
+        "id": "1869201614415802368",
+        "location": "南京",
+        "name": "史莱姆之王",
+        "pinned_tweet_id": "1892123983274713539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892121500771033088/Qcra8T4H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 53,
+          "like_count": 1977,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 370
+        },
+        "username": "Alen662341",
+        "verified": false
+      }
+    ]
+  }
+}

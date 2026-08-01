@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1975111803115094253",
+    "created_at": "2025-10-06T08:56:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T09:56:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975123080440922443"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1267850413442600960",
+          "start": 0,
+          "username": "Youker_Doaget"
+        },
+        {
+          "end": 30,
+          "id": "1746353897403498496",
+          "start": 15,
+          "username": "wuyan_sleeeepy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975123080440922443",
+    "in_reply_to_user_id": "1267850413442600960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975119256263315699",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Youker_Doaget @wuyan_sleeeepy 那肯定的幽卡"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1975119256263315699].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1975119256263315699",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1975119256263315699"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1975111803115094253",
+        "created_at": "2025-10-06T08:56:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T09:56:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975123080440922443"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1267850413442600960",
+              "start": 0,
+              "username": "Youker_Doaget"
+            },
+            {
+              "end": 30,
+              "id": "1746353897403498496",
+              "start": 15,
+              "username": "wuyan_sleeeepy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975123080440922443",
+        "in_reply_to_user_id": "1267850413442600960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975119256263315699",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Youker_Doaget @wuyan_sleeeepy 那肯定的幽卡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧 小男友@pertx114514  结义兄弟@wuyan_sleeeepy还有穹璃 互fo可以私信我交朋友什么的 反正我还挺闲 然后就是没有然后了 一切都是最好的安排https://t.co/ILEWFdOQz0。 ngl匿名问答",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "pertx114514"
+              },
+              {
+                "end": 58,
+                "start": 43,
+                "username": "wuyan_sleeeepy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%8950122",
+                "end": 127,
+                "expanded_url": "https://ngl.link/%E6%B3%8950122",
+                "start": 104,
+                "url": "https://t.co/ILEWFdOQz0"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉方",
+        "pinned_tweet_id": "1970427616353296660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 819,
+          "following_count": 656,
+          "like_count": 16553,
+          "listed_count": 2,
+          "media_count": 195,
+          "tweet_count": 6468
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-02T16:08:04.000Z",
+        "description": "I'm Youker. /ゆかちゃん/中国人です/touhou lover/東方がすき/车万人",
+        "id": "1267850413442600960",
+        "location": "幻想郷",
+        "name": "ゆか",
+        "pinned_tweet_id": "1357286447955341315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682983024894541824/TLUPI82x_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 322,
+          "following_count": 782,
+          "like_count": 4957,
+          "listed_count": 5,
+          "media_count": 685,
+          "tweet_count": 5606
+        },
+        "username": "Youker_Doaget",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-14T02:10:02.000Z",
+        "description": "厨子阳痿主治医师@czz2360366574 狗@ci_shang85157 永远爱@FKMarxism 这个人对我很冷淡，，，@wwttw133",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 8,
+                "username": "czz2360366574"
+              },
+              {
+                "end": 38,
+                "start": 24,
+                "username": "ci_shang85157"
+              },
+              {
+                "end": 52,
+                "start": 42,
+                "username": "FKMarxism"
+              },
+              {
+                "end": 73,
+                "start": 64,
+                "username": "wwttw133"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wusanshui",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wusanshui",
+                "start": 0,
+                "url": "https://t.co/172LkvOsbA"
+              }
+            ]
+          }
+        },
+        "id": "1746353897403498496",
+        "location": "诗竹禾心里的迷你世界",
+        "name": "三水水水氵",
+        "pinned_tweet_id": "1962571532879659324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957421800175849472/Rt7GiUUp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320,
+          "following_count": 261,
+          "like_count": 28925,
+          "listed_count": 3,
+          "media_count": 452,
+          "tweet_count": 4674
+        },
+        "url": "https://t.co/172LkvOsbA",
+        "username": "wuyan_sleeeepy",
+        "verified": false
+      }
+    ]
+  }
+}

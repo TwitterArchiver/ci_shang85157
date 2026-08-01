@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1960620341904163070",
+    "created_at": "2025-08-27T08:28:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T09:28:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1960620341904163070"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1960620341904163070",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我手好痛，好久不弹吉他手上没茧子，今天练了练要痛死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1960620341904163070",
+        "created_at": "2025-08-27T08:28:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T09:28:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960620341904163070"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1960620341904163070",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我手好痛，好久不弹吉他手上没茧子，今天练了练要痛死了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像失去了一条时间线，算了，我们从来吧",
+        "id": "1826281483675299840",
+        "name": "泉方",
+        "pinned_tweet_id": "1932824152811188484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 729,
+          "following_count": 574,
+          "like_count": 13516,
+          "listed_count": 3,
+          "media_count": 164,
+          "tweet_count": 5476
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      }
+    ]
+  }
+}

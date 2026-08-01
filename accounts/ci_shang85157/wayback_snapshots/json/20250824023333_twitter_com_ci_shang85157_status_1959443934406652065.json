@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1959304248128377325",
+    "created_at": "2025-08-24T02:33:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-24T03:33:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959443934406652065"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1655259296345595904",
+          "start": 0,
+          "username": "Estrus333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959443934406652065",
+    "in_reply_to_user_id": "1655259296345595904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959304248128377325",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Estrus333 那我们聊天吧，我给你免了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1959304248128377325",
+        "created_at": "2025-08-24T02:33:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T03:33:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959443934406652065"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1655259296345595904",
+              "start": 0,
+              "username": "Estrus333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959443934406652065",
+        "in_reply_to_user_id": "1655259296345595904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959304248128377325",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Estrus333 那我们聊天吧，我给你免了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1655259296345595904",
+        "conversation_id": "1959304248128377325",
+        "created_at": "2025-08-23T17:18:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T18:18:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959304248128377325"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1959304248128377325",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5498,
+          "like_count": 77,
+          "quote_count": 0,
+          "reply_count": 23,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我愿意出两百块过一个正常普通人的门槛听我每天说很多话"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像失去了一条时间线，算了，我们从来吧",
+        "id": "1826281483675299840",
+        "name": "泉方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 717,
+          "following_count": 567,
+          "like_count": 13253,
+          "listed_count": 2,
+          "media_count": 161,
+          "tweet_count": 5391
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-07T17:12:36.000Z",
+        "description": "bi，0.5，14i｜99.9%switch｜梦想是做服务型｜阴暗扭曲重度炫压抑老鼠入｜朴彩英重度依赖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chi88410",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chi88410",
+                "start": 0,
+                "url": "https://t.co/XEQwd3OPrF"
+              }
+            ]
+          }
+        },
+        "id": "1655259296345595904",
+        "location": "北京",
+        "name": "池",
+        "pinned_tweet_id": "1876326447058714788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1655260994354966528/fuKqGeLU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11217,
+          "following_count": 797,
+          "like_count": 1783,
+          "listed_count": 17,
+          "media_count": 81,
+          "tweet_count": 861
+        },
+        "url": "https://t.co/XEQwd3OPrF",
+        "username": "Estrus333",
+        "verified": false
+      }
+    ]
+  }
+}

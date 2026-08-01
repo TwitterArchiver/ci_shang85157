@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1957287762614227455",
+    "created_at": "2025-08-18T03:45:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-18T04:45:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957287762614227455"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1437747899220172800",
+          "start": 3,
+          "username": "guiTheGreat"
+        },
+        {
+          "end": 30,
+          "id": "1753419726582345728",
+          "start": 17,
+          "username": "GravitySwiss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957287762614227455",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957094284173435156",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @guiTheGreat: @GravitySwiss 有一个重要的原因是，往往一个政见必然伴随着对于一个群体的攻击，非常容易把原本融洽的讨论环境整的乌烟瘴气。\n因此在没人提政治的环境下键政是很不礼貌的行为，我觉得说它是露阴癖真不冤枉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1957287762614227455",
+        "created_at": "2025-08-18T03:45:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T04:45:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957287762614227455"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1437747899220172800",
+              "start": 3,
+              "username": "guiTheGreat"
+            },
+            {
+              "end": 30,
+              "id": "1753419726582345728",
+              "start": 17,
+              "username": "GravitySwiss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957287762614227455",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957094284173435156",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @guiTheGreat: @GravitySwiss 有一个重要的原因是，往往一个政见必然伴随着对于一个群体的攻击，非常容易把原本融洽的讨论环境整的乌烟瘴气。\n因此在没人提政治的环境下键政是很不礼貌的行为，我觉得说它是露阴癖真不冤枉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437747899220172800",
+        "conversation_id": "1956944676285714818",
+        "created_at": "2025-08-17T14:56:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T15:56:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957094284173435156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1753419726582345728",
+              "start": 0,
+              "username": "GravitySwiss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957094284173435156",
+        "in_reply_to_user_id": "1753419726582345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 923,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956944676285714818",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GravitySwiss 有一个重要的原因是，往往一个政见必然伴随着对于一个群体的攻击，非常容易把原本融洽的讨论环境整的乌烟瘴气。\n因此在没人提政治的环境下键政是很不礼貌的行为，我觉得说它是露阴癖真不冤枉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像失去了一条时间线，算了，我们从来吧",
+        "id": "1826281483675299840",
+        "name": "泉方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 697,
+          "following_count": 546,
+          "like_count": 12802,
+          "listed_count": 2,
+          "media_count": 160,
+          "tweet_count": 5234
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-14T11:59:52.000Z",
+        "description": "❤️杏山和纱❤️/肥猫厨/coser/明日方舟/崩坏：星穹铁道/蔚蓝档案/以及其它泛ACG/同圈互fo",
+        "id": "1437747899220172800",
+        "location": "揍小夏和玲纱的路上",
+        "name": "长耳大肥猫",
+        "pinned_tweet_id": "1875606300186571250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933048280822554624/IItcQ2sZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3980,
+          "following_count": 1999,
+          "like_count": 28359,
+          "listed_count": 17,
+          "media_count": 356,
+          "tweet_count": 10548
+        },
+        "username": "guiTheGreat",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-02T14:07:38.000Z",
+        "description": "「神圣之泉干枯之时，凄厉的战士如雷电之态现身，太阳被黑暗埋葬」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "otomad.wiki",
+                "end": 23,
+                "expanded_url": "https://otomad.wiki/",
+                "start": 0,
+                "url": "https://t.co/eEO2O5kmpg"
+              }
+            ]
+          }
+        },
+        "id": "1753419726582345728",
+        "location": "Κωνσταντινούπολις",
+        "name": "GravitySwiss",
+        "pinned_tweet_id": "1940446075699282266",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753431245357543424/KxUIQ4O3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2446,
+          "following_count": 2938,
+          "like_count": 130619,
+          "listed_count": 16,
+          "media_count": 1649,
+          "tweet_count": 38634
+        },
+        "url": "https://t.co/eEO2O5kmpg",
+        "username": "GravitySwiss",
+        "verified": false
+      }
+    ]
+  }
+}

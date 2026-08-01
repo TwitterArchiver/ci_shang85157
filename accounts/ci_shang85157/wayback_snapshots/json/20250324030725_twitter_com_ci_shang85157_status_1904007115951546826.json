@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1903779555250516249",
+    "created_at": "2025-03-24T03:07:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-24T04:07:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904007115951546826"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1897991330753921025",
+          "start": 0,
+          "username": "liangzhu007"
+        },
+        {
+          "end": 26,
+          "id": "1786243047115653120",
+          "start": 13,
+          "username": "PJRSYA520_cn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904007115951546826",
+    "in_reply_to_user_id": "1897991330753921025",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904003377266368960",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liangzhu007 @PJRSYA520_cn 不好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1903779555250516249",
+        "created_at": "2025-03-24T03:07:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-24T04:07:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904007115951546826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1897991330753921025",
+              "start": 0,
+              "username": "liangzhu007"
+            },
+            {
+              "end": 26,
+              "id": "1786243047115653120",
+              "start": 13,
+              "username": "PJRSYA520_cn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904007115951546826",
+        "in_reply_to_user_id": "1897991330753921025",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904003377266368960",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liangzhu007 @PJRSYA520_cn 不好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897991330753921025",
+        "conversation_id": "1903779555250516249",
+        "created_at": "2025-03-24T02:52:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-24T03:52:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904003377266368960"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1826281483675299840",
+              "start": 0,
+              "username": "ci_shang85157"
+            },
+            {
+              "end": 28,
+              "id": "1786243047115653120",
+              "start": 15,
+              "username": "PJRSYA520_cn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904003377266368960",
+        "in_reply_to_user_id": "1826281483675299840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903825956000989245",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ci_shang85157 @PJRSYA520_cn 那很坏了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 327,
+          "like_count": 4459,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 1984
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-07T12:43:10.000Z",
+        "description": "别管我",
+        "id": "1897991330753921025",
+        "name": "梁祝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897995154159812610/uXVU8uK2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 14,
+          "like_count": 61,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 12
+        },
+        "username": "liangzhu007",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-03T03:55:14.000Z",
+        "description": "09年初三生/中立人(似乎偏左更多)/不会屏蔽任何人，无论你有多么恶毒/可接部分投稿😇/任何关于我的评论都可以转发，无需经过我同意/我也不会把神秘数字打在名字，安全性你可以放心/关于批评，随便批评，私底，明面上下可以随便骂我哒😥/关于互fo，你可以提醒我我一下，不然我不会互fo\n/转帖≠立场\n逃生舱@PJRU_cn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 158,
+                "start": 150,
+                "username": "PJRU_cn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "gov.cn",
+                "end": 23,
+                "expanded_url": "http://www.gov.cn",
+                "start": 0,
+                "url": "https://t.co/4hCAf32EJb"
+              }
+            ]
+          }
+        },
+        "id": "1786243047115653120",
+        "location": "中华人民共和国",
+        "name": "平靜如水🇨🇳",
+        "pinned_tweet_id": "1903216613890859104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865649018967142400/8wCcVhWW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 623,
+          "following_count": 1014,
+          "like_count": 723,
+          "listed_count": 5,
+          "media_count": 59,
+          "tweet_count": 1476
+        },
+        "url": "https://t.co/4hCAf32EJb",
+        "username": "PJRSYA520_cn",
+        "verified": false
+      }
+    ]
+  }
+}

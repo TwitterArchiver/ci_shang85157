@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1920500597280878893",
+    "created_at": "2025-05-09T11:36:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-09T12:36:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920805086629970261"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1247544266626183168",
+          "start": 0,
+          "username": "Scott04410162"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920805086629970261",
+    "in_reply_to_user_id": "1247544266626183168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920726717049561255",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Scott04410162 这样啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1920500597280878893",
+        "created_at": "2025-05-09T11:36:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-09T12:36:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920805086629970261"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1247544266626183168",
+              "start": 0,
+              "username": "Scott04410162"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920805086629970261",
+        "in_reply_to_user_id": "1247544266626183168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920726717049561255",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Scott04410162 这样啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1247544266626183168",
+        "conversation_id": "1920500597280878893",
+        "created_at": "2025-05-09T06:25:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-09T07:25:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920726717049561255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1826281483675299840",
+              "start": 0,
+              "username": "ci_shang85157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920726717049561255",
+        "in_reply_to_user_id": "1826281483675299840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920500597280878893",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ci_shang85157 首先你要找到那个人的端口，接下来才能连接"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 515,
+          "following_count": 473,
+          "like_count": 8916,
+          "listed_count": 2,
+          "media_count": 145,
+          "tweet_count": 3757
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-07T15:18:35.000Z",
+        "description": "世界，牢牢抓住我吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/scott",
+                "end": 23,
+                "expanded_url": "https://bonjour.bio/scott",
+                "start": 0,
+                "url": "https://t.co/1hDpO7ZwGA"
+              }
+            ]
+          }
+        },
+        "id": "1247544266626183168",
+        "location": "阿姆斯特朗环形山",
+        "name": "CuSO4",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761701633401176064/OMiZkZ2B_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 747,
+          "following_count": 1445,
+          "like_count": 63211,
+          "listed_count": 1,
+          "media_count": 996,
+          "tweet_count": 11347
+        },
+        "url": "https://t.co/1hDpO7ZwGA",
+        "username": "Scott04410162",
+        "verified": true
+      }
+    ]
+  }
+}

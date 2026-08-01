@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "2039693305165058447",
+    "created_at": "2026-04-02T13:15:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T14:15:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039693305165058447"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1249743643994284033",
+          "start": 3,
+          "username": "scpxxxxxxx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039693305165058447",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039559533421564059",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @scpxxxxxxx: 有时候，很多关系搞砸是因为你过于真诚。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "2039693305165058447",
+        "created_at": "2026-04-02T13:15:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T14:15:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039693305165058447"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1249743643994284033",
+              "start": 3,
+              "username": "scpxxxxxxx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039693305165058447",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039559533421564059",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @scpxxxxxxx: 有时候，很多关系搞砸是因为你过于真诚。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1249743643994284033",
+        "conversation_id": "2039559533421564059",
+        "created_at": "2026-04-02T04:24:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T05:24:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039559533421564059"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039559533421564059",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 8544,
+          "like_count": 196,
+          "quote_count": 4,
+          "reply_count": 11,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "有时候，很多关系搞砸是因为你过于真诚。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧 https://t.co/ILEWFdOQz0。 ngl匿名问答",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%8950122",
+                "end": 45,
+                "expanded_url": "https://ngl.link/%E6%B3%8950122",
+                "start": 22,
+                "url": "https://t.co/ILEWFdOQz0"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "永雏泉",
+        "pinned_tweet_id": "2034295067847147660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978274114138996736/r_khhgIT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1091,
+          "following_count": 723,
+          "like_count": 23170,
+          "listed_count": 2,
+          "media_count": 258,
+          "tweet_count": 8319
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-13T16:58:06.000Z",
+        "description": "Use your illusion.｜枯雲觀KUYUNGUAN",
+        "id": "1249743643994284033",
+        "location": "枯雲觀萬䬚閣",
+        "name": "幻 鶴",
+        "pinned_tweet_id": "2031398540346536320",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036422860546400256/MySi4qGL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6127,
+          "following_count": 1938,
+          "like_count": 38090,
+          "listed_count": 25,
+          "media_count": 10642,
+          "tweet_count": 26931
+        },
+        "username": "scpxxxxxxx",
+        "verified": false
+      }
+    ]
+  }
+}

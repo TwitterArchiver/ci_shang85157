@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1957602528624881729",
+    "created_at": "2025-08-19T15:58:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-19T16:58:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957834593517940825"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1887111976507277312",
+          "start": 0,
+          "username": "sssssszjzj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957834593517940825",
+    "in_reply_to_user_id": "1887111976507277312",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957602528624881729",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sssssszjzj 笑死我了吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1244,
+        "media_key": "3_1957602522799235072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyrNH2bbYAAPvVE.jpg",
+        "width": 1205
+      },
+      {
+        "height": 552,
+        "media_key": "3_1957602522824339458",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyrNH2hacAIuROe.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1957602528624881729",
+        "created_at": "2025-08-19T15:58:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T16:58:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957834593517940825"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1887111976507277312",
+              "start": 0,
+              "username": "sssssszjzj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957834593517940825",
+        "in_reply_to_user_id": "1887111976507277312",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957602528624881729",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sssssszjzj 笑死我了吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957602522799235072",
+            "3_1957602522824339458"
+          ]
+        },
+        "author_id": "1887111976507277312",
+        "conversation_id": "1957602528624881729",
+        "created_at": "2025-08-19T00:36:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T01:36:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957602528624881729"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ucEK20fjKL",
+              "end": 35,
+              "expanded_url": "https://x.com/sssssszjzj/status/1957602528624881729/photo/1",
+              "media_key": "3_1957602522799235072",
+              "start": 12,
+              "url": "https://t.co/ucEK20fjKL"
+            },
+            {
+              "display_url": "pic.x.com/ucEK20fjKL",
+              "end": 35,
+              "expanded_url": "https://x.com/sssssszjzj/status/1957602528624881729/photo/1",
+              "media_key": "3_1957602522824339458",
+              "start": 12,
+              "url": "https://t.co/ucEK20fjKL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957602528624881729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 13681,
+          "like_count": 136,
+          "quote_count": 1,
+          "reply_count": 21,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "这个世界还是太多面性了 https://t.co/ucEK20fjKL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像失去了一条时间线，算了，我们从来吧",
+        "id": "1826281483675299840",
+        "name": "泉方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 706,
+          "following_count": 549,
+          "like_count": 12963,
+          "listed_count": 2,
+          "media_count": 159,
+          "tweet_count": 5296
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-05T12:12:26.000Z",
+        "description": "可以叫我果子！读研中～记录美好生活",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sssszj",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sssszj",
+                "start": 0,
+                "url": "https://t.co/Evk5i0WJhy"
+              }
+            ]
+          }
+        },
+        "id": "1887111976507277312",
+        "name": "나무거리",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913124219606712320/kW44lrra_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3061,
+          "following_count": 166,
+          "like_count": 219,
+          "listed_count": 12,
+          "media_count": 302,
+          "tweet_count": 1009
+        },
+        "url": "https://t.co/Evk5i0WJhy",
+        "username": "sssssszjzj",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1871311790216187904"
+      ]
+    },
+    "author_id": "1826281483675299840",
+    "conversation_id": "1871076017952965020",
+    "created_at": "2024-12-23T21:47:55.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-23T22:47:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1871311801234964705"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1613079089879076864",
+          "start": 0,
+          "username": "Cldeop"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Zkkpr1HoNy",
+          "end": 39,
+          "expanded_url": "https://x.com/ci_shang85157/status/1871311801234964705/photo/1",
+          "media_key": "3_1871311790216187904",
+          "start": 16,
+          "url": "https://t.co/Zkkpr1HoNy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1871311801234964705",
+    "in_reply_to_user_id": "1613079089879076864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1871076017952965020",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cldeop 我给你特指一下 https://t.co/Zkkpr1HoNy"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1871311801234964705].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1871311801234964705",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1871311801234964705"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1871311790216187904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gfg8KJfWEAAJ8BY.jpg",
+        "width": 926
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1870673808316858368"
+          ]
+        },
+        "author_id": "1613079089879076864",
+        "conversation_id": "1871076017952965020",
+        "created_at": "2024-12-23T06:11:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-23T07:11:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1871076017952965020"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dAIPQmSZtH",
+              "end": 167,
+              "expanded_url": "https://x.com/Cldeop/status/1871076017952965020/photo/1",
+              "media_key": "3_1870673808316858368",
+              "start": 144,
+              "url": "https://t.co/dAIPQmSZtH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1871076017952965020",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 20492,
+          "like_count": 202,
+          "quote_count": 2,
+          "reply_count": 61,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "关于推友借钱（这里不特指谁）。\n要是某位推友吃不起饭了借我50，认不认识我都会借，不是啥大钱。\n但是呢，一借就是16000，又没有任何医院证明，加上我以前不认识你根本不知道你有没有还款能力，\n我为什么借你？\n其他人肯定有收到过类似私信的，没必要在评论区at出来。\n真急的话还是水滴筹吧。 https://t.co/dAIPQmSZtH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，有兴趣就可以一起玩",
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844188914451365901/gNnOT4GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 284,
+          "like_count": 1418,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 559
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū\n推特见证每一种生物\n生活号@ACldJP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 22,
+                "username": "ACldJP"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "location": "点一下「查看更多」试试？",
+        "name": "雲鳩",
+        "pinned_tweet_id": "1866843170572734580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1696802554318061568/M4Tec_5U_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49921,
+          "following_count": 518,
+          "like_count": 22287,
+          "listed_count": 171,
+          "media_count": 6702,
+          "tweet_count": 9631
+        },
+        "username": "Cldeop",
+        "verified": true
+      }
+    ]
+  }
+}

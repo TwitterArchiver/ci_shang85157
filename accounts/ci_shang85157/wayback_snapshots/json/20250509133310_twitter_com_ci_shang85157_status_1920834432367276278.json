@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1917169464879046853",
+    "created_at": "2025-05-09T13:33:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-09T14:33:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920834432367276278"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1840055457756610560",
+          "start": 0,
+          "username": "hood8964"
+        },
+        {
+          "end": 23,
+          "id": "1799692652511932416",
+          "start": 10,
+          "username": "SLhttpssri26"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920834432367276278",
+    "in_reply_to_user_id": "1840055457756610560",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917169464879046853",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hood8964 @SLhttpssri26 互fo嘛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1917169464879046853",
+        "created_at": "2025-05-09T13:33:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-09T14:33:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920834432367276278"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840055457756610560",
+              "start": 0,
+              "username": "hood8964"
+            },
+            {
+              "end": 23,
+              "id": "1799692652511932416",
+              "start": 10,
+              "username": "SLhttpssri26"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920834432367276278",
+        "in_reply_to_user_id": "1840055457756610560",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917169464879046853",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hood8964 @SLhttpssri26 互fo嘛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840055457756610560",
+        "conversation_id": "1917169464879046853",
+        "created_at": "2025-04-29T10:49:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T11:49:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917169464879046853"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 20,
+              "id": "1799692652511932416",
+              "start": 7,
+              "username": "SLhttpssri26"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917169464879046853",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3147,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我宣布个事情 @SLhttpssri26"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 517,
+          "following_count": 475,
+          "like_count": 8975,
+          "listed_count": 2,
+          "media_count": 145,
+          "tweet_count": 3798
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-28T15:46:52.000Z",
+        "description": "@SLhttpssri26",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "SLhttpssri26"
+              }
+            ]
+          }
+        },
+        "id": "1840055457756610560",
+        "location": "Hong Kong",
+        "name": "坂下138億年的红移",
+        "pinned_tweet_id": "1917169464879046853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919427553581748224/dNwq4ySM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 919,
+          "following_count": 1421,
+          "like_count": 44476,
+          "listed_count": 6,
+          "media_count": 628,
+          "tweet_count": 10648
+        },
+        "username": "hood8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-09T06:39:26.000Z",
+        "description": "@hood8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "hood8964"
+              }
+            ]
+          }
+        },
+        "id": "1799692652511932416",
+        "location": "Hong Kong",
+        "name": "Asaca🍥",
+        "pinned_tweet_id": "1916913088760320350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917240292090281984/mQjxGtNP_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 175,
+          "like_count": 22258,
+          "listed_count": 3,
+          "media_count": 83,
+          "tweet_count": 3362
+        },
+        "username": "SLhttpssri26",
+        "verified": false
+      }
+    ]
+  }
+}

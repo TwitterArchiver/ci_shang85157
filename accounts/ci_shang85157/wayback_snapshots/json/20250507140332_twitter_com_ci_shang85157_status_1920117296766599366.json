@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "1920117296766599366",
+    "created_at": "2025-05-07T14:03:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-07T15:03:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1920117296766599366"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/woyongdehuawei…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/woyongdehuawei/status/1919362849236775005",
+          "start": 10,
+          "url": "https://t.co/v9lEpM6aTJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920117296766599366",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919362849236775005",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "少年自有少年狂🤓☝ https://t.co/v9lEpM6aTJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 69165,
+        "height": 1920,
+        "media_key": "13_1919362703589552128",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1919362703589552128/img/zraC0SkPc9wEMmrm.jpg",
+        "public_metrics": {
+          "view_count": 364759
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1919362703589552128/vid/avc1/320x692/Q1mlXUixewS0XOyu.mp4?tag=16"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1919362703589552128/vid/avc1/480x1040/XY3CWq21G3rU9yj_.mp4?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1919362703589552128/vid/avc1/720x1560/IyCz9cGUTnJTgPqX.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1919362703589552128/pl/5Kl-MehhJm3BiDeA.m3u8?tag=16&v=db3"
+          }
+        ],
+        "width": 886
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1920117296766599366",
+        "created_at": "2025-05-07T14:03:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T15:03:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920117296766599366"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/woyongdehuawei…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/woyongdehuawei/status/1919362849236775005",
+              "start": 10,
+              "url": "https://t.co/v9lEpM6aTJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920117296766599366",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919362849236775005",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "少年自有少年狂🤓☝ https://t.co/v9lEpM6aTJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1919362703589552128"
+          ]
+        },
+        "author_id": "722848046321508352",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1919362849236775005",
+        "created_at": "2025-05-05T12:05:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-05T13:05:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919362849236775005"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IY9Ui7WtJW",
+              "end": 78,
+              "expanded_url": "https://x.com/woyongdehuawei/status/1919362849236775005/video/1",
+              "media_key": "13_1919362703589552128",
+              "start": 55,
+              "url": "https://t.co/IY9Ui7WtJW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919362849236775005",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 159,
+          "impression_count": 527040,
+          "like_count": 1087,
+          "quote_count": 6,
+          "reply_count": 58,
+          "retweet_count": 128
+        },
+        "reply_settings": "everyone",
+        "text": "B站上一则“中国少年在公交车上要求乘客出示健康码”的视频，唤醒了评论区和弹幕网民们的三年全面大健康的错误记忆 https://t.co/IY9Ui7WtJW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 497,
+          "following_count": 452,
+          "like_count": 8565,
+          "listed_count": 2,
+          "media_count": 140,
+          "tweet_count": 3604
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2016-04-20T18:02:58.000Z",
+        "description": "Christian/British Patriot/Conservatives/中国叛逃公职人员/YT：https://t.co/GrFL00gP7a Discord：https://t.co/f0Zs060Gmm 投稿邮箱：lundunbagong@gmail.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@woyongdehuawei",
+                "end": 75,
+                "expanded_url": "http://www.youtube.com/@woyongdehuawei",
+                "start": 52,
+                "url": "https://t.co/GrFL00gP7a"
+              },
+              {
+                "display_url": "discord.gg/GKP2WG7ABx",
+                "end": 107,
+                "expanded_url": "https://discord.gg/GKP2WG7ABx",
+                "start": 84,
+                "url": "https://t.co/f0Zs060Gmm"
+              }
+            ]
+          }
+        },
+        "id": "722848046321508352",
+        "location": "乌鲁木齐中路，London",
+        "name": "清丝老师谈治国理政",
+        "pinned_tweet_id": "1744308099131871366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829410849577938944/lduE7qLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83094,
+          "following_count": 844,
+          "like_count": 24192,
+          "listed_count": 355,
+          "media_count": 6455,
+          "tweet_count": 23673
+        },
+        "username": "woyongdehuawei",
+        "verified": true
+      }
+    ]
+  }
+}

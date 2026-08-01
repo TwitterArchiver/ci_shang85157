@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1872239857487253994",
+    "created_at": "2024-12-27T21:09:20.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-27T22:09:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1872751644775202894"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1504546605147426816",
+          "start": 0,
+          "username": "ksaragi_chihaya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1872751644775202894",
+    "in_reply_to_user_id": "1504546605147426816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872239857487253994",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ksaragi_chihaya 你这么说那我们就是傻逼吗😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1872239857487253994",
+        "created_at": "2024-12-27T21:09:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-27T22:09:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872751644775202894"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1504546605147426816",
+              "start": 0,
+              "username": "ksaragi_chihaya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872751644775202894",
+        "in_reply_to_user_id": "1504546605147426816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872239857487253994",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ksaragi_chihaya 你这么说那我们就是傻逼吗😅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504546605147426816",
+        "conversation_id": "1872239857487253994",
+        "created_at": "2024-12-26T11:15:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-26T12:15:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1872239857487253994"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1872239857487253994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 67686,
+          "like_count": 497,
+          "quote_count": 4,
+          "reply_count": 66,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "我是说有没有一种可能最后大家发现习主席是这个世界上最正常的人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，有兴趣就可以一起玩",
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844188914451365901/gNnOT4GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 291,
+          "like_count": 1526,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 633
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-17T19:54:08.000Z",
+        "description": "晶哥别看了，我一直是拥共拥習的爱国者啊🇨🇳🫡",
+        "id": "1504546605147426816",
+        "location": "长在红旗下，生在春风里",
+        "name": "8964如月千早💙💛",
+        "pinned_tweet_id": "1694237723354427594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1580545464553771008/JRJizRGo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14920,
+          "following_count": 346,
+          "like_count": 94654,
+          "listed_count": 81,
+          "media_count": 1078,
+          "tweet_count": 6868
+        },
+        "username": "ksaragi_chihaya",
+        "verified": false
+      }
+    ]
+  }
+}

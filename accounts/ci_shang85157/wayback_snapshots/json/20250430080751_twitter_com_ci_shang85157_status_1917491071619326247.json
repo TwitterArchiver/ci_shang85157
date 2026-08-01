@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1917451629500195185",
+    "created_at": "2025-04-30T08:07:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-30T09:07:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917491071619326247"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1799770485242388481",
+          "start": 0,
+          "username": "H1zzan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917491071619326247",
+    "in_reply_to_user_id": "1799770485242388481",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917451629500195185",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@H1zzan 啤酒肚😢😢😢"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6541,
+        "height": 974,
+        "media_key": "13_1917451603927519232",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1917451603927519232/img/GZ3tZ5sFJyR6PzRO.jpg",
+        "public_metrics": {
+          "view_count": 46
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1917451603927519232/vid/avc1/320x432/fO-1Tv-9SItC6fW-.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1917451603927519232/vid/avc1/480x648/UGpaUlPJ5qR7KxsG.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1917451603927519232/vid/avc1/720x974/bcOLYBSECymLZqMd.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1917451603927519232/pl/F94cUtulPuLiOTfC.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1917451629500195185",
+        "created_at": "2025-04-30T08:07:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-30T09:07:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917491071619326247"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1799770485242388481",
+              "start": 0,
+              "username": "H1zzan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917491071619326247",
+        "in_reply_to_user_id": "1799770485242388481",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917451629500195185",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@H1zzan 啤酒肚😢😢😢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1917451603927519232"
+          ]
+        },
+        "author_id": "1799770485242388481",
+        "conversation_id": "1917451629500195185",
+        "created_at": "2025-04-30T05:31:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-30T06:31:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917451629500195185"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hystlshbtI",
+              "end": 44,
+              "expanded_url": "https://x.com/H1zzan/status/1917451629500195185/video/1",
+              "media_key": "13_1917451603927519232",
+              "start": 21,
+              "url": "https://t.co/hystlshbtI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917451629500195185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 122,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我造密码的怎么是头沸煮🤬🤬\n构思ai💩💩 https://t.co/hystlshbtI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 429,
+          "following_count": 411,
+          "like_count": 7546,
+          "listed_count": 1,
+          "media_count": 134,
+          "tweet_count": 3247
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-09T11:48:28.000Z",
+        "description": "不要发现我我其实是只老鼠人谢谢🙏",
+        "id": "1799770485242388481",
+        "name": "H.solo9",
+        "pinned_tweet_id": "1911069036923732215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905911845426540544/VuyVbtm__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 230,
+          "like_count": 1824,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 344
+        },
+        "username": "H1zzan",
+        "verified": false
+      }
+    ]
+  }
+}

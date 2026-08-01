@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1928044455191322937",
+    "created_at": "2025-05-30T19:59:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-30T20:59:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928541825163296939"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1904150959229734912",
+          "start": 0,
+          "username": "mengmeng091297"
+        },
+        {
+          "end": 29,
+          "id": "1816778414390423552",
+          "start": 16,
+          "username": "kiwi_man0309"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928541825163296939",
+    "in_reply_to_user_id": "1904150959229734912",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928390335534678440",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mengmeng091297 @kiwi_man0309 很糟糕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1928044455191322937",
+        "created_at": "2025-05-30T19:59:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-30T20:59:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928541825163296939"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1904150959229734912",
+              "start": 0,
+              "username": "mengmeng091297"
+            },
+            {
+              "end": 29,
+              "id": "1816778414390423552",
+              "start": 16,
+              "username": "kiwi_man0309"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928541825163296939",
+        "in_reply_to_user_id": "1904150959229734912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928390335534678440",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mengmeng091297 @kiwi_man0309 很糟糕"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904150959229734912",
+        "conversation_id": "1928044455191322937",
+        "created_at": "2025-05-30T09:57:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-30T10:57:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928390335534678440"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1816778414390423552",
+              "start": 0,
+              "username": "kiwi_man0309"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928390335534678440",
+        "in_reply_to_user_id": "1816778414390423552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928044455191322937",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kiwi_man0309 那很糟糕了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲，生理性别男，请不要私信给我发那种奇怪的东西了\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 74,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 607,
+          "following_count": 536,
+          "like_count": 10999,
+          "listed_count": 2,
+          "media_count": 173,
+          "tweet_count": 4557
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-24T12:40:08.000Z",
+        "description": "",
+        "id": "1904150959229734912",
+        "name": "梦梦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904151332015198209/exU_bnns_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 58,
+          "like_count": 1027,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 607
+        },
+        "username": "mengmeng091297",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-26T10:12:43.000Z",
+        "description": "心臟於第21天出現， 到第30天左右心搏開始出現， 從此再不停止，直至死亡。",
+        "id": "1816778414390423552",
+        "location": "南京",
+        "name": "Kiwi Man 2.2",
+        "pinned_tweet_id": "1849746855971737603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844785680020303873/wR-uozhk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 899,
+          "following_count": 398,
+          "like_count": 6748,
+          "listed_count": 4,
+          "media_count": 358,
+          "tweet_count": 734
+        },
+        "username": "kiwi_man0309",
+        "verified": false
+      }
+    ]
+  }
+}

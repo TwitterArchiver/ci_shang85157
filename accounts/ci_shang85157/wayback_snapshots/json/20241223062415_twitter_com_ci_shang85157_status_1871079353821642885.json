@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1871079346561269760"
+      ]
+    },
+    "author_id": "1826281483675299840",
+    "conversation_id": "1870991628372226558",
+    "created_at": "2024-12-23T06:24:15.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-23T07:24:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1871079353821642885"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1666599054917218305",
+          "start": 0,
+          "username": "kirakira4th"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WHepccjRZL",
+          "end": 61,
+          "expanded_url": "https://x.com/ci_shang85157/status/1871079353821642885/photo/1",
+          "media_key": "3_1871079346561269760",
+          "start": 38,
+          "url": "https://t.co/WHepccjRZL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1871079353821642885",
+    "in_reply_to_user_id": "1666599054917218305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1870991628372226558",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kirakira4th 欺负老子，欺负农民，如果幸福像井盖一样好偷就好了 https://t.co/WHepccjRZL"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1871079353821642885].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1871079353821642885",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1871079353821642885"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 801,
+        "media_key": "3_1871079346561269760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GfdowJZawAArKUX.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1870991621376163840"
+          ]
+        },
+        "author_id": "1666599054917218305",
+        "conversation_id": "1870991628372226558",
+        "created_at": "2024-12-23T00:35:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-23T01:35:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1870991628372226558"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UPOJMx7sxG",
+              "end": 30,
+              "expanded_url": "https://x.com/kirakira4th/status/1870991628372226558/photo/1",
+              "media_key": "3_1870991621376163840",
+              "start": 7,
+              "url": "https://t.co/UPOJMx7sxG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1870991628372226558",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 51078,
+          "like_count": 599,
+          "quote_count": 0,
+          "reply_count": 104,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "破防的河南人 https://t.co/UPOJMx7sxG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，有兴趣就可以一起玩",
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844188914451365901/gNnOT4GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 280,
+          "like_count": 1373,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 547
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-08T00:12:47.000Z",
+        "description": "恋人：@zhao_mama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 3,
+                "username": "zhao_mama"
+              }
+            ]
+          }
+        },
+        "id": "1666599054917218305",
+        "name": "消失的井盖",
+        "pinned_tweet_id": "1860322536485236873",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869319622161526785/2Cc4dcUk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8402,
+          "following_count": 2160,
+          "like_count": 36898,
+          "listed_count": 15,
+          "media_count": 214,
+          "tweet_count": 9293
+        },
+        "username": "kirakira4th",
+        "verified": false
+      }
+    ]
+  }
+}

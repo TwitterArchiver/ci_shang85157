@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1932657256853876876",
+    "created_at": "2025-06-11T12:40:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-11T13:40:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932779957098590632"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1902107793534111744",
+          "start": 0,
+          "username": "Kakur0"
+        },
+        {
+          "end": 18,
+          "id": "1703762928",
+          "start": 8,
+          "username": "1965chich"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932779957098590632",
+    "in_reply_to_user_id": "1902107793534111744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932779103578710500",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kakur0 @1965chich 犯错了吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1932657256853876876",
+        "created_at": "2025-06-11T12:40:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T13:40:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932779957098590632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1902107793534111744",
+              "start": 0,
+              "username": "Kakur0"
+            },
+            {
+              "end": 18,
+              "id": "1703762928",
+              "start": 8,
+              "username": "1965chich"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932779957098590632",
+        "in_reply_to_user_id": "1902107793534111744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932779103578710500",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kakur0 @1965chich 犯错了吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902107793534111744",
+        "conversation_id": "1932657256853876876",
+        "created_at": "2025-06-11T12:37:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T13:37:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932779103578710500"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1703762928",
+              "start": 0,
+              "username": "1965chich"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932779103578710500",
+        "in_reply_to_user_id": "1703762928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932657256853876876",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1965chich 对不起"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲，生理性别男，请不要私信给我发那种奇怪的东西了\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 74,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 678,
+          "following_count": 560,
+          "like_count": 12351,
+          "listed_count": 2,
+          "media_count": 191,
+          "tweet_count": 5035
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-18T21:20:21.000Z",
+        "description": "袛是想要睡覺",
+        "id": "1902107793534111744",
+        "location": "寂静岭",
+        "name": "Kakuro🍂",
+        "pinned_tweet_id": "1929629643474096625",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931955413093646336/Pminwr33_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 79,
+          "like_count": 425,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 435
+        },
+        "username": "Kakur0",
+        "verified": false
+      },
+      {
+        "created_at": "2013-08-27T05:20:31.000Z",
+        "description": "🇨🇳爱中国 145/44kg 欢迎来到KFC的内心世界 带学生 有点社恐 喜欢看帅帅的女孩子/无性恋 /非跨/不会尊重人的关小黑屋/心里第一：浪浪宝贝 /爸爸：@kaijiangtuotu_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 80,
+                "username": "kaijiangtuotu_"
+              }
+            ]
+          }
+        },
+        "id": "1703762928",
+        "name": "Kentucky Fried Chicken",
+        "pinned_tweet_id": "1879137609982816677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932716380283154432/s3qRERUB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6078,
+          "following_count": 1047,
+          "like_count": 17186,
+          "listed_count": 7,
+          "media_count": 270,
+          "tweet_count": 5408
+        },
+        "username": "1965chich",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "2007241323464847767",
+    "created_at": "2026-01-03T07:40:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T08:40:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007356336783393243"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 14,
+          "normalized_text": "萌萌萌",
+          "probability": 0.3703,
+          "start": 12,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1795232279733886976",
+          "start": 0,
+          "username": "AiXipi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007356336783393243",
+    "in_reply_to_user_id": "1795232279733886976",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007339292214104325",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AiXipi 对啊对啊萌萌萌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "2007241323464847767",
+        "created_at": "2026-01-03T07:40:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T08:40:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007356336783393243"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 14,
+              "normalized_text": "萌萌萌",
+              "probability": 0.3703,
+              "start": 12,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1795232279733886976",
+              "start": 0,
+              "username": "AiXipi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007356336783393243",
+        "in_reply_to_user_id": "1795232279733886976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007339292214104325",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AiXipi 对啊对啊萌萌萌"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1795232279733886976",
+        "conversation_id": "2007241323464847767",
+        "created_at": "2026-01-03T06:32:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T07:32:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007339292214104325"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1826281483675299840",
+              "start": 0,
+              "username": "ci_shang85157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007339292214104325",
+        "in_reply_to_user_id": "1826281483675299840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007325014723539364",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ci_shang85157 对吧对吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧 https://t.co/ILEWFdOiJs。 ngl匿名问答 想交朋友或者互fo尽管私信我 每个人都会回",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%8950122",
+                "end": 45,
+                "expanded_url": "https://ngl.link/%E6%B3%8950122",
+                "start": 22,
+                "url": "https://t.co/ILEWFdOiJs"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉",
+        "pinned_tweet_id": "2006393841994371256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978274114138996736/r_khhgIT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 920,
+          "following_count": 655,
+          "like_count": 20297,
+          "listed_count": 2,
+          "media_count": 230,
+          "tweet_count": 7434
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-27T23:15:16.000Z",
+        "description": "34歲 聖死寂殿撒旦苦修院 惡魔學係碩士⛧ @xiaoyv_zero",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "xiaoyv_zero"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/84874022",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/84874022",
+                "start": 0,
+                "url": "https://t.co/6OD2gBOI3j"
+              }
+            ]
+          }
+        },
+        "id": "1795232279733886976",
+        "location": "脑子里",
+        "name": "✧⋄⋆⋅𝔵𝔦𝔵𝔦𝔭𝔦𝔤𝔦𝔢𝔵⋅⋆⋄✧",
+        "pinned_tweet_id": "1974089926431162713",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007287598734012416/mENUkL7Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1600,
+          "following_count": 158,
+          "like_count": 3257,
+          "listed_count": 9,
+          "media_count": 21,
+          "tweet_count": 933
+        },
+        "url": "https://t.co/6OD2gBOI3j",
+        "username": "AiXipi",
+        "verified": false
+      }
+    ]
+  }
+}

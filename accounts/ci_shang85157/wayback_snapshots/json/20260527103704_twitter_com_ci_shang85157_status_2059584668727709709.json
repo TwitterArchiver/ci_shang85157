@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "2059460842249417081",
+    "created_at": "2026-05-27T10:37:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T11:37:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059584668727709709"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1730672219213205504",
+          "start": 0,
+          "username": "pertx114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059584668727709709",
+    "in_reply_to_user_id": "1730672219213205504",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059566817950281778",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pertx114514 你咋活了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "2059460842249417081",
+        "created_at": "2026-05-27T10:37:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T11:37:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059584668727709709"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1730672219213205504",
+              "start": 0,
+              "username": "pertx114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059584668727709709",
+        "in_reply_to_user_id": "1730672219213205504",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059566817950281778",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pertx114514 你咋活了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730672219213205504",
+        "conversation_id": "2059460842249417081",
+        "created_at": "2026-05-27T09:26:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T10:26:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059566817950281778"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1826281483675299840",
+              "start": 0,
+              "username": "ci_shang85157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059566817950281778",
+        "in_reply_to_user_id": "1826281483675299840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059460842249417081",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ci_shang85157 一个"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧 https://t.co/ILEWFdOQz0。 ngl匿名问答",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%8950122",
+                "end": 45,
+                "expanded_url": "https://ngl.link/%E6%B3%8950122",
+                "start": 22,
+                "url": "https://t.co/ILEWFdOQz0"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "永雏泉",
+        "pinned_tweet_id": "2050379357617819772",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978274114138996736/r_khhgIT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1114,
+          "following_count": 735,
+          "like_count": 24592,
+          "listed_count": 2,
+          "media_count": 268,
+          "tweet_count": 8735
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-01T19:36:56.000Z",
+        "description": "查无此人",
+        "id": "1730672219213205504",
+        "location": "月球",
+        "name": "岩倉Lain",
+        "pinned_tweet_id": "1881066351571399102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059566672756068352/ZKkT2dZl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 546,
+          "like_count": 7675,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 621
+        },
+        "username": "pertx114514",
+        "verified": false
+      }
+    ]
+  }
+}

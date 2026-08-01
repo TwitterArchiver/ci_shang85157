@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1979858850669817856",
+        "3_1979858859402371072"
+      ],
+      "media_source_tweet_id": [
+        "1979858863395631252",
+        "1979858863395631252"
+      ]
+    },
+    "author_id": "1826281483675299840",
+    "conversation_id": "1979926174311539079",
+    "created_at": "2025-10-19T15:02:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-19T16:02:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979926174311539079"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1705262200036925440",
+          "start": 3,
+          "username": "xinjie87288"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/k42OJU23QA",
+          "end": 50,
+          "expanded_url": "https://x.com/xinjie87288/status/1979858863395631252/photo/1",
+          "media_key": "3_1979858850669817856",
+          "start": 27,
+          "url": "https://t.co/k42OJU23QA"
+        },
+        {
+          "display_url": "pic.x.com/k42OJU23QA",
+          "end": 50,
+          "expanded_url": "https://x.com/xinjie87288/status/1979858863395631252/photo/1",
+          "media_key": "3_1979858859402371072",
+          "start": 27,
+          "url": "https://t.co/k42OJU23QA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979926174311539079",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979858863395631252",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xinjie87288: 无需多言🥰我是魅魔 https://t.co/k42OJU23QA"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1979926174311539079].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1979926174311539079",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1979926174311539079"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1979858850669817856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3nfIouWcAAWEQz.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1979858859402371072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3nfJJQWoAA21Xd.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979858850669817856",
+            "3_1979858859402371072"
+          ]
+        },
+        "author_id": "1705262200036925440",
+        "conversation_id": "1979858863395631252",
+        "created_at": "2025-10-19T10:35:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T11:35:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979858863395631252"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/k42OJU23QA",
+              "end": 33,
+              "expanded_url": "https://x.com/xinjie87288/status/1979858863395631252/photo/1",
+              "media_key": "3_1979858850669817856",
+              "start": 10,
+              "url": "https://t.co/k42OJU23QA"
+            },
+            {
+              "display_url": "pic.x.com/k42OJU23QA",
+              "end": 33,
+              "expanded_url": "https://x.com/xinjie87288/status/1979858863395631252/photo/1",
+              "media_key": "3_1979858859402371072",
+              "start": 10,
+              "url": "https://t.co/k42OJU23QA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979858863395631252",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "无需多言🥰我是魅魔 https://t.co/k42OJU23QA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧 小男友@pertx114514  结义兄弟@wuyan_sleeeepy还有穹璃 互fo可以私信我交朋友什么的 反正我还挺闲 然后就是没有然后了 一切都是最好的安排https://t.co/ILEWFdOQz0。 ngl匿名问答",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "pertx114514"
+              },
+              {
+                "end": 58,
+                "start": 43,
+                "username": "wuyan_sleeeepy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%8950122",
+                "end": 127,
+                "expanded_url": "https://ngl.link/%E6%B3%8950122",
+                "start": 104,
+                "url": "https://t.co/ILEWFdOQz0"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉",
+        "pinned_tweet_id": "1970427616353296660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978274114138996736/r_khhgIT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 825,
+          "following_count": 667,
+          "like_count": 17588,
+          "listed_count": 2,
+          "media_count": 201,
+          "tweet_count": 6680
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-22T16:46:18.000Z",
+        "description": "现在大二，无证含糖，要当小药娘了25年3月9号开始吃的色，20号开始吃的补记录一下身体的变化，不定期上线",
+        "id": "1705262200036925440",
+        "name": "心劫🏳‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864526109850914822/92ZGss9i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 744,
+          "like_count": 225,
+          "listed_count": 1,
+          "media_count": 92,
+          "tweet_count": 346
+        },
+        "username": "xinjie87288",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1962892709024370741",
+    "created_at": "2025-09-03T14:49:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-03T15:49:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963252964660850708"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1857093685923504128",
+          "start": 0,
+          "username": "10txxx7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963252964660850708",
+    "in_reply_to_user_id": "1857093685923504128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962892709024370741",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@10txxx7 谢谢泥"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 810,
+        "media_key": "3_1962892702347108352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz2Yg0-bIAAN8px.jpg",
+        "width": 810
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1962892709024370741",
+        "created_at": "2025-09-03T14:49:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T15:49:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963252964660850708"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1857093685923504128",
+              "start": 0,
+              "username": "10txxx7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963252964660850708",
+        "in_reply_to_user_id": "1857093685923504128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962892709024370741",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@10txxx7 谢谢泥"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962892702347108352"
+          ]
+        },
+        "author_id": "1857093685923504128",
+        "conversation_id": "1962892709024370741",
+        "created_at": "2025-09-02T14:57:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T15:57:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962892709024370741"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iShVUo1Fs5",
+              "end": 84,
+              "expanded_url": "https://x.com/10txxx7/status/1962892709024370741/photo/1",
+              "media_key": "3_1962892702347108352",
+              "start": 61,
+              "url": "https://t.co/iShVUo1Fs5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962892709024370741",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5391,
+          "like_count": 50,
+          "quote_count": 0,
+          "reply_count": 25,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "我的5000fo福利是评论区抽三个人送这个小乌萨奇\n可折现x45r\n点赞评论转发参与！🦊🦊🦊\n（点赞达200之后开始抽） https://t.co/iShVUo1Fs5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧   小男友@pertx114514",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 27,
+                "username": "pertx114514"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉方",
+        "pinned_tweet_id": "1932824152811188484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 753,
+          "following_count": 588,
+          "like_count": 14059,
+          "listed_count": 3,
+          "media_count": 170,
+          "tweet_count": 5644
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-14T16:10:24.000Z",
+        "description": "isfp 双子 分享我的日常 烦人 ｜匿名信💌：https://t.co/v9xFjsxLQf 我的kubi：@xibeimuqi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 55,
+                "username": "xibeimuqi"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/10t56713",
+                "end": 47,
+                "expanded_url": "https://ngl.link/10t56713",
+                "start": 24,
+                "url": "https://t.co/v9xFjsxLQf"
+              }
+            ]
+          }
+        },
+        "id": "1857093685923504128",
+        "location": "🚪纯绿188",
+        "name": "10T",
+        "pinned_tweet_id": "1962502398892786041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928090635208445952/Sx5MmswD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5094,
+          "following_count": 87,
+          "like_count": 2488,
+          "listed_count": 6,
+          "media_count": 154,
+          "tweet_count": 1121
+        },
+        "username": "10txxx7",
+        "verified": false
+      }
+    ]
+  }
+}

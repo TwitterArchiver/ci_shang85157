@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1868074576825164129",
+    "created_at": "2024-12-14T23:45:22.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-15T00:45:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1868079867876757519"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1859461030822199296",
+          "start": 0,
+          "username": "quanshiping2shi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868079867876757519",
+    "in_reply_to_user_id": "1859461030822199296",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1868074576825164129",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@quanshiping2shi ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1868074576825164129",
+        "created_at": "2024-12-14T23:45:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-15T00:45:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868079867876757519"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1859461030822199296",
+              "start": 0,
+              "username": "quanshiping2shi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868079867876757519",
+        "in_reply_to_user_id": "1859461030822199296",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868074576825164129",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@quanshiping2shi ？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1868074574270849024"
+          ]
+        },
+        "author_id": "1859461030822199296",
+        "conversation_id": "1868074576825164129",
+        "created_at": "2024-12-14T23:24:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-15T00:24:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1868074576825164129"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AE1pzXjugM",
+              "end": 52,
+              "expanded_url": "https://x.com/quanshiping2shi/status/1868074576825164129/photo/1",
+              "media_key": "3_1868074574270849024",
+              "start": 29,
+              "url": "https://t.co/AE1pzXjugM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868074576825164129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我是权世平，我宣布，关注我的人都可以免费线下约肏我一次。 https://t.co/AE1pzXjugM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，有兴趣就可以一起玩",
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844188914451365901/gNnOT4GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 258,
+          "like_count": 1146,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 403
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-21T04:57:20.000Z",
+        "description": "百分百互fo",
+        "id": "1859461030822199296",
+        "name": "权世平二世",
+        "pinned_tweet_id": "1868074576825164129",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860593166543364096/A7tIbLXy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 875,
+          "like_count": 581,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 546
+        },
+        "username": "quanshiping2shi",
+        "verified": false
+      }
+    ]
+  }
+}

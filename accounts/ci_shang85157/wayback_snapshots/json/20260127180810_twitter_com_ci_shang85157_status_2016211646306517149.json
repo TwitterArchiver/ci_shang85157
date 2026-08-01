@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2016013707097313280",
+        "3_2016013707088941056"
+      ],
+      "media_source_tweet_id": [
+        "2016013717327212980",
+        "2016013717327212980"
+      ]
+    },
+    "author_id": "1826281483675299840",
+    "conversation_id": "2016211646306517149",
+    "created_at": "2026-01-27T18:08:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T19:08:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016211646306517149"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1662293107738640384",
+          "start": 3,
+          "username": "SHUGE0731"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/J8cvrFrZFi",
+          "end": 43,
+          "expanded_url": "https://x.com/SHUGE0731/status/2016013717327212980/photo/1",
+          "media_key": "3_2016013707097313280",
+          "start": 20,
+          "url": "https://t.co/J8cvrFrZFi"
+        },
+        {
+          "display_url": "pic.x.com/J8cvrFrZFi",
+          "end": 43,
+          "expanded_url": "https://x.com/SHUGE0731/status/2016013717327212980/photo/1",
+          "media_key": "3_2016013707088941056",
+          "start": 20,
+          "url": "https://t.co/J8cvrFrZFi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016211646306517149",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 103
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016013717327212980",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SHUGE0731: 我上班… https://t.co/J8cvrFrZFi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 883,
+        "media_key": "3_2016013707097313280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_pRyQnakAAQpxF.jpg",
+        "width": 591
+      },
+      {
+        "height": 966,
+        "media_key": "3_2016013707088941056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_pRyQla0AAaD2m.jpg",
+        "width": 591
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016013707097313280",
+            "3_2016013707088941056"
+          ],
+          "media_source_tweet_id": [
+            "2016013717327212980",
+            "2016013717327212980"
+          ]
+        },
+        "author_id": "1826281483675299840",
+        "conversation_id": "2016211646306517149",
+        "created_at": "2026-01-27T18:08:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T19:08:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016211646306517149"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1662293107738640384",
+              "start": 3,
+              "username": "SHUGE0731"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/J8cvrFrZFi",
+              "end": 43,
+              "expanded_url": "https://x.com/SHUGE0731/status/2016013717327212980/photo/1",
+              "media_key": "3_2016013707097313280",
+              "start": 20,
+              "url": "https://t.co/J8cvrFrZFi"
+            },
+            {
+              "display_url": "pic.x.com/J8cvrFrZFi",
+              "end": 43,
+              "expanded_url": "https://x.com/SHUGE0731/status/2016013717327212980/photo/1",
+              "media_key": "3_2016013707088941056",
+              "start": 20,
+              "url": "https://t.co/J8cvrFrZFi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016211646306517149",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 103
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016013717327212980",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SHUGE0731: 我上班… https://t.co/J8cvrFrZFi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016013707097313280",
+            "3_2016013707088941056"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "conversation_id": "2016013717327212980",
+        "created_at": "2026-01-27T05:01:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T06:01:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016013717327212980"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/J8cvrFrZFi",
+              "end": 28,
+              "expanded_url": "https://x.com/SHUGE0731/status/2016013717327212980/photo/1",
+              "media_key": "3_2016013707097313280",
+              "start": 5,
+              "url": "https://t.co/J8cvrFrZFi"
+            },
+            {
+              "display_url": "pic.x.com/J8cvrFrZFi",
+              "end": 28,
+              "expanded_url": "https://x.com/SHUGE0731/status/2016013717327212980/photo/1",
+              "media_key": "3_2016013707088941056",
+              "start": 5,
+              "url": "https://t.co/J8cvrFrZFi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016013717327212980",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 111,
+          "impression_count": 275967,
+          "like_count": 2722,
+          "quote_count": 11,
+          "reply_count": 43,
+          "retweet_count": 103
+        },
+        "reply_settings": "everyone",
+        "text": "我上班… https://t.co/J8cvrFrZFi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧 https://t.co/ILEWFdOQz0。 ngl匿名问答 想交朋友或者互fo尽管私信我 每个人都会回",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%8950122",
+                "end": 45,
+                "expanded_url": "https://ngl.link/%E6%B3%8950122",
+                "start": 22,
+                "url": "https://t.co/ILEWFdOQz0"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "永雏泉",
+        "pinned_tweet_id": "2005263135222165835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978274114138996736/r_khhgIT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 993,
+          "following_count": 670,
+          "like_count": 20461,
+          "listed_count": 2,
+          "media_count": 235,
+          "tweet_count": 7575
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜会fo眼熟的｜🚪20 ｜ ❤️@Dorcus10031",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 73,
+                "username": "Dorcus10031"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 503,
+          "following_count": 967,
+          "like_count": 18541,
+          "listed_count": 3,
+          "media_count": 537,
+          "tweet_count": 6576
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      }
+    ]
+  }
+}

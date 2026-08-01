@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1914688899437502701",
+    "created_at": "2025-04-22T17:58:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-22T18:58:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914740710676554113"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1291988176496545792",
+          "start": 0,
+          "username": "Vox35112635"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914740710676554113",
+    "in_reply_to_user_id": "1291988176496545792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914688899437502701",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Vox35112635 只是你没有擦边好看，仅此而已"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 596,
+        "media_key": "3_1914688892248449025",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpJXZy3a4AEDhjZ.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1914688899437502701",
+        "created_at": "2025-04-22T17:58:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T18:58:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914740710676554113"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1291988176496545792",
+              "start": 0,
+              "username": "Vox35112635"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914740710676554113",
+        "in_reply_to_user_id": "1291988176496545792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914688899437502701",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Vox35112635 只是你没有擦边好看，仅此而已"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1914688892248449025"
+          ]
+        },
+        "author_id": "1291988176496545792",
+        "conversation_id": "1914688899437502701",
+        "created_at": "2025-04-22T14:33:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T15:33:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914688899437502701"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MCHRSxMu5z",
+              "end": 23,
+              "expanded_url": "https://x.com/Vox35112635/status/1914688899437502701/photo/1",
+              "media_key": "3_1914688892248449025",
+              "start": 0,
+              "url": "https://t.co/MCHRSxMu5z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914688899437502701",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 14009,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 39,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/MCHRSxMu5z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 398,
+          "following_count": 376,
+          "like_count": 6429,
+          "listed_count": 1,
+          "media_count": 112,
+          "tweet_count": 2943
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-08T06:42:48.000Z",
+        "description": "抖音号：32625516049/没有小红书/现在会接一点有偿转发/付费线上绿色交友委托/广告正规推以外的其他投稿均为免费/加vx随缘给门槛就好了/咱家御用卦师算卦找她@minglishii/点妹妹kp/视频1v1看 @BmClub_1（纯线上女陪店）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 83,
+                "username": "minglishii"
+              },
+              {
+                "end": 117,
+                "start": 108,
+                "username": "BmClub_1"
+              }
+            ]
+          }
+        },
+        "id": "1291988176496545792",
+        "location": "沙发床上",
+        "name": "跑调的毕加索",
+        "pinned_tweet_id": "1913898865628954858",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1523690111569117190/MeBry_Ku_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254159,
+          "following_count": 524,
+          "like_count": 490,
+          "listed_count": 281,
+          "media_count": 9095,
+          "tweet_count": 13080
+        },
+        "username": "Vox35112635",
+        "verified": false
+      }
+    ]
+  }
+}

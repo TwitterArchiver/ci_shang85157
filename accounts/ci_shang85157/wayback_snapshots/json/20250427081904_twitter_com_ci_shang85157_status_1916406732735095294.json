@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1916143410534404261",
+    "created_at": "2025-04-27T08:19:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-27T09:19:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916406732735095294"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1799770485242388481",
+          "start": 0,
+          "username": "H1zzan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916406732735095294",
+    "in_reply_to_user_id": "1799770485242388481",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916143410534404261",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@H1zzan 少喝点酒"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8305,
+        "height": 1280,
+        "media_key": "13_1916143348760645634",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1916143348760645634/img/qn089x6xEuyH46xC.jpg",
+        "public_metrics": {
+          "view_count": 36
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1916143348760645634/vid/avc1/320x568/n27WM-guwQA2ZMzv.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1916143348760645634/vid/avc1/480x852/nduqxki2XnB3V5Y-.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1916143348760645634/vid/avc1/720x1280/6JAUgdo83gj07s-_.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1916143348760645634/pl/CG8R-uUoYZVXKp4e.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1916143410534404261",
+        "created_at": "2025-04-27T08:19:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T09:19:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916406732735095294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1799770485242388481",
+              "start": 0,
+              "username": "H1zzan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916406732735095294",
+        "in_reply_to_user_id": "1799770485242388481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916143410534404261",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@H1zzan 少喝点酒"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1916143348760645634"
+          ]
+        },
+        "author_id": "1799770485242388481",
+        "conversation_id": "1916143410534404261",
+        "created_at": "2025-04-26T14:52:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T15:52:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916143410534404261"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jqKinUQjLX",
+              "end": 35,
+              "expanded_url": "https://x.com/H1zzan/status/1916143410534404261/video/1",
+              "media_key": "13_1916143348760645634",
+              "start": 12,
+              "url": "https://t.co/jqKinUQjLX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916143410534404261",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 132,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喝还是不喝呢我很纠结😐 https://t.co/jqKinUQjLX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 412,
+          "following_count": 385,
+          "like_count": 6952,
+          "listed_count": 1,
+          "media_count": 123,
+          "tweet_count": 3064
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-09T11:48:28.000Z",
+        "description": "不要发现我我其实是只老鼠人谢谢🙏",
+        "id": "1799770485242388481",
+        "name": "H.solo9",
+        "pinned_tweet_id": "1911069036923732215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905911845426540544/VuyVbtm__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 225,
+          "like_count": 1646,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 296
+        },
+        "username": "H1zzan",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1969537092335386977",
+    "created_at": "2025-09-20T23:26:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-21T00:26:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969543623596523881"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1783469825085624320",
+          "start": 0,
+          "username": "Hetty29776768"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969543623596523881",
+    "in_reply_to_user_id": "1783469825085624320",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969537092335386977",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hetty29776768 早"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1969537084647227392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1Uzix5bQAARvDq.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1969537092335386977",
+        "created_at": "2025-09-20T23:26:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T00:26:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969543623596523881"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1783469825085624320",
+              "start": 0,
+              "username": "Hetty29776768"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969543623596523881",
+        "in_reply_to_user_id": "1783469825085624320",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969537092335386977",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hetty29776768 早"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969537084647227392"
+          ]
+        },
+        "author_id": "1783469825085624320",
+        "conversation_id": "1969537092335386977",
+        "created_at": "2025-09-20T23:00:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T00:00:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969537092335386977"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XjxWnfUj7P",
+              "end": 28,
+              "expanded_url": "https://x.com/Hetty29776768/status/1969537092335386977/photo/1",
+              "media_key": "3_1969537084647227392",
+              "start": 5,
+              "url": "https://t.co/XjxWnfUj7P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969537092335386977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "早呀小宝 https://t.co/XjxWnfUj7P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧 小男友@pertx114514 星努@wuyan_sleeeepy还有穹璃 互fo可以私信我交朋友什么的 反正我还挺闲 然后就是没有然后了 一切都是最好的安排https://t.co/ILEWFdOQz0。 ngl匿名问答",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "pertx114514"
+              },
+              {
+                "end": 55,
+                "start": 40,
+                "username": "wuyan_sleeeepy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%8950122",
+                "end": 124,
+                "expanded_url": "https://ngl.link/%E6%B3%8950122",
+                "start": 101,
+                "url": "https://t.co/ILEWFdOQz0"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉方",
+        "pinned_tweet_id": "1932824152811188484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 797,
+          "following_count": 636,
+          "like_count": 15422,
+          "listed_count": 3,
+          "media_count": 187,
+          "tweet_count": 6132
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-25T12:15:28.000Z",
+        "description": "4i/1i 梦想是买彩票中五千万💰私信随缘回🍰【互关可以加v（骚扰的不通过验证补药骚扰我）有正常人要和我互关吗（请私信）🥲🫶🏻】",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/29776768hettie",
+                "end": 23,
+                "expanded_url": "https://ngl.link/29776768hettie",
+                "start": 0,
+                "url": "https://t.co/4c26sZdgkj"
+              }
+            ]
+          }
+        },
+        "id": "1783469825085624320",
+        "location": "bkk",
+        "name": "臭屌丝也要有春天！（跪下来求自己减肥版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946390342301024256/4TfLyoLl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 85,
+          "like_count": 1838,
+          "listed_count": 1,
+          "media_count": 61,
+          "tweet_count": 228
+        },
+        "url": "https://t.co/4c26sZdgkj",
+        "username": "Hetty29776768",
+        "verified": false
+      }
+    ]
+  }
+}

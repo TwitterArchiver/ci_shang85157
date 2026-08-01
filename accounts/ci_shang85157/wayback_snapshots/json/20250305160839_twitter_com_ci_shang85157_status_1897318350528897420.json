@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1897240279993999652",
+    "created_at": "2025-03-05T16:08:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-05T17:08:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897318350528897420"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1595677115969867776",
+          "start": 0,
+          "username": "yufanfanf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897318350528897420",
+    "in_reply_to_user_id": "1595677115969867776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897316615567585566",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yufanfanf 是的，都很可爱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1897240279993999652",
+        "created_at": "2025-03-05T16:08:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-05T17:08:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897318350528897420"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1595677115969867776",
+              "start": 0,
+              "username": "yufanfanf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897318350528897420",
+        "in_reply_to_user_id": "1595677115969867776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897316615567585566",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yufanfanf 是的，都很可爱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1595677115969867776",
+        "conversation_id": "1897240279993999652",
+        "created_at": "2025-03-05T16:01:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-05T17:01:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897316615567585566"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1826281483675299840",
+              "start": 0,
+              "username": "ci_shang85157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897316615567585566",
+        "in_reply_to_user_id": "1826281483675299840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897240279993999652",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ci_shang85157 推特上的朋友比那边的网络好多了，那边网络环境才是又烂又压抑又没人性"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844188914451365901/gNnOT4GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 299,
+          "like_count": 2969,
+          "listed_count": 1,
+          "media_count": 62,
+          "tweet_count": 1377
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-24T07:14:34.000Z",
+        "description": "",
+        "id": "1595677115969867776",
+        "location": "Vancouver, British Columbia",
+        "name": "分割",
+        "pinned_tweet_id": "1896133456213758052",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848327569785192448/SROa3Hiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 19,
+          "like_count": 261,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 47
+        },
+        "username": "yufanfanf",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1916174147694346418",
+    "created_at": "2025-04-26T18:59:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-26T19:59:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916205503363092486"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1656733330421981184",
+          "start": 0,
+          "username": "tshshis"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916205503363092486",
+    "in_reply_to_user_id": "1656733330421981184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916174147694346418",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tshshis 我就这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1916174147694346418",
+        "created_at": "2025-04-26T18:59:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T19:59:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916205503363092486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1656733330421981184",
+              "start": 0,
+              "username": "tshshis"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916205503363092486",
+        "in_reply_to_user_id": "1656733330421981184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916174147694346418",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tshshis 我就这样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1656733330421981184",
+        "conversation_id": "1916174147694346418",
+        "created_at": "2025-04-26T16:54:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T17:54:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916174147694346418"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1916174147694346418",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 142,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我其实也会，关注了一些人之后，等待他们回关，他们要是不回关，我就会默默取关哈哈我就是这么任性"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 410,
+          "following_count": 383,
+          "like_count": 6916,
+          "listed_count": 1,
+          "media_count": 123,
+          "tweet_count": 3059
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-11T18:50:09.000Z",
+        "description": "直男/全是碎碎念/大一牲/经常性发电/表达能力极差/enfp/喜欢rnb，指弹等等等等/欢迎互关唠嗑，不会骂人也不会安慰人，私信不卡了，实在喜欢煮啵可以恰v哈/https://t.co/ogdo3kB85e",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wuwuhui",
+                "end": 103,
+                "expanded_url": "https://ngl.link/wuwuhui",
+                "start": 80,
+                "url": "https://t.co/ogdo3kB85e"
+              }
+            ]
+          }
+        },
+        "id": "1656733330421981184",
+        "location": "地球",
+        "name": "伍伍惠",
+        "pinned_tweet_id": "1915797978067222642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915224662134644736/cGn88Rhr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 300,
+          "like_count": 5719,
+          "listed_count": 3,
+          "media_count": 108,
+          "tweet_count": 1120
+        },
+        "username": "tshshis",
+        "verified": false
+      }
+    ]
+  }
+}

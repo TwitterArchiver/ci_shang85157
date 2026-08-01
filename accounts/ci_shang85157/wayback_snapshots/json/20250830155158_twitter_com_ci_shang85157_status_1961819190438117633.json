@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1959992369908236311",
+    "created_at": "2025-08-30T15:51:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-30T16:51:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961819190438117633"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1797520974394556416",
+          "start": 0,
+          "username": "yukiaqwq123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961819190438117633",
+    "in_reply_to_user_id": "1797520974394556416",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960196237204054451",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yukiaqwq123 hhh"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1959992369908236311",
+        "created_at": "2025-08-30T15:51:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T16:51:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961819190438117633"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1797520974394556416",
+              "start": 0,
+              "username": "yukiaqwq123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961819190438117633",
+        "in_reply_to_user_id": "1797520974394556416",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960196237204054451",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yukiaqwq123 hhh"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797520974394556416",
+        "conversation_id": "1959992369908236311",
+        "created_at": "2025-08-26T04:22:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T05:22:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960196237204054451"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1826281483675299840",
+              "start": 0,
+              "username": "ci_shang85157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960196237204054451",
+        "in_reply_to_user_id": "1826281483675299840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 210,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959992369908236311",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ci_shang85157 可爱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧   小男友@pertx114514",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 27,
+                "username": "pertx114514"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉方",
+        "pinned_tweet_id": "1932824152811188484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 747,
+          "following_count": 581,
+          "like_count": 13761,
+          "listed_count": 3,
+          "media_count": 167,
+          "tweet_count": 5560
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-03T06:49:49.000Z",
+        "description": "不间断锁推ing",
+        "id": "1797520974394556416",
+        "location": "kobe",
+        "name": "晴夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848280150879985664/DcPcN2fT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 823,
+          "like_count": 9010,
+          "listed_count": 2,
+          "media_count": 101,
+          "tweet_count": 1940
+        },
+        "username": "yukiaqwq123",
+        "verified": true
+      }
+    ]
+  }
+}

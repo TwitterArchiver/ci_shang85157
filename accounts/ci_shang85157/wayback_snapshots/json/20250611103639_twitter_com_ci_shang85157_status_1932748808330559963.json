@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1932485813499277788",
+    "created_at": "2025-06-11T10:36:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-11T11:36:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932748808330559963"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1908810911705681920",
+          "start": 0,
+          "username": "D1o2ng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932748808330559963",
+    "in_reply_to_user_id": "1908810911705681920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932485813499277788",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@D1o2ng 那你其实很早就认识了"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1932485813499277788].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1932485813499277788",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1932485813499277788"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1932485813499277788",
+        "created_at": "2025-06-11T10:36:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T11:36:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932748808330559963"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1908810911705681920",
+              "start": 0,
+              "username": "D1o2ng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932748808330559963",
+        "in_reply_to_user_id": "1908810911705681920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932485813499277788",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@D1o2ng 那你其实很早就认识了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲，生理性别男，请不要私信给我发那种奇怪的东西了\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 74,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 677,
+          "following_count": 560,
+          "like_count": 12320,
+          "listed_count": 2,
+          "media_count": 190,
+          "tweet_count": 5023
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-06T09:16:10.000Z",
+        "description": "Slient",
+        "id": "1908810911705681920",
+        "name": "Dong🇺🇳",
+        "pinned_tweet_id": "1931344063648919612",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908811082564841474/Tq8TMTCq_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 248,
+          "like_count": 1168,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 518
+        },
+        "username": "D1o2ng",
+        "verified": false
+      }
+    ]
+  }
+}

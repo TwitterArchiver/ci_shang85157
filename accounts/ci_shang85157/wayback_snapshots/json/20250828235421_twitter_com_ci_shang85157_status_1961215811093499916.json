@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1961194176504377496",
+    "created_at": "2025-08-28T23:54:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-29T00:54:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961215811093499916"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1672120275205525504",
+          "start": 0,
+          "username": "Like_Rosemi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961215811093499916",
+    "in_reply_to_user_id": "1672120275205525504",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961194176504377496",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Like_Rosemi 🥲🥲🥲"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1117,
+        "media_key": "3_1961194173840994304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzePtdNbsAAEHpI.jpg",
+        "width": 842
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1961194176504377496",
+        "created_at": "2025-08-28T23:54:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T00:54:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961215811093499916"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1672120275205525504",
+              "start": 0,
+              "username": "Like_Rosemi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961215811093499916",
+        "in_reply_to_user_id": "1672120275205525504",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961194176504377496",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Like_Rosemi 🥲🥲🥲"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961194173840994304"
+          ]
+        },
+        "author_id": "1672120275205525504",
+        "conversation_id": "1961194176504377496",
+        "created_at": "2025-08-28T22:28:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T23:28:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961194176504377496"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5s18guxaVu",
+              "end": 23,
+              "expanded_url": "https://x.com/Like_Rosemi/status/1961194176504377496/photo/1",
+              "media_key": "3_1961194173840994304",
+              "start": 0,
+              "url": "https://t.co/5s18guxaVu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961194176504377496",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/5s18guxaVu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧   小男友@pertx114514",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 27,
+                "username": "pertx114514"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉方",
+        "pinned_tweet_id": "1932824152811188484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 726,
+          "following_count": 568,
+          "like_count": 13590,
+          "listed_count": 3,
+          "media_count": 165,
+          "tweet_count": 5495
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-23T05:52:09.000Z",
+        "description": "🚪52纯绿｜150半｜接伤口定制｜查成分回fo｜od紫餐精神病｜可以叫我鱼鱼｜infp💤｜负能｜小号@LikeRosemi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "LikeRosemi"
+              }
+            ]
+          }
+        },
+        "id": "1672120275205525504",
+        "location": "Kilmarnock, Scotland",
+        "name": "鱼鱼",
+        "pinned_tweet_id": "1939323399484088432",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921580753227317248/PtlXMbOU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1111,
+          "following_count": 579,
+          "like_count": 4483,
+          "listed_count": 3,
+          "media_count": 360,
+          "tweet_count": 1268
+        },
+        "username": "Like_Rosemi",
+        "verified": false
+      }
+    ]
+  }
+}

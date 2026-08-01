@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1920066018031939964",
+    "created_at": "2025-05-08T02:20:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-08T03:20:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920302783514743126"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1103830967163117568",
+          "start": 0,
+          "username": "anblk984"
+        },
+        {
+          "end": 25,
+          "id": "1855890157989412864",
+          "start": 10,
+          "username": "tobisawam1saki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920302783514743126",
+    "in_reply_to_user_id": "1103830967163117568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920112057900569033",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@anblk984 @tobisawam1saki 确实是这个理"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1920066018031939964",
+        "created_at": "2025-05-08T02:20:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-08T03:20:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920302783514743126"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1103830967163117568",
+              "start": 0,
+              "username": "anblk984"
+            },
+            {
+              "end": 25,
+              "id": "1855890157989412864",
+              "start": 10,
+              "username": "tobisawam1saki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920302783514743126",
+        "in_reply_to_user_id": "1103830967163117568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920112057900569033",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@anblk984 @tobisawam1saki 确实是这个理"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1103830967163117568",
+        "conversation_id": "1920066018031939964",
+        "created_at": "2025-05-07T13:42:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T14:42:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920112057900569033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1855890157989412864",
+              "start": 0,
+              "username": "tobisawam1saki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920112057900569033",
+        "in_reply_to_user_id": "1855890157989412864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 229,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920107585698746630",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tobisawam1saki 认知高了导致的，以前啥都不知道还真不去想"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 507,
+          "following_count": 462,
+          "like_count": 8694,
+          "listed_count": 2,
+          "media_count": 140,
+          "tweet_count": 3660
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-08T01:33:05.000Z",
+        "description": "黄泛区说书人   劳保爱习楠                                                                   \n狐鸣鬼泣，醒时尽皆虚妄     嬉笑怒骂，更无一物是真   最后感谢大爹画窝头像@data_syuxchu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 122,
+                "username": "data_syuxchu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/anblk984",
+                "end": 23,
+                "expanded_url": "https://ngl.link/anblk984",
+                "start": 0,
+                "url": "https://t.co/lbrp9vzziV"
+              }
+            ]
+          }
+        },
+        "id": "1103830967163117568",
+        "location": "纳克萨玛斯                  下面是提问栏",
+        "name": "琵琶牧々",
+        "pinned_tweet_id": "1846234338914193662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806502873544671232/5QMKRtxU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7857,
+          "following_count": 931,
+          "like_count": 80618,
+          "listed_count": 47,
+          "media_count": 1288,
+          "tweet_count": 18724
+        },
+        "url": "https://t.co/lbrp9vzziV",
+        "username": "anblk984",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-11T08:27:58.000Z",
+        "description": "灭绝人性的法西斯跨🌈 华川粉支那人研究员🧑‍🔬共党最忠诚的网评员🇨🇳爱乌克兰东突的汉出🇺🇦支黑可以找我贴贴喵🫶里@R18misaki1 12.13🚪旭日旗是xp不爱纳粹🙅‍♀️除@mtfmisaki1 以外都是假冒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 56,
+                "username": "R18misaki1"
+              },
+              {
+                "end": 100,
+                "start": 89,
+                "username": "mtfmisaki1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/bCwVwAvc",
+                "end": 23,
+                "expanded_url": "https://discord.gg/bCwVwAvc",
+                "start": 0,
+                "url": "https://t.co/BG7uV80kT2"
+              }
+            ]
+          }
+        },
+        "id": "1855890157989412864",
+        "location": "南京",
+        "name": "鳶沢 みさき",
+        "pinned_tweet_id": "1916518573591425175",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920231803119677441/o1ysgfxz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1369,
+          "following_count": 1304,
+          "like_count": 25724,
+          "listed_count": 6,
+          "media_count": 134,
+          "tweet_count": 3711
+        },
+        "url": "https://t.co/BG7uV80kT2",
+        "username": "tobisawam1saki",
+        "verified": false
+      }
+    ]
+  }
+}

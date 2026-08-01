@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1979754583699427789",
+    "created_at": "2025-10-19T08:24:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-19T09:24:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979826042027262140"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1963845432230219776",
+          "start": 0,
+          "username": "ddlrsgt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979826042027262140",
+    "in_reply_to_user_id": "1963845432230219776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979754583699427789",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ddlrsgt 能赚点是点"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1979754583699427789].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1979754583699427789",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1979754583699427789"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1979754583699427789",
+        "created_at": "2025-10-19T08:24:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T09:24:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979826042027262140"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1963845432230219776",
+              "start": 0,
+              "username": "ddlrsgt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979826042027262140",
+        "in_reply_to_user_id": "1963845432230219776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979754583699427789",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ddlrsgt 能赚点是点"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧 小男友@pertx114514  结义兄弟@wuyan_sleeeepy还有穹璃 互fo可以私信我交朋友什么的 反正我还挺闲 然后就是没有然后了 一切都是最好的安排https://t.co/ILEWFdOQz0。 ngl匿名问答",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "pertx114514"
+              },
+              {
+                "end": 58,
+                "start": 43,
+                "username": "wuyan_sleeeepy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%8950122",
+                "end": 127,
+                "expanded_url": "https://ngl.link/%E6%B3%8950122",
+                "start": 104,
+                "url": "https://t.co/ILEWFdOQz0"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉",
+        "pinned_tweet_id": "1970427616353296660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978274114138996736/r_khhgIT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 826,
+          "following_count": 666,
+          "like_count": 17579,
+          "listed_count": 2,
+          "media_count": 201,
+          "tweet_count": 6678
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-05T06:04:01.000Z",
+        "description": "",
+        "id": "1963845432230219776",
+        "name": "ddl",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963850817318064128/4KbAIFjL_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 36,
+          "like_count": 224,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 95
+        },
+        "username": "ddlrsgt",
+        "verified": false
+      }
+    ]
+  }
+}

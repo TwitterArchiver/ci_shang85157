@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1931722754329293170",
+    "created_at": "2025-06-08T16:57:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-08T17:57:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931757521183866981"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1799770485242388481",
+          "start": 0,
+          "username": "H1zzan"
+        },
+        {
+          "end": 20,
+          "id": "1753841229547102208",
+          "start": 8,
+          "username": "zhngy277986"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931757521183866981",
+    "in_reply_to_user_id": "1799770485242388481",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931746344810737685",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@H1zzan @zhngy277986 爽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1931722754329293170",
+        "created_at": "2025-06-08T16:57:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T17:57:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931757521183866981"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1799770485242388481",
+              "start": 0,
+              "username": "H1zzan"
+            },
+            {
+              "end": 20,
+              "id": "1753841229547102208",
+              "start": 8,
+              "username": "zhngy277986"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931757521183866981",
+        "in_reply_to_user_id": "1799770485242388481",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931746344810737685",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@H1zzan @zhngy277986 爽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1799770485242388481",
+        "conversation_id": "1931722754329293170",
+        "created_at": "2025-06-08T16:13:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T17:13:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931746344810737685"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1753841229547102208",
+              "start": 0,
+              "username": "zhngy277986"
+            },
+            {
+              "end": 27,
+              "id": "1826281483675299840",
+              "start": 13,
+              "username": "ci_shang85157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931746344810737685",
+        "in_reply_to_user_id": "1753841229547102208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931741639141212251",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhngy277986 @ci_shang85157 这药能干嘛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲，生理性别男，请不要私信给我发那种奇怪的东西了\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 74,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 648,
+          "following_count": 556,
+          "like_count": 11879,
+          "listed_count": 2,
+          "media_count": 187,
+          "tweet_count": 4879
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-09T11:48:28.000Z",
+        "description": "不要发现我我其实是只老鼠人谢谢🙏",
+        "id": "1799770485242388481",
+        "name": "H.solo9",
+        "pinned_tweet_id": "1911069036923732215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905911845426540544/VuyVbtm__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 286,
+          "like_count": 3735,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 617
+        },
+        "username": "H1zzan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-03T18:01:58.000Z",
+        "description": "上海 19岁 大二学生 在松江大学城 上学0.5希望能找到对象，更希望能交朋友！！！ （新增：最近我是一个充满负面能量的缺爱批）（新新增：喜欢看音乐剧，去尝试一点烹饪，试试自己还没有试过的事情）（新新新增：经常口嗨）",
+        "id": "1753841229547102208",
+        "location": "1.4km",
+        "name": "来临星",
+        "pinned_tweet_id": "1812820820496159085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753852674124959745/HPSJFVmr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 561,
+          "following_count": 111,
+          "like_count": 177,
+          "listed_count": 2,
+          "media_count": 72,
+          "tweet_count": 990
+        },
+        "username": "zhngy277986",
+        "verified": false
+      }
+    ]
+  }
+}

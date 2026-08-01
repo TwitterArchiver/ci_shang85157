@@ -1,0 +1,467 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1977005321798447563",
+    "created_at": "2025-10-11T17:09:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-11T18:09:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977058890664800344"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1746353897403498496",
+          "start": 0,
+          "username": "wuyan_sleeeepy"
+        },
+        {
+          "end": 29,
+          "id": "1559223020245331971",
+          "start": 16,
+          "username": "tiegang10086"
+        },
+        {
+          "end": 43,
+          "id": "1974911782008569856",
+          "start": 30,
+          "username": "tiegong10086"
+        },
+        {
+          "end": 57,
+          "id": "1975178922095775744",
+          "start": 44,
+          "username": "twiays114514"
+        },
+        {
+          "end": 72,
+          "id": "1968187553695272960",
+          "start": 58,
+          "username": "tiegang114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977058890664800344",
+    "in_reply_to_user_id": "1746353897403498496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977032369728372800",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wuyan_sleeeepy @tiegang10086 @tiegong10086 @twiays114514 @tiegang114514 想干啥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1977005321798447563",
+        "created_at": "2025-10-11T17:09:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T18:09:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977058890664800344"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1746353897403498496",
+              "start": 0,
+              "username": "wuyan_sleeeepy"
+            },
+            {
+              "end": 29,
+              "id": "1559223020245331971",
+              "start": 16,
+              "username": "tiegang10086"
+            },
+            {
+              "end": 43,
+              "id": "1974911782008569856",
+              "start": 30,
+              "username": "tiegong10086"
+            },
+            {
+              "end": 57,
+              "id": "1975178922095775744",
+              "start": 44,
+              "username": "twiays114514"
+            },
+            {
+              "end": 72,
+              "id": "1968187553695272960",
+              "start": 58,
+              "username": "tiegang114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977058890664800344",
+        "in_reply_to_user_id": "1746353897403498496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977032369728372800",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wuyan_sleeeepy @tiegang10086 @tiegong10086 @twiays114514 @tiegang114514 想干啥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1746353897403498496",
+        "conversation_id": "1977005321798447563",
+        "created_at": "2025-10-11T15:23:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T16:23:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977032369728372800"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1559223020245331971",
+              "start": 0,
+              "username": "tiegang10086"
+            },
+            {
+              "end": 27,
+              "id": "1974911782008569856",
+              "start": 14,
+              "username": "tiegong10086"
+            },
+            {
+              "end": 41,
+              "id": "1975178922095775744",
+              "start": 28,
+              "username": "twiays114514"
+            },
+            {
+              "end": 56,
+              "id": "1968187553695272960",
+              "start": 42,
+              "username": "tiegang114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977032369728372800",
+        "in_reply_to_user_id": "1559223020245331971",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977005321798447563",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tiegang10086 @tiegong10086 @twiays114514 @tiegang114514 好多仁仁菜。上一个分不清的还是神秘泉此方头像"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧 小男友@pertx114514  结义兄弟@wuyan_sleeeepy还有穹璃 互fo可以私信我交朋友什么的 反正我还挺闲 然后就是没有然后了 一切都是最好的安排https://t.co/ILEWFdOQz0。 ngl匿名问答",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "pertx114514"
+              },
+              {
+                "end": 58,
+                "start": 43,
+                "username": "wuyan_sleeeepy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%8950122",
+                "end": 127,
+                "expanded_url": "https://ngl.link/%E6%B3%8950122",
+                "start": 104,
+                "url": "https://t.co/ILEWFdOQz0"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉",
+        "pinned_tweet_id": "1970427616353296660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 815,
+          "following_count": 655,
+          "like_count": 16892,
+          "listed_count": 2,
+          "media_count": 197,
+          "tweet_count": 6546
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-14T02:10:02.000Z",
+        "description": "厨子阳痿主治医师@czz2360366574 狗@ci_shang85157 永远爱@FKMarxism 这个人对我很冷淡，，，@wwttw133",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 8,
+                "username": "czz2360366574"
+              },
+              {
+                "end": 38,
+                "start": 24,
+                "username": "ci_shang85157"
+              },
+              {
+                "end": 52,
+                "start": 42,
+                "username": "FKMarxism"
+              },
+              {
+                "end": 73,
+                "start": 64,
+                "username": "wwttw133"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wusanshui1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wusanshui1",
+                "start": 0,
+                "url": "https://t.co/V5qr5fiRaO"
+              }
+            ]
+          }
+        },
+        "id": "1746353897403498496",
+        "location": "天堂喵",
+        "name": "三水水水氵",
+        "pinned_tweet_id": "1962571532879659324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957421800175849472/Rt7GiUUp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 250,
+          "like_count": 29748,
+          "listed_count": 3,
+          "media_count": 468,
+          "tweet_count": 4823
+        },
+        "url": "https://t.co/V5qr5fiRaO",
+        "username": "wuyan_sleeeepy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-15T16:58:41.000Z",
+        "description": "Love peace🌏 Love freedom❤️丨 支持台海「維持現狀」丨日本語勉強中🇯🇵丨FREEPALESTINE/無神論/東亞共同體🇨🇳🇯🇵🇰🇷/平權主義/民主自由/男女平等/反威權、霸權/自由平等博愛；附屬賬戶：@tiegang114514 丨發表的一切言論僅為自己看法，關注並轉發≠認可。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 112,
+                "username": "tiegang114514"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/tiegang114514",
+                "end": 23,
+                "expanded_url": "https://x.com/tiegang114514",
+                "start": 0,
+                "url": "https://t.co/5fMQ1vt7NW"
+              }
+            ]
+          }
+        },
+        "id": "1559223020245331971",
+        "location": "我是正版漣絵樹羅 此號與簡介裏的小號唯兩個號。",
+        "name": "漣絵樹羅EzraRan🇺🇦🇵🇸🇺🇳",
+        "pinned_tweet_id": "1968497576744984581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970506166284492802/Wyrey_UQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 1527,
+          "like_count": 7907,
+          "listed_count": 6,
+          "media_count": 525,
+          "tweet_count": 3516
+        },
+        "url": "https://t.co/5fMQ1vt7NW",
+        "username": "tiegang10086",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-05T18:57:33.000Z",
+        "description": "自由民主派，支持🇹🇼🇺🇲，反对🇷🇺。\n作为自由民主的斗士，我誓要发动资产阶级文化大革命，扫清一切共产主义害人虫！全无敌！\n支持市场自由，反对政府干预，自由民主万岁！资产阶级专政万岁！战无不胜的漣絵樹羅思想万万岁！\n附属账户：@tiegang10086，@tiegang114514",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 112,
+                "username": "tiegang10086"
+              },
+              {
+                "end": 140,
+                "start": 126,
+                "username": "tiegang114514"
+              }
+            ]
+          }
+        },
+        "id": "1974911782008569856",
+        "location": "理想鄉 Utopia🇦🇶",
+        "name": "漣絵樹羅EzraRan🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977014520225869824/WhGZGtz5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 67,
+          "like_count": 619,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 307
+        },
+        "username": "tiegong10086",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-06T12:39:10.000Z",
+        "description": "捧起一束花\n向你所在的方向跑去\n月光照亮了你的背影\n我也因喜悦而哭泣\n千百腾挪，辗转反侧\n以爱恋之心祈愿相遇\n我所深信不疑的奇迹",
+        "id": "1975178922095775744",
+        "name": "爱恋的厄洛斯",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977053380469256192/n5OHOub4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 51,
+          "like_count": 1253,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 270
+        },
+        "username": "twiays114514",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-17T05:37:44.000Z",
+        "description": "此賬戶為@tiegang10086的附屬賬戶。丨請Follow @tiegang10086謝謝喵。丨因測試把賬戶年齡調為18歲以下會發生什麼，主賬戶被禁止觀看18+敏感內容（申訴後）主賬戶信息我依舊在看，發到哪一個賬戶都可以，未棄用丨生活賬戶不鍵政（我想鍵就鍵）丨中文🇨🇳日本語🇯🇵English🇬🇧🇺🇸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 4,
+                "username": "tiegang10086"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "tiegang10086"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/tiegang10086",
+                "end": 23,
+                "expanded_url": "https://x.com/tiegang10086",
+                "start": 0,
+                "url": "https://t.co/b0lWKIoANk"
+              }
+            ]
+          }
+        },
+        "id": "1968187553695272960",
+        "location": "理想鄉 Utopia🇺🇳",
+        "name": "漣絵樹羅EzraRan(/≧▽≦)/~",
+        "pinned_tweet_id": "1969043043773751765",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974057463973605376/1pUrRzXH_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 207,
+          "like_count": 2890,
+          "listed_count": 0,
+          "media_count": 181,
+          "tweet_count": 980
+        },
+        "url": "https://t.co/b0lWKIoANk",
+        "username": "tiegang114514",
+        "verified": false
+      }
+    ]
+  }
+}

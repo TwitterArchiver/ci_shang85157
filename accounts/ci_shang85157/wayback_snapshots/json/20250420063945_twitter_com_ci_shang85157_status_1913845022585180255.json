@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1913674778696945917",
+    "created_at": "2025-04-20T06:39:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-20T07:39:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913845022585180255"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "702827952803680256",
+          "start": 0,
+          "username": "allvulples"
+        },
+        {
+          "end": 21,
+          "id": "1589809419822329857",
+          "start": 12,
+          "username": "jianlvup"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913845022585180255",
+    "in_reply_to_user_id": "702827952803680256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913802367591653493",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@allvulples @jianlvup 出这种问题的人才是又蠢又坏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1913674778696945917",
+        "created_at": "2025-04-20T06:39:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-20T07:39:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913845022585180255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "702827952803680256",
+              "start": 0,
+              "username": "allvulples"
+            },
+            {
+              "end": 21,
+              "id": "1589809419822329857",
+              "start": 12,
+              "username": "jianlvup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913845022585180255",
+        "in_reply_to_user_id": "702827952803680256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913802367591653493",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@allvulples @jianlvup 出这种问题的人才是又蠢又坏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "702827952803680256",
+        "conversation_id": "1913674778696945917",
+        "created_at": "2025-04-20T03:50:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-20T04:50:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913802367591653493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1826281483675299840",
+              "start": 0,
+              "username": "ci_shang85157"
+            },
+            {
+              "end": 24,
+              "id": "1589809419822329857",
+              "start": 15,
+              "username": "jianlvup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913802367591653493",
+        "in_reply_to_user_id": "1826281483675299840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913801744729116757",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ci_shang85157 @jianlvup 這個很邪惡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 383,
+          "following_count": 366,
+          "like_count": 5974,
+          "listed_count": 1,
+          "media_count": 103,
+          "tweet_count": 2784
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2016-02-25T12:10:16.000Z",
+        "description": "BIG BANG BAD BOYS AND GIRLS.",
+        "id": "702827952803680256",
+        "location": "Hong Kong",
+        "name": "Demonkeyse Manell",
+        "pinned_tweet_id": "1913211554511954142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886505840297041922/T3n-n-l2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 617,
+          "following_count": 3186,
+          "like_count": 20035,
+          "listed_count": 4,
+          "media_count": 478,
+          "tweet_count": 25487
+        },
+        "username": "allvulples",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-08T02:38:07.000Z",
+        "description": "一个奇怪的人，人物志评分创始人INTJ 二次元热爱与大家讨论交流 爱评论点赞 华北人 可互关(需私信)逃生舱：待定\n搭档:@KawawaDiana8964\n朋友:@hhjnjkoguyunmo\n伙伴：@RealColidora3\n前身：@Jianlv117（复活赛中）1.5万粉",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 61,
+                "username": "KawawaDiana8964"
+              },
+              {
+                "end": 96,
+                "start": 81,
+                "username": "hhjnjkoguyunmo"
+              },
+              {
+                "end": 114,
+                "start": 100,
+                "username": "RealColidora3"
+              },
+              {
+                "end": 128,
+                "start": 118,
+                "username": "Jianlv117"
+              }
+            ]
+          }
+        },
+        "id": "1589809419822329857",
+        "name": "简律·繁律",
+        "pinned_tweet_id": "1913217980282081587",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913249977419366400/uP3H_UOv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 427,
+          "following_count": 250,
+          "like_count": 1302,
+          "listed_count": 2,
+          "media_count": 61,
+          "tweet_count": 204
+        },
+        "username": "jianlvup",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "2061665233165578471",
+    "created_at": "2026-06-03T11:36:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T12:36:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062136440126083385"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1069134731139117056",
+          "start": 0,
+          "username": "LMY166"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062136440126083385",
+    "in_reply_to_user_id": "1069134731139117056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061890918160982350",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LMY166 怎么办"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 305,
+        "media_key": "3_2061890879455961088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ1O1JuXIAAuVXs.png",
+        "width": 518
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "2061665233165578471",
+        "created_at": "2026-06-03T11:36:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T12:36:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062136440126083385"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1069134731139117056",
+              "start": 0,
+              "username": "LMY166"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062136440126083385",
+        "in_reply_to_user_id": "1069134731139117056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061890918160982350",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LMY166 怎么办"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061890879455961088"
+          ]
+        },
+        "author_id": "1069134731139117056",
+        "conversation_id": "2061665233165578471",
+        "created_at": "2026-06-02T19:21:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T20:21:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061890918160982350"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1826281483675299840",
+              "start": 0,
+              "username": "ci_shang85157"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eYD3Wrgp2o",
+              "end": 38,
+              "expanded_url": "https://x.com/LMY166/status/2061890918160982350/photo/1",
+              "media_key": "3_2061890879455961088",
+              "start": 15,
+              "url": "https://t.co/eYD3Wrgp2o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061890918160982350",
+        "in_reply_to_user_id": "1826281483675299840",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061665233165578471",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ci_shang85157 https://t.co/eYD3Wrgp2o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧 https://t.co/ILEWFdOQz0。 ngl匿名问答。  嗯我是男生 不要认错了。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%8950122",
+                "end": 45,
+                "expanded_url": "https://ngl.link/%E6%B3%8950122",
+                "start": 22,
+                "url": "https://t.co/ILEWFdOQz0"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "永雏泉",
+        "pinned_tweet_id": "2060026487768760460",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978274114138996736/r_khhgIT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1153,
+          "following_count": 745,
+          "like_count": 24689,
+          "listed_count": 2,
+          "media_count": 270,
+          "tweet_count": 8806
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-02T07:42:38.000Z",
+        "description": "一些吐槽和记录",
+        "id": "1069134731139117056",
+        "location": "谾",
+        "name": "no",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030778648413011968/rWOGL28k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 282,
+          "like_count": 4750,
+          "listed_count": 2,
+          "media_count": 180,
+          "tweet_count": 1443
+        },
+        "username": "LMY166",
+        "verified": false
+      }
+    ]
+  }
+}

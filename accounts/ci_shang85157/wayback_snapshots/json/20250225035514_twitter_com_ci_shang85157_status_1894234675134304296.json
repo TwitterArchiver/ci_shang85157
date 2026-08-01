@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1893974480948433005",
+    "created_at": "2025-02-25T03:55:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-25T04:55:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1894234675134304296"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1566815552777383936",
+          "start": 0,
+          "username": "TianqiChen666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894234675134304296",
+    "in_reply_to_user_id": "1566815552777383936",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893974480948433005",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TianqiChen666 可以"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1893974464918167552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gki_vbsboAABfTe.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1893974480948433005",
+        "created_at": "2025-02-25T03:55:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-25T04:55:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894234675134304296"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1566815552777383936",
+              "start": 0,
+              "username": "TianqiChen666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894234675134304296",
+        "in_reply_to_user_id": "1566815552777383936",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893974480948433005",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TianqiChen666 可以"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1893974464918167552"
+          ]
+        },
+        "author_id": "1566815552777383936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1893974480948433005",
+        "created_at": "2025-02-24T10:41:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T11:41:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893974480948433005"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sTbjBe2IKT",
+              "end": 38,
+              "expanded_url": "https://x.com/TianqiChen666/status/1893974480948433005/photo/1",
+              "media_key": "3_1893974464918167552",
+              "start": 15,
+              "url": "https://t.co/sTbjBe2IKT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893974480948433005",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2249,
+          "like_count": 61,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "主播第一次把红谱打出3S（） https://t.co/sTbjBe2IKT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲",
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844188914451365901/gNnOT4GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 252,
+          "like_count": 2442,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 1129
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-05T15:48:41.000Z",
+        "description": "大学生、中国人🇨🇳、いま成都に住んでいる。みんなと仲良くしたい！\n|絡み重視|変な垢以外フォロバ💯|アニメ|kig初心者|恋人🥰：@podf14|里：@menma_sub|興味：#原神、#アークナイツ、#ブルアカ、#ボカロ、#着ぐるみ|\n親友:@haku_dabai @2temisinin\n|匿名質問↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 92,
+                "start": 89,
+                "tag": "原神"
+              },
+              {
+                "end": 100,
+                "start": 93,
+                "tag": "アークナイツ"
+              },
+              {
+                "end": 106,
+                "start": 101,
+                "tag": "ブルアカ"
+              },
+              {
+                "end": 111,
+                "start": 107,
+                "tag": "ボカロ"
+              },
+              {
+                "end": 117,
+                "start": 112,
+                "tag": "着ぐるみ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 72,
+                "start": 65,
+                "username": "podf14"
+              },
+              {
+                "end": 85,
+                "start": 75,
+                "username": "menma_sub"
+              },
+              {
+                "end": 133,
+                "start": 122,
+                "username": "haku_dabai"
+              },
+              {
+                "end": 145,
+                "start": 134,
+                "username": "2temisinin"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/TianqiChen6665…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/TianqiChen66655157",
+                "start": 0,
+                "url": "https://t.co/fCSPq9Gws0"
+              }
+            ]
+          }
+        },
+        "id": "1566815552777383936",
+        "location": "Sichuan",
+        "name": "めんま",
+        "pinned_tweet_id": "1858391483382206967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888774893803814912/-hJmwcMg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13203,
+          "following_count": 7330,
+          "like_count": 77138,
+          "listed_count": 43,
+          "media_count": 4532,
+          "tweet_count": 14418
+        },
+        "url": "https://t.co/fCSPq9Gws0",
+        "username": "TianqiChen666",
+        "verified": true
+      }
+    ]
+  }
+}

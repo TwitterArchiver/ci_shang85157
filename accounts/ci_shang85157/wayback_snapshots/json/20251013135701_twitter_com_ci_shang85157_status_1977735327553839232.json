@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1977402682282516934",
+    "created_at": "2025-10-13T13:57:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-13T14:57:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977735327553839232"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1934467797226283009",
+          "start": 0,
+          "username": "LovePaxi12"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977735327553839232",
+    "in_reply_to_user_id": "1934467797226283009",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977727059678920952",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LovePaxi12 喵喵喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1977402682282516934",
+        "created_at": "2025-10-13T13:57:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T14:57:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977735327553839232"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1934467797226283009",
+              "start": 0,
+              "username": "LovePaxi12"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977735327553839232",
+        "in_reply_to_user_id": "1934467797226283009",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977727059678920952",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LovePaxi12 喵喵喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934467797226283009",
+        "conversation_id": "1977402682282516934",
+        "created_at": "2025-10-13T13:24:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T14:24:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977727059678920952"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1826281483675299840",
+              "start": 0,
+              "username": "ci_shang85157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977727059678920952",
+        "in_reply_to_user_id": "1826281483675299840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977402682282516934",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ci_shang85157 誰家皇帝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧 小男友@pertx114514  结义兄弟@wuyan_sleeeepy还有穹璃 互fo可以私信我交朋友什么的 反正我还挺闲 然后就是没有然后了 一切都是最好的安排https://t.co/ILEWFdOQz0。 ngl匿名问答",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "pertx114514"
+              },
+              {
+                "end": 58,
+                "start": 43,
+                "username": "wuyan_sleeeepy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%8950122",
+                "end": 127,
+                "expanded_url": "https://ngl.link/%E6%B3%8950122",
+                "start": 104,
+                "url": "https://t.co/ILEWFdOQz0"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉",
+        "pinned_tweet_id": "1970427616353296660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977423285974675457/bW8DNFIj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 816,
+          "following_count": 656,
+          "like_count": 17019,
+          "listed_count": 2,
+          "media_count": 199,
+          "tweet_count": 6584
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-16T04:27:24.000Z",
+        "description": "🚪30 xyn｜4i｜🍥2025.1.26｜10年 ｜地雷系｜雷：火影男 河南人 | Chinese | English | 顽泪cp 「好女人得到名聲，壞女人得到世界」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "apple.com",
+                "end": 23,
+                "expanded_url": "http://apple.com",
+                "start": 0,
+                "url": "https://t.co/YIvmZcbhfa"
+              }
+            ]
+          }
+        },
+        "id": "1934467797226283009",
+        "location": "羽丘女子学院",
+        "name": "🍥Wakaba Mutsumi",
+        "pinned_tweet_id": "1975412026362286479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977716602255839232/dk7gZeTb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 249,
+          "like_count": 1593,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 268
+        },
+        "url": "https://t.co/YIvmZcbhfa",
+        "username": "LovePaxi12",
+        "verified": false
+      }
+    ]
+  }
+}

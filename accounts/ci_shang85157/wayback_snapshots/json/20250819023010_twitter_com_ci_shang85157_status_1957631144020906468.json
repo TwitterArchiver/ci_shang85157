@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1957331158519406959",
+    "created_at": "2025-08-19T02:30:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-19T03:30:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957631144020906468"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1928862152359874560",
+          "start": 0,
+          "username": "apple87751"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957631144020906468",
+    "in_reply_to_user_id": "1928862152359874560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957331158519406959",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@apple87751 其实男的也不会在意这个的🥲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1957331158519406959",
+        "created_at": "2025-08-19T02:30:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T03:30:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957631144020906468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1928862152359874560",
+              "start": 0,
+              "username": "apple87751"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957631144020906468",
+        "in_reply_to_user_id": "1928862152359874560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957331158519406959",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@apple87751 其实男的也不会在意这个的🥲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1928862152359874560",
+        "conversation_id": "1957331158519406959",
+        "created_at": "2025-08-18T06:38:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T07:38:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957331158519406959"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1957331158519406959",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4575,
+          "like_count": 73,
+          "quote_count": 1,
+          "reply_count": 17,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不想当男的因为我会焦虑自己下面太小😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像失去了一条时间线，算了，我们从来吧",
+        "id": "1826281483675299840",
+        "name": "泉方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 704,
+          "following_count": 550,
+          "like_count": 12911,
+          "listed_count": 2,
+          "media_count": 159,
+          "tweet_count": 5279
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-31T17:12:47.000Z",
+        "description": "𓅿𓅹｜清水推 不礼貌互关｜我发誓不再做萌萌的好人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn1.top/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://vpn1.fnvpn1.top/#/register?code=WnX5KCAN",
+                "start": 0,
+                "url": "https://t.co/VlPaMG875g"
+              }
+            ]
+          }
+        },
+        "id": "1928862152359874560",
+        "location": "自用蜂鸟VPN：",
+        "name": "apple",
+        "pinned_tweet_id": "1956737227213742144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956271090906357766/bwGltrMJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1918,
+          "following_count": 85,
+          "like_count": 8276,
+          "listed_count": 2,
+          "media_count": 320,
+          "tweet_count": 6133
+        },
+        "url": "https://t.co/VlPaMG875g",
+        "username": "apple87751",
+        "verified": false
+      }
+    ]
+  }
+}

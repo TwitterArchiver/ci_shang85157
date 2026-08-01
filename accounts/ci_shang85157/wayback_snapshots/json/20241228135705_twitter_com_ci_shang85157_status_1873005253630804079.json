@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1872803408002072761",
+    "created_at": "2024-12-28T13:57:05.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-28T14:57:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1873005253630804079"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1287452162038136833",
+          "start": 0,
+          "username": "jason27873170"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1873005253630804079",
+    "in_reply_to_user_id": "1287452162038136833",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872803408002072761",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jason27873170 因为劳动法是刘慈欣写的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1872803408002072761",
+        "created_at": "2024-12-28T13:57:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-28T14:57:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1873005253630804079"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1287452162038136833",
+              "start": 0,
+              "username": "jason27873170"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873005253630804079",
+        "in_reply_to_user_id": "1287452162038136833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872803408002072761",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jason27873170 因为劳动法是刘慈欣写的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1872803404336029696"
+          ]
+        },
+        "author_id": "1287452162038136833",
+        "conversation_id": "1872803408002072761",
+        "created_at": "2024-12-28T00:35:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-28T01:35:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1872803408002072761"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BlHjb3tBJ1",
+              "end": 23,
+              "expanded_url": "https://x.com/jason27873170/status/1872803408002072761/photo/1",
+              "media_key": "3_1872803404336029696",
+              "start": 0,
+              "url": "https://t.co/BlHjb3tBJ1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872803408002072761",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 187,
+          "impression_count": 188246,
+          "like_count": 1195,
+          "quote_count": 17,
+          "reply_count": 67,
+          "retweet_count": 147
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/BlHjb3tBJ1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，有兴趣就可以一起玩",
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844188914451365901/gNnOT4GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 294,
+          "like_count": 1585,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 651
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-26T18:18:47.000Z",
+        "description": "我的网站：https://t.co/6xmsUyleEa",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "petzgarden.com/home/",
+                "end": 28,
+                "expanded_url": "http://www.petzgarden.com/home/",
+                "start": 5,
+                "url": "https://t.co/6xmsUyleEa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "petzgarden.com/home/",
+                "end": 23,
+                "expanded_url": "http://www.petzgarden.com/home/",
+                "start": 0,
+                "url": "https://t.co/6xmsUyleEa"
+              }
+            ]
+          }
+        },
+        "id": "1287452162038136833",
+        "location": "旧金山，CA",
+        "name": "jason wang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1812678677005549568/mkKIoLNr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125461,
+          "following_count": 74720,
+          "like_count": 10047,
+          "listed_count": 282,
+          "media_count": 43635,
+          "tweet_count": 56043
+        },
+        "url": "https://t.co/6xmsUyleEa",
+        "username": "jason27873170",
+        "verified": false
+      }
+    ]
+  }
+}

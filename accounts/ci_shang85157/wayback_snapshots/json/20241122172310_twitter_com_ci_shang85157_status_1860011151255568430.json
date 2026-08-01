@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1860011140828528644"
+      ]
+    },
+    "author_id": "1826281483675299840",
+    "conversation_id": "1860011151255568430",
+    "created_at": "2024-11-22T17:23:10.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-22T18:23:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1860011151255568430"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qNRL5Knf2Y",
+          "end": 49,
+          "expanded_url": "https://x.com/ci_shang85157/status/1860011151255568430/photo/1",
+          "media_key": "3_1860011140828528644",
+          "start": 26,
+          "url": "https://t.co/qNRL5Knf2Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1860011151255568430",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天请假打了一天的针，回来好多了，校医处好贵😭😭😭 https://t.co/qNRL5Knf2Y"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1860011151255568430].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1860011151255568430",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1860011151255568430"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1860011140828528644",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdAWRx9agAQD7M5.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，有兴趣就可以一起玩",
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844188914451365901/gNnOT4GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 195,
+          "like_count": 722,
+          "listed_count": 0,
+          "tweet_count": 141
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      }
+    ]
+  }
+}

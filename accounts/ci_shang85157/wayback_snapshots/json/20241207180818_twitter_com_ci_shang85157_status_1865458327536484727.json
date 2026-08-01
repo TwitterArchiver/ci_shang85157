@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1865261912612876339",
+    "created_at": "2024-12-07T18:08:18.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-07T19:08:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1865458327536484727"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1027864253514932226",
+          "start": 0,
+          "username": "emilia_yuni_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1865458327536484727",
+    "in_reply_to_user_id": "1027864253514932226",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1865261912612876339",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@emilia_yuni_ 我爱你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1865261912612876339",
+        "created_at": "2024-12-07T18:08:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-07T19:08:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1865458327536484727"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1027864253514932226",
+              "start": 0,
+              "username": "emilia_yuni_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865458327536484727",
+        "in_reply_to_user_id": "1027864253514932226",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1865261912612876339",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@emilia_yuni_ 我爱你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1865261910234664961"
+          ]
+        },
+        "author_id": "1027864253514932226",
+        "conversation_id": "1865261912612876339",
+        "created_at": "2024-12-07T05:07:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-07T06:07:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1865261912612876339"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2W7yX0ALhG",
+              "end": 41,
+              "expanded_url": "https://x.com/emilia_yuni_/status/1865261912612876339/photo/1",
+              "media_key": "3_1865261910234664961",
+              "start": 18,
+              "url": "https://t.co/2W7yX0ALhG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865261912612876339",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6517,
+          "like_count": 222,
+          "quote_count": 0,
+          "reply_count": 97,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我可以抱抱中推圈的每一个人嘛 🥰🥰 https://t.co/2W7yX0ALhG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，有兴趣就可以一起玩",
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844188914451365901/gNnOT4GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 228,
+          "like_count": 963,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 258
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-10T10:28:29.000Z",
+        "description": "再会，善良的人。我祈愿你已在那清醒的世界中找到意义和安抚。让这个梦境，流淌的血液…预示的束缚…",
+        "id": "1027864253514932226",
+        "name": "路德维希",
+        "pinned_tweet_id": "1812534465694192000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1838231712750530560/x_Sg1O-0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1153,
+          "following_count": 747,
+          "like_count": 11080,
+          "listed_count": 3,
+          "media_count": 259,
+          "tweet_count": 2968
+        },
+        "username": "emilia_yuni_",
+        "verified": false
+      }
+    ]
+  }
+}

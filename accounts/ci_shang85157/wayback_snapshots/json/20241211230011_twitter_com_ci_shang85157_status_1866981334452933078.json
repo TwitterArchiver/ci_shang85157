@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1866586791576473605",
+    "created_at": "2024-12-11T23:00:11.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-12T00:00:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1866981334452933078"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1663332142796148736",
+          "start": 0,
+          "username": "dajuzi23242526"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1866981334452933078",
+    "in_reply_to_user_id": "1663332142796148736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1866586791576473605",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dajuzi23242526 你是怎么减的，这么厉害"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1866586791576473605",
+        "created_at": "2024-12-11T23:00:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-12T00:00:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866981334452933078"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1663332142796148736",
+              "start": 0,
+              "username": "dajuzi23242526"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866981334452933078",
+        "in_reply_to_user_id": "1663332142796148736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866586791576473605",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dajuzi23242526 你是怎么减的，这么厉害"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1866586783745757184",
+            "3_1866586783582195712",
+            "3_1866586783573741572",
+            "3_1866586783577935872"
+          ]
+        },
+        "author_id": "1663332142796148736",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1866586791576473605",
+        "created_at": "2024-12-10T20:52:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-10T21:52:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866586791576473605"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/70wPPaZZbE",
+              "end": 175,
+              "expanded_url": "https://x.com/dajuzi23242526/status/1866586791576473605/photo/1",
+              "media_key": "3_1866586783745757184",
+              "start": 152,
+              "url": "https://t.co/70wPPaZZbE"
+            },
+            {
+              "display_url": "pic.x.com/70wPPaZZbE",
+              "end": 175,
+              "expanded_url": "https://x.com/dajuzi23242526/status/1866586791576473605/photo/1",
+              "media_key": "3_1866586783582195712",
+              "start": 152,
+              "url": "https://t.co/70wPPaZZbE"
+            },
+            {
+              "display_url": "pic.x.com/70wPPaZZbE",
+              "end": 175,
+              "expanded_url": "https://x.com/dajuzi23242526/status/1866586791576473605/photo/1",
+              "media_key": "3_1866586783573741572",
+              "start": 152,
+              "url": "https://t.co/70wPPaZZbE"
+            },
+            {
+              "display_url": "pic.x.com/70wPPaZZbE",
+              "end": 175,
+              "expanded_url": "https://x.com/dajuzi23242526/status/1866586791576473605/photo/1",
+              "media_key": "3_1866586783577935872",
+              "start": 152,
+              "url": "https://t.co/70wPPaZZbE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866586791576473605",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3244,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "细算一下.月底就整整一年了.累计减了160斤完整.五花肉级别.细想一年时间改变蛮大了.但是大不了哪里去.在身材体型.还是语言纠正以及行为举止.我知道跨女第一步减肥.身材保持.我也想躺平.自己没办法给自己解释臃肿身材.如果省了这一步走.多好.减肥.吃饱了难受.胃胀.吃少了也难受.胃饿.感谢精神股东监督. https://t.co/70wPPaZZbE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，有兴趣就可以一起玩",
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844188914451365901/gNnOT4GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 247,
+          "like_count": 1062,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 350
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-29T23:51:16.000Z",
+        "description": "🏳️‍⚧️爱我的二胖城市和杭州「难走的路永远不会拥挤但是充满了前所未有的荆棘」 本人丑罢了\\跨女\\le..」另一个平台app「bluesky」我的日记本说说..@dajuzi23242526.bsky.social",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 80,
+                "username": "dajuzi23242526"
+              }
+            ]
+          }
+        },
+        "id": "1663332142796148736",
+        "name": "快乐的小橙子喵🏳️‍⚧️🍥「记录美好时光\\犯傻」",
+        "pinned_tweet_id": "1783634433935114708",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1672275451056910337/2f4d3d36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1694,
+          "following_count": 3488,
+          "like_count": 78917,
+          "listed_count": 5,
+          "media_count": 721,
+          "tweet_count": 24511
+        },
+        "username": "dajuzi23242526",
+        "verified": false
+      }
+    ]
+  }
+}

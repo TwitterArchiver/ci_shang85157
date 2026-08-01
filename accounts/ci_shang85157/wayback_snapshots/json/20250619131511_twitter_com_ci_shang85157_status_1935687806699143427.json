@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1931094265234682102",
+    "created_at": "2025-06-19T13:15:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-19T14:15:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935687806699143427"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1492081792664637440",
+          "start": 0,
+          "username": "PaladinMisaki"
+        },
+        {
+          "end": 24,
+          "id": "1649826431055302658",
+          "start": 15,
+          "username": "pwnint64"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935687806699143427",
+    "in_reply_to_user_id": "1492081792664637440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931267730457723269",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PaladinMisaki @pwnint64 真的吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1931094265234682102",
+        "created_at": "2025-06-19T13:15:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T14:15:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935687806699143427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1492081792664637440",
+              "start": 0,
+              "username": "PaladinMisaki"
+            },
+            {
+              "end": 24,
+              "id": "1649826431055302658",
+              "start": 15,
+              "username": "pwnint64"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935687806699143427",
+        "in_reply_to_user_id": "1492081792664637440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931267730457723269",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PaladinMisaki @pwnint64 真的吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1492081792664637440",
+        "conversation_id": "1931094265234682102",
+        "created_at": "2025-06-07T08:31:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T09:31:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931267730457723269"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1649826431055302658",
+              "start": 0,
+              "username": "pwnint64"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931267730457723269",
+        "in_reply_to_user_id": "1649826431055302658",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931094265234682102",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pwnint64 我是十二神器吧主"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲，生理性别男，请不要私信给我发那种奇怪的东西了\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 74,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 739,
+          "following_count": 568,
+          "like_count": 12890,
+          "listed_count": 2,
+          "media_count": 196,
+          "tweet_count": 5199
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-11T10:23:41.000Z",
+        "description": "鸡鸡向上的人｜我乃始终面带微笑的Misaki🎵｜需要互fo请来私信罢，需要点时间有时候广告信息太多没注意看🌃｜可以在「回复」观看我的平日发言，这可以反映我的实时观点",
+        "id": "1492081792664637440",
+        "location": "天鹅座α、牵牛星、织女星组成的夏季大三角🌠",
+        "name": "圣骑士見崎Misakiちゃん✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934455701923106816/FPGVQs3H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2897,
+          "following_count": 577,
+          "like_count": 53840,
+          "listed_count": 7,
+          "media_count": 2720,
+          "tweet_count": 18741
+        },
+        "username": "PaladinMisaki",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-22T17:24:25.000Z",
+        "description": "Basic interaction only.                                                                                           \nTweets are under WTFPL v2 License. @64bit_ndk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 160,
+                "start": 150,
+                "username": "64bit_ndk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ndk.moe",
+                "end": 23,
+                "expanded_url": "https://ndk.moe",
+                "start": 0,
+                "url": "https://t.co/cgXOrekREk"
+              }
+            ]
+          }
+        },
+        "id": "1649826431055302658",
+        "location": ":D",
+        "name": "pwnint",
+        "pinned_tweet_id": "1931219234664989047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927074199819964417/5x-YbOYV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 771,
+          "following_count": 1207,
+          "like_count": 37227,
+          "listed_count": 1,
+          "media_count": 1039,
+          "tweet_count": 5666
+        },
+        "url": "https://t.co/cgXOrekREk",
+        "username": "pwnint64",
+        "verified": false
+      }
+    ]
+  }
+}

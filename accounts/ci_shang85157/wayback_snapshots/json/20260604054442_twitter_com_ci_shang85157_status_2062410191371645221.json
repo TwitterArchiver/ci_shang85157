@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "2062162016362795054",
+    "created_at": "2026-06-04T05:44:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T06:44:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062410191371645221"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2047867480576794624",
+          "start": 0,
+          "username": "yuganbb823"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062410191371645221",
+    "in_reply_to_user_id": "2047867480576794624",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062162016362795054",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuganbb823 我抱抱你啊诡秘"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4125,
+        "height": 960,
+        "media_key": "13_2062161458725896192",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2062161458725896192/img/k47cJL7mjAh7BBav.jpg",
+        "public_metrics": {
+          "view_count": 1539
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062161458725896192/vid/avc1/320x568/Og7v_AJ4hMmhe9QK.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062161458725896192/vid/avc1/480x852/6xphaqvnqzQ-xt--.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062161458725896192/vid/avc1/540x960/OPUQf0aWTZO5bNiU.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2062161458725896192/pl/Uzvwn1lsj1ZPzxn5.m3u8"
+          }
+        ],
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "2062162016362795054",
+        "created_at": "2026-06-04T05:44:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T06:44:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062410191371645221"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2047867480576794624",
+              "start": 0,
+              "username": "yuganbb823"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062410191371645221",
+        "in_reply_to_user_id": "2047867480576794624",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062162016362795054",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuganbb823 我抱抱你啊诡秘"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2062161458725896192"
+          ]
+        },
+        "author_id": "2047867480576794624",
+        "conversation_id": "2062162016362795054",
+        "created_at": "2026-06-03T13:18:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T14:18:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062162016362795054"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/awkmMREyBL",
+              "end": 39,
+              "expanded_url": "https://x.com/yuganbb823/status/2062162016362795054/video/1",
+              "media_key": "13_2062161458725896192",
+              "start": 16,
+              "url": "https://t.co/awkmMREyBL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062162016362795054",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 3064,
+          "like_count": 227,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "又整了一个脂肪层我只能这样洗澡 https://t.co/awkmMREyBL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧 https://t.co/ILEWFdOQz0。 ngl匿名问答。  嗯我是男生 不要认错了。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%8950122",
+                "end": 45,
+                "expanded_url": "https://ngl.link/%E6%B3%8950122",
+                "start": 22,
+                "url": "https://t.co/ILEWFdOQz0"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "永雏泉",
+        "pinned_tweet_id": "2060026487768760460",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978274114138996736/r_khhgIT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1152,
+          "following_count": 746,
+          "like_count": 24691,
+          "listed_count": 2,
+          "media_count": 270,
+          "tweet_count": 8809
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-25T02:40:37.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 只跟同类互fo 直fo是因为喜欢你呀 |",
+        "id": "2047867480576794624",
+        "location": "你身后",
+        "name": "为何人生如此凄惨",
+        "pinned_tweet_id": "2061102606643044586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058530430505107456/xZ6M8S5D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 195,
+          "like_count": 3564,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 603
+        },
+        "username": "yuganbb823",
+        "verified": false
+      }
+    ]
+  }
+}

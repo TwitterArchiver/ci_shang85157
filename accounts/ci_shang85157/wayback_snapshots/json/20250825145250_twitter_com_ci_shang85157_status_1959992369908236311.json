@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1959992352191528960",
+        "3_1959992361775468544"
+      ]
+    },
+    "author_id": "1826281483675299840",
+    "conversation_id": "1959992369908236311",
+    "created_at": "2025-08-25T14:52:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-25T15:52:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1959992369908236311"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ATMXsyrQ4a",
+          "end": 69,
+          "expanded_url": "https://x.com/ci_shang85157/status/1959992369908236311/photo/1",
+          "media_key": "3_1959992352191528960",
+          "start": 46,
+          "url": "https://t.co/ATMXsyrQ4a"
+        },
+        {
+          "display_url": "pic.x.com/ATMXsyrQ4a",
+          "end": 69,
+          "expanded_url": "https://x.com/ci_shang85157/status/1959992369908236311/photo/1",
+          "media_key": "3_1959992361775468544",
+          "start": 46,
+          "url": "https://t.co/ATMXsyrQ4a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959992369908236311",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "去出了cos，有人能看出来是什么就是角色吗？什么时候能遇到属于我的六花啊＃中二病也要谈恋爱 https://t.co/ATMXsyrQ4a"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2088,
+        "media_key": "3_1959992352191528960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzNKqOrbwAA2Z9g.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2097,
+        "media_key": "3_1959992361775468544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzNKqyYbEAAueU2.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1959992352191528960",
+            "3_1959992361775468544"
+          ]
+        },
+        "author_id": "1826281483675299840",
+        "conversation_id": "1959992369908236311",
+        "created_at": "2025-08-25T14:52:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T15:52:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959992369908236311"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ATMXsyrQ4a",
+              "end": 69,
+              "expanded_url": "https://x.com/ci_shang85157/status/1959992369908236311/photo/1",
+              "media_key": "3_1959992352191528960",
+              "start": 46,
+              "url": "https://t.co/ATMXsyrQ4a"
+            },
+            {
+              "display_url": "pic.x.com/ATMXsyrQ4a",
+              "end": 69,
+              "expanded_url": "https://x.com/ci_shang85157/status/1959992369908236311/photo/1",
+              "media_key": "3_1959992361775468544",
+              "start": 46,
+              "url": "https://t.co/ATMXsyrQ4a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959992369908236311",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "去出了cos，有人能看出来是什么就是角色吗？什么时候能遇到属于我的六花啊＃中二病也要谈恋爱 https://t.co/ATMXsyrQ4a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像失去了一条时间线，算了，我们从来吧",
+        "id": "1826281483675299840",
+        "name": "泉方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 721,
+          "following_count": 573,
+          "like_count": 13362,
+          "listed_count": 3,
+          "media_count": 162,
+          "tweet_count": 5423
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      }
+    ]
+  }
+}

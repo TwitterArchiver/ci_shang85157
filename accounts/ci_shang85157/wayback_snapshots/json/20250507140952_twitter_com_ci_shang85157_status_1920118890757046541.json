@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1919362621729345577",
+    "created_at": "2025-05-07T14:09:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-07T15:09:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920118890757046541"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1578364241362309120",
+          "start": 0,
+          "username": "wuren_Ltd"
+        },
+        {
+          "end": 24,
+          "id": "1854793579186864129",
+          "start": 11,
+          "username": "SummerRing41"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920118890757046541",
+    "in_reply_to_user_id": "1578364241362309120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920018386807075021",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wuren_Ltd @SummerRing41 马蜂窝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1919362621729345577",
+        "created_at": "2025-05-07T14:09:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T15:09:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920118890757046541"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1578364241362309120",
+              "start": 0,
+              "username": "wuren_Ltd"
+            },
+            {
+              "end": 24,
+              "id": "1854793579186864129",
+              "start": 11,
+              "username": "SummerRing41"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920118890757046541",
+        "in_reply_to_user_id": "1578364241362309120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920018386807075021",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wuren_Ltd @SummerRing41 马蜂窝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1578364241362309120",
+        "conversation_id": "1919362621729345577",
+        "created_at": "2025-05-07T07:30:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T08:30:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920018386807075021"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1854793579186864129",
+              "start": 0,
+              "username": "SummerRing41"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920018386807075021",
+        "in_reply_to_user_id": "1854793579186864129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 101,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919362621729345577",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SummerRing41 这种的是处吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 497,
+          "following_count": 452,
+          "like_count": 8572,
+          "listed_count": 2,
+          "media_count": 140,
+          "tweet_count": 3610
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-07T12:39:05.000Z",
+        "description": "关于我在想什么 \n满洲人属 \n政治观点大约是坐标系平面卷成圆筒，原点与对点连线上的任意点 \n功德箱开放，快给我钱\n阿米娜唯一指定真身\n招梦2记：collective unconscious搭子 \n吉祥动物：🦉",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/wurenInc",
+                "end": 23,
+                "expanded_url": "https://t.me/wurenInc",
+                "start": 0,
+                "url": "https://t.co/EmkIiTTxZF"
+              }
+            ]
+          }
+        },
+        "id": "1578364241362309120",
+        "location": "龙转回",
+        "name": "无人",
+        "pinned_tweet_id": "1903319102053331337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906685483960475648/ruSPUz-4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28475,
+          "following_count": 1389,
+          "like_count": 17150,
+          "listed_count": 78,
+          "media_count": 755,
+          "tweet_count": 3905
+        },
+        "url": "https://t.co/EmkIiTTxZF",
+        "username": "wuren_Ltd",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-08T07:50:44.000Z",
+        "description": "🇨🇳✈️🇬🇧 Marketing 🚪5200纯绿 毒舌/处女/拒绝婚前/不约/止于推 爱好和平 私信请礼貌自重 发点旧图 掉落随笔 感谢聆听:) 自用✈️https://t.co/RlJsYibJTQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tw03.damoplane1.com/#/register?cod…",
+                "end": 100,
+                "expanded_url": "https://tw03.damoplane1.com/#/register?code=N0XtzVMz",
+                "start": 77,
+                "url": "https://t.co/RlJsYibJTQ"
+              }
+            ]
+          }
+        },
+        "id": "1854793579186864129",
+        "location": "England, United Kingdom",
+        "name": "李夏弥_",
+        "pinned_tweet_id": "1919328520913731864",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872944980060188672/3W_hCtuR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15536,
+          "following_count": 305,
+          "like_count": 5165,
+          "listed_count": 22,
+          "media_count": 549,
+          "tweet_count": 3036
+        },
+        "username": "SummerRing41",
+        "verified": true
+      }
+    ]
+  }
+}

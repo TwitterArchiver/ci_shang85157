@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1959646016803852288"
+      ],
+      "media_source_tweet_id": [
+        "1959646076702715931"
+      ]
+    },
+    "author_id": "1826281483675299840",
+    "conversation_id": "1959981677884903692",
+    "created_at": "2025-08-25T14:10:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-25T15:10:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959981677884903692"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1831961897899585536",
+          "start": 3,
+          "username": "kiriyama_hitori"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/czFxVPOjCV",
+          "end": 44,
+          "expanded_url": "https://x.com/kiriyama_hitori/status/1959646076702715931/video/1",
+          "media_key": "13_1959646016803852288",
+          "start": 21,
+          "url": "https://t.co/czFxVPOjCV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959981677884903692",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959646076702715931",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kiriyama_hitori: https://t.co/czFxVPOjCV"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6963,
+        "height": 828,
+        "media_key": "13_1959646016803852288",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1959646016803852288/img/QAFPKhzimH3PL1X4.jpg",
+        "public_metrics": {
+          "view_count": 510
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1959646016803852288/vid/avc1/320x562/oVx0_5VWcGVYWbk5.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1959646016803852288/vid/avc1/470x828/T3mcs1ezrTSHYSKE.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1959646016803852288/pl/Um0CR_czKzvmpkXr.m3u8"
+          }
+        ],
+        "width": 470
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1959646016803852288"
+          ],
+          "media_source_tweet_id": [
+            "1959646076702715931"
+          ]
+        },
+        "author_id": "1826281483675299840",
+        "conversation_id": "1959981677884903692",
+        "created_at": "2025-08-25T14:10:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T15:10:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959981677884903692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1831961897899585536",
+              "start": 3,
+              "username": "kiriyama_hitori"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/czFxVPOjCV",
+              "end": 44,
+              "expanded_url": "https://x.com/kiriyama_hitori/status/1959646076702715931/video/1",
+              "media_key": "13_1959646016803852288",
+              "start": 21,
+              "url": "https://t.co/czFxVPOjCV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959981677884903692",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959646076702715931",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kiriyama_hitori: https://t.co/czFxVPOjCV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1959646016803852288"
+          ]
+        },
+        "author_id": "1831961897899585536",
+        "conversation_id": "1959646076702715931",
+        "created_at": "2025-08-24T15:56:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T16:56:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959646076702715931"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/czFxVPOjCV",
+              "end": 23,
+              "expanded_url": "https://x.com/kiriyama_hitori/status/1959646076702715931/video/1",
+              "media_key": "13_1959646016803852288",
+              "start": 0,
+              "url": "https://t.co/czFxVPOjCV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959646076702715931",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1761,
+          "like_count": 19,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/czFxVPOjCV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像失去了一条时间线，算了，我们从来吧",
+        "id": "1826281483675299840",
+        "name": "泉方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 721,
+          "following_count": 573,
+          "like_count": 13354,
+          "listed_count": 3,
+          "media_count": 161,
+          "tweet_count": 5421
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-06T07:45:44.000Z",
+        "description": "赤冥队长库忿斯梦女子 典型低端人口 射手座 ISFP- T 鱼鱼蒸 先天心脏病 另外一个意识体是自己猜去吧哈哈/号主极度劳保 ✂️⛓️",
+        "id": "1831961897899585536",
+        "location": "距离你7.8公里",
+        "name": "黑夜里的波奇",
+        "pinned_tweet_id": "1958777531307630698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958993448880807936/PwYqjojt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1010,
+          "following_count": 817,
+          "like_count": 88015,
+          "listed_count": 3,
+          "media_count": 2690,
+          "tweet_count": 20512
+        },
+        "username": "kiriyama_hitori",
+        "verified": false
+      }
+    ]
+  }
+}

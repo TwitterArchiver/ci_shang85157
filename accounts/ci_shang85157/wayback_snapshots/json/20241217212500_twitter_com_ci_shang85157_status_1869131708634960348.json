@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1822587212564967776",
+    "created_at": "2024-12-17T21:25:00.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-17T22:25:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1869131708634960348"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1600405932252753921",
+          "start": 0,
+          "username": "Liberte176"
+        },
+        {
+          "end": 26,
+          "id": "1580495758260080645",
+          "start": 12,
+          "username": "Irene19030606"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1869131708634960348",
+    "in_reply_to_user_id": "1600405932252753921",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1822593425608180167",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Liberte176 @Irene19030606 学习什么的，我很感兴趣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1822587212564967776",
+        "created_at": "2024-12-17T21:25:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-17T22:25:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869131708634960348"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1600405932252753921",
+              "start": 0,
+              "username": "Liberte176"
+            },
+            {
+              "end": 26,
+              "id": "1580495758260080645",
+              "start": 12,
+              "username": "Irene19030606"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869131708634960348",
+        "in_reply_to_user_id": "1600405932252753921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822593425608180167",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Liberte176 @Irene19030606 学习什么的，我很感兴趣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600405932252753921",
+        "conversation_id": "1822587212564967776",
+        "created_at": "2024-08-11T11:18:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-11T12:18:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1822593425608180167"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1580495758260080645",
+              "start": 0,
+              "username": "Irene19030606"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822593425608180167",
+        "in_reply_to_user_id": "1580495758260080645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2126,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822590915258827215",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Irene19030606 进群让你月入百万🌹哈哈哈😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，有兴趣就可以一起玩",
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844188914451365901/gNnOT4GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 264,
+          "like_count": 1217,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 439
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-07T08:24:59.000Z",
+        "description": "后端开发者，厨子 丨 长期主义丨利他主义丨尽量不为 lSB 老板打工",
+        "id": "1600405932252753921",
+        "location": "Taichung City, Taiwan",
+        "name": "Liberté",
+        "pinned_tweet_id": "1822600886016729160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1648694485415772160/gUtvmVmW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2421,
+          "following_count": 681,
+          "like_count": 2534,
+          "listed_count": 21,
+          "media_count": 305,
+          "tweet_count": 2392
+        },
+        "username": "Liberte176",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-13T09:48:57.000Z",
+        "description": "瞎逼叨叨 | 讨厌汉奸 |看心情搞黄",
+        "id": "1580495758260080645",
+        "location": "beijng",
+        "name": "Luna",
+        "pinned_tweet_id": "1868919143707357550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863087200486793216/YkoV43Eg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 543,
+          "following_count": 42,
+          "like_count": 1193,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 686
+        },
+        "username": "Irene19030606",
+        "verified": false
+      }
+    ]
+  }
+}

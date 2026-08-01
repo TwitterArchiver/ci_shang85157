@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1921823964508131375",
+    "created_at": "2025-05-13T20:00:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-13T21:00:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922381451804217819"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1788485889225834496",
+          "start": 0,
+          "username": "_temryava"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922381451804217819",
+    "in_reply_to_user_id": "1788485889225834496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921823964508131375",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_temryava 教学楼行政楼个人刀战"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1132,
+        "media_key": "3_1921823953800019968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GquwtCcWQAAtsNs.jpg",
+        "width": 802
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1921823964508131375",
+        "created_at": "2025-05-13T20:00:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-13T21:00:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922381451804217819"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "_temryava"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922381451804217819",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921823964508131375",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_temryava 教学楼行政楼个人刀战"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1921823953800019968"
+          ]
+        },
+        "author_id": "1788485889225834496",
+        "conversation_id": "1921823964508131375",
+        "created_at": "2025-05-12T07:05:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-12T08:05:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921823964508131375"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RPx2kLjGQU",
+              "end": 23,
+              "expanded_url": "https://x.com/_temryava/status/1921823964508131375/photo/1",
+              "media_key": "3_1921823953800019968",
+              "start": 0,
+              "url": "https://t.co/RPx2kLjGQU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921823964508131375",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 127,
+          "impression_count": 190251,
+          "like_count": 3739,
+          "quote_count": 19,
+          "reply_count": 64,
+          "retweet_count": 169
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/RPx2kLjGQU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 567,
+          "following_count": 505,
+          "like_count": 9488,
+          "listed_count": 2,
+          "media_count": 156,
+          "tweet_count": 4001
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "学着成为人类",
+        "id": "1788485889225834496",
+        "name": "Сонячна система",
+        "pinned_tweet_id": "1921777858818592837",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910268710117675008/TifD1yiJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3079,
+          "following_count": 1885,
+          "like_count": 16688,
+          "listed_count": 5,
+          "media_count": 282,
+          "tweet_count": 7059
+        },
+        "username": "_temryava",
+        "verified": false
+      }
+    ]
+  }
+}

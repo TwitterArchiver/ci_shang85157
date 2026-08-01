@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1897192521329230115",
+    "created_at": "2025-03-05T16:23:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-05T17:23:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897322001834066055"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1875088124071862273",
+          "start": 0,
+          "username": "kue_yu07"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897322001834066055",
+    "in_reply_to_user_id": "1875088124071862273",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897192521329230115",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kue_yu07 给我分一半😈😈😈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 192,
+        "media_key": "3_1897192518921654273",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlQui1DakAEW-Zc.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1897192521329230115",
+        "created_at": "2025-03-05T16:23:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-05T17:23:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897322001834066055"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1875088124071862273",
+              "start": 0,
+              "username": "kue_yu07"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897322001834066055",
+        "in_reply_to_user_id": "1875088124071862273",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897192521329230115",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kue_yu07 给我分一半😈😈😈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1897192518921654273"
+          ]
+        },
+        "author_id": "1875088124071862273",
+        "conversation_id": "1897192521329230115",
+        "created_at": "2025-03-05T07:48:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-05T08:48:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1897192521329230115"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Uq7Re8kgh2",
+              "end": 28,
+              "expanded_url": "https://x.com/kue_yu07/status/1897192521329230115/photo/1",
+              "media_key": "3_1897192518921654273",
+              "start": 5,
+              "url": "https://t.co/Uq7Re8kgh2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897192521329230115",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唔。。。 https://t.co/Uq7Re8kgh2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844188914451365901/gNnOT4GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 300,
+          "like_count": 2977,
+          "listed_count": 1,
+          "media_count": 62,
+          "tweet_count": 1382
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-03T07:53:58.000Z",
+        "description": "在无人在意的角落一直盯着泥👁👁，有一个很可爱的宝宝酱而且会是我的一辈子",
+        "id": "1875088124071862273",
+        "location": "0.01km",
+        "name": "琦鱼🐟",
+        "pinned_tweet_id": "1878727057196372315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885992390106005504/cFDDHazP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 67,
+          "like_count": 1206,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 119
+        },
+        "username": "kue_yu07",
+        "verified": false
+      }
+    ]
+  }
+}

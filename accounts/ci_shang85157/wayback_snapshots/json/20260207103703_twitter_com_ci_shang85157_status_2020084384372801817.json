@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "2020009664210215300",
+    "created_at": "2026-02-07T10:37:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T11:37:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020084384372801817"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1552602100634251265",
+          "start": 0,
+          "username": "AceChiliYin"
+        },
+        {
+          "end": 25,
+          "id": "1820843841190256640",
+          "start": 13,
+          "username": "kirakira5th"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020084384372801817",
+    "in_reply_to_user_id": "1552602100634251265",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020012194700673432",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AceChiliYin @kirakira5th 我也要"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "2020009664210215300",
+        "created_at": "2026-02-07T10:37:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T11:37:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020084384372801817"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1552602100634251265",
+              "start": 0,
+              "username": "AceChiliYin"
+            },
+            {
+              "end": 25,
+              "id": "1820843841190256640",
+              "start": 13,
+              "username": "kirakira5th"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020084384372801817",
+        "in_reply_to_user_id": "1552602100634251265",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020012194700673432",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AceChiliYin @kirakira5th 我也要"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552602100634251265",
+        "conversation_id": "2020009664210215300",
+        "created_at": "2026-02-07T05:50:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T06:50:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020012194700673432"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1820843841190256640",
+              "start": 0,
+              "username": "kirakira5th"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020012194700673432",
+        "in_reply_to_user_id": "1820843841190256640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020009664210215300",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kirakira5th 我也要"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧 https://t.co/ILEWFdOQz0。 ngl匿名问答 想交朋友或者互fo尽管私信我 每个人都会回",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%8950122",
+                "end": 45,
+                "expanded_url": "https://ngl.link/%E6%B3%8950122",
+                "start": 22,
+                "url": "https://t.co/ILEWFdOQz0"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "永雏泉",
+        "pinned_tweet_id": "2005263135222165835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978274114138996736/r_khhgIT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1050,
+          "following_count": 698,
+          "like_count": 20753,
+          "listed_count": 2,
+          "media_count": 240,
+          "tweet_count": 7691
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-28T10:29:33.000Z",
+        "description": "认真的每一次呼吸，烟花的绚烂就不算虚拟🎆叫我小弦 小七哩。七哩＝Chili是喜欢的乐队，Yin是弦的粤语读音。我是男的。不涉政!!!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@chiliyin?si=L…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@chiliyin?si=LGU4ACqix6eS_odl",
+                "start": 0,
+                "url": "https://t.co/rhXAcjwhhK"
+              }
+            ]
+          }
+        },
+        "id": "1552602100634251265",
+        "location": "廣東香山",
+        "name": "小辣椒",
+        "pinned_tweet_id": "1998114692817141974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019758497483624448/bC4jsiTp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1505,
+          "following_count": 835,
+          "like_count": 118004,
+          "listed_count": 12,
+          "media_count": 671,
+          "tweet_count": 23585
+        },
+        "url": "https://t.co/rhXAcjwhhK",
+        "username": "AceChiliYin",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-06T15:26:26.000Z",
+        "description": "梦到啥说啥",
+        "id": "1820843841190256640",
+        "location": "天国",
+        "name": "软糯小夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019505350790017024/uMN1KxA2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 798,
+          "following_count": 809,
+          "like_count": 3320,
+          "listed_count": 2,
+          "media_count": 21,
+          "tweet_count": 1201
+        },
+        "username": "kirakira5th",
+        "verified": false
+      }
+    ]
+  }
+}

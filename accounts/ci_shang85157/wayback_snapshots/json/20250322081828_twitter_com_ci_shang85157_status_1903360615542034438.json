@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1903325063753109995",
+    "created_at": "2025-03-22T08:18:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-22T09:18:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903360615542034438"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1425416862276464642",
+          "start": 0,
+          "username": "MisakaMisakaxfu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903360615542034438",
+    "in_reply_to_user_id": "1425416862276464642",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903360451087351821",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MisakaMisakaxfu 为什么没人陪你，不是有圈子吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1903325063753109995",
+        "created_at": "2025-03-22T08:18:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-22T09:18:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903360615542034438"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1425416862276464642",
+              "start": 0,
+              "username": "MisakaMisakaxfu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903360615542034438",
+        "in_reply_to_user_id": "1425416862276464642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903360451087351821",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MisakaMisakaxfu 为什么没人陪你，不是有圈子吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1425416862276464642",
+        "conversation_id": "1903325063753109995",
+        "created_at": "2025-03-22T08:17:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-22T09:17:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903360451087351821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1826281483675299840",
+              "start": 0,
+              "username": "ci_shang85157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903360451087351821",
+        "in_reply_to_user_id": "1826281483675299840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903354462191878616",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ci_shang85157 那很坏了（\n我是被朋友拉入坑的，但是我现在基本上都是找路人拼机了（，排卡，排到谁就和谁一起拼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 299,
+          "following_count": 313,
+          "like_count": 4271,
+          "listed_count": 1,
+          "media_count": 78,
+          "tweet_count": 1919
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-11T11:20:53.000Z",
+        "description": "中国人｜00后｜是学生｜INFP-T｜爱好二次元，航模，摄影，数码｜喜欢打音游，雷批，邦邦人（ガルパ），拉拉人｜🏳️‍⚧️🏳️‍🌈友好｜不建政｜https://t.co/dnFQt5XUNV｜里:@misakamisa10032",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 98,
+                "username": "misakamisa10032"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bangdream.icu",
+                "end": 95,
+                "expanded_url": "http://bangdream.icu",
+                "start": 72,
+                "url": "https://t.co/dnFQt5XUNV"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/oKzu0vP",
+                "end": 23,
+                "expanded_url": "https://b23.tv/oKzu0vP",
+                "start": 0,
+                "url": "https://t.co/esYiarDraD"
+              }
+            ]
+          }
+        },
+        "id": "1425416862276464642",
+        "location": "都市学院",
+        "name": "Misaka10526",
+        "pinned_tweet_id": "1895491256643620867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872319068239536128/u_8WMdjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 515,
+          "like_count": 5241,
+          "listed_count": 0,
+          "media_count": 353,
+          "tweet_count": 1385
+        },
+        "url": "https://t.co/esYiarDraD",
+        "username": "MisakaMisakaxfu",
+        "verified": false
+      }
+    ]
+  }
+}

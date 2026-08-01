@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1874856552978657694",
+    "created_at": "2025-01-03T03:37:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-03T04:37:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1875023579986993627"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1821055353834131456",
+          "start": 0,
+          "username": "tianxiusi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1875023579986993627",
+    "in_reply_to_user_id": "1821055353834131456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1874856552978657694",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tianxiusi 太熟悉了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1874856552978657694",
+        "created_at": "2025-01-03T03:37:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-03T04:37:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875023579986993627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1821055353834131456",
+              "start": 0,
+              "username": "tianxiusi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875023579986993627",
+        "in_reply_to_user_id": "1821055353834131456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1874856552978657694",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tianxiusi 太熟悉了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1874856544019369984"
+          ]
+        },
+        "author_id": "1821055353834131456",
+        "conversation_id": "1874856552978657694",
+        "created_at": "2025-01-02T16:33:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-02T17:33:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1874856552978657694"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6wBO80pIsV",
+              "end": 44,
+              "expanded_url": "https://x.com/tianxiusi/status/1874856552978657694/photo/1",
+              "media_key": "3_1874856544019369984",
+              "start": 21,
+              "url": "https://t.co/6wBO80pIsV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1874856552978657694",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 427,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你不一定认识他，但一定见过用他做头像的人 https://t.co/6wBO80pIsV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，有兴趣就可以一起玩",
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844188914451365901/gNnOT4GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 200,
+          "like_count": 1804,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 771
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-07T05:26:52.000Z",
+        "description": "泛左/本人全力缓和各派关系，对一切国际问题持中立立场/本人支持@Lmao_Quien @gsjzyyy 的观点/已被@Pomb0ring @Mizuki_bot拉清单",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lmao_Quien"
+              },
+              {
+                "end": 51,
+                "start": 43,
+                "username": "gsjzyyy"
+              },
+              {
+                "end": 68,
+                "start": 58,
+                "username": "Pomb0ring"
+              },
+              {
+                "end": 80,
+                "start": 69,
+                "username": "Mizuki_bot"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "大活蛆.com",
+                "end": 23,
+                "expanded_url": "http://xn--pss208brus.com",
+                "start": 0,
+                "url": "https://t.co/6Hdgqy0dje"
+              }
+            ]
+          }
+        },
+        "id": "1821055353834131456",
+        "location": "神圣小未来共和国",
+        "name": "猫在雷研究院长😇吴非bot",
+        "pinned_tweet_id": "1874646557620122090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874486614845755392/to1Ur4UG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1260,
+          "following_count": 1917,
+          "like_count": 22242,
+          "listed_count": 3,
+          "media_count": 887,
+          "tweet_count": 15989
+        },
+        "url": "https://t.co/6Hdgqy0dje",
+        "username": "tianxiusi",
+        "verified": false
+      }
+    ]
+  }
+}

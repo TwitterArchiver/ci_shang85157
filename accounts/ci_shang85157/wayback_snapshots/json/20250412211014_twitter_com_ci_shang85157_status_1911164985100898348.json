@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1911031877697458408",
+    "created_at": "2025-04-12T21:10:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-12T22:10:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1911164985100898348"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1790370144755351552",
+          "start": 0,
+          "username": "FurinaDF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1911164985100898348",
+    "in_reply_to_user_id": "1790370144755351552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1911031877697458408",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FurinaDF 不用猜，不是山东就是东北"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 59840,
+        "height": 360,
+        "media_key": "13_1911031733832568832",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1911031733832568832/img/JFGQZ67RsMCtmnFC.jpg",
+        "public_metrics": {
+          "view_count": 60863
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1911031733832568832/vid/avc1/452x270/3vMvN0XPSzMI6wzd.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1911031733832568832/vid/avc1/604x360/U4Ybo-B9QUykOHPN.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1911031733832568832/pl/wqDVor8hYfSoD2Wv.m3u8?tag=14"
+          }
+        ],
+        "width": 604
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1911031877697458408",
+        "created_at": "2025-04-12T21:10:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-12T22:10:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911164985100898348"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1790370144755351552",
+              "start": 0,
+              "username": "FurinaDF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911164985100898348",
+        "in_reply_to_user_id": "1790370144755351552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911031877697458408",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FurinaDF 不用猜，不是山东就是东北"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1911031733832568832"
+          ]
+        },
+        "author_id": "1790370144755351552",
+        "conversation_id": "1911031877697458408",
+        "created_at": "2025-04-12T12:21:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-12T13:21:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1911031877697458408"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Dr4VrSeAtw",
+              "end": 50,
+              "expanded_url": "https://x.com/FurinaDF/status/1911031877697458408/video/1",
+              "media_key": "13_1911031733832568832",
+              "start": 27,
+              "url": "https://t.co/Dr4VrSeAtw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911031877697458408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 70,
+          "impression_count": 111037,
+          "like_count": 274,
+          "quote_count": 16,
+          "reply_count": 108,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "这种原生家庭，是人待的地方吗？换做是我，直接去重开了 https://t.co/Dr4VrSeAtw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 363,
+          "following_count": 356,
+          "like_count": 5295,
+          "listed_count": 1,
+          "media_count": 91,
+          "tweet_count": 2437
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-14T13:15:08.000Z",
+        "description": "太好啦！太好啦！听妈妈说，我手机里的推特自动关注了芙宁娜娜，我不知所云地欢呼起来。芙宁娜娜这个恶俗玩意儿到底是什么呢？爸爸告诉我，她就像一个遍布网络的巨大屎壳郎，把抽象乐子和魔怔烂梗搬运得到处都是。有了芙宁娜娜，咱们的推特就变成了一个小垃圾堆，五洲四海的浪蛆们可以随时进行别样的炒作大战。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/zgysd1",
+                "end": 23,
+                "expanded_url": "https://t.me/zgysd1",
+                "start": 0,
+                "url": "https://t.co/UXOSrcIdSv"
+              }
+            ]
+          }
+        },
+        "id": "1790370144755351552",
+        "location": "原教旨主义自由精神党",
+        "name": "芙宁娜娜💙𝐅𝐮𝐫𝐢𝐧𝐚𝐧𝐚",
+        "pinned_tweet_id": "1910663466995900470",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909485043128434688/z-ZbsFFG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19578,
+          "following_count": 1933,
+          "like_count": 22877,
+          "listed_count": 54,
+          "media_count": 3983,
+          "tweet_count": 7681
+        },
+        "url": "https://t.co/UXOSrcIdSv",
+        "username": "FurinaDF",
+        "verified": true
+      }
+    ]
+  }
+}

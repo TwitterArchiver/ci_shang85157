@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "2022244058899632570",
+    "created_at": "2026-02-13T12:44:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T13:44:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022290861531582514"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1956292915195731971",
+          "start": 0,
+          "username": "CChang16236"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022290861531582514",
+    "in_reply_to_user_id": "1956292915195731971",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022246700493234521",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CChang16236 😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "2022244058899632570",
+        "created_at": "2026-02-13T12:44:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T13:44:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022290861531582514"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1956292915195731971",
+              "start": 0,
+              "username": "CChang16236"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022290861531582514",
+        "in_reply_to_user_id": "1956292915195731971",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022246700493234521",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CChang16236 😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1956292915195731971",
+        "conversation_id": "2022244058899632570",
+        "created_at": "2026-02-13T09:49:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T10:49:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022246700493234521"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022246700493234521",
+        "in_reply_to_user_id": "1956292915195731971",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 517,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022244058899632570",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个你们猜 我在抽五个200"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧 https://t.co/ILEWFdOQz0。 ngl匿名问答 想交朋友或者互fo尽管私信我 每个人都会回",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%8950122",
+                "end": 45,
+                "expanded_url": "https://ngl.link/%E6%B3%8950122",
+                "start": 22,
+                "url": "https://t.co/ILEWFdOQz0"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "永雏泉",
+        "pinned_tweet_id": "2020083398971388378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978274114138996736/r_khhgIT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1102,
+          "following_count": 701,
+          "like_count": 21318,
+          "listed_count": 2,
+          "media_count": 243,
+          "tweet_count": 7820
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-15T09:52:45.000Z",
+        "description": "",
+        "id": "1956292915195731971",
+        "name": "teliduxing",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001933933014061060/-kPTyIw__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 7,
+          "like_count": 24,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 15
+        },
+        "username": "CChang16236",
+        "verified": false
+      }
+    ]
+  }
+}

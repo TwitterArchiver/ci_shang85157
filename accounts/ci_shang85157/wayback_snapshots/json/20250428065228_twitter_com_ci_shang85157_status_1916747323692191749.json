@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1916746852914827348",
+    "created_at": "2025-04-28T06:52:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-28T07:52:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916747323692191749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1778757957796405248",
+          "start": 0,
+          "username": "xiaoQTvT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916747323692191749",
+    "in_reply_to_user_id": "1778757957796405248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916746852914827348",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoQTvT 我嘞个豆"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1916746808728141824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpmnETKawAAwKs9.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1916746852914827348",
+        "created_at": "2025-04-28T06:52:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-28T07:52:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916747323692191749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1778757957796405248",
+              "start": 0,
+              "username": "xiaoQTvT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916747323692191749",
+        "in_reply_to_user_id": "1778757957796405248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916746852914827348",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoQTvT 我嘞个豆"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1916746808728141824"
+          ]
+        },
+        "author_id": "1778757957796405248",
+        "conversation_id": "1916746852914827348",
+        "created_at": "2025-04-28T06:50:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-28T07:50:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916746852914827348"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gBEde0FYm4",
+              "end": 27,
+              "expanded_url": "https://x.com/xiaoQTvT/status/1916746852914827348/photo/1",
+              "media_key": "3_1916746808728141824",
+              "start": 4,
+              "url": "https://t.co/gBEde0FYm4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916746852914827348",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "蓝妈妈 https://t.co/gBEde0FYm4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 414,
+          "following_count": 415,
+          "like_count": 7238,
+          "listed_count": 1,
+          "media_count": 129,
+          "tweet_count": 3152
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-12T12:12:33.000Z",
+        "description": "问坐标口令10r一次 只回口令 身高体重158/80 /🚪zfb口令 188朋友圈/388（带姓氏）含线下价目表 防走失小号@SamarHa32491957，拜托看看置顶以后不看置顶就私信问一堆的我不会回了！熟人刷到我了不要说出来好吗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 62,
+                "username": "SamarHa32491957"
+              }
+            ]
+          }
+        },
+        "id": "1778757957796405248",
+        "location": "🚪188/388/520/1314",
+        "name": "小q",
+        "pinned_tweet_id": "1904387748028719262",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908861703724634112/4DvlEwr6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89663,
+          "following_count": 168,
+          "like_count": 556,
+          "listed_count": 185,
+          "media_count": 234,
+          "tweet_count": 1191
+        },
+        "username": "xiaoQTvT",
+        "verified": false
+      }
+    ]
+  }
+}

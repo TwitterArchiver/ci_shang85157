@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1867758358557774041",
+    "created_at": "2024-12-14T03:36:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-14T04:36:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1867775659688571355"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "702827952803680256",
+          "start": 0,
+          "username": "allvulples"
+        },
+        {
+          "end": 28,
+          "id": "1859461030822199296",
+          "start": 12,
+          "username": "quanshiping2shi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1867775659688571355",
+    "in_reply_to_user_id": "702827952803680256",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1867766429271175389",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@allvulples @quanshiping2shi 你？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1867758358557774041",
+        "created_at": "2024-12-14T03:36:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-14T04:36:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867775659688571355"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "702827952803680256",
+              "start": 0,
+              "username": "allvulples"
+            },
+            {
+              "end": 28,
+              "id": "1859461030822199296",
+              "start": 12,
+              "username": "quanshiping2shi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867775659688571355",
+        "in_reply_to_user_id": "702827952803680256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867766429271175389",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@allvulples @quanshiping2shi 你？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "702827952803680256",
+        "conversation_id": "1867758358557774041",
+        "created_at": "2024-12-14T02:59:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-14T03:59:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867766429271175389"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1859461030822199296",
+              "start": 0,
+              "username": "quanshiping2shi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867766429271175389",
+        "in_reply_to_user_id": "1859461030822199296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867758358557774041",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@quanshiping2shi 抽抽我的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，有兴趣就可以一起玩",
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844188914451365901/gNnOT4GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 255,
+          "like_count": 1110,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 378
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2016-02-25T12:10:16.000Z",
+        "description": "BIG BANG BAD BOYS AND GIRLS.",
+        "id": "702827952803680256",
+        "location": "Hong Kong",
+        "name": "Demonkeyse Manell",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851675836552003584/P9GHvu4w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 1327,
+          "like_count": 10968,
+          "listed_count": 3,
+          "media_count": 53,
+          "tweet_count": 12371
+        },
+        "username": "allvulples",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-21T04:57:20.000Z",
+        "description": "百分百互fo",
+        "id": "1859461030822199296",
+        "name": "权世平二世",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860593166543364096/A7tIbLXy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286,
+          "following_count": 857,
+          "like_count": 552,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 514
+        },
+        "username": "quanshiping2shi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1957273436218339394",
+    "created_at": "2025-08-18T02:55:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-18T03:55:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957275118365004232"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1957275118365004232",
+    "in_reply_to_user_id": "1826281483675299840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957274620173914387",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "笑死我了怎么感觉跟写日记一样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1957273436218339394",
+        "created_at": "2025-08-18T02:55:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T03:55:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957275118365004232"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1957275118365004232",
+        "in_reply_to_user_id": "1826281483675299840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957274620173914387",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "笑死我了怎么感觉跟写日记一样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1957273436218339394",
+        "created_at": "2025-08-18T02:53:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T03:53:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957274620173914387"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1957274620173914387",
+        "in_reply_to_user_id": "1826281483675299840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957273436218339394",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "昨天早上下完班在跟同事喝酒，然后喝完酒回去就是吐，虽然不喝酒最近也是总在吐会宿舍的路上小腿抽筋了，一瘸一拐的，好好笑。然后有个大叔过来帮我，还是好人多来着，然后喝完虽然吐非常难受但是还是挺舒服的因为不想事情了，不知道究竟是因为什么难受，但是就是心里特别不舒服"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "退一段时间？可能是一个月？也可能不会回来了",
+        "id": "1826281483675299840",
+        "name": "泉方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 697,
+          "following_count": 545,
+          "like_count": 12771,
+          "listed_count": 2,
+          "media_count": 161,
+          "tweet_count": 5211
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      }
+    ]
+  }
+}

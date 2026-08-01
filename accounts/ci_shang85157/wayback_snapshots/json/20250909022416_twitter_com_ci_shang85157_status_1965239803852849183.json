@@ -1,0 +1,104 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1965239803852849183",
+    "created_at": "2025-09-09T02:24:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-09T03:24:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1965239803852849183"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1965239803852849183",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "又是一年九月九 青山碧水白了头，寒了秋 谁凝愁 橘子洲头浪遏飞舟，云黄暖叶水悠悠 书生意气挥方遒 击中流 水难收 唯见故人回首写四九"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1965239803852849183",
+        "created_at": "2025-09-09T02:24:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T03:24:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965239803852849183"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1965239803852849183",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "又是一年九月九 青山碧水白了头，寒了秋 谁凝愁 橘子洲头浪遏飞舟，云黄暖叶水悠悠 书生意气挥方遒 击中流 水难收 唯见故人回首写四九"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧   小男友@pertx114514",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 27,
+                "username": "pertx114514"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉方",
+        "pinned_tweet_id": "1963923748203139355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 776,
+          "following_count": 608,
+          "like_count": 14568,
+          "listed_count": 3,
+          "media_count": 175,
+          "tweet_count": 5823
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      }
+    ]
+  }
+}

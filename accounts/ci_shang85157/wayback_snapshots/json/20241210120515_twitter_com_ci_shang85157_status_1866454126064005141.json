@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1858939157521027421",
+    "created_at": "2024-12-10T12:05:15.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-10T13:05:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1866454126064005141"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1639487086339424256",
+          "start": 0,
+          "username": "aghz2555"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1866454126064005141",
+    "in_reply_to_user_id": "1639487086339424256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1866400733886898385",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aghz2555 没有痛苦就会活得很快乐吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1858939157521027421",
+        "created_at": "2024-12-10T12:05:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-10T13:05:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866454126064005141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1639487086339424256",
+              "start": 0,
+              "username": "aghz2555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866454126064005141",
+        "in_reply_to_user_id": "1639487086339424256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866400733886898385",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aghz2555 没有痛苦就会活得很快乐吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639487086339424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1858939157521027421",
+        "created_at": "2024-12-10T08:33:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-10T09:33:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866400733886898385"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1826281483675299840",
+              "start": 0,
+              "username": "ci_shang85157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866400733886898385",
+        "in_reply_to_user_id": "1826281483675299840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858939157521027421",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ci_shang85157 人在自我价值得不到满足和认可；当前的生活状态痛苦大于幸福；成长环境的关爱缺失导致的抗压能力差；一直处于一种低迷的精神状态；身体缺乏运动和健康。以上类似种种的时候，就会选择停止继续承受痛苦，我们不是不怕死，而是不想继续活着"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，有兴趣就可以一起玩",
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844188914451365901/gNnOT4GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 238,
+          "like_count": 1001,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 297
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-25T04:39:26.000Z",
+        "description": "呵呵。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "zh.stripchat.com/_be_be_/profile",
+                "end": 23,
+                "expanded_url": "https://zh.stripchat.com/_be_be_/profile",
+                "start": 0,
+                "url": "https://t.co/GUffTLTSdT"
+              }
+            ]
+          }
+        },
+        "id": "1639487086339424256",
+        "name": "小萝莉与泡泡袜",
+        "pinned_tweet_id": "1812672561433788785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802420674230665216/RDLZzgO2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 84,
+          "like_count": 10693,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 4275
+        },
+        "url": "https://t.co/GUffTLTSdT",
+        "username": "aghz2555",
+        "verified": false
+      }
+    ]
+  }
+}

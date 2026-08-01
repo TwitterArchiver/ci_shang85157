@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1857358627872629049",
+    "created_at": "2024-11-16T09:46:00.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-16T10:46:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1857721775485747414"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1769078117052854272",
+          "start": 0,
+          "username": "huahuojiang_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1857721775485747414",
+    "in_reply_to_user_id": "1769078117052854272",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1857358627872629049",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huahuojiang_ 像小孩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1857358627872629049",
+        "created_at": "2024-11-16T09:46:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-16T10:46:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1857721775485747414"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1769078117052854272",
+              "start": 0,
+              "username": "huahuojiang_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857721775485747414",
+        "in_reply_to_user_id": "1769078117052854272",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1857358627872629049",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huahuojiang_ 像小孩"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1857358623908954112"
+          ]
+        },
+        "author_id": "1769078117052854272",
+        "conversation_id": "1857358627872629049",
+        "created_at": "2024-11-15T09:42:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-15T10:42:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1857358627872629049"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nTayjqKtnO",
+              "end": 23,
+              "expanded_url": "https://x.com/huahuojiang_/status/1857358627872629049/photo/1",
+              "media_key": "3_1857358623908954112",
+              "start": 0,
+              "url": "https://t.co/nTayjqKtnO"
+            },
+            {
+              "display_url": "x.com/DeadMacao/stat…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/DeadMacao/status/1856927766748516420",
+              "start": 24,
+              "url": "https://t.co/eIiCNQmmSv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857358627872629049",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5518,
+          "like_count": 38,
+          "quote_count": 6,
+          "reply_count": 34,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1856927766748516420",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/nTayjqKtnO https://t.co/eIiCNQmmSv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，有兴趣就可以一起玩",
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844188914451365901/gNnOT4GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 163,
+          "like_count": 534,
+          "listed_count": 0,
+          "tweet_count": 87
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-16T19:07:54.000Z",
+        "description": "诶嘿～好无聊呀~｜加点东西@Marionette_Sa｜换一个提问箱：https://t.co/LtoB1mloS1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 13,
+                "username": "Marionette_Sa"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/huahuojiang/",
+                "end": 58,
+                "expanded_url": "https://ngl.link/huahuojiang/",
+                "start": 35,
+                "url": "https://t.co/LtoB1mloS1"
+              }
+            ]
+          }
+        },
+        "id": "1769078117052854272",
+        "location": "匹诺康尼",
+        "name": "花火酱～",
+        "pinned_tweet_id": "1856927284135170519",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770720359312240640/qCqdMpdW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3236,
+          "following_count": 2879,
+          "like_count": 41554,
+          "listed_count": 6,
+          "tweet_count": 29342
+        },
+        "username": "huahuojiang_",
+        "verified": false
+      }
+    ]
+  }
+}

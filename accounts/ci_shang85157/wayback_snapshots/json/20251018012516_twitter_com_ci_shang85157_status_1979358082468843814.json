@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1979098061252235344",
+    "created_at": "2025-10-18T01:25:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-18T02:25:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979358082468843814"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1890479972328042497",
+          "start": 0,
+          "username": "Audrey050501"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979358082468843814",
+    "in_reply_to_user_id": "1890479972328042497",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979098061252235344",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Audrey050501 大家都是客观性的批判 还是想它往好处去的 毕竟墙内没什么批评的自由 你说这话其实也就是为了恰恰烂流量 真爱国下次看到恨国发言去公安局举报就好了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1979098061252235344",
+        "created_at": "2025-10-18T01:25:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T02:25:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979358082468843814"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1890479972328042497",
+              "start": 0,
+              "username": "Audrey050501"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979358082468843814",
+        "in_reply_to_user_id": "1890479972328042497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979098061252235344",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Audrey050501 大家都是客观性的批判 还是想它往好处去的 毕竟墙内没什么批评的自由 你说这话其实也就是为了恰恰烂流量 真爱国下次看到恨国发言去公安局举报就好了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1890479972328042497",
+        "conversation_id": "1979098061252235344",
+        "created_at": "2025-10-17T08:12:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T09:12:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979098061252235344"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1979098061252235344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 10658,
+          "like_count": 161,
+          "quote_count": 0,
+          "reply_count": 26,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "有些人翻个墙那么恨国，拿出身份证一看自己是黄皮肤的中国国籍天都要塌了吧。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧 小男友@pertx114514  结义兄弟@wuyan_sleeeepy还有穹璃 互fo可以私信我交朋友什么的 反正我还挺闲 然后就是没有然后了 一切都是最好的安排https://t.co/ILEWFdOQz0。 ngl匿名问答",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "pertx114514"
+              },
+              {
+                "end": 58,
+                "start": 43,
+                "username": "wuyan_sleeeepy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%8950122",
+                "end": 127,
+                "expanded_url": "https://ngl.link/%E6%B3%8950122",
+                "start": 104,
+                "url": "https://t.co/ILEWFdOQz0"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉",
+        "pinned_tweet_id": "1970427616353296660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978274114138996736/r_khhgIT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 824,
+          "following_count": 665,
+          "like_count": 17470,
+          "listed_count": 2,
+          "media_count": 201,
+          "tweet_count": 6652
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-14T19:15:44.000Z",
+        "description": "4i＞1i/05/不接任何形式的推广/私信随缘看",
+        "id": "1890479972328042497",
+        "location": "要认识我就打钱。",
+        "name": "帕恰小珊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925996978799845376/QXHNqeFl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3478,
+          "following_count": 403,
+          "like_count": 13844,
+          "listed_count": 6,
+          "media_count": 247,
+          "tweet_count": 3234
+        },
+        "username": "Audrey050501",
+        "verified": false
+      }
+    ]
+  }
+}

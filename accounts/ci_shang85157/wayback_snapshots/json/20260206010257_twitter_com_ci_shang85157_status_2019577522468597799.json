@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "2019213304707837980",
+    "created_at": "2026-02-06T01:02:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T02:02:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019577522468597799"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1732341886826745856",
+          "start": 0,
+          "username": "aoiseshin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019577522468597799",
+    "in_reply_to_user_id": "1732341886826745856",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019213304707837980",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aoiseshin 我支持"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1167,
+        "media_key": "3_2019213298986848256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAWvzBPbEAAkczm.jpg",
+        "width": 1693
+      },
+      {
+        "height": 1076,
+        "media_key": "3_2019213299024556034",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAWvzBYacAIRxkq.jpg",
+        "width": 1561
+      },
+      {
+        "height": 874,
+        "media_key": "3_2019213297363681280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAWvy7MbgAAkR8z.jpg",
+        "width": 1268
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "2019213304707837980",
+        "created_at": "2026-02-06T01:02:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T02:02:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019577522468597799"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1732341886826745856",
+              "start": 0,
+              "username": "aoiseshin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019577522468597799",
+        "in_reply_to_user_id": "1732341886826745856",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019213304707837980",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aoiseshin 我支持"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019213298986848256",
+            "3_2019213299024556034",
+            "3_2019213297363681280"
+          ]
+        },
+        "author_id": "1732341886826745856",
+        "conversation_id": "2019213304707837980",
+        "created_at": "2026-02-05T00:55:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T01:55:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019213304707837980"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/91cGJGaRIQ",
+              "end": 49,
+              "expanded_url": "https://x.com/aoiseshin/status/2019213304707837980/photo/1",
+              "media_key": "3_2019213298986848256",
+              "start": 26,
+              "url": "https://t.co/91cGJGaRIQ"
+            },
+            {
+              "display_url": "pic.x.com/91cGJGaRIQ",
+              "end": 49,
+              "expanded_url": "https://x.com/aoiseshin/status/2019213304707837980/photo/1",
+              "media_key": "3_2019213299024556034",
+              "start": 26,
+              "url": "https://t.co/91cGJGaRIQ"
+            },
+            {
+              "display_url": "pic.x.com/91cGJGaRIQ",
+              "end": 49,
+              "expanded_url": "https://x.com/aoiseshin/status/2019213304707837980/photo/1",
+              "media_key": "3_2019213297363681280",
+              "start": 26,
+              "url": "https://t.co/91cGJGaRIQ"
+            },
+            {
+              "display_url": "x.com/aoiseshin/stat…",
+              "end": 73,
+              "expanded_url": "https://twitter.com/aoiseshin/status/1979472646875299913",
+              "start": 50,
+              "url": "https://t.co/1is0UcAgko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019213304707837980",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 218,
+          "impression_count": 37819,
+          "like_count": 1811,
+          "quote_count": 6,
+          "reply_count": 59,
+          "retweet_count": 230
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979472646875299913",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我决定去找工厂定制200个。谁想要这个kaguya https://t.co/91cGJGaRIQ https://t.co/1is0UcAgko"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧 https://t.co/ILEWFdOQz0。 ngl匿名问答 想交朋友或者互fo尽管私信我 每个人都会回",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%8950122",
+                "end": 45,
+                "expanded_url": "https://ngl.link/%E6%B3%8950122",
+                "start": 22,
+                "url": "https://t.co/ILEWFdOQz0"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "永雏泉",
+        "pinned_tweet_id": "2005263135222165835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978274114138996736/r_khhgIT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1007,
+          "following_count": 688,
+          "like_count": 20601,
+          "listed_count": 2,
+          "media_count": 238,
+          "tweet_count": 7659
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-06T10:11:27.000Z",
+        "description": "東方project / 絕望先生",
+        "id": "1732341886826745856",
+        "name": "绿色山",
+        "pinned_tweet_id": "2015580780991574309",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978694523074359296/JnizubDB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6087,
+          "following_count": 496,
+          "like_count": 14560,
+          "listed_count": 17,
+          "media_count": 249,
+          "tweet_count": 912
+        },
+        "username": "aoiseshin",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1867236570518126967",
+    "created_at": "2024-12-12T20:53:00.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-12T21:53:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1867311714410410303"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1508049713404076035",
+          "start": 0,
+          "username": "animiqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1867311714410410303",
+    "in_reply_to_user_id": "1508049713404076035",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1867236570518126967",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@animiqwq 互fo吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1867236570518126967",
+        "created_at": "2024-12-12T20:53:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-12T21:53:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867311714410410303"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1508049713404076035",
+              "start": 0,
+              "username": "animiqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867311714410410303",
+        "in_reply_to_user_id": "1508049713404076035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867236570518126967",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@animiqwq 互fo吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508049713404076035",
+        "conversation_id": "1867236570518126967",
+        "created_at": "2024-12-12T15:54:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-12T16:54:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1867236570518126967"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1867236570518126967",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3371,
+          "like_count": 79,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "既然手冲完就能进入贤者时间，那么为什么不在工作时间给人的几把上套一个榨精器，检测到精神不振的时候就启动，快速让他们进入贤者模式并继续工作呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，有兴趣就可以一起玩",
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844188914451365901/gNnOT4GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 252,
+          "like_count": 1077,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 359
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-27T11:54:23.000Z",
+        "description": "疯狗一条",
+        "id": "1508049713404076035",
+        "name": "电波呆毛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850196117633515520/ySls1UE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 42,
+          "like_count": 24,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 488
+        },
+        "username": "animiqwq",
+        "verified": false
+      }
+    ]
+  }
+}

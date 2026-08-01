@@ -1,0 +1,333 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1925775091863847174",
+    "created_at": "2025-05-27T00:24:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-27T01:24:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927159008416137583"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1595339454663000064",
+          "start": 0,
+          "username": "AZ_0w0"
+        },
+        {
+          "end": 21,
+          "id": "1854793579186864129",
+          "start": 8,
+          "username": "SummerRing41"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927159008416137583",
+    "in_reply_to_user_id": "1595339454663000064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925775091863847174",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AZ_0w0 @SummerRing41 太有意思了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1925775024759160832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Grm6LowWwAA_wJR.jpg",
+        "width": 1266
+      },
+      {
+        "height": 1704,
+        "media_key": "3_1925775024738156544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Grm6LorWQAAVSNE.jpg",
+        "width": 1320
+      },
+      {
+        "duration_ms": 20416,
+        "height": 960,
+        "media_key": "13_1925775024671137792",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1925775024671137792/img/Wz3MUnJAuOn-R-wv.jpg",
+        "public_metrics": {
+          "view_count": 19878
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1925775024671137792/vid/avc1/320x426/aoC2XMM0pjMu3WJb.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1925775024671137792/vid/avc1/480x640/0PA9UThHoOlxeXYq.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1925775024671137792/vid/avc1/720x960/QQfLubvGvvsyBJt7.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1925775024671137792/pl/qiFpXumkZbJjJjXq.m3u8?v=0f9"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1925775024692027392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Grm6LogWYAAYPpy.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1925775091863847174",
+        "created_at": "2025-05-27T00:24:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T01:24:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927159008416137583"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1595339454663000064",
+              "start": 0,
+              "username": "AZ_0w0"
+            },
+            {
+              "end": 21,
+              "id": "1854793579186864129",
+              "start": 8,
+              "username": "SummerRing41"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927159008416137583",
+        "in_reply_to_user_id": "1595339454663000064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925775091863847174",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AZ_0w0 @SummerRing41 太有意思了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1925775024759160832",
+            "3_1925775024738156544",
+            "13_1925775024671137792",
+            "3_1925775024692027392"
+          ]
+        },
+        "author_id": "1595339454663000064",
+        "conversation_id": "1925775091863847174",
+        "created_at": "2025-05-23T04:45:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-23T05:45:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925775091863847174"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 121,
+              "id": "1854793579186864129",
+              "start": 108,
+              "username": "SummerRing41"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XXn26cwdGe",
+              "end": 179,
+              "expanded_url": "https://x.com/AZ_0w0/status/1925775091863847174/video/1",
+              "media_key": "3_1925775024759160832",
+              "start": 156,
+              "url": "https://t.co/XXn26cwdGe"
+            },
+            {
+              "display_url": "pic.x.com/XXn26cwdGe",
+              "end": 179,
+              "expanded_url": "https://x.com/AZ_0w0/status/1925775091863847174/video/1",
+              "media_key": "3_1925775024738156544",
+              "start": 156,
+              "url": "https://t.co/XXn26cwdGe"
+            },
+            {
+              "display_url": "pic.x.com/XXn26cwdGe",
+              "end": 179,
+              "expanded_url": "https://x.com/AZ_0w0/status/1925775091863847174/video/1",
+              "media_key": "13_1925775024671137792",
+              "start": 156,
+              "url": "https://t.co/XXn26cwdGe"
+            },
+            {
+              "display_url": "pic.x.com/XXn26cwdGe",
+              "end": 179,
+              "expanded_url": "https://x.com/AZ_0w0/status/1925775091863847174/video/1",
+              "media_key": "3_1925775024692027392",
+              "start": 156,
+              "url": "https://t.co/XXn26cwdGe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925775091863847174",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 78682,
+          "like_count": 172,
+          "quote_count": 35,
+          "reply_count": 69,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "首先我知道有很多抱着吃瓜心态 还有站队的人 如果今天这个瓜能让你们开心一下 也是值得了 站队的人气急败坏也没用 毕竟李若莹也不是你爹你娘那么舔她 出事了她一毛也不会给你掏的 互联网终不是你们的归宿 人还是得回归现实 @SummerRing41 要说的都在图里 评论+转发我抽三个顺眼的发🧧 50 150 200 https://t.co/XXn26cwdGe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲，生理性别男，请不要私信给我发那种奇怪的东西了\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 74,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 598,
+          "following_count": 523,
+          "like_count": 10517,
+          "listed_count": 2,
+          "media_count": 167,
+          "tweet_count": 4349
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-23T08:52:28.000Z",
+        "description": "不接推广 姐们就是来分享生活的 不缺那歪瓜两枣 傻逼别来烦我！！！！！",
+        "id": "1595339454663000064",
+        "name": "AZ.",
+        "pinned_tweet_id": "1925775091863847174",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1661788779538165760/jCPkZHEO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1702,
+          "following_count": 484,
+          "like_count": 4196,
+          "listed_count": 5,
+          "media_count": 539,
+          "tweet_count": 1154
+        },
+        "username": "AZ_0w0",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-08T07:50:44.000Z",
+        "description": "🇨🇳✈️🇬🇧 Marketing 毒舌/处女/拒绝婚前/不约/止于推 爱好和平 私信请礼貌自重 发点旧图 掉落随笔 感谢聆听:) ｜谣言止于智者 网络信息谨慎甄别｜",
+        "id": "1854793579186864129",
+        "location": "England, United Kingdom",
+        "name": "李夏弥_",
+        "pinned_tweet_id": "1919328520913731864",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872944980060188672/3W_hCtuR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18064,
+          "following_count": 320,
+          "like_count": 6276,
+          "listed_count": 22,
+          "media_count": 624,
+          "tweet_count": 3467
+        },
+        "username": "SummerRing41",
+        "verified": true
+      }
+    ]
+  }
+}

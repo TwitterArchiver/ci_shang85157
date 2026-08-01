@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "2035713379067924708",
+    "created_at": "2026-03-22T15:03:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T16:03:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035734172887896066"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1731670068189114368",
+          "start": 0,
+          "username": "Oori_Tvv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035734172887896066",
+    "in_reply_to_user_id": "1731670068189114368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035713379067924708",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Oori_Tvv 这期神了。"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14789,
+        "height": 1280,
+        "media_key": "13_2035713294540083200",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2035713294540083200/img/Am4XnLaWk9sYnogK.jpg",
+        "public_metrics": {
+          "view_count": 11
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2035713294540083200/vid/avc1/320x568/ljToz_iKbe8mdMaC.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2035713294540083200/vid/avc1/480x852/1Z2412k4bvHFbEIQ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2035713294540083200/vid/avc1/720x1280/O05QpWPulkIQa_Pn.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2035713294540083200/pl/cl7NqXpO9ECTAkPQ.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "2035713379067924708",
+        "created_at": "2026-03-22T15:03:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T16:03:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035734172887896066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1731670068189114368",
+              "start": 0,
+              "username": "Oori_Tvv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035734172887896066",
+        "in_reply_to_user_id": "1731670068189114368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035713379067924708",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oori_Tvv 这期神了。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2035713294540083200"
+          ]
+        },
+        "author_id": "1731670068189114368",
+        "conversation_id": "2035713379067924708",
+        "created_at": "2026-03-22T13:41:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T14:41:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035713379067924708"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EJ2LugLmZW",
+              "end": 29,
+              "expanded_url": "https://x.com/Oori_Tvv/status/2035713379067924708/video/1",
+              "media_key": "13_2035713294540083200",
+              "start": 6,
+              "url": "https://t.co/EJ2LugLmZW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035713379067924708",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "变成土蕾女 https://t.co/EJ2LugLmZW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧 https://t.co/ILEWFdOQz0。 ngl匿名问答 想交朋友或者互fo尽管私信我 每个人都会回",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%8950122",
+                "end": 45,
+                "expanded_url": "https://ngl.link/%E6%B3%8950122",
+                "start": 22,
+                "url": "https://t.co/ILEWFdOQz0"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "永雏泉",
+        "pinned_tweet_id": "2034295067847147660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978274114138996736/r_khhgIT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1090,
+          "following_count": 714,
+          "like_count": 22582,
+          "listed_count": 2,
+          "media_count": 254,
+          "tweet_count": 8214
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-04T13:42:14.000Z",
+        "description": "我已遇到我的小泉@ci_shang85157",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 8,
+                "username": "ci_shang85157"
+              }
+            ]
+          }
+        },
+        "id": "1731670068189114368",
+        "location": "東京 新宿区",
+        "name": "オオリ_ディヴァ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034944368151584768/4X638MTa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 562,
+          "following_count": 574,
+          "like_count": 75357,
+          "listed_count": 2,
+          "media_count": 733,
+          "tweet_count": 9245
+        },
+        "username": "Oori_Tvv",
+        "verified": false
+      }
+    ]
+  }
+}

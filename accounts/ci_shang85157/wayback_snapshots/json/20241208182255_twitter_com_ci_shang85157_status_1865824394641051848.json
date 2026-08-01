@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1865419827193790809",
+    "created_at": "2024-12-08T18:22:55.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-08T19:22:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1865824394641051848"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1601058898597023744",
+          "start": 0,
+          "username": "yidouxin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1865824394641051848",
+    "in_reply_to_user_id": "1601058898597023744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1865419827193790809",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yidouxin 太阳下山就修不了了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1865419827193790809",
+        "created_at": "2024-12-08T18:22:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-08T19:22:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1865824394641051848"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1601058898597023744",
+              "start": 0,
+              "username": "yidouxin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865824394641051848",
+        "in_reply_to_user_id": "1601058898597023744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1865419827193790809",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yidouxin 太阳下山就修不了了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1865419823263727616"
+          ]
+        },
+        "author_id": "1601058898597023744",
+        "conversation_id": "1865419827193790809",
+        "created_at": "2024-12-07T15:35:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-07T16:35:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1865419827193790809"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dUzGKwv7vw",
+              "end": 23,
+              "expanded_url": "https://x.com/yidouxin/status/1865419827193790809/photo/1",
+              "media_key": "3_1865419823263727616",
+              "start": 0,
+              "url": "https://t.co/dUzGKwv7vw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865419827193790809",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 57,
+          "impression_count": 51959,
+          "like_count": 658,
+          "quote_count": 0,
+          "reply_count": 30,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/dUzGKwv7vw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，有兴趣就可以一起玩",
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844188914451365901/gNnOT4GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 233,
+          "like_count": 981,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 278
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-09T03:39:32.000Z",
+        "description": "MC很忙的\n逃生仓@xinyidou49603\n\n需要互fo可以私信，看到就会回",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 9,
+                "username": "xinyidou49603"
+              }
+            ]
+          }
+        },
+        "id": "1601058898597023744",
+        "location": "怀仁堂",
+        "name": "Christian.K.Wick",
+        "pinned_tweet_id": "1865555552644043088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1857583140992331777/nuwBWNxg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1337,
+          "following_count": 745,
+          "like_count": 6987,
+          "listed_count": 3,
+          "media_count": 825,
+          "tweet_count": 4274
+        },
+        "username": "yidouxin",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1924069068774187406",
+    "created_at": "2025-05-19T04:33:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-19T05:33:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924322460952048098"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1901165386709823490",
+          "start": 0,
+          "username": "wuruto"
+        },
+        {
+          "end": 23,
+          "id": "1904150959229734912",
+          "start": 8,
+          "username": "mengmeng091297"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924322460952048098",
+    "in_reply_to_user_id": "1901165386709823490",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924089701298012293",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wuruto @mengmeng091297 嘻嘻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1924069068774187406",
+        "created_at": "2025-05-19T04:33:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-19T05:33:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924322460952048098"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1901165386709823490",
+              "start": 0,
+              "username": "wuruto"
+            },
+            {
+              "end": 23,
+              "id": "1904150959229734912",
+              "start": 8,
+              "username": "mengmeng091297"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924322460952048098",
+        "in_reply_to_user_id": "1901165386709823490",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924089701298012293",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wuruto @mengmeng091297 嘻嘻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901165386709823490",
+        "conversation_id": "1924069068774187406",
+        "created_at": "2025-05-18T13:08:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-18T14:08:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924089701298012293"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1904150959229734912",
+              "start": 0,
+              "username": "mengmeng091297"
+            },
+            {
+              "end": 30,
+              "id": "1826281483675299840",
+              "start": 16,
+              "username": "ci_shang85157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924089701298012293",
+        "in_reply_to_user_id": "1904150959229734912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924075655114997931",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mengmeng091297 @ci_shang85157 有点磕你俩了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲，生理性别男，请不要私信给我发那种奇怪的东西了\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 74,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 590,
+          "following_count": 509,
+          "like_count": 9910,
+          "listed_count": 2,
+          "media_count": 160,
+          "tweet_count": 4157
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-16T06:55:39.000Z",
+        "description": "贝斯与日常与碎碎念（其实并没有贝斯内容",
+        "id": "1901165386709823490",
+        "name": "wuruto",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910395468691226624/jWfQLWQn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 277,
+          "like_count": 8761,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 4047
+        },
+        "username": "wuruto",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-24T12:40:08.000Z",
+        "description": "",
+        "id": "1904150959229734912",
+        "name": "梦梦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904151332015198209/exU_bnns_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 51,
+          "like_count": 439,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 392
+        },
+        "username": "mengmeng091297",
+        "verified": false
+      }
+    ]
+  }
+}

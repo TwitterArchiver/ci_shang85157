@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1863863960828780623",
+    "created_at": "2024-12-04T20:43:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-04T21:43:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1864410236217380945"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1549028270771142656",
+          "start": 0,
+          "username": "eng0103"
+        },
+        {
+          "end": 19,
+          "id": "1650760116918943744",
+          "start": 9,
+          "username": "yusanyyy8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1864410236217380945",
+    "in_reply_to_user_id": "1549028270771142656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1863967048591892532",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@eng0103 @yusanyyy8 我说怎么这么熟悉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1863863960828780623",
+        "created_at": "2024-12-04T20:43:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-04T21:43:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1864410236217380945"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1549028270771142656",
+              "start": 0,
+              "username": "eng0103"
+            },
+            {
+              "end": 19,
+              "id": "1650760116918943744",
+              "start": 9,
+              "username": "yusanyyy8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864410236217380945",
+        "in_reply_to_user_id": "1549028270771142656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863967048591892532",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@eng0103 @yusanyyy8 我说怎么这么熟悉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1863967039251214336"
+          ]
+        },
+        "author_id": "1549028270771142656",
+        "conversation_id": "1863863960828780623",
+        "created_at": "2024-12-03T15:22:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-03T16:22:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863967048591892532"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1650760116918943744",
+              "start": 0,
+              "username": "yusanyyy8"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kJdgX3ecPc",
+              "end": 39,
+              "expanded_url": "https://x.com/eng0103/status/1863967048591892532/photo/1",
+              "media_key": "3_1863967039251214336",
+              "start": 16,
+              "url": "https://t.co/kJdgX3ecPc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863967048591892532",
+        "in_reply_to_user_id": "1650760116918943744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 614,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863863960828780623",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yusanyyy8 像这个唉 https://t.co/kJdgX3ecPc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，有兴趣就可以一起玩",
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844188914451365901/gNnOT4GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 225,
+          "like_count": 910,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 238
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-18T13:48:23.000Z",
+        "description": "大部分时间我的b话很多",
+        "id": "1549028270771142656",
+        "location": "当然大部分时间我也想有人跟我聊天^",
+        "name": "🍁",
+        "pinned_tweet_id": "1797308366186021046",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796909465029259264/eN1lUqgT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 7,
+          "like_count": 836,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 416
+        },
+        "username": "eng0103",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-25T07:14:30.000Z",
+        "description": "",
+        "id": "1650760116918943744",
+        "location": "   ",
+        "name": "TFEI终端机",
+        "pinned_tweet_id": "1851282744200015873",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861060221797605376/eCnGL3pL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3454,
+          "following_count": 876,
+          "like_count": 43049,
+          "listed_count": 5,
+          "media_count": 288,
+          "tweet_count": 8463
+        },
+        "username": "yusanyyy8",
+        "verified": false
+      }
+    ]
+  }
+}

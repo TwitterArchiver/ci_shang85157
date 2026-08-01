@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1895082944605364597",
+    "created_at": "2025-03-01T19:53:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-01T20:53:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895925363299197143"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "715431624301621248",
+          "start": 0,
+          "username": "_____HAZUKI____"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895925363299197143",
+    "in_reply_to_user_id": "715431624301621248",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895082944605364597",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_____HAZUKI____ 回民禁忌😗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 331,
+        "media_key": "3_1895082897133928448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gkyv2reWAAA3jdW.png",
+        "width": 503
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1895082944605364597",
+        "created_at": "2025-03-01T19:53:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-01T20:53:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895925363299197143"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "715431624301621248",
+              "start": 0,
+              "username": "_____HAZUKI____"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895925363299197143",
+        "in_reply_to_user_id": "715431624301621248",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895082944605364597",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_____HAZUKI____ 回民禁忌😗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1895082897133928448"
+          ]
+        },
+        "author_id": "715431624301621248",
+        "conversation_id": "1895082944605364597",
+        "created_at": "2025-02-27T12:05:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-27T13:05:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1895082944605364597"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/163baGFArM",
+              "end": 32,
+              "expanded_url": "https://x.com/_____HAZUKI____/status/1895082944605364597/photo/1",
+              "media_key": "3_1895082897133928448",
+              "start": 9,
+              "url": "https://t.co/163baGFArM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895082944605364597",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 65667,
+          "like_count": 399,
+          "quote_count": 20,
+          "reply_count": 178,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "🀄️人不杀能行吗 https://t.co/163baGFArM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲",
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844188914451365901/gNnOT4GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 277,
+          "like_count": 2646,
+          "listed_count": 1,
+          "media_count": 56,
+          "tweet_count": 1232
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-31T06:52:46.000Z",
+        "description": "体重500キロ",
+        "id": "715431624301621248",
+        "location": "所在地：河南省駐馬店市",
+        "name": "葉月ゆい",
+        "pinned_tweet_id": "1602176394477572096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879101985796087808/DZ9JpMCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 947,
+          "following_count": 331,
+          "like_count": 49809,
+          "listed_count": 9,
+          "media_count": 5358,
+          "tweet_count": 24513
+        },
+        "username": "_____HAZUKI____",
+        "verified": false
+      }
+    ]
+  }
+}

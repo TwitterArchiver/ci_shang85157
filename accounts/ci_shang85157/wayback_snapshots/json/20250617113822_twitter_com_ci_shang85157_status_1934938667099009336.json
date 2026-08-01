@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1934911946186477760",
+    "created_at": "2025-06-17T11:38:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-17T12:38:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934938667099009336"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1756909109788753920",
+          "start": 0,
+          "username": "BaoFan7551"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934938667099009336",
+    "in_reply_to_user_id": "1756909109788753920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934911946186477760",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BaoFan7551 这不是我"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2016,
+        "media_key": "3_1934911938984857601",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtowKCra0AEya7r.jpg",
+        "width": 918
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1934911946186477760",
+        "created_at": "2025-06-17T11:38:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T12:38:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934938667099009336"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1756909109788753920",
+              "start": 0,
+              "username": "BaoFan7551"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934938667099009336",
+        "in_reply_to_user_id": "1756909109788753920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934911946186477760",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BaoFan7551 这不是我"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1934911938984857601"
+          ]
+        },
+        "author_id": "1756909109788753920",
+        "conversation_id": "1934911946186477760",
+        "created_at": "2025-06-17T09:52:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T10:52:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934911946186477760"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XRYDVTaCmP",
+              "end": 39,
+              "expanded_url": "https://x.com/BaoFan7551/status/1934911946186477760/photo/1",
+              "media_key": "3_1934911938984857601",
+              "start": 16,
+              "url": "https://t.co/XRYDVTaCmP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934911946186477760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 73,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有的人饿了真的是什么都不放过😥 https://t.co/XRYDVTaCmP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲，生理性别男，请不要私信给我发那种奇怪的东西了\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 74,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 737,
+          "following_count": 569,
+          "like_count": 12834,
+          "listed_count": 2,
+          "media_count": 194,
+          "tweet_count": 5171
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-12T05:12:40.000Z",
+        "description": "这里是番茄(˘▽˘)っ🍅/19 目前在大陆 生理性别男/友跨友双友同无任何政治倾向/抽象 b",
+        "id": "1756909109788753920",
+        "location": "china mainland",
+        "name": "包着番茄籽的番茄",
+        "pinned_tweet_id": "1923230527705817125",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876828438067363841/Jp8N96wc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 424,
+          "following_count": 1132,
+          "like_count": 425,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 2175
+        },
+        "username": "BaoFan7551",
+        "verified": false
+      }
+    ]
+  }
+}

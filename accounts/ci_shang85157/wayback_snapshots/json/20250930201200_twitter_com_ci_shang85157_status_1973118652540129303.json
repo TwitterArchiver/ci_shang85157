@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1973090589563326882",
+    "created_at": "2025-09-30T20:12:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-30T21:12:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973118652540129303"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1875983211010113536",
+          "start": 0,
+          "username": "solkattovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973118652540129303",
+    "in_reply_to_user_id": "1875983211010113536",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973090589563326882",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@solkattovo 好吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1973090589563326882",
+        "created_at": "2025-09-30T20:12:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T21:12:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973118652540129303"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1875983211010113536",
+              "start": 0,
+              "username": "solkattovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973118652540129303",
+        "in_reply_to_user_id": "1875983211010113536",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973090589563326882",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@solkattovo 好吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1875983211010113536",
+        "conversation_id": "1973090589563326882",
+        "created_at": "2025-09-30T18:20:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T19:20:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1973090589563326882"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1973090589563326882",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 71,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大概就是明天要七点起床出门，现在睡不着在抖音看甄嬛传吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧 小男友@pertx114514还有穹璃 互fo可以私信我交朋友什么的 反正我还挺闲 然后就是没有然后了 一切都是最好的安排https://t.co/ILEWFdOQz0。 ngl匿名问答",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "pertx114514"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%8950122",
+                "end": 106,
+                "expanded_url": "https://ngl.link/%E6%B3%8950122",
+                "start": 83,
+                "url": "https://t.co/ILEWFdOQz0"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉方",
+        "pinned_tweet_id": "1970427616353296660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 816,
+          "following_count": 654,
+          "like_count": 16326,
+          "listed_count": 2,
+          "media_count": 193,
+          "tweet_count": 6402
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-05T19:10:34.000Z",
+        "description": "4i 宇宙无敌小睡大王 175/105 厨神养成记 看置顶 不关注你发啥私信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/solkattovo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/solkattovo",
+                "start": 0,
+                "url": "https://t.co/cupyqPmDkZ"
+              }
+            ]
+          }
+        },
+        "id": "1875983211010113536",
+        "location": "纯绿🚪128",
+        "name": "小睡💤",
+        "pinned_tweet_id": "1972710617065947311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969069370094800896/5lKeDpJy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 57,
+          "like_count": 400,
+          "listed_count": 1,
+          "media_count": 224,
+          "tweet_count": 482
+        },
+        "url": "https://t.co/cupyqPmDkZ",
+        "username": "solkattovo",
+        "verified": false
+      }
+    ]
+  }
+}

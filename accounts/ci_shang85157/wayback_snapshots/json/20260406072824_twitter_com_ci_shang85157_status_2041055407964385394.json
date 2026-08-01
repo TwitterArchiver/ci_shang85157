@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "2040799081023648222",
+    "created_at": "2026-04-06T07:28:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T08:28:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041055407964385394"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1831961897899585536",
+          "start": 0,
+          "username": "kitsunezk_ri"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041055407964385394",
+    "in_reply_to_user_id": "1831961897899585536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040799081023648222",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kitsunezk_ri 太黑了真的没必要 ，你做到过100万u，买点现货也够吃喝啊，何必去做这种反人类的事情"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "2040799081023648222",
+        "created_at": "2026-04-06T07:28:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T08:28:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041055407964385394"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1831961897899585536",
+              "start": 0,
+              "username": "kitsunezk_ri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041055407964385394",
+        "in_reply_to_user_id": "1831961897899585536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040799081023648222",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kitsunezk_ri 太黑了真的没必要 ，你做到过100万u，买点现货也够吃喝啊，何必去做这种反人类的事情"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1831961897899585536",
+        "conversation_id": "2040799081023648222",
+        "created_at": "2026-04-05T14:29:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T15:29:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040799081023648222"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040799081023648222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 16468,
+          "like_count": 134,
+          "quote_count": 0,
+          "reply_count": 45,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "已经找好厂子了，月休二，12h/天，工资3900😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧 https://t.co/ILEWFdOQz0。 ngl匿名问答",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%8950122",
+                "end": 45,
+                "expanded_url": "https://ngl.link/%E6%B3%8950122",
+                "start": 22,
+                "url": "https://t.co/ILEWFdOQz0"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "永雏泉",
+        "pinned_tweet_id": "2034295067847147660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978274114138996736/r_khhgIT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1086,
+          "following_count": 720,
+          "like_count": 23210,
+          "listed_count": 2,
+          "media_count": 258,
+          "tweet_count": 8329
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-06T07:45:44.000Z",
+        "description": "精神病",
+        "id": "1831961897899585536",
+        "name": "桐山　ひとり",
+        "pinned_tweet_id": "2040801308425515130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021595568762728449/K1Q-jZ7b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 896,
+          "following_count": 826,
+          "like_count": 83831,
+          "listed_count": 4,
+          "media_count": 2788,
+          "tweet_count": 21173
+        },
+        "username": "kitsunezk_ri",
+        "verified": false
+      }
+    ]
+  }
+}

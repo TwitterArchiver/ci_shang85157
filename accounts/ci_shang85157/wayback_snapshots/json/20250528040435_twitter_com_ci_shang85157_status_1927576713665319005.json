@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1927264349627789514",
+    "created_at": "2025-05-28T04:04:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-28T05:04:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927576713665319005"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1901165386709823490",
+          "start": 0,
+          "username": "wuruto"
+        },
+        {
+          "end": 23,
+          "id": "1753596776253165568",
+          "start": 8,
+          "username": "Radio_Portales"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927576713665319005",
+    "in_reply_to_user_id": "1901165386709823490",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927335254638858300",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wuruto @Radio_Portales 这还就是豆包"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1927264349627789514",
+        "created_at": "2025-05-28T04:04:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T05:04:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927576713665319005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1901165386709823490",
+              "start": 0,
+              "username": "wuruto"
+            },
+            {
+              "end": 23,
+              "id": "1753596776253165568",
+              "start": 8,
+              "username": "Radio_Portales"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927576713665319005",
+        "in_reply_to_user_id": "1901165386709823490",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927335254638858300",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wuruto @Radio_Portales 这还就是豆包"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901165386709823490",
+        "conversation_id": "1927264349627789514",
+        "created_at": "2025-05-27T12:05:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T13:05:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927335254638858300"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1753596776253165568",
+              "start": 0,
+              "username": "Radio_Portales"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927335254638858300",
+        "in_reply_to_user_id": "1753596776253165568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3088,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927264349627789514",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Radio_Portales 萌的像个小豆包"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲，生理性别男，请不要私信给我发那种奇怪的东西了\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 74,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 599,
+          "following_count": 524,
+          "like_count": 10595,
+          "listed_count": 2,
+          "media_count": 168,
+          "tweet_count": 4374
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-16T06:55:39.000Z",
+        "description": "贝斯与日常与碎碎念（其实并没有贝斯内容",
+        "id": "1901165386709823490",
+        "name": "wuruto",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910395468691226624/jWfQLWQn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 307,
+          "like_count": 12384,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 5222
+        },
+        "username": "wuruto",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-03T01:50:36.000Z",
+        "description": "Chinese student/ #Nafo \n左下民社/1941季春の俾斯麦\n此人精神疑似不正常/建议b\n吉他手/乐队构思ing/水色系重度依赖\n对象是中推之前的“镌刻晴川万代”🥰\nMy pleasure🥳 @Roblox_1212",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 22,
+                "start": 17,
+                "tag": "Nafo"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 117,
+                "start": 105,
+                "username": "Roblox_1212"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nafo-ofan.org",
+                "end": 23,
+                "expanded_url": "https://nafo-ofan.org",
+                "start": 0,
+                "url": "https://t.co/cxDtfXnguw"
+              }
+            ]
+          }
+        },
+        "id": "1753596776253165568",
+        "location": "China",
+        "name": "为君扶病上高台",
+        "pinned_tweet_id": "1912389650242818092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905134795690258432/fdYYX3g0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2430,
+          "following_count": 1230,
+          "like_count": 4360,
+          "listed_count": 4,
+          "media_count": 225,
+          "tweet_count": 2646
+        },
+        "url": "https://t.co/cxDtfXnguw",
+        "username": "Radio_Portales",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1934929154983776296",
+    "created_at": "2025-06-17T11:48:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-17T12:48:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934941266300797414"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1746353897403498496",
+          "start": 0,
+          "username": "wuyan_sleeeepy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934941266300797414",
+    "in_reply_to_user_id": "1746353897403498496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934929154983776296",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wuyan_sleeeepy 你说你喜欢海，是我的齐刘海吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1934929154983776296",
+        "created_at": "2025-06-17T11:48:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T12:48:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934941266300797414"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1746353897403498496",
+              "start": 0,
+              "username": "wuyan_sleeeepy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934941266300797414",
+        "in_reply_to_user_id": "1746353897403498496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934929154983776296",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wuyan_sleeeepy 你说你喜欢海，是我的齐刘海吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1746353897403498496",
+        "conversation_id": "1934929154983776296",
+        "created_at": "2025-06-17T11:00:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T12:00:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934929154983776296"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1934929154983776296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "齐刘海之下是更厚的齐刘海"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲，生理性别男，请不要私信给我发那种奇怪的东西了\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 74,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 737,
+          "following_count": 569,
+          "like_count": 12841,
+          "listed_count": 2,
+          "media_count": 195,
+          "tweet_count": 5174
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-14T02:10:02.000Z",
+        "description": "拜托别离开我\n秘密日记本@wusanshui233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 12,
+                "username": "wusanshui233"
+              }
+            ]
+          }
+        },
+        "id": "1746353897403498496",
+        "location": "我想过得幸福点",
+        "name": "吴三水水水水水",
+        "pinned_tweet_id": "1932626476513570979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872756935818203136/Lofml4Rs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 186,
+          "like_count": 8631,
+          "listed_count": 1,
+          "media_count": 144,
+          "tweet_count": 1275
+        },
+        "username": "wuyan_sleeeepy",
+        "verified": false
+      }
+    ]
+  }
+}

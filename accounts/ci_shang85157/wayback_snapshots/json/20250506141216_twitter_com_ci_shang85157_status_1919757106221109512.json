@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1919757106221109512",
+    "created_at": "2025-05-06T14:12:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-06T15:12:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1919757106221109512"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dsfof1989/stat…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/dsfof1989/status/1919441850110222614",
+          "start": 5,
+          "url": "https://t.co/jFcesKbawu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919757106221109512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919441850110222614",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "中国机长 https://t.co/jFcesKbawu"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13800,
+        "height": 1040,
+        "media_key": "7_1919441667217883138",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1919441667217883138/pu/img/rsbRzyfK5rLiWI2e.jpg",
+        "public_metrics": {
+          "view_count": 540
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1919441667217883138/pu/vid/avc1/320x562/qU4qTtgTCiTSVre5.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1919441667217883138/pu/vid/avc1/480x842/zMY_1xMyi6B6MS_W.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1919441667217883138/pu/vid/avc1/592x1040/ksuXoZb0UVHC-OCN.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1919441667217883138/pu/pl/IXjsJn6-VLylgn1M.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 592
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1919757106221109512",
+        "created_at": "2025-05-06T14:12:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T15:12:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919757106221109512"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dsfof1989/stat…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/dsfof1989/status/1919441850110222614",
+              "start": 5,
+              "url": "https://t.co/jFcesKbawu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919757106221109512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919441850110222614",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "中国机长 https://t.co/jFcesKbawu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1919441667217883138"
+          ]
+        },
+        "author_id": "1844410398407323648",
+        "conversation_id": "1919441850110222614",
+        "created_at": "2025-05-05T17:19:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-05T18:19:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919441850110222614"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QIDqDzy5QL",
+              "end": 38,
+              "expanded_url": "https://x.com/dsfof1989/status/1919441850110222614/video/1",
+              "media_key": "7_1919441667217883138",
+              "start": 15,
+              "url": "https://t.co/QIDqDzy5QL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919441850110222614",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1232,
+          "like_count": 34,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "真正的机长任何状态下都会起飞 https://t.co/QIDqDzy5QL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 465,
+          "following_count": 442,
+          "like_count": 8278,
+          "listed_count": 1,
+          "media_count": 139,
+          "tweet_count": 3489
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-10T16:11:30.000Z",
+        "description": "成都胖熊一只鸭\n前世大号@dsfin1989\n不定时抽粉丝线下互动\n叫妈妈只是我的爱好",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 12,
+                "username": "dsfin1989"
+              }
+            ]
+          }
+        },
+        "id": "1844410398407323648",
+        "location": "距离你1.0km",
+        "name": "希望遮住双眼的是乳房而不是迷茫",
+        "pinned_tweet_id": "1904540486553276660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917959574071726080/3zHforFn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1422,
+          "following_count": 684,
+          "like_count": 2896,
+          "listed_count": 1,
+          "media_count": 409,
+          "tweet_count": 1196
+        },
+        "username": "dsfof1989",
+        "verified": false
+      }
+    ]
+  }
+}

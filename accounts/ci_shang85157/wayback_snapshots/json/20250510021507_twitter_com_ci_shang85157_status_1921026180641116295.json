@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1920704787894481023",
+    "created_at": "2025-05-10T02:15:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-10T03:15:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921026180641116295"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1842972887139094528",
+          "start": 0,
+          "username": "yUcNcmfaqC11310"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921026180641116295",
+    "in_reply_to_user_id": "1842972887139094528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921019778879090779",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yUcNcmfaqC11310 你说的厂里的，有的固定工资的那种并不按小时算"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1920704787894481023",
+        "created_at": "2025-05-10T02:15:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-10T03:15:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921026180641116295"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1842972887139094528",
+              "start": 0,
+              "username": "yUcNcmfaqC11310"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921026180641116295",
+        "in_reply_to_user_id": "1842972887139094528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921019778879090779",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yUcNcmfaqC11310 你说的厂里的，有的固定工资的那种并不按小时算"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842972887139094528",
+        "conversation_id": "1920704787894481023",
+        "created_at": "2025-05-10T01:49:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-10T02:49:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921019778879090779"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1826281483675299840",
+              "start": 0,
+              "username": "ci_shang85157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921019778879090779",
+        "in_reply_to_user_id": "1826281483675299840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920704787894481023",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ci_shang85157 问题是现在很多就是八小时啊！但是他们一个月只给你2k还不包吃住，你不加班你拿什么生存呢？这就是一个很现实的问题啊！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 522,
+          "following_count": 477,
+          "like_count": 9017,
+          "listed_count": 2,
+          "media_count": 145,
+          "tweet_count": 3812
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-06T16:59:28.000Z",
+        "description": "21－0.5－m，是一个逐渐变成小男娘中的小男孩",
+        "id": "1842972887139094528",
+        "name": "是小星呀！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889499745434963968/txJ7griG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 19,
+          "like_count": 20,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 96
+        },
+        "username": "yUcNcmfaqC11310",
+        "verified": false
+      }
+    ]
+  }
+}

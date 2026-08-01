@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1927720076049822170",
+    "created_at": "2025-05-28T15:56:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-28T16:56:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927755864028418302"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1823729658833055745",
+          "start": 0,
+          "username": "pijiuyayaya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927755864028418302",
+    "in_reply_to_user_id": "1823729658833055745",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 25,
+      "like_count": 4,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927720076049822170",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pijiuyayaya 我不会放弃追求东北雨姐的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1927720076049822170",
+        "created_at": "2025-05-28T15:56:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T16:56:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927755864028418302"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1823729658833055745",
+              "start": 0,
+              "username": "pijiuyayaya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927755864028418302",
+        "in_reply_to_user_id": "1823729658833055745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927720076049822170",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pijiuyayaya 我不会放弃追求东北雨姐的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1823729658833055745",
+        "conversation_id": "1927720076049822170",
+        "created_at": "2025-05-28T13:34:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T14:34:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927720076049822170"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yi4eert/status…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/yi4eert/status/1927410054656848180",
+              "start": 14,
+              "url": "https://t.co/qImGdQ70S0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927720076049822170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 457,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927410054656848180",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不会放弃去东北搓澡的嗯。 https://t.co/qImGdQ70S0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲，生理性别男，请不要私信给我发那种奇怪的东西了\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 74,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 601,
+          "following_count": 527,
+          "like_count": 10702,
+          "listed_count": 2,
+          "media_count": 170,
+          "tweet_count": 4427
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-14T14:33:41.000Z",
+        "description": "鹈鹕不知道写什么所以决定睡觉觉觉觉觉觉觉觉觉觉觉觉去了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kaochang",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kaochang",
+                "start": 0,
+                "url": "https://t.co/Fhu75lPXQN"
+              }
+            ]
+          }
+        },
+        "id": "1823729658833055745",
+        "name": "鹈鹕吃烤肠也吃鹌鹑",
+        "pinned_tweet_id": "1927295862364868888",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926615139739897856/luxuAdbk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 489,
+          "following_count": 294,
+          "like_count": 8024,
+          "listed_count": 5,
+          "media_count": 766,
+          "tweet_count": 6491
+        },
+        "url": "https://t.co/Fhu75lPXQN",
+        "username": "pijiuyayaya",
+        "verified": false
+      }
+    ]
+  }
+}

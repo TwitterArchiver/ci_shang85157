@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1913996134995136810",
+    "created_at": "2025-04-20T16:55:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-20T17:55:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913999960552743190"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1586582980406886400",
+          "start": 0,
+          "username": "Sat_st_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913999960552743190",
+    "in_reply_to_user_id": "1586582980406886400",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913997296737653028",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sat_st_ 那算了。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1913996134995136810",
+        "created_at": "2025-04-20T16:55:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-20T17:55:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913999960552743190"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1586582980406886400",
+              "start": 0,
+              "username": "Sat_st_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913999960552743190",
+        "in_reply_to_user_id": "1586582980406886400",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913997296737653028",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sat_st_ 那算了。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1586582980406886400",
+        "conversation_id": "1913996134995136810",
+        "created_at": "2025-04-20T16:44:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-20T17:44:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913997296737653028"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1826281483675299840",
+              "start": 0,
+              "username": "ci_shang85157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913997296737653028",
+        "in_reply_to_user_id": "1826281483675299840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913996134995136810",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ci_shang85157 不能。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 384,
+          "following_count": 367,
+          "like_count": 6037,
+          "listed_count": 1,
+          "media_count": 105,
+          "tweet_count": 2805
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-30T04:57:24.000Z",
+        "description": "孤独",
+        "id": "1586582980406886400",
+        "location": "1208",
+        "name": "柑橘味汽水",
+        "pinned_tweet_id": "1646473249646329857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1688989249029189634/n2-jIiEz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 134,
+          "like_count": 956,
+          "listed_count": 2,
+          "media_count": 74,
+          "tweet_count": 345
+        },
+        "username": "Sat_st_",
+        "verified": false
+      }
+    ]
+  }
+}

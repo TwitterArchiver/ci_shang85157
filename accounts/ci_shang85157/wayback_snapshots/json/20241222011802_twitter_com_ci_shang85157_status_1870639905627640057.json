@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1870638004286652734",
+    "created_at": "2024-12-22T01:18:02.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-22T02:18:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1870639905627640057"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "702827952803680256",
+          "start": 0,
+          "username": "allvulples"
+        },
+        {
+          "end": 28,
+          "id": "1509939466101825542",
+          "start": 12,
+          "username": "22HomoPoliticus"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1870639905627640057",
+    "in_reply_to_user_id": "702827952803680256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1870638296034099287",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@allvulples @22HomoPoliticus 对的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1870638004286652734",
+        "created_at": "2024-12-22T01:18:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-22T02:18:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1870639905627640057"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "702827952803680256",
+              "start": 0,
+              "username": "allvulples"
+            },
+            {
+              "end": 28,
+              "id": "1509939466101825542",
+              "start": 12,
+              "username": "22HomoPoliticus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1870639905627640057",
+        "in_reply_to_user_id": "702827952803680256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1870638296034099287",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@allvulples @22HomoPoliticus 对的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "702827952803680256",
+        "conversation_id": "1870638004286652734",
+        "created_at": "2024-12-22T01:11:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-22T02:11:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1870638296034099287"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1509939466101825542",
+              "start": 0,
+              "username": "22HomoPoliticus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1870638296034099287",
+        "in_reply_to_user_id": "1509939466101825542",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1870638004286652734",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@22HomoPoliticus 對的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，有兴趣就可以一起玩",
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844188914451365901/gNnOT4GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 270,
+          "like_count": 1308,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 500
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2016-02-25T12:10:16.000Z",
+        "description": "BIG BANG BAD BOYS AND GIRLS.",
+        "id": "702827952803680256",
+        "location": "Hong Kong",
+        "name": "Demonkeyse Manell",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851675836552003584/P9GHvu4w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 1452,
+          "like_count": 11837,
+          "listed_count": 4,
+          "media_count": 91,
+          "tweet_count": 14604
+        },
+        "username": "allvulples",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-01T17:03:35.000Z",
+        "description": "Political writer with a focus on Chinese politics and international relations. Substack column: https://t.co/qCNZN2FxWG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "substack.com/@ignatiuslee?u…",
+                "end": 119,
+                "expanded_url": "https://substack.com/@ignatiuslee?utm_source=user-menu",
+                "start": 96,
+                "url": "https://t.co/qCNZN2FxWG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "substack.com/@ignatiusdhlee",
+                "end": 23,
+                "expanded_url": "https://substack.com/@ignatiusdhlee",
+                "start": 0,
+                "url": "https://t.co/5siZDDccNb"
+              }
+            ]
+          }
+        },
+        "id": "1509939466101825542",
+        "location": "London",
+        "name": "Ignatius Lee",
+        "pinned_tweet_id": "1868256141618098267",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1560217467301072897/TcXnsnlO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79251,
+          "following_count": 453,
+          "like_count": 89634,
+          "listed_count": 485,
+          "media_count": 7117,
+          "tweet_count": 22147
+        },
+        "url": "https://t.co/5siZDDccNb",
+        "username": "22HomoPoliticus",
+        "verified": true
+      }
+    ]
+  }
+}

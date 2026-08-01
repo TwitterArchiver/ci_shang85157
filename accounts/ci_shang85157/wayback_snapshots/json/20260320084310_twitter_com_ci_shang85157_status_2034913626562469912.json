@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "2034640979442237500",
+    "created_at": "2026-03-20T08:43:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T09:43:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034913626562469912"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1680945920484216832",
+          "start": 0,
+          "username": "yeppppp24"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034913626562469912",
+    "in_reply_to_user_id": "1680945920484216832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034640979442237500",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yeppppp24 实现共产就好了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "2034640979442237500",
+        "created_at": "2026-03-20T08:43:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T09:43:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034913626562469912"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1680945920484216832",
+              "start": 0,
+              "username": "yeppppp24"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034913626562469912",
+        "in_reply_to_user_id": "1680945920484216832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034640979442237500",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yeppppp24 实现共产就好了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680945920484216832",
+        "conversation_id": "2034640979442237500",
+        "created_at": "2026-03-19T14:39:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T15:39:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034640979442237500"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034640979442237500",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 100,
+          "impression_count": 275840,
+          "like_count": 595,
+          "quote_count": 15,
+          "reply_count": 354,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "如果大家的工作都被ai取代了，大家都没有工资了，那谁来消费呢……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧 https://t.co/ILEWFdOQz0。 ngl匿名问答 想交朋友或者互fo尽管私信我 每个人都会回",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%8950122",
+                "end": 45,
+                "expanded_url": "https://ngl.link/%E6%B3%8950122",
+                "start": 22,
+                "url": "https://t.co/ILEWFdOQz0"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "永雏泉",
+        "pinned_tweet_id": "2019557886406578564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978274114138996736/r_khhgIT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1090,
+          "following_count": 714,
+          "like_count": 22371,
+          "listed_count": 2,
+          "media_count": 252,
+          "tweet_count": 8163
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-17T14:22:16.000Z",
+        "description": "社畜男娘｜最符合头像的一集｜互联网搬砖推友💻 | 过好这一生  为了悠闲地享受生活而努力 | 会骂人会拉黑",
+        "id": "1680945920484216832",
+        "location": "更好的未来",
+        "name": "小林酱",
+        "pinned_tweet_id": "1975246976544612474",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012567568792297472/qfxY8Hoi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3785,
+          "following_count": 443,
+          "like_count": 40096,
+          "listed_count": 13,
+          "media_count": 411,
+          "tweet_count": 11492
+        },
+        "username": "yeppppp24",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1904137184539705344"
+      ],
+      "media_source_tweet_id": [
+        "1904137197168504879"
+      ]
+    },
+    "author_id": "1826281483675299840",
+    "conversation_id": "1904185521716531315",
+    "created_at": "2025-03-24T14:56:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-24T15:56:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904185521716531315"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "927046208308133888",
+          "start": 3,
+          "username": "t_cos_214"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PvlAZqeY4j",
+          "end": 49,
+          "expanded_url": "https://x.com/t_cos_214/status/1904137197168504879/photo/1",
+          "media_key": "3_1904137184539705344",
+          "start": 26,
+          "url": "https://t.co/PvlAZqeY4j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904185521716531315",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 138
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904137197168504879",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @t_cos_214: おでかけ🎠🍹 🌟 🍁 https://t.co/PvlAZqeY4j"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3036,
+        "media_key": "3_1904137184539705344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmzarkgaAAASWYV.jpg",
+        "width": 2285
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1904137184539705344"
+          ],
+          "media_source_tweet_id": [
+            "1904137197168504879"
+          ]
+        },
+        "author_id": "1826281483675299840",
+        "conversation_id": "1904185521716531315",
+        "created_at": "2025-03-24T14:56:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-24T15:56:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904185521716531315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "927046208308133888",
+              "start": 3,
+              "username": "t_cos_214"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PvlAZqeY4j",
+              "end": 49,
+              "expanded_url": "https://x.com/t_cos_214/status/1904137197168504879/photo/1",
+              "media_key": "3_1904137184539705344",
+              "start": 26,
+              "url": "https://t.co/PvlAZqeY4j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904185521716531315",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 138
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904137197168504879",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @t_cos_214: おでかけ🎠🍹 🌟 🍁 https://t.co/PvlAZqeY4j"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1904137184539705344"
+          ]
+        },
+        "author_id": "927046208308133888",
+        "conversation_id": "1904137197168504879",
+        "created_at": "2025-03-24T11:44:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-24T12:44:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1904137197168504879"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PvlAZqeY4j",
+              "end": 34,
+              "expanded_url": "https://x.com/t_cos_214/status/1904137197168504879/photo/1",
+              "media_key": "3_1904137184539705344",
+              "start": 11,
+              "url": "https://t.co/PvlAZqeY4j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904137197168504879",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 86,
+          "impression_count": 31790,
+          "like_count": 1054,
+          "quote_count": 7,
+          "reply_count": 6,
+          "retweet_count": 138
+        },
+        "reply_settings": "everyone",
+        "text": "おでかけ🎠🍹 🌟 🍁 https://t.co/PvlAZqeY4j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 336,
+          "following_count": 332,
+          "like_count": 4518,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 2008
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-05T05:33:34.000Z",
+        "description": "#ALNST にお熱 金カム/🎤/ぶいすぽっ！/🌈🕒　 有村麻央🫶 サブ垢→@teruoji_sub 🎰垢→@teruoji_777 ご依頼はこちらまで→ info@cosmix.jp",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 0,
+                "tag": "ALNST"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 50,
+                "start": 38,
+                "username": "teruoji_sub"
+              },
+              {
+                "end": 66,
+                "start": 54,
+                "username": "teruoji_777"
+              }
+            ]
+          }
+        },
+        "id": "927046208308133888",
+        "location": "Cosmix所属🪐",
+        "name": "小塩てる",
+        "pinned_tweet_id": "1904137197168504879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897595677716193280/Hk_-ao55_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187453,
+          "following_count": 1051,
+          "like_count": 45045,
+          "listed_count": 1036,
+          "media_count": 475,
+          "tweet_count": 43215
+        },
+        "username": "t_cos_214",
+        "verified": true
+      }
+    ]
+  }
+}

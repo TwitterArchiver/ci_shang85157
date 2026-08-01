@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1897521924902924357",
+    "created_at": "2025-03-07T13:10:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-07T14:10:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897998256627744827"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1763751768197038080",
+          "start": 0,
+          "username": "CGalvina84002"
+        },
+        {
+          "end": 28,
+          "id": "1782932905419046912",
+          "start": 15,
+          "username": "ratshelprats"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897998256627744827",
+    "in_reply_to_user_id": "1763751768197038080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897997854431756694",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CGalvina84002 @ratshelprats 我也没做过"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1897521924902924357",
+        "created_at": "2025-03-07T13:10:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-07T14:10:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897998256627744827"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1763751768197038080",
+              "start": 0,
+              "username": "CGalvina84002"
+            },
+            {
+              "end": 28,
+              "id": "1782932905419046912",
+              "start": 15,
+              "username": "ratshelprats"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897998256627744827",
+        "in_reply_to_user_id": "1763751768197038080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897997854431756694",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CGalvina84002 @ratshelprats 我也没做过"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1763751768197038080",
+        "conversation_id": "1897521924902924357",
+        "created_at": "2025-03-07T13:08:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-07T14:08:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897997854431756694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1826281483675299840",
+              "start": 0,
+              "username": "ci_shang85157"
+            },
+            {
+              "end": 28,
+              "id": "1782932905419046912",
+              "start": 15,
+              "username": "ratshelprats"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897997854431756694",
+        "in_reply_to_user_id": "1826281483675299840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897524632485548352",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ci_shang85157 @ratshelprats 真没坐过怎么说？一次都没有"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844188914451365901/gNnOT4GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 306,
+          "like_count": 3151,
+          "listed_count": 1,
+          "media_count": 61,
+          "tweet_count": 1459
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-02T02:23:48.000Z",
+        "description": "",
+        "id": "1763751768197038080",
+        "name": "Christian Locusic (Galvina)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1763752033650372608/ZNlOXUkt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 82,
+          "like_count": 88,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 175
+        },
+        "username": "CGalvina84002",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-24T00:41:54.000Z",
+        "description": "大鼠王（老鼠国王）",
+        "id": "1782932905419046912",
+        "name": "老鼠帮助老鼠🐭☝️",
+        "pinned_tweet_id": "1893618501748740208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822487372774494208/h_lDDH_u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72612,
+          "following_count": 505,
+          "like_count": 40210,
+          "listed_count": 102,
+          "media_count": 485,
+          "tweet_count": 1062
+        },
+        "username": "ratshelprats",
+        "verified": true
+      }
+    ]
+  }
+}

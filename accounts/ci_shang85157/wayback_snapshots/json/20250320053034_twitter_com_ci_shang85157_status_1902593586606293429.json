@@ -1,0 +1,142 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "1902593578804883457"
+      ]
+    },
+    "author_id": "1826281483675299840",
+    "conversation_id": "1902593586606293429",
+    "created_at": "2025-03-20T05:30:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-20T06:30:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1902593586606293429"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1902593586606293429",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我室友在跟我犟看到网上说食堂一菜一肉八块钱，说这是不可能的，因为我们学校不是什么好人好学校，所以一菜一肉是13块，我认为好的大学，一本那种学校食堂有一菜一肉不过十块钱是很正常的，我想了解一下大家的情。通过这件事我发现跟有的人讲道理是不行的，有些人的思想就是这样的，改变不了自己的顽固"
+  },
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 2880,
+        "end_datetime": "2025-03-22T05:30:32.000Z",
+        "id": "1902593578804883457",
+        "options": [
+          {
+            "label": "10元以内",
+            "position": 1,
+            "votes": 0
+          },
+          {
+            "label": "10—15元",
+            "position": 2,
+            "votes": 0
+          },
+          {
+            "label": "15—20元",
+            "position": 3,
+            "votes": 0
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "1902593578804883457"
+          ]
+        },
+        "author_id": "1826281483675299840",
+        "conversation_id": "1902593586606293429",
+        "created_at": "2025-03-20T05:30:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-20T06:30:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902593586606293429"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1902593586606293429",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我室友在跟我犟看到网上说食堂一菜一肉八块钱，说这是不可能的，因为我们学校不是什么好人好学校，所以一菜一肉是13块，我认为好的大学，一本那种学校食堂有一菜一肉不过十块钱是很正常的，我想了解一下大家的情。通过这件事我发现跟有的人讲道理是不行的，有些人的思想就是这样的，改变不了自己的顽固"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 308,
+          "like_count": 4187,
+          "listed_count": 1,
+          "media_count": 77,
+          "tweet_count": 1883
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      }
+    ]
+  }
+}

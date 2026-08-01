@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1934578140829139047",
+    "created_at": "2025-06-16T13:59:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-16T14:59:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934611671961817536"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1799770485242388481",
+          "start": 0,
+          "username": "H1zzan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934611671961817536",
+    "in_reply_to_user_id": "1799770485242388481",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934578140829139047",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@H1zzan 调你"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1934578129580007424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtkAjxvbIAA7HKS.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1934578140829139047",
+        "created_at": "2025-06-16T13:59:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T14:59:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934611671961817536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1799770485242388481",
+              "start": 0,
+              "username": "H1zzan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934611671961817536",
+        "in_reply_to_user_id": "1799770485242388481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934578140829139047",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@H1zzan 调你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1934578129580007424"
+          ]
+        },
+        "author_id": "1799770485242388481",
+        "conversation_id": "1934578140829139047",
+        "created_at": "2025-06-16T11:45:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T12:45:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934578140829139047"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FF3kmmAefz",
+              "end": 39,
+              "expanded_url": "https://x.com/H1zzan/status/1934578140829139047/photo/1",
+              "media_key": "3_1934578129580007424",
+              "start": 16,
+              "url": "https://t.co/FF3kmmAefz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934578140829139047",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 364,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有人可以来调我👉👈想被调… https://t.co/FF3kmmAefz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲，生理性别男，请不要私信给我发那种奇怪的东西了\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 74,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 733,
+          "following_count": 567,
+          "like_count": 12778,
+          "listed_count": 2,
+          "media_count": 194,
+          "tweet_count": 5150
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-09T11:48:28.000Z",
+        "description": "不要发现我我其实是只老鼠人谢谢🙏",
+        "id": "1799770485242388481",
+        "name": "H.solo9",
+        "pinned_tweet_id": "1911069036923732215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905911845426540544/VuyVbtm__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 282,
+          "like_count": 3899,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 640
+        },
+        "username": "H1zzan",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1866849241739444391",
+    "created_at": "2024-12-11T17:02:02.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-11T18:02:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1866891202232193302"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1553199487908061184",
+          "start": 0,
+          "username": "200_3n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1866891202232193302",
+    "in_reply_to_user_id": "1553199487908061184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1866849241739444391",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@200_3n 真就离谱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1866849241739444391",
+        "created_at": "2024-12-11T17:02:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-11T18:02:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866891202232193302"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1553199487908061184",
+              "start": 0,
+              "username": "200_3n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866891202232193302",
+        "in_reply_to_user_id": "1553199487908061184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866849241739444391",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@200_3n 真就离谱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1866849225415217152"
+          ]
+        },
+        "author_id": "1553199487908061184",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "1866849241739444391",
+        "created_at": "2024-12-11T14:15:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-11T15:15:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1866849241739444391"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mjgcxFz2g5",
+              "end": 73,
+              "expanded_url": "https://x.com/200_3n/status/1866849241739444391/photo/1",
+              "media_key": "3_1866849225415217152",
+              "start": 50,
+              "url": "https://t.co/mjgcxFz2g5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866849241739444391",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4235,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和电影男结束是因为他太抠了。46还是64块钱的情趣内衣来着，他求我穿，我让他买他嫌贵、哈哈去你妈的 https://t.co/mjgcxFz2g5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，有兴趣就可以一起玩",
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844188914451365901/gNnOT4GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 245,
+          "like_count": 1048,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 334
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-30T02:03:21.000Z",
+        "description": "",
+        "id": "1553199487908061184",
+        "name": "池",
+        "pinned_tweet_id": "1865774549096157514",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1553200262663139329/56X-HXiU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1239,
+          "following_count": 124,
+          "like_count": 558,
+          "listed_count": 3,
+          "media_count": 75,
+          "tweet_count": 485
+        },
+        "username": "200_3n",
+        "verified": false
+      }
+    ]
+  }
+}

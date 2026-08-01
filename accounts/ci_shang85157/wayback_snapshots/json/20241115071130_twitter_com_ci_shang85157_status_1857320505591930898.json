@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1857316097093161231",
+    "created_at": "2024-11-15T07:11:30.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-15T08:11:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1857320505591930898"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1004555905113862144",
+          "start": 0,
+          "username": "Rescuenomono"
+        },
+        {
+          "end": 27,
+          "id": "1769078117052854272",
+          "start": 14,
+          "username": "huahuojiang_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1857320505591930898",
+    "in_reply_to_user_id": "1004555905113862144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1857318001760219348",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rescuenomono @huahuojiang_ 你说的是那种呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1857316097093161231",
+        "created_at": "2024-11-15T07:11:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-15T08:11:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1857320505591930898"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1004555905113862144",
+              "start": 0,
+              "username": "Rescuenomono"
+            },
+            {
+              "end": 27,
+              "id": "1769078117052854272",
+              "start": 14,
+              "username": "huahuojiang_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857320505591930898",
+        "in_reply_to_user_id": "1004555905113862144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1857318001760219348",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rescuenomono @huahuojiang_ 你说的是那种呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1004555905113862144",
+        "conversation_id": "1857316097093161231",
+        "created_at": "2024-11-15T07:01:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-15T08:01:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1857318001760219348"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1826281483675299840",
+              "start": 0,
+              "username": "ci_shang85157"
+            },
+            {
+              "end": 28,
+              "id": "1769078117052854272",
+              "start": 15,
+              "username": "huahuojiang_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857318001760219348",
+        "in_reply_to_user_id": "1826281483675299840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1857316849136070855",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ci_shang85157 @huahuojiang_ 我總開始覺得你說的大頭照的定義上有一些差異…."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，有兴趣就可以一起玩",
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844188914451365901/gNnOT4GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 161,
+          "like_count": 531,
+          "listed_count": 0,
+          "tweet_count": 85
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2018-06-07T02:49:26.000Z",
+        "description": "雑垢。　GBF垢？それは時代の遺物だ！",
+        "id": "1004555905113862144",
+        "name": "證件的阿卡恩特",
+        "pinned_tweet_id": "1738770459452448833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741490404074401792/bLMogeOJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 60,
+          "like_count": 2198,
+          "listed_count": 0,
+          "tweet_count": 5920
+        },
+        "username": "Rescuenomono",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-16T19:07:54.000Z",
+        "description": "诶嘿～好无聊呀~｜加点东西@Marionette_Sa｜换一个提问箱：https://t.co/LtoB1mloS1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 13,
+                "username": "Marionette_Sa"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/huahuojiang/",
+                "end": 58,
+                "expanded_url": "https://ngl.link/huahuojiang/",
+                "start": 35,
+                "url": "https://t.co/LtoB1mloS1"
+              }
+            ]
+          }
+        },
+        "id": "1769078117052854272",
+        "location": "匹诺康尼",
+        "name": "花火酱～",
+        "pinned_tweet_id": "1856927284135170519",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770720359312240640/qCqdMpdW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3204,
+          "following_count": 2870,
+          "like_count": 41187,
+          "listed_count": 6,
+          "tweet_count": 28896
+        },
+        "username": "huahuojiang_",
+        "verified": false
+      }
+    ]
+  }
+}

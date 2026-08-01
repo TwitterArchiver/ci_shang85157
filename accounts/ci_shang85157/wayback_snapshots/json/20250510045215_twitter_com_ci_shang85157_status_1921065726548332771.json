@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1921064977760149916",
+    "created_at": "2025-05-10T04:52:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-10T05:52:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921065726548332771"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1177007765493100544",
+          "start": 0,
+          "username": "xiaokaotu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921065726548332771",
+    "in_reply_to_user_id": "1177007765493100544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921065465251557660",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaokaotu 还是很惊恐，刚刚上完课才想起来回来发个帖，食堂太油腻了，还咸的要死，下次不吃食堂了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1921064977760149916",
+        "created_at": "2025-05-10T04:52:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-10T05:52:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921065726548332771"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1177007765493100544",
+              "start": 0,
+              "username": "xiaokaotu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921065726548332771",
+        "in_reply_to_user_id": "1177007765493100544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921065465251557660",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaokaotu 还是很惊恐，刚刚上完课才想起来回来发个帖，食堂太油腻了，还咸的要死，下次不吃食堂了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1177007765493100544",
+        "conversation_id": "1921064977760149916",
+        "created_at": "2025-05-10T04:51:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-10T05:51:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921065465251557660"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1826281483675299840",
+              "start": 0,
+              "username": "ci_shang85157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921065465251557660",
+        "in_reply_to_user_id": "1826281483675299840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921064977760149916",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ci_shang85157 抱抱泉此方桑，来，给你喝杯咖啡☕️压压惊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 524,
+          "following_count": 479,
+          "like_count": 9036,
+          "listed_count": 2,
+          "media_count": 145,
+          "tweet_count": 3819
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-25T23:51:44.000Z",
+        "description": "只不过就是只普通的烤兔罢了",
+        "id": "1177007765493100544",
+        "location": "Los Angeles, CA",
+        "name": "小烤兔",
+        "pinned_tweet_id": "1920105921667100835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1530597125662208000/cz0DPr8V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2533,
+          "following_count": 238,
+          "like_count": 19992,
+          "listed_count": 17,
+          "media_count": 20,
+          "tweet_count": 671
+        },
+        "username": "xiaokaotu",
+        "verified": false
+      }
+    ]
+  }
+}

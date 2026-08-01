@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1919105954811191384",
+    "created_at": "2025-05-04T19:15:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-04T20:15:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919108593820766564"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1167708700863131648",
+          "start": 0,
+          "username": "cn_snake"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919108593820766564",
+    "in_reply_to_user_id": "1167708700863131648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919105954811191384",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cn_snake 超级玛丽吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1919105954811191384",
+        "created_at": "2025-05-04T19:15:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-04T20:15:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919108593820766564"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1167708700863131648",
+              "start": 0,
+              "username": "cn_snake"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919108593820766564",
+        "in_reply_to_user_id": "1167708700863131648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919105954811191384",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cn_snake 超级玛丽吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1167708700863131648",
+        "conversation_id": "1919105954811191384",
+        "created_at": "2025-05-04T19:04:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-04T20:04:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919105954811191384"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1919105954811191384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "已经完全变成钻洞推了,我有采集卡如果玩长的图的话，但是技术不够(掌机玩的比较多,用其他手柄玩,操作习惯就会变)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 451,
+          "following_count": 434,
+          "like_count": 8074,
+          "listed_count": 1,
+          "media_count": 138,
+          "tweet_count": 3425
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-31T08:06:23.000Z",
+        "description": "元Mugen勢、ゲームが好きな人。部分中国製作者のキャラを代理、日本語が下手だ、よろしくお願いします。\nPokemon/Smm2/FEH/Warcraft III\nDiscord Snakeヘビ#6317\nアイコン@sorachi_maru\nQQ:2785442184\nK20-XSX-S4G\nLeto Squad",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 107,
+                "username": "sorachi_maru"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@cn_snake",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@cn_snake",
+                "start": 0,
+                "url": "https://t.co/5BrWKK0z5C"
+              }
+            ]
+          }
+        },
+        "id": "1167708700863131648",
+        "location": "DeathWing#1",
+        "name": "霸王蛇",
+        "pinned_tweet_id": "1239154872433258496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848669368630317056/r330yr2t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3470,
+          "following_count": 7240,
+          "like_count": 59199,
+          "listed_count": 7,
+          "media_count": 867,
+          "tweet_count": 6289
+        },
+        "url": "https://t.co/5BrWKK0z5C",
+        "username": "cn_snake",
+        "verified": false
+      }
+    ]
+  }
+}

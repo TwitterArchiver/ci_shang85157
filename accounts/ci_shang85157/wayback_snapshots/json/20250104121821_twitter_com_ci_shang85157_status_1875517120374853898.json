@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1875126024574533632",
+    "created_at": "2025-01-04T12:18:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-04T13:18:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1875517120374853898"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1764921913380311040",
+          "start": 0,
+          "username": "AolongGao21019"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1875517120374853898",
+    "in_reply_to_user_id": "1764921913380311040",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1875323895022284910",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AolongGao21019 🐶叫"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1875126024574533632",
+        "created_at": "2025-01-04T12:18:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-04T13:18:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875517120374853898"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1764921913380311040",
+              "start": 0,
+              "username": "AolongGao21019"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875517120374853898",
+        "in_reply_to_user_id": "1764921913380311040",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875323895022284910",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AolongGao21019 🐶叫"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1764921913380311040",
+        "conversation_id": "1875126024574533632",
+        "created_at": "2025-01-03T23:30:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-04T00:30:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875323895022284910"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1826281483675299840",
+              "start": 0,
+              "username": "ci_shang85157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875323895022284910",
+        "in_reply_to_user_id": "1826281483675299840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875126024574533632",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ci_shang85157 高你麻痹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，有兴趣就可以一起玩",
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844188914451365901/gNnOT4GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 205,
+          "like_count": 1876,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 825
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-05T07:53:09.000Z",
+        "description": "I can activate the magic of time stop",
+        "id": "1764921913380311040",
+        "location": "Munich, Bavaria",
+        "name": "K·8（That's all）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1764922083329388544/1KUqnPEz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 1,
+          "like_count": 320,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 584
+        },
+        "username": "AolongGao21019",
+        "verified": false
+      }
+    ]
+  }
+}

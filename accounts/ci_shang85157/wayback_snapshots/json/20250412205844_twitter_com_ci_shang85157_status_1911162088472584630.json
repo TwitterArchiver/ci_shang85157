@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1910661464035045842",
+    "created_at": "2025-04-12T20:58:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-12T21:58:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1911162088472584630"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1793636329299066880",
+          "start": 0,
+          "username": "cuichuna7"
+        },
+        {
+          "end": 23,
+          "id": "1688536258983944192",
+          "start": 11,
+          "username": "cn_aria_lyx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1911162088472584630",
+    "in_reply_to_user_id": "1793636329299066880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1910725575196676499",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cuichuna7 @cn_aria_lyx 谢谢，我去试试"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1910661464035045842",
+        "created_at": "2025-04-12T20:58:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-12T21:58:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911162088472584630"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1793636329299066880",
+              "start": 0,
+              "username": "cuichuna7"
+            },
+            {
+              "end": 23,
+              "id": "1688536258983944192",
+              "start": 11,
+              "username": "cn_aria_lyx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911162088472584630",
+        "in_reply_to_user_id": "1793636329299066880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1910725575196676499",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cuichuna7 @cn_aria_lyx 谢谢，我去试试"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793636329299066880",
+        "conversation_id": "1910661464035045842",
+        "created_at": "2025-04-11T16:04:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-11T17:04:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1910725575196676499"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1688536258983944192",
+              "start": 0,
+              "username": "cn_aria_lyx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910725575196676499",
+        "in_reply_to_user_id": "1688536258983944192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 299,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1910661464035045842",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cn_aria_lyx 试试安非他酮，抗抑郁药副作用是体重下降（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 363,
+          "following_count": 356,
+          "like_count": 5291,
+          "listed_count": 1,
+          "media_count": 91,
+          "tweet_count": 2432
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-23T13:33:30.000Z",
+        "description": "🇹🇼🇺🇦/09的滴泪系小猫娘/identityV/抑郁症患者🥹/欢迎互fo，这里是time欢迎找我倾诉聊天😾最终目标是100000粉😿",
+        "id": "1793636329299066880",
+        "location": "宇宙之外",
+        "name": "graee.time☃︎（能不能讨个foTVT",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844267194240335874/5S0ww2Z4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2107,
+          "following_count": 3630,
+          "like_count": 7473,
+          "listed_count": 3,
+          "media_count": 156,
+          "tweet_count": 2409
+        },
+        "username": "cuichuna7",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-07T13:04:13.000Z",
+        "description": "渝XDFZ xyn喵🏳‍⚧ bir.2010 HRT 2025.3.14深柜（炸了的话家暴可能？）无证无rle  169cm 尝试变可爱&&减肥中呜呜呜 | OI(AFO)er | 前端嵌入式🐶 | CR/CRT车迷 | 彩笔音游人 | Arch Linux | INFP-T | 推新人欢迎互foQwQ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "0v0.my",
+                "end": 23,
+                "expanded_url": "https://0v0.my",
+                "start": 0,
+                "url": "https://t.co/JBDo2ZiNFs"
+              }
+            ]
+          }
+        },
+        "id": "1688536258983944192",
+        "location": "Chongqing, China",
+        "name": "Ariasaka🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908743164732776448/qjJoPzM9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 277,
+          "like_count": 62,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 65
+        },
+        "url": "https://t.co/JBDo2ZiNFs",
+        "username": "cn_aria_lyx",
+        "verified": false
+      }
+    ]
+  }
+}

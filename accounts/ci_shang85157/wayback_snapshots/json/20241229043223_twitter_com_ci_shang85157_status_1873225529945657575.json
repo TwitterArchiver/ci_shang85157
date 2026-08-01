@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1872691378637177121",
+    "created_at": "2024-12-29T04:32:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-29T05:32:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1873225529945657575"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1422093855235715076",
+          "start": 0,
+          "username": "bkyssj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1873225529945657575",
+    "in_reply_to_user_id": "1422093855235715076",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872691378637177121",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bkyssj 调情的话也要说点好的吧，这样的我感觉好恶心，调情归调情，这样说好像不把你当一个人一样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1872691378637177121",
+        "created_at": "2024-12-29T04:32:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-29T05:32:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1873225529945657575"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1422093855235715076",
+              "start": 0,
+              "username": "bkyssj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873225529945657575",
+        "in_reply_to_user_id": "1422093855235715076",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872691378637177121",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bkyssj 调情的话也要说点好的吧，这样的我感觉好恶心，调情归调情，这样说好像不把你当一个人一样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1422093855235715076",
+        "conversation_id": "1872691378637177121",
+        "created_at": "2024-12-27T17:09:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-27T18:09:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1872691378637177121"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1872691378637177121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 183991,
+          "like_count": 1280,
+          "quote_count": 2,
+          "reply_count": 60,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "当一个男的说出“鸡巴套子”的时候我已经开始自动默认划清界限了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，有兴趣就可以一起玩",
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844188914451365901/gNnOT4GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 295,
+          "like_count": 1613,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 664
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-02T07:16:23.000Z",
+        "description": "脾气不好，没有耐心，不是陪聊，不讨论政治相关问题，不收门槛，不卖淫，不加任何联系方式，可以请我喝咖啡但别指望我惯着你，保持边界感。",
+        "id": "1422093855235715076",
+        "location": "不闲聊，不参与黄赌毒，不搞小团体，没你想要的，取关随意",
+        "name": "十三",
+        "pinned_tweet_id": "1830637968778039296",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832746233540247552/8z9aHdTs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12298,
+          "following_count": 297,
+          "like_count": 43188,
+          "listed_count": 52,
+          "media_count": 2035,
+          "tweet_count": 31934
+        },
+        "username": "bkyssj",
+        "verified": false
+      }
+    ]
+  }
+}

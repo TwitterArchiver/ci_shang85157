@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1913985367721877803",
+    "created_at": "2025-04-21T14:19:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-21T15:19:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914323011936895045"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1880845685559554048",
+          "start": 0,
+          "username": "sshissshi11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914323011936895045",
+    "in_reply_to_user_id": "1880845685559554048",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913985367721877803",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sshissshi11 子弹正中眉心"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1913985367721877803",
+        "created_at": "2025-04-21T14:19:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-21T15:19:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914323011936895045"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1880845685559554048",
+              "start": 0,
+              "username": "sshissshi11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914323011936895045",
+        "in_reply_to_user_id": "1880845685559554048",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913985367721877803",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sshissshi11 子弹正中眉心"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880845685559554048",
+        "conversation_id": "1913985367721877803",
+        "created_at": "2025-04-20T15:57:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-20T16:57:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913985367721877803"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1913985367721877803",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18097,
+          "like_count": 173,
+          "quote_count": 0,
+          "reply_count": 23,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "推特真的成就了很多不该成就的人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 389,
+          "following_count": 373,
+          "like_count": 6177,
+          "listed_count": 1,
+          "media_count": 108,
+          "tweet_count": 2866
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-19T05:12:20.000Z",
+        "description": "盗图替我挡灾｜没有发其他平台｜就这一个号 其他均为骗子 谨防上当受骗",
+        "id": "1880845685559554048",
+        "location": "只接转推 推广自辨",
+        "name": "屎屎（别盗我图）",
+        "pinned_tweet_id": "1910347092725497942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881922246291386368/yxLHG_Id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8781,
+          "following_count": 64,
+          "like_count": 2239,
+          "listed_count": 17,
+          "media_count": 101,
+          "tweet_count": 981
+        },
+        "username": "sshissshi11",
+        "verified": false
+      }
+    ]
+  }
+}

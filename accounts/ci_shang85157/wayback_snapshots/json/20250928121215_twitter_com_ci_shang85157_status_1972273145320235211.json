@@ -1,0 +1,370 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1972271307212628164",
+    "created_at": "2025-09-28T12:12:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-28T13:12:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972273145320235211"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1824688188750712832",
+          "start": 0,
+          "username": "FKDengism"
+        },
+        {
+          "end": 22,
+          "id": "1935176310663401472",
+          "start": 11,
+          "username": "S_Hyoscine"
+        },
+        {
+          "end": 38,
+          "id": "1746353897403498496",
+          "start": 23,
+          "username": "wuyan_sleeeepy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972273145320235211",
+    "in_reply_to_user_id": "1824688188750712832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972271307212628164",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FKDengism @S_Hyoscine @wuyan_sleeeepy 这是什么🐶💩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1972271307212628164",
+        "created_at": "2025-09-28T12:12:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T13:12:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972273145320235211"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1824688188750712832",
+              "start": 0,
+              "username": "FKDengism"
+            },
+            {
+              "end": 22,
+              "id": "1935176310663401472",
+              "start": 11,
+              "username": "S_Hyoscine"
+            },
+            {
+              "end": 38,
+              "id": "1746353897403498496",
+              "start": 23,
+              "username": "wuyan_sleeeepy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972273145320235211",
+        "in_reply_to_user_id": "1824688188750712832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972271307212628164",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FKDengism @S_Hyoscine @wuyan_sleeeepy 这是什么🐶💩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1824688188750712832",
+        "conversation_id": "1972271307212628164",
+        "created_at": "2025-09-28T12:04:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T13:04:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972271307212628164"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1935176310663401472",
+              "start": 0,
+              "username": "S_Hyoscine"
+            },
+            {
+              "end": 28,
+              "id": "1746353897403498496",
+              "start": 13,
+              "username": "wuyan_sleeeepy"
+            },
+            {
+              "end": 44,
+              "id": "1826281483675299840",
+              "start": 30,
+              "username": "ci_shang85157"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/gracier12134/s…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/gracier12134/status/1972231608993566963",
+              "start": 45,
+              "url": "https://t.co/VfwsplwhMC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972271307212628164",
+        "in_reply_to_user_id": "1935176310663401472",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972231608993566963",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@S_Hyoscine \n@wuyan_sleeeepy \n@ci_shang85157 https://t.co/VfwsplwhMC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧 小男友@pertx114514还有穹璃 互fo可以私信我交朋友什么的 反正我还挺闲 然后就是没有然后了 一切都是最好的安排https://t.co/ILEWFdOQz0。 ngl匿名问答",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "pertx114514"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%8950122",
+                "end": 106,
+                "expanded_url": "https://ngl.link/%E6%B3%8950122",
+                "start": 83,
+                "url": "https://t.co/ILEWFdOQz0"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉方",
+        "pinned_tweet_id": "1970427616353296660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 811,
+          "following_count": 648,
+          "like_count": 16157,
+          "listed_count": 2,
+          "media_count": 193,
+          "tweet_count": 6345
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-17T06:02:43.000Z",
+        "description": "大众的康米主义者\n也许我们能触及美好未来.\n精神病患者 维特根斯坦学习中\n左脑攻击右脑就是发病了\n是所有苏马蜘蛛的野爹\n你该去看看@wuyan_sleeeepy的主页",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 65,
+                "username": "wuyan_sleeeepy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.wiki",
+                "end": 23,
+                "expanded_url": "http://overdose.wiki",
+                "start": 0,
+                "url": "https://t.co/eGQ2d8iUc2"
+              }
+            ]
+          }
+        },
+        "id": "1824688188750712832",
+        "location": "贝尔法斯特的爱尔兰公民",
+        "name": "Miss M.",
+        "pinned_tweet_id": "1971526373371256850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969319937983594496/XrNIfsjA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 707,
+          "following_count": 1454,
+          "like_count": 29886,
+          "listed_count": 1,
+          "media_count": 391,
+          "tweet_count": 8376
+        },
+        "url": "https://t.co/eGQ2d8iUc2",
+        "username": "FKDengism",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-18T03:23:09.000Z",
+        "description": "可以叫咱东东（又不知道说什么了捏）|神必日期：2025/01/15|抽象艺术爱好者|有一定要成为小天使的理由\n还有咱最最最最爱的姐姐： @LQL6778",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 68,
+                "username": "LQL6778"
+              }
+            ]
+          }
+        },
+        "id": "1935176310663401472",
+        "name": "东东东东莨菪碱🏳️‍⚧️",
+        "pinned_tweet_id": "1968114028758351894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969593169336565760/V6QQkMyN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 445,
+          "following_count": 587,
+          "like_count": 14371,
+          "listed_count": 2,
+          "media_count": 99,
+          "tweet_count": 2932
+        },
+        "username": "S_Hyoscine",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-14T02:10:02.000Z",
+        "description": "厨子阳痿主治医师@czz2360366574 猫猫@saya8964cat 永远爱@FKMarxism 这个人对我很冷淡，，，@wwttw133",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 8,
+                "username": "czz2360366574"
+              },
+              {
+                "end": 37,
+                "start": 25,
+                "username": "saya8964cat"
+              },
+              {
+                "end": 51,
+                "start": 41,
+                "username": "FKMarxism"
+              },
+              {
+                "end": 72,
+                "start": 63,
+                "username": "wwttw133"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wusanshui",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wusanshui",
+                "start": 0,
+                "url": "https://t.co/172LkvNUm2"
+              }
+            ]
+          }
+        },
+        "id": "1746353897403498496",
+        "location": "迷你世界",
+        "name": "三水水水",
+        "pinned_tweet_id": "1962571532879659324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957421800175849472/Rt7GiUUp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 247,
+          "like_count": 28073,
+          "listed_count": 3,
+          "media_count": 426,
+          "tweet_count": 4429
+        },
+        "url": "https://t.co/172LkvNUm2",
+        "username": "wuyan_sleeeepy",
+        "verified": false
+      }
+    ]
+  }
+}

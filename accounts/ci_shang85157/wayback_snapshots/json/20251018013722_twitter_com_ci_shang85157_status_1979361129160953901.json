@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1977662428344377579",
+    "created_at": "2025-10-18T01:37:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-18T02:37:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979361129160953901"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1787362723141169152",
+          "start": 0,
+          "username": "wynz262471"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979361129160953901",
+    "in_reply_to_user_id": "1787362723141169152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977662428344377579",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wynz262471 这个我是真喜欢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1325,
+        "media_key": "3_1977662373012897792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3IRcz0XAAAnlBc.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1977662372987674624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3IRczuWIAAY7wz.jpg",
+        "width": 1367
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1977662373000323072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3IRczxXIAAuwbK.jpg",
+        "width": 1367
+      },
+      {
+        "duration_ms": 8243,
+        "height": 1280,
+        "media_key": "7_1977662392147288064",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1977662392147288064/pu/img/QcC10XJ0ZKZVaJO_.jpg",
+        "public_metrics": {
+          "view_count": 3
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1977662392147288064/pu/vid/avc1/320x568/XPLpOL24K-nJfaCD.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1977662392147288064/pu/vid/avc1/480x852/DawQd5bKeJ7sJAd2.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1977662392147288064/pu/vid/avc1/720x1280/G2r2j_mEpm0fVzf1.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1977662392147288064/pu/pl/N0373YYo6Ul7guc4.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1977662428344377579",
+        "created_at": "2025-10-18T01:37:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T02:37:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979361129160953901"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1787362723141169152",
+              "start": 0,
+              "username": "wynz262471"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979361129160953901",
+        "in_reply_to_user_id": "1787362723141169152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977662428344377579",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wynz262471 这个我是真喜欢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977662373012897792",
+            "3_1977662372987674624",
+            "3_1977662373000323072",
+            "7_1977662392147288064"
+          ]
+        },
+        "author_id": "1787362723141169152",
+        "conversation_id": "1977662428344377579",
+        "created_at": "2025-10-13T09:07:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T10:07:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977662428344377579"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yLoen99NS0",
+              "end": 37,
+              "expanded_url": "https://x.com/wynz262471/status/1977662428344377579/video/1",
+              "media_key": "3_1977662373012897792",
+              "start": 14,
+              "url": "https://t.co/yLoen99NS0"
+            },
+            {
+              "display_url": "pic.x.com/yLoen99NS0",
+              "end": 37,
+              "expanded_url": "https://x.com/wynz262471/status/1977662428344377579/video/1",
+              "media_key": "3_1977662372987674624",
+              "start": 14,
+              "url": "https://t.co/yLoen99NS0"
+            },
+            {
+              "display_url": "pic.x.com/yLoen99NS0",
+              "end": 37,
+              "expanded_url": "https://x.com/wynz262471/status/1977662428344377579/video/1",
+              "media_key": "3_1977662373000323072",
+              "start": 14,
+              "url": "https://t.co/yLoen99NS0"
+            },
+            {
+              "display_url": "pic.x.com/yLoen99NS0",
+              "end": 37,
+              "expanded_url": "https://x.com/wynz262471/status/1977662428344377579/video/1",
+              "media_key": "7_1977662392147288064",
+              "start": 14,
+              "url": "https://t.co/yLoen99NS0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977662428344377579",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "男人也可以如此美丽吗😋😋😋 https://t.co/yLoen99NS0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧 小男友@pertx114514  结义兄弟@wuyan_sleeeepy还有穹璃 互fo可以私信我交朋友什么的 反正我还挺闲 然后就是没有然后了 一切都是最好的安排https://t.co/ILEWFdOQz0。 ngl匿名问答",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "pertx114514"
+              },
+              {
+                "end": 58,
+                "start": 43,
+                "username": "wuyan_sleeeepy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%8950122",
+                "end": 127,
+                "expanded_url": "https://ngl.link/%E6%B3%8950122",
+                "start": 104,
+                "url": "https://t.co/ILEWFdOQz0"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉",
+        "pinned_tweet_id": "1970427616353296660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978274114138996736/r_khhgIT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 824,
+          "following_count": 666,
+          "like_count": 17484,
+          "listed_count": 2,
+          "media_count": 201,
+          "tweet_count": 6652
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-06T06:04:38.000Z",
+        "description": "18y/ 183/44  坐标荆州沙市的大学生反差小狗一枚",
+        "id": "1787362723141169152",
+        "name": "拡炑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787412937990184961/bar7YUuz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 42,
+          "like_count": 316,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 14
+        },
+        "username": "wynz262471",
+        "verified": false
+      }
+    ]
+  }
+}

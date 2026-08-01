@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1875882511005630516",
+    "created_at": "2025-01-05T19:58:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-05T20:58:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1875995202483265698"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1859461030822199296",
+          "start": 0,
+          "username": "quanshiping2shi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1875995202483265698",
+    "in_reply_to_user_id": "1859461030822199296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1875882511005630516",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@quanshiping2shi 试试抖音放心借"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1875882511005630516",
+        "created_at": "2025-01-05T19:58:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-05T20:58:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875995202483265698"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1859461030822199296",
+              "start": 0,
+              "username": "quanshiping2shi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875995202483265698",
+        "in_reply_to_user_id": "1859461030822199296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875882511005630516",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@quanshiping2shi 试试抖音放心借"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1859461030822199296",
+        "conversation_id": "1875882511005630516",
+        "created_at": "2025-01-05T12:30:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-05T13:30:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1875882511005630516"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1875882511005630516",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 473,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉，缺钱，谁能借我点儿钱。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，有兴趣就可以一起玩",
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844188914451365901/gNnOT4GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 209,
+          "like_count": 1903,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 837
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-21T04:57:20.000Z",
+        "description": "百分百互fo",
+        "id": "1859461030822199296",
+        "name": "权世平二世",
+        "pinned_tweet_id": "1875882511005630516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860593166543364096/A7tIbLXy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 522,
+          "following_count": 1141,
+          "like_count": 965,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 816
+        },
+        "username": "quanshiping2shi",
+        "verified": false
+      }
+    ]
+  }
+}

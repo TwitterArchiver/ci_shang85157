@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1904095590092582980",
+    "created_at": "2025-04-06T12:18:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-06T13:18:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908856800373510356"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1831961897899585536",
+          "start": 0,
+          "username": "kiriyama_lemon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908856800373510356",
+    "in_reply_to_user_id": "1831961897899585536",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908830515358203939",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kiriyama_lemon 我去"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1904095590092582980",
+        "created_at": "2025-04-06T12:18:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T13:18:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908856800373510356"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1831961897899585536",
+              "start": 0,
+              "username": "kiriyama_lemon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908856800373510356",
+        "in_reply_to_user_id": "1831961897899585536",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908830515358203939",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kiriyama_lemon 我去"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1831961897899585536",
+        "conversation_id": "1904095590092582980",
+        "created_at": "2025-04-06T10:33:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T11:33:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908830515358203939"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1826281483675299840",
+              "start": 0,
+              "username": "ci_shang85157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908830515358203939",
+        "in_reply_to_user_id": "1826281483675299840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904251056072372689",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ci_shang85157 成都"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 348,
+          "following_count": 348,
+          "like_count": 4980,
+          "listed_count": 1,
+          "media_count": 89,
+          "tweet_count": 2256
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-06T07:45:44.000Z",
+        "description": "一头人机/ 恋人@Kagurazakahyoto 匿名提问https://t.co/Ozgtc71AnS",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 8,
+                "username": "Kagurazakahyoto"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/sukabak01",
+                "end": 52,
+                "expanded_url": "https://ngl.link/sukabak01",
+                "start": 29,
+                "url": "https://t.co/Ozgtc71AnS"
+              }
+            ]
+          }
+        },
+        "id": "1831961897899585536",
+        "location": "距离15.9km",
+        "name": "坂下三花",
+        "pinned_tweet_id": "1895080229955371363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908096800269201408/6TZhi2TD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 778,
+          "following_count": 865,
+          "like_count": 68301,
+          "listed_count": 6,
+          "media_count": 1918,
+          "tweet_count": 14253
+        },
+        "username": "kiriyama_lemon",
+        "verified": false
+      }
+    ]
+  }
+}

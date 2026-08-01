@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1897240279993999652",
+    "created_at": "2025-03-05T16:09:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-05T17:09:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897318480212562171"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1780965445018783744",
+          "start": 0,
+          "username": "xbkpmn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897318480212562171",
+    "in_reply_to_user_id": "1780965445018783744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897316369320051058",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xbkpmn 是啊，我想要很多爱和很多朋友"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1897240279993999652",
+        "created_at": "2025-03-05T16:09:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-05T17:09:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897318480212562171"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1780965445018783744",
+              "start": 0,
+              "username": "xbkpmn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897318480212562171",
+        "in_reply_to_user_id": "1780965445018783744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897316369320051058",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xbkpmn 是啊，我想要很多爱和很多朋友"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780965445018783744",
+        "conversation_id": "1897240279993999652",
+        "created_at": "2025-03-05T16:00:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-05T17:00:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897316369320051058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1826281483675299840",
+              "start": 0,
+              "username": "ci_shang85157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897316369320051058",
+        "in_reply_to_user_id": "1826281483675299840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897240279993999652",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ci_shang85157 你是缺爱了吧孩子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844188914451365901/gNnOT4GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 299,
+          "like_count": 2972,
+          "listed_count": 1,
+          "media_count": 62,
+          "tweet_count": 1379
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-18T14:24:10.000Z",
+        "description": "可以和我交朋友吗？\n应该没人看见我吧",
+        "id": "1780965445018783744",
+        "name": "此方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780993175764803584/OZTRMxjW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 998,
+          "like_count": 1304,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 571
+        },
+        "username": "xbkpmn",
+        "verified": false
+      }
+    ]
+  }
+}

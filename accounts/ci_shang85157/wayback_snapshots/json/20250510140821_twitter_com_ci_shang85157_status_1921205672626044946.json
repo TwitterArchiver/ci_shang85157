@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1920704787894481023",
+    "created_at": "2025-05-10T14:08:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-10T15:08:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921205672626044946"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1897563168559525888",
+          "start": 0,
+          "username": "8964Moothreesan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921205672626044946",
+    "in_reply_to_user_id": "1897563168559525888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921199813556658576",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8964Moothreesan 还卷？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1920704787894481023",
+        "created_at": "2025-05-10T14:08:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-10T15:08:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921205672626044946"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1897563168559525888",
+              "start": 0,
+              "username": "8964Moothreesan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921205672626044946",
+        "in_reply_to_user_id": "1897563168559525888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921199813556658576",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964Moothreesan 还卷？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897563168559525888",
+        "conversation_id": "1920704787894481023",
+        "created_at": "2025-05-10T13:45:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-10T14:45:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921199813556658576"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1826281483675299840",
+              "start": 0,
+              "username": "ci_shang85157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921199813556658576",
+        "in_reply_to_user_id": "1826281483675299840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920704787894481023",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ci_shang85157 我多干两小时不要加班费，一定能把他挤下去嘿嘿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 534,
+          "following_count": 485,
+          "like_count": 9098,
+          "listed_count": 2,
+          "media_count": 146,
+          "tweet_count": 3838
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-06T08:21:49.000Z",
+        "description": "冷静一点呢亲",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "cpcnews.cn",
+                "end": 23,
+                "expanded_url": "http://www.cpcnews.cn",
+                "start": 0,
+                "url": "https://t.co/mIAU0nXS78"
+              }
+            ]
+          }
+        },
+        "id": "1897563168559525888",
+        "location": "中南海",
+        "name": "迷人の暮酱",
+        "pinned_tweet_id": "1905256193377141138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897564315567153152/uf5nUdBJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 505,
+          "following_count": 478,
+          "like_count": 8497,
+          "listed_count": 2,
+          "media_count": 91,
+          "tweet_count": 2429
+        },
+        "url": "https://t.co/mIAU0nXS78",
+        "username": "8964Moothreesan",
+        "verified": true
+      }
+    ]
+  }
+}

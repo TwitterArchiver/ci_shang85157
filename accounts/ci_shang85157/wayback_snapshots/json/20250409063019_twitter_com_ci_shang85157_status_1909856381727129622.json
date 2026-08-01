@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1909829567470354867",
+    "created_at": "2025-04-09T06:30:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-09T07:30:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909856381727129622"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1737474298934161409",
+          "start": 0,
+          "username": "blueicesama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909856381727129622",
+    "in_reply_to_user_id": "1737474298934161409",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909829567470354867",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@blueicesama 我是通讯录"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 395,
+        "media_key": "3_1909829556930007040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoET3QJa0AA9J-0.jpg",
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1909829567470354867",
+        "created_at": "2025-04-09T06:30:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-09T07:30:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909856381727129622"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1737474298934161409",
+              "start": 0,
+              "username": "blueicesama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909856381727129622",
+        "in_reply_to_user_id": "1737474298934161409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909829567470354867",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@blueicesama 我是通讯录"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1909829556930007040"
+          ]
+        },
+        "author_id": "1737474298934161409",
+        "conversation_id": "1909829567470354867",
+        "created_at": "2025-04-09T04:43:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-09T05:43:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1909829567470354867"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/p9U5H0Az2I",
+              "end": 45,
+              "expanded_url": "https://x.com/blueicesama/status/1909829567470354867/photo/1",
+              "media_key": "3_1909829556930007040",
+              "start": 22,
+              "url": "https://t.co/p9U5H0Az2I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909829567470354867",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1255,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "😢身边的男通讯录好少\n我要亲自掰弯一些😏😏 https://t.co/p9U5H0Az2I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 360,
+          "following_count": 353,
+          "like_count": 5194,
+          "listed_count": 1,
+          "media_count": 92,
+          "tweet_count": 2376
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-20T14:05:40.000Z",
+        "description": "🏳️‍🌈/INFJ-T/🐾 furry/mc/铁道/果粉/现居辽宁大连/苦逼美术生/中文·日本語·EN/ 带着点燃生活热情的期盼奔跑——/「落し水 岐れて細き 川生る(@blueicesamaQWQ)」←里推",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 84,
+                "username": "blueicesamaQWQ"
+              }
+            ]
+          }
+        },
+        "id": "1737474298934161409",
+        "location": "蓝冰冰的小窝",
+        "name": "蓝冰冰冰蓝蓝",
+        "pinned_tweet_id": "1892504831065247947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875804058004676608/uKIbIoPg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1248,
+          "following_count": 1849,
+          "like_count": 11503,
+          "listed_count": 3,
+          "media_count": 328,
+          "tweet_count": 2564
+        },
+        "username": "blueicesama",
+        "verified": false
+      }
+    ]
+  }
+}

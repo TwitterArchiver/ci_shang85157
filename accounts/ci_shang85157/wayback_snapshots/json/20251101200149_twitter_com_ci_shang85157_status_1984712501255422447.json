@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1984283286143934464"
+      ],
+      "media_source_tweet_id": [
+        "1984283290027868332"
+      ]
+    },
+    "author_id": "1826281483675299840",
+    "conversation_id": "1984712501255422447",
+    "created_at": "2025-11-01T20:01:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T21:01:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984712501255422447"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1705262200036925440",
+          "start": 3,
+          "username": "xinjie87288"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vSi1qIDoX3",
+          "end": 53,
+          "expanded_url": "https://x.com/xinjie87288/status/1984283290027868332/photo/1",
+          "media_key": "3_1984283286143934464",
+          "start": 30,
+          "url": "https://t.co/vSi1qIDoX3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984712501255422447",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984283290027868332",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xinjie87288: 令人毫无欲望的身材🥹🥹🥹 https://t.co/vSi1qIDoX3"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1984712501255422447].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1984712501255422447",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1984712501255422447"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1984283286143934464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4mXIrRaoAAUURp.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984283286143934464"
+          ]
+        },
+        "author_id": "1705262200036925440",
+        "conversation_id": "1984283290027868332",
+        "created_at": "2025-10-31T15:36:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T16:36:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984283290027868332"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vSi1qIDoX3",
+              "end": 36,
+              "expanded_url": "https://x.com/xinjie87288/status/1984283290027868332/photo/1",
+              "media_key": "3_1984283286143934464",
+              "start": 13,
+              "url": "https://t.co/vSi1qIDoX3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984283290027868332",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "令人毫无欲望的身材🥹🥹🥹 https://t.co/vSi1qIDoX3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧 小男友@pertx114514  结义兄弟@wuyan_sleeeepy @SoSleepy4wy还有穹璃 求求你们了找我聊天好不好https://t.co/ILEWFdOiJs。 ngl匿名问答",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "pertx114514"
+              },
+              {
+                "end": 58,
+                "start": 43,
+                "username": "wuyan_sleeeepy"
+              },
+              {
+                "end": 71,
+                "start": 59,
+                "username": "SoSleepy4wy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%8950122",
+                "end": 111,
+                "expanded_url": "https://ngl.link/%E6%B3%8950122",
+                "start": 88,
+                "url": "https://t.co/ILEWFdOiJs"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉",
+        "pinned_tweet_id": "1970427616353296660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978274114138996736/r_khhgIT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 826,
+          "following_count": 665,
+          "like_count": 17980,
+          "listed_count": 2,
+          "media_count": 209,
+          "tweet_count": 6854
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-22T16:46:18.000Z",
+        "description": "现在大二，无证含糖，要当小药娘了25年3月9号开始吃的色，20号开始吃的补记录一下身体的变化，不定期上线",
+        "id": "1705262200036925440",
+        "name": "心劫🏳‍⚧️🍥",
+        "pinned_tweet_id": "1979934845250761204",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864526109850914822/92ZGss9i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 745,
+          "like_count": 235,
+          "listed_count": 1,
+          "media_count": 104,
+          "tweet_count": 374
+        },
+        "username": "xinjie87288",
+        "verified": false
+      }
+    ]
+  }
+}

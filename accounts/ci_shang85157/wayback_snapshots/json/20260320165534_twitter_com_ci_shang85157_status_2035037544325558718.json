@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "2034952016930521102",
+    "created_at": "2026-03-20T16:55:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T17:55:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035037544325558718"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1604154566206926848",
+          "start": 0,
+          "username": "OoRe02086112"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035037544325558718",
+    "in_reply_to_user_id": "1604154566206926848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034952016930521102",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OoRe02086112 坐着尴尬呗 还能怎么办"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "2034952016930521102",
+        "created_at": "2026-03-20T16:55:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T17:55:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035037544325558718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1604154566206926848",
+              "start": 0,
+              "username": "OoRe02086112"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035037544325558718",
+        "in_reply_to_user_id": "1604154566206926848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034952016930521102",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OoRe02086112 坐着尴尬呗 还能怎么办"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1604154566206926848",
+        "conversation_id": "2034952016930521102",
+        "created_at": "2026-03-20T11:15:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T12:15:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034952016930521102"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034952016930521102",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 235598,
+          "like_count": 1111,
+          "quote_count": 21,
+          "reply_count": 224,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "如果在摩天轮顶点告白被拒绝了，剩下半圈该怎么办"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧 https://t.co/ILEWFdOQz0。 ngl匿名问答 想交朋友或者互fo尽管私信我 每个人都会回",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%8950122",
+                "end": 45,
+                "expanded_url": "https://ngl.link/%E6%B3%8950122",
+                "start": 22,
+                "url": "https://t.co/ILEWFdOQz0"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "永雏泉",
+        "pinned_tweet_id": "2019557886406578564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978274114138996736/r_khhgIT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1090,
+          "following_count": 715,
+          "like_count": 22491,
+          "listed_count": 2,
+          "media_count": 254,
+          "tweet_count": 8192
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-17T16:40:47.000Z",
+        "description": "叫我小o就好了☺️｜随便写写✍️不喜欢直接屏蔽，骂我会爽🖕🏻｜偶尔写点抽象奖励自己｜录制前请先授权！发布请@ ｜接定制！！｜看置顶🔝",
+        "id": "1604154566206926848",
+        "name": "OO",
+        "pinned_tweet_id": "1917263464080498744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004584541370134528/SWX7TSmK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100600,
+          "following_count": 272,
+          "like_count": 5532,
+          "listed_count": 137,
+          "media_count": 326,
+          "tweet_count": 2252
+        },
+        "username": "OoRe02086112",
+        "verified": false
+      }
+    ]
+  }
+}

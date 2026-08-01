@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1963575266904592392",
+    "created_at": "2025-09-05T11:16:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-05T12:16:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963924212554547687"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1292795033272213510",
+          "start": 0,
+          "username": "xuaning2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963924212554547687",
+    "in_reply_to_user_id": "1292795033272213510",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963575266904592392",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xuaning2 这个该怎么gout理发师剪"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1365,
+        "media_key": "3_1963575247552339968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0AFSMAbYAAfFU2.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1365,
+        "media_key": "3_1963575247552352258",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0AFSMAbkAIo6Wn.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1365,
+        "media_key": "3_1963575247552368640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0AFSMAb0AAVtU-.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1365,
+        "media_key": "3_1963575247619461120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0AFSMQbkAAKEzw.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1963575266904592392",
+        "created_at": "2025-09-05T11:16:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T12:16:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963924212554547687"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1292795033272213510",
+              "start": 0,
+              "username": "xuaning2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963924212554547687",
+        "in_reply_to_user_id": "1292795033272213510",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963575266904592392",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xuaning2 这个该怎么gout理发师剪"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963575247552339968",
+            "3_1963575247552352258",
+            "3_1963575247552368640",
+            "3_1963575247619461120"
+          ]
+        },
+        "author_id": "1292795033272213510",
+        "conversation_id": "1963575266904592392",
+        "created_at": "2025-09-04T12:09:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T13:09:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963575266904592392"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FsCcnyTs6n",
+              "end": 23,
+              "expanded_url": "https://x.com/xuaning2/status/1963575266904592392/photo/1",
+              "media_key": "3_1963575247552339968",
+              "start": 0,
+              "url": "https://t.co/FsCcnyTs6n"
+            },
+            {
+              "display_url": "pic.x.com/FsCcnyTs6n",
+              "end": 23,
+              "expanded_url": "https://x.com/xuaning2/status/1963575266904592392/photo/1",
+              "media_key": "3_1963575247552352258",
+              "start": 0,
+              "url": "https://t.co/FsCcnyTs6n"
+            },
+            {
+              "display_url": "pic.x.com/FsCcnyTs6n",
+              "end": 23,
+              "expanded_url": "https://x.com/xuaning2/status/1963575266904592392/photo/1",
+              "media_key": "3_1963575247552368640",
+              "start": 0,
+              "url": "https://t.co/FsCcnyTs6n"
+            },
+            {
+              "display_url": "pic.x.com/FsCcnyTs6n",
+              "end": 23,
+              "expanded_url": "https://x.com/xuaning2/status/1963575266904592392/photo/1",
+              "media_key": "3_1963575247619461120",
+              "start": 0,
+              "url": "https://t.co/FsCcnyTs6n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963575266904592392",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 10343,
+          "like_count": 113,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/FsCcnyTs6n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧   小男友@pertx114514",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 27,
+                "username": "pertx114514"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉方",
+        "pinned_tweet_id": "1963923748203139355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 759,
+          "following_count": 594,
+          "like_count": 14252,
+          "listed_count": 3,
+          "media_count": 171,
+          "tweet_count": 5704
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-10T12:08:55.000Z",
+        "description": "170/50 黑皮小药娘femaleboy  无证含糖hrt（2025.2.22—）上海/sub小狗/黑皮/大唧唧。现实不好看，网上看看就好",
+        "id": "1292795033272213510",
+        "location": "🚪88",
+        "name": "小蜘xiaozi",
+        "pinned_tweet_id": "1955172569541382487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915789412212051968/Qb4e7bVv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23230,
+          "following_count": 852,
+          "like_count": 5284,
+          "listed_count": 116,
+          "media_count": 64,
+          "tweet_count": 136
+        },
+        "username": "xuaning2",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1874655016642088961"
+      ]
+    },
+    "author_id": "1826281483675299840",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      }
+    ],
+    "conversation_id": "1874655050175545524",
+    "created_at": "2025-01-02T03:12:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-02T04:12:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1874655050175545524"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/exzbLbCc3B",
+          "end": 76,
+          "expanded_url": "https://x.com/ci_shang85157/status/1874655050175545524/video/1",
+          "media_key": "7_1874655016642088961",
+          "start": 53,
+          "url": "https://t.co/exzbLbCc3B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1874655050175545524",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不讨厌爱国，但是华为你打着这个旗号当噱头是不是有点太给人当傻逼了。视频标题：华为鸿蒙Next的特殊功能。 https://t.co/exzbLbCc3B"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1874655050175545524].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1874655050175545524",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1874655050175545524"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20549,
+        "height": 1280,
+        "media_key": "7_1874655016642088961",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1874655016642088961/pu/img/DvLcv3ZOIzrKk_5G.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1874655016642088961/pu/vid/avc1/320x568/xnLpZzoJE5AGt19u.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1874655016642088961/pu/vid/avc1/480x852/oXtUiuNWfCVEXdKN.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1874655016642088961/pu/vid/avc1/720x1280/JHbgvpux6zWNw1Hp.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1874655016642088961/pu/pl/5cDgIDCOTGW-WB55.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，有兴趣就可以一起玩",
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844188914451365901/gNnOT4GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 294,
+          "like_count": 1745,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 738
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      }
+    ]
+  }
+}

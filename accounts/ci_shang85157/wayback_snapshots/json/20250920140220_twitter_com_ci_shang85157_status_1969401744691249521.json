@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1969318551832997906",
+    "created_at": "2025-09-20T14:02:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-20T15:02:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969401744691249521"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1936302344159084548",
+          "start": 0,
+          "username": "Esther690320220"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969401744691249521",
+    "in_reply_to_user_id": "1936302344159084548",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969318551832997906",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Esther690320220 看你骂人太解压了，完全是出于本能性的攻击，没有任何有点做作，感觉你骂人不是为了什么东西，纯粹就是为了骂而骂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1969318551832997906",
+        "created_at": "2025-09-20T14:02:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T15:02:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969401744691249521"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1936302344159084548",
+              "start": 0,
+              "username": "Esther690320220"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969401744691249521",
+        "in_reply_to_user_id": "1936302344159084548",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969318551832997906",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Esther690320220 看你骂人太解压了，完全是出于本能性的攻击，没有任何有点做作，感觉你骂人不是为了什么东西，纯粹就是为了骂而骂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "1969318550302310400"
+          ]
+        },
+        "author_id": "1936302344159084548",
+        "conversation_id": "1969318551832997906",
+        "created_at": "2025-09-20T08:31:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T09:31:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969318551832997906"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1969318551832997906",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 618,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我怎么都快2000fo了，宝宝们是为什么关注我的，因为我骂人还是擦边，我好奇这个"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧 小男友@pertx114514 星努@wuyan_sleeeepy还有穹璃 互fo可以私信我交朋友什么的 反正我还挺闲 然后就是没有然后了 一切都是最好的安排https://t.co/ILEWFdOQz0。 ngl匿名问答",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "pertx114514"
+              },
+              {
+                "end": 55,
+                "start": 40,
+                "username": "wuyan_sleeeepy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%8950122",
+                "end": 124,
+                "expanded_url": "https://ngl.link/%E6%B3%8950122",
+                "start": 101,
+                "url": "https://t.co/ILEWFdOQz0"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉方",
+        "pinned_tweet_id": "1932824152811188484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 797,
+          "following_count": 633,
+          "like_count": 15367,
+          "listed_count": 3,
+          "media_count": 185,
+          "tweet_count": 6109
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-21T05:57:22.000Z",
+        "description": "骂死过人",
+        "id": "1936302344159084548",
+        "name": "你让让我吧行吗",
+        "pinned_tweet_id": "1964008060134846525",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938964915433132032/SwX3zIIn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1977,
+          "following_count": 62,
+          "like_count": 2124,
+          "listed_count": 8,
+          "media_count": 79,
+          "tweet_count": 1548
+        },
+        "username": "Esther690320220",
+        "verified": false
+      }
+    ]
+  }
+}

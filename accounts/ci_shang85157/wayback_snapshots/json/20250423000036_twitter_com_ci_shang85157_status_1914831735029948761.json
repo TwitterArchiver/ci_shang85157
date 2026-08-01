@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1914515429487456574",
+    "created_at": "2025-04-23T00:00:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-23T01:00:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914831735029948761"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1896816828321792000",
+          "start": 0,
+          "username": "cookiepyyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914831735029948761",
+    "in_reply_to_user_id": "1896816828321792000",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914515429487456574",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cookiepyyy 六位数嘛，那很炫耀了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 818,
+        "media_key": "3_1914515420838797312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpG5obgaoAAuakB.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1914515429487456574",
+        "created_at": "2025-04-23T00:00:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-23T01:00:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914831735029948761"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1896816828321792000",
+              "start": 0,
+              "username": "cookiepyyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914831735029948761",
+        "in_reply_to_user_id": "1896816828321792000",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914515429487456574",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cookiepyyy 六位数嘛，那很炫耀了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1914515420838797312"
+          ]
+        },
+        "author_id": "1896816828321792000",
+        "conversation_id": "1914515429487456574",
+        "created_at": "2025-04-22T03:03:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T04:03:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914515429487456574"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XikH3urOuh",
+              "end": 47,
+              "expanded_url": "https://x.com/cookiepyyy/status/1914515429487456574/photo/1",
+              "media_key": "3_1914515420838797312",
+              "start": 24,
+              "url": "https://t.co/XikH3urOuh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914515429487456574",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3876,
+          "like_count": 65,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好消息：提前发工资了 坏消息：工资跟验证码似的 https://t.co/XikH3urOuh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 399,
+          "following_count": 376,
+          "like_count": 6452,
+          "listed_count": 1,
+          "media_count": 113,
+          "tweet_count": 2957
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-04T06:56:15.000Z",
+        "description": "碎碎念废话大王/天天开心",
+        "id": "1896816828321792000",
+        "name": "D.ga",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896818073690308608/kg9bj2YC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 109,
+          "like_count": 214,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 168
+        },
+        "username": "cookiepyyy",
+        "verified": false
+      }
+    ]
+  }
+}

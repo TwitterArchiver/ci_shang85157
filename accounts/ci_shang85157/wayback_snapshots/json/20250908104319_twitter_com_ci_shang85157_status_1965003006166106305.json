@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1965000722149441867",
+    "created_at": "2025-09-08T10:43:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-08T11:43:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965003006166106305"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1878981575427162114",
+          "start": 0,
+          "username": "kimKAAAAAILuv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965003006166106305",
+    "in_reply_to_user_id": "1878981575427162114",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965000722149441867",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kimKAAAAAILuv 你菜死了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 922,
+        "media_key": "3_1965000719561535488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0UVvlDaMAA06DS.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1965000722149441867",
+        "created_at": "2025-09-08T10:43:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T11:43:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965003006166106305"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1878981575427162114",
+              "start": 0,
+              "username": "kimKAAAAAILuv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965003006166106305",
+        "in_reply_to_user_id": "1878981575427162114",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965000722149441867",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kimKAAAAAILuv 你菜死了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965000719561535488"
+          ]
+        },
+        "author_id": "1878981575427162114",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1965000722149441867",
+        "created_at": "2025-09-08T10:34:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T11:34:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965000722149441867"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y5kyuAjIQK",
+              "end": 31,
+              "expanded_url": "https://x.com/kimKAAAAAILuv/status/1965000722149441867/photo/1",
+              "media_key": "3_1965000719561535488",
+              "start": 8,
+              "url": "https://t.co/Y5kyuAjIQK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965000722149441867",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "队友我操你妈逼 https://t.co/Y5kyuAjIQK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧   小男友@pertx114514",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 27,
+                "username": "pertx114514"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉方",
+        "pinned_tweet_id": "1963923748203139355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 775,
+          "following_count": 608,
+          "like_count": 14519,
+          "listed_count": 3,
+          "media_count": 175,
+          "tweet_count": 5812
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-14T01:45:48.000Z",
+        "description": "王者荣耀我操你血妈！",
+        "id": "1878981575427162114",
+        "name": "废话少讲好吗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879010527458058240/lWfyqqhU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 77,
+          "like_count": 896,
+          "listed_count": 0,
+          "media_count": 250,
+          "tweet_count": 1609
+        },
+        "username": "kimKAAAAAILuv",
+        "verified": false
+      }
+    ]
+  }
+}

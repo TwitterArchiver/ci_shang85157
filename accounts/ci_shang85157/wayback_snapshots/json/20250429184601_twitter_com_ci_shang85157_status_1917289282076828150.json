@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1916822967310553524",
+    "created_at": "2025-04-29T18:46:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-29T19:46:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917289282076828150"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1829423359043719169",
+          "start": 0,
+          "username": "ujjkujjk74901"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917289282076828150",
+    "in_reply_to_user_id": "1829423359043719169",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916822967310553524",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ujjkujjk74901 孤独的美食家"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 726,
+        "media_key": "3_1916822964592660480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpnsVJ3bUAA3z23.jpg",
+        "width": 920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1916822967310553524",
+        "created_at": "2025-04-29T18:46:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T19:46:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917289282076828150"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1829423359043719169",
+              "start": 0,
+              "username": "ujjkujjk74901"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917289282076828150",
+        "in_reply_to_user_id": "1829423359043719169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916822967310553524",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ujjkujjk74901 孤独的美食家"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1916822964592660480"
+          ]
+        },
+        "author_id": "1829423359043719169",
+        "conversation_id": "1916822967310553524",
+        "created_at": "2025-04-28T11:53:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-28T12:53:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916822967310553524"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hd7lHGxTtU",
+              "end": 30,
+              "expanded_url": "https://x.com/ujjkujjk74901/status/1916822967310553524/photo/1",
+              "media_key": "3_1916822964592660480",
+              "start": 7,
+              "url": "https://t.co/hd7lHGxTtU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916822967310553524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 23161,
+          "like_count": 303,
+          "quote_count": 6,
+          "reply_count": 38,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "这是在干什么 https://t.co/hd7lHGxTtU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 429,
+          "following_count": 409,
+          "like_count": 7468,
+          "listed_count": 1,
+          "media_count": 133,
+          "tweet_count": 3230
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-30T07:38:25.000Z",
+        "description": "战无不胜的我思想万岁 里推@ujjkujjk74902",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 13,
+                "username": "ujjkujjk74902"
+              }
+            ]
+          }
+        },
+        "id": "1829423359043719169",
+        "location": "中南海",
+        "name": "一般通过大粉红",
+        "pinned_tweet_id": "1917086547092115832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900494958550982656/nJnEWYUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1042,
+          "following_count": 182,
+          "like_count": 540,
+          "listed_count": 6,
+          "media_count": 124,
+          "tweet_count": 1029
+        },
+        "username": "ujjkujjk74901",
+        "verified": false
+      }
+    ]
+  }
+}

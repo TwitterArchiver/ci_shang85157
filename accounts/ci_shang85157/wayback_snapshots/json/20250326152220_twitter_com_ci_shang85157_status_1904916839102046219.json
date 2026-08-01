@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1904863255962804385",
+    "created_at": "2025-03-26T15:22:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-26T16:22:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904916839102046219"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1844410398407323648",
+          "start": 0,
+          "username": "cxbot10"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904916839102046219",
+    "in_reply_to_user_id": "1844410398407323648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904863255962804385",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cxbot10 误码仪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1904863255962804385",
+        "created_at": "2025-03-26T15:22:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-26T16:22:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904916839102046219"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1844410398407323648",
+              "start": 0,
+              "username": "cxbot10"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904916839102046219",
+        "in_reply_to_user_id": "1844410398407323648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904863255962804385",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cxbot10 误码仪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844410398407323648",
+        "conversation_id": "1904863255962804385",
+        "created_at": "2025-03-26T11:49:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-26T12:49:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1904863255962804385"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1904863255962804385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 785,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你们想看会员制餐厅吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 334,
+          "following_count": 336,
+          "like_count": 4635,
+          "listed_count": 1,
+          "media_count": 83,
+          "tweet_count": 2068
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-10T16:11:30.000Z",
+        "description": "大号 @dsfin1989被封",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 3,
+                "username": "dsfin1989"
+              }
+            ]
+          }
+        },
+        "id": "1844410398407323648",
+        "location": "奶龙的爱巢",
+        "name": "仿生河南人会偷电子井盖吗",
+        "pinned_tweet_id": "1904540486553276660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904545069186613248/QjnSaGHv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 933,
+          "following_count": 390,
+          "like_count": 536,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 151
+        },
+        "username": "cxbot10",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1957246887578210642",
+    "created_at": "2025-08-18T02:42:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-18T03:42:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957271955389964716"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1711301624726208512",
+          "start": 0,
+          "username": "sharkhopeuhappy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957271955389964716",
+    "in_reply_to_user_id": "1711301624726208512",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957246887578210642",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sharkhopeuhappy 好吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_1957246863339638784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GymJpvsbUAA2WO0.jpg",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "media_key": "3_1957246863507431424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GymJpwUboAAFjuG.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1957246887578210642",
+        "created_at": "2025-08-18T02:42:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T03:42:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957271955389964716"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1711301624726208512",
+              "start": 0,
+              "username": "sharkhopeuhappy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957271955389964716",
+        "in_reply_to_user_id": "1711301624726208512",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957246887578210642",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sharkhopeuhappy 好吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957246863339638784",
+            "3_1957246863507431424"
+          ]
+        },
+        "author_id": "1711301624726208512",
+        "conversation_id": "1957246887578210642",
+        "created_at": "2025-08-18T01:03:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T02:03:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957246887578210642"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iF3DMiYXlc",
+              "end": 43,
+              "expanded_url": "https://x.com/sharkhopeuhappy/status/1957246887578210642/photo/1",
+              "media_key": "3_1957246863339638784",
+              "start": 20,
+              "url": "https://t.co/iF3DMiYXlc"
+            },
+            {
+              "display_url": "pic.x.com/iF3DMiYXlc",
+              "end": 43,
+              "expanded_url": "https://x.com/sharkhopeuhappy/status/1957246887578210642/photo/1",
+              "media_key": "3_1957246863507431424",
+              "start": 20,
+              "url": "https://t.co/iF3DMiYXlc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957246887578210642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吼吼吼，咪咪不远离我，反而向我走过来吗 https://t.co/iF3DMiYXlc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "退一段时间？可能是一个月？也可能不会回来了",
+        "id": "1826281483675299840",
+        "name": "泉方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 697,
+          "following_count": 545,
+          "like_count": 12768,
+          "listed_count": 2,
+          "media_count": 162,
+          "tweet_count": 5209
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-09T08:44:44.000Z",
+        "description": "♂ | welcome friend | 找个没人认识的地方发日常| 尽量不键政 | 会分享游戏&动画 | 守望先锋国服大师玩家(掉钻石了😭) | 希望你每天开心 | 仇恨的链条只能带来更多仇恨｜备用身体未启用@sharkwithhappy | 欢迎加steam好友战网好友一起玩游戏 | 互fo请私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 105,
+                "username": "sharkwithhappy"
+              }
+            ]
+          }
+        },
+        "id": "1711301624726208512",
+        "location": "斯卡里茨",
+        "name": "shark🦈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885552110156341250/gLV9MOp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 577,
+          "following_count": 608,
+          "like_count": 20059,
+          "listed_count": 0,
+          "media_count": 1188,
+          "tweet_count": 11465
+        },
+        "username": "sharkhopeuhappy",
+        "verified": false
+      }
+    ]
+  }
+}

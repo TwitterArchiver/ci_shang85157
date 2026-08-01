@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1865685100274610360",
+    "created_at": "2024-12-08T18:23:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-08T19:23:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1865824510265417765"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1819160417094324225",
+          "start": 0,
+          "username": "NnRB_daily"
+        },
+        {
+          "end": 24,
+          "id": "824872336750809088",
+          "start": 12,
+          "username": "liuminribao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1865824510265417765",
+    "in_reply_to_user_id": "1819160417094324225",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1865703762503110873",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NnRB_daily @liuminribao 已经返厂了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1865685100274610360",
+        "created_at": "2024-12-08T18:23:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-08T19:23:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1865824510265417765"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1819160417094324225",
+              "start": 0,
+              "username": "NnRB_daily"
+            },
+            {
+              "end": 24,
+              "id": "824872336750809088",
+              "start": 12,
+              "username": "liuminribao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865824510265417765",
+        "in_reply_to_user_id": "1819160417094324225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1865703762503110873",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NnRB_daily @liuminribao 已经返厂了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1865703701249466368"
+          ]
+        },
+        "author_id": "1819160417094324225",
+        "conversation_id": "1865685100274610360",
+        "created_at": "2024-12-08T10:23:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-08T11:23:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1865703762503110873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "824872336750809088",
+              "start": 0,
+              "username": "liuminribao"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bzsO2ckYT6",
+              "end": 46,
+              "expanded_url": "https://x.com/NnRB_daily/status/1865703762503110873/video/1",
+              "media_key": "7_1865703701249466368",
+              "start": 23,
+              "url": "https://t.co/bzsO2ckYT6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865703762503110873",
+        "in_reply_to_user_id": "824872336750809088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 96,
+          "impression_count": 8999,
+          "like_count": 402,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 57
+        },
+        "referenced_tweets": [
+          {
+            "id": "1865685100274610360",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liuminribao 返厂🐲龙腾之力玩偶 https://t.co/bzsO2ckYT6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，有兴趣就可以一起玩",
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844188914451365901/gNnOT4GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 233,
+          "like_count": 982,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 279
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-01T23:57:09.000Z",
+        "description": "男の娘日报:https://t.co/ZTZ6SoeQ8v｜完整精品男娘资源(视频+漫画一体电报群)→99💰｜3477GB 男娘类网盘完整资源→288💰｜👉🏻自助下单→https://t.co/7P5Rr4SKj6｜欢迎私信❤️",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Tscd_daiIy",
+                "end": 29,
+                "expanded_url": "http://t.me/Tscd_daiIy",
+                "start": 6,
+                "url": "https://t.co/ZTZ6SoeQ8v"
+              },
+              {
+                "display_url": "fkstar.cc//links/17364E1A",
+                "end": 107,
+                "expanded_url": "https://fkstar.cc//links/17364E1A",
+                "start": 84,
+                "url": "https://t.co/7P5Rr4SKj6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+laRL65Xv-5M1N…",
+                "end": 23,
+                "expanded_url": "https://t.me/+laRL65Xv-5M1NDA1",
+                "start": 0,
+                "url": "https://t.co/GAo8wt3Rc7"
+              }
+            ]
+          }
+        },
+        "id": "1819160417094324225",
+        "location": "男の娘日报👇🏻iOS专用预览频道",
+        "name": "男の娘日报-Tranny Collection",
+        "pinned_tweet_id": "1865792079064088619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841456152347107328/oLqQ5OVa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80995,
+          "following_count": 189,
+          "like_count": 98,
+          "listed_count": 322,
+          "media_count": 582,
+          "tweet_count": 960
+        },
+        "url": "https://t.co/GAo8wt3Rc7",
+        "username": "NnRB_daily",
+        "verified": false
+      },
+      {
+        "created_at": "2017-01-27T06:51:05.000Z",
+        "description": "|榴民日报，每日大赛更新\n| 投稿区👉@liumindeshijie \n| 更多比賽👉@meiribisai6\n|阿斗高端外围全球私人定制💯@Adouwaiwei\n|靠谱不翻车外围🔥@guoguo_ww",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 19,
+                "username": "liumindeshijie"
+              },
+              {
+                "end": 55,
+                "start": 43,
+                "username": "meiribisai6"
+              },
+              {
+                "end": 81,
+                "start": 70,
+                "username": "Adouwaiwei"
+              },
+              {
+                "end": 101,
+                "start": 91,
+                "username": "guoguo_ww"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/liuminriB",
+                "end": 23,
+                "expanded_url": "https://t.me/liuminriB",
+                "start": 0,
+                "url": "https://t.co/o9MeL22N9e"
+              }
+            ]
+          }
+        },
+        "id": "824872336750809088",
+        "name": "榴民日報",
+        "pinned_tweet_id": "1851602633276231972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1623744507576451072/qs9263JX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 504808,
+          "following_count": 33,
+          "like_count": 64,
+          "listed_count": 1181,
+          "media_count": 50,
+          "tweet_count": 325
+        },
+        "url": "https://t.co/o9MeL22N9e",
+        "username": "liuminribao",
+        "verified": true
+      }
+    ]
+  }
+}

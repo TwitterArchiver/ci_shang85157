@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1925899252737183809",
+    "created_at": "2025-05-23T15:26:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-23T16:26:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925936360268906770"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1823729658833055745",
+          "start": 0,
+          "username": "pijiuyayaya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925936360268906770",
+    "in_reply_to_user_id": "1823729658833055745",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925899252737183809",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pijiuyayaya 帅的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1925899238187139072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrorJz1XAAAnPwG.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1925899252737183809",
+        "created_at": "2025-05-23T15:26:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-23T16:26:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925936360268906770"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1823729658833055745",
+              "start": 0,
+              "username": "pijiuyayaya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925936360268906770",
+        "in_reply_to_user_id": "1823729658833055745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925899252737183809",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pijiuyayaya 帅的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1925899238187139072"
+          ]
+        },
+        "author_id": "1823729658833055745",
+        "conversation_id": "1925899252737183809",
+        "created_at": "2025-05-23T12:58:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-23T13:58:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925899252737183809"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/R4vbnSKuJB",
+              "end": 43,
+              "expanded_url": "https://x.com/pijiuyayaya/status/1925899252737183809/photo/1",
+              "media_key": "3_1925899238187139072",
+              "start": 20,
+              "url": "https://t.co/R4vbnSKuJB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925899252737183809",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 198,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我买了衬衣 我喜欢的男装潮牌我还是没买 https://t.co/R4vbnSKuJB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲，生理性别男，请不要私信给我发那种奇怪的东西了\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 74,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 595,
+          "following_count": 510,
+          "like_count": 10252,
+          "listed_count": 2,
+          "media_count": 165,
+          "tweet_count": 4274
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-14T14:33:41.000Z",
+        "description": "鹈鹕不知道写什么所以决定睡觉觉觉觉觉觉觉觉觉觉觉觉去了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kaochang",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kaochang",
+                "start": 0,
+                "url": "https://t.co/Fhu75lPXQN"
+              }
+            ]
+          }
+        },
+        "id": "1823729658833055745",
+        "name": "鹈鹕吃烤肠也吃鹌鹑",
+        "pinned_tweet_id": "1924660648723837320",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919898307712983040/-d0gWgAN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 483,
+          "following_count": 322,
+          "like_count": 7702,
+          "listed_count": 4,
+          "media_count": 648,
+          "tweet_count": 5837
+        },
+        "url": "https://t.co/Fhu75lPXQN",
+        "username": "pijiuyayaya",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1932796799544152372",
+    "created_at": "2025-06-12T13:06:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-12T14:06:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933148910194958380"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1391784636112543753",
+          "start": 0,
+          "username": "Ayanami_402"
+        },
+        {
+          "end": 23,
+          "id": "1490976522362302465",
+          "start": 13,
+          "username": "whyuounot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933148910194958380",
+    "in_reply_to_user_id": "1391784636112543753",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932997496512655596",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ayanami_402 @whyuounot 素晴日"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1932796799544152372",
+        "created_at": "2025-06-12T13:06:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-12T14:06:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933148910194958380"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1391784636112543753",
+              "start": 0,
+              "username": "Ayanami_402"
+            },
+            {
+              "end": 23,
+              "id": "1490976522362302465",
+              "start": 13,
+              "username": "whyuounot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933148910194958380",
+        "in_reply_to_user_id": "1391784636112543753",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932997496512655596",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ayanami_402 @whyuounot 素晴日"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1391784636112543753",
+        "conversation_id": "1932796799544152372",
+        "created_at": "2025-06-12T03:04:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-12T04:04:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932997496512655596"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1490976522362302465",
+              "start": 0,
+              "username": "whyuounot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932997496512655596",
+        "in_reply_to_user_id": "1490976522362302465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2136,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932796799544152372",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyuounot 这是什么游戏？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲，生理性别男，请不要私信给我发那种奇怪的东西了\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 74,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 702,
+          "following_count": 565,
+          "like_count": 12518,
+          "listed_count": 2,
+          "media_count": 192,
+          "tweet_count": 5098
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-10T15:58:19.000Z",
+        "description": "本以为阴暗只是一种特性，没想到会成为一辈子的不幸",
+        "id": "1391784636112543753",
+        "location": "にほん",
+        "name": "Yuiki_Rei",
+        "pinned_tweet_id": "1861427009458708906",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1737701299033116672/gpWsv-3H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 617,
+          "following_count": 290,
+          "like_count": 5328,
+          "listed_count": 2,
+          "media_count": 89,
+          "tweet_count": 1656
+        },
+        "username": "Ayanami_402",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-08T09:11:27.000Z",
+        "description": "临场发挥第一名",
+        "id": "1490976522362302465",
+        "location": "888",
+        "name": "蛋炒饭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927753690825510912/luz_DeSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6643,
+          "following_count": 1161,
+          "like_count": 7963,
+          "listed_count": 13,
+          "media_count": 1867,
+          "tweet_count": 13253
+        },
+        "username": "whyuounot",
+        "verified": false
+      }
+    ]
+  }
+}

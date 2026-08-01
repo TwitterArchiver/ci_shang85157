@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1857312213331325173",
+    "created_at": "2024-11-16T18:40:38.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-16T19:40:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1857856318725566814"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1843461544740564995",
+          "start": 0,
+          "username": "Apache2_91329"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1857856318725566814",
+    "in_reply_to_user_id": "1843461544740564995",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1857753964881785108",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Apache2_91329 ovo"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1857312213331325173",
+        "created_at": "2024-11-16T18:40:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-16T19:40:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1857856318725566814"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1843461544740564995",
+              "start": 0,
+              "username": "Apache2_91329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857856318725566814",
+        "in_reply_to_user_id": "1843461544740564995",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1857753964881785108",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Apache2_91329 ovo"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843461544740564995",
+        "conversation_id": "1857312213331325173",
+        "created_at": "2024-11-16T11:53:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-16T12:53:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1857753964881785108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1826281483675299840",
+              "start": 0,
+              "username": "ci_shang85157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857753964881785108",
+        "in_reply_to_user_id": "1826281483675299840",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 107,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1857722057120944330",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ci_shang85157 👉👈🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，有兴趣就可以一起玩",
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844188914451365901/gNnOT4GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 165,
+          "like_count": 544,
+          "listed_count": 0,
+          "tweet_count": 94
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-08T01:21:18.000Z",
+        "description": "你好啊 ~ 这里是一只超爱Apache2的猫猫 ~ |\nINFP一只，喜欢Web开发以及各种硬件知识 ~|Debian什么的最喜欢了❤️@debian|Primary Account @ChaserCHN0721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 68,
+                "username": "debian"
+              },
+              {
+                "end": 106,
+                "start": 92,
+                "username": "ChaserCHN0721"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fengniaoyun.site/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://fengniaoyun.site/#/register?code=frs1jakp",
+                "start": 0,
+                "url": "https://t.co/iIK6AO3sQl"
+              }
+            ]
+          }
+        },
+        "id": "1843461544740564995",
+        "location": "https://ngl.link/chaserchn0721",
+        "name": "Apache2🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849037579662032897/rG0taPWl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 411,
+          "following_count": 337,
+          "like_count": 1737,
+          "listed_count": 0,
+          "tweet_count": 550
+        },
+        "url": "https://t.co/iIK6AO3sQl",
+        "username": "Apache2_91329",
+        "verified": false
+      }
+    ]
+  }
+}

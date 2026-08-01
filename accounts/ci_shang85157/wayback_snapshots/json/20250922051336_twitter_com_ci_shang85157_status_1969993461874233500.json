@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1969985699370967225",
+    "created_at": "2025-09-22T05:13:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-22T06:13:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969993461874233500"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1776529486143795200",
+          "start": 0,
+          "username": "lennon_joh99197"
+        },
+        {
+          "end": 29,
+          "id": "1687510450291027968",
+          "start": 17,
+          "username": "isnn1230297"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969993461874233500",
+    "in_reply_to_user_id": "1776529486143795200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969991557203026094",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lennon_joh99197 @isnn1230297 你这孩子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1969985699370967225",
+        "created_at": "2025-09-22T05:13:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T06:13:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969993461874233500"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1776529486143795200",
+              "start": 0,
+              "username": "lennon_joh99197"
+            },
+            {
+              "end": 29,
+              "id": "1687510450291027968",
+              "start": 17,
+              "username": "isnn1230297"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969993461874233500",
+        "in_reply_to_user_id": "1776529486143795200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969991557203026094",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lennon_joh99197 @isnn1230297 你这孩子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776529486143795200",
+        "conversation_id": "1969985699370967225",
+        "created_at": "2025-09-22T05:06:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T06:06:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969991557203026094"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1687510450291027968",
+              "start": 0,
+              "username": "isnn1230297"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969991557203026094",
+        "in_reply_to_user_id": "1687510450291027968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969985699370967225",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@isnn1230297 我要开动了🤤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧 小男友@pertx114514 星努@wuyan_sleeeepy还有穹璃 互fo可以私信我交朋友什么的 反正我还挺闲 然后就是没有然后了 一切都是最好的安排https://t.co/ILEWFdOQz0。 ngl匿名问答",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "pertx114514"
+              },
+              {
+                "end": 55,
+                "start": 40,
+                "username": "wuyan_sleeeepy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%8950122",
+                "end": 124,
+                "expanded_url": "https://ngl.link/%E6%B3%8950122",
+                "start": 101,
+                "url": "https://t.co/ILEWFdOQz0"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉方",
+        "pinned_tweet_id": "1932824152811188484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 802,
+          "following_count": 638,
+          "like_count": 15603,
+          "listed_count": 3,
+          "media_count": 190,
+          "tweet_count": 6176
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-06T08:37:13.000Z",
+        "description": "08男高（休学中）互联网幽灵，每天没事就拍拍小猫😙😺",
+        "id": "1776529486143795200",
+        "location": "在你身后",
+        "name": "江列侬",
+        "pinned_tweet_id": "1969327272747209126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936360085837484032/RAGNfm3l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 416,
+          "like_count": 11850,
+          "listed_count": 1,
+          "media_count": 261,
+          "tweet_count": 2948
+        },
+        "username": "lennon_joh99197",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-04T17:07:44.000Z",
+        "description": "esfp 软s🚪128好友位/288陪聊/520 宝宝or主人| 语调10min66r |收贡奴atm奴|小号@ztq080914 | 接转推丨4i or 1i",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 55,
+                "username": "ztq080914"
+              }
+            ]
+          }
+        },
+        "id": "1687510450291027968",
+        "name": "山茶花",
+        "pinned_tweet_id": "1967815801681088588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915986878500569088/WP1b4Zp7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26277,
+          "following_count": 137,
+          "like_count": 1706,
+          "listed_count": 71,
+          "media_count": 158,
+          "tweet_count": 1131
+        },
+        "username": "isnn1230297",
+        "verified": false
+      }
+    ]
+  }
+}

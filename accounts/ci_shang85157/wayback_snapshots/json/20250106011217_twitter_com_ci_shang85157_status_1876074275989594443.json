@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1875950377734164678",
+    "created_at": "2025-01-06T01:12:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-06T02:12:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1876074275989594443"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1158382980076716032",
+          "start": 0,
+          "username": "kokodayo5150"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876074275989594443",
+    "in_reply_to_user_id": "1158382980076716032",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1875950377734164678",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kokodayo5150 说得道理"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1875950377734164678",
+        "created_at": "2025-01-06T01:12:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-06T02:12:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876074275989594443"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1158382980076716032",
+              "start": 0,
+              "username": "kokodayo5150"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876074275989594443",
+        "in_reply_to_user_id": "1158382980076716032",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875950377734164678",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kokodayo5150 说得道理"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1158382980076716032",
+        "conversation_id": "1875950377734164678",
+        "created_at": "2025-01-05T16:59:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-05T17:59:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1875950377734164678"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1875950377734164678",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "当你汉堡的时候，薯条也就会如期而至。生命的土豆泥不在于蔬烩汤，而是可乐和原味鸡。只有静候真正鸡米花的那一天到来，鸡块，也就巧克力圣代了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，有兴趣就可以一起玩",
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844188914451365901/gNnOT4GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 212,
+          "like_count": 1955,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 860
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-05T14:23:18.000Z",
+        "description": "这下也是牢字辈的一员了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/pocaro…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/pocarosa2381.xiaoyaoniang.com",
+                "start": 0,
+                "url": "https://t.co/OOjFFU1Fqk"
+              }
+            ]
+          }
+        },
+        "id": "1158382980076716032",
+        "location": "Hong Kong",
+        "name": "斯卡蒂蒂蒂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864159275305848832/ZKfXUpTC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 678,
+          "following_count": 1745,
+          "like_count": 2297,
+          "listed_count": 0,
+          "media_count": 262,
+          "tweet_count": 2721
+        },
+        "url": "https://t.co/OOjFFU1Fqk",
+        "username": "kokodayo5150",
+        "verified": false
+      }
+    ]
+  }
+}

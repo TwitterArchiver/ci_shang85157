@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1980965466945585656",
+    "created_at": "2025-10-23T13:07:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-23T14:07:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981346755716534375"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "340011148",
+          "start": 0,
+          "username": "EsmeMolavi"
+        },
+        {
+          "end": 27,
+          "id": "1746353897403498496",
+          "start": 12,
+          "username": "wuyan_sleeeepy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981346755716534375",
+    "in_reply_to_user_id": "340011148",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980965466945585656",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EsmeMolavi @wuyan_sleeeepy 想吃"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17134,
+        "height": 720,
+        "media_key": "13_1980965407717474304",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1980965407717474304/img/lm1opFnOG-mGmdcA.jpg",
+        "public_metrics": {
+          "view_count": 745259
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1980965407717474304/vid/avc1/320x320/_Fej5B5wk3bEbl9U.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1980965407717474304/vid/avc1/540x540/RrW5u_nHraW5IkLA.mp4?tag=14"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1980965407717474304/vid/avc1/720x720/dn7-8uF22RhBCL5u.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1980965407717474304/pl/iFkyMq0tNN4PV7Up.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1980965466945585656",
+        "created_at": "2025-10-23T13:07:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T14:07:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981346755716534375"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "340011148",
+              "start": 0,
+              "username": "EsmeMolavi"
+            },
+            {
+              "end": 27,
+              "id": "1746353897403498496",
+              "start": 12,
+              "username": "wuyan_sleeeepy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981346755716534375",
+        "in_reply_to_user_id": "340011148",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980965466945585656",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EsmeMolavi @wuyan_sleeeepy 想吃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1980965407717474304"
+          ]
+        },
+        "author_id": "340011148",
+        "conversation_id": "1980965466945585656",
+        "created_at": "2025-10-22T11:52:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T12:52:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980965466945585656"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/422MhWtaOs",
+              "end": 23,
+              "expanded_url": "https://x.com/EsmeMolavi/status/1980965466945585656/video/1",
+              "media_key": "13_1980965407717474304",
+              "start": 0,
+              "url": "https://t.co/422MhWtaOs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980965466945585656",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3429,
+          "impression_count": 982544,
+          "like_count": 13981,
+          "quote_count": 97,
+          "reply_count": 285,
+          "retweet_count": 685
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/422MhWtaOs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧 小男友@pertx114514  结义兄弟@wuyan_sleeeepy还有穹璃 求求你们了找我聊天好不好https://t.co/ILEWFdOiJs。 ngl匿名问答",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "pertx114514"
+              },
+              {
+                "end": 58,
+                "start": 43,
+                "username": "wuyan_sleeeepy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%8950122",
+                "end": 98,
+                "expanded_url": "https://ngl.link/%E6%B3%8950122",
+                "start": 75,
+                "url": "https://t.co/ILEWFdOiJs"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉",
+        "pinned_tweet_id": "1970427616353296660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978274114138996736/r_khhgIT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 830,
+          "following_count": 664,
+          "like_count": 17871,
+          "listed_count": 2,
+          "media_count": 205,
+          "tweet_count": 6760
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2011-07-22T00:46:35.000Z",
+        "description": "Learning to unlearn 🔄",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "43server.life/LIVE-CAM",
+                "end": 23,
+                "expanded_url": "https://43server.life/LIVE-CAM",
+                "start": 0,
+                "url": "https://t.co/lccOWUbKnp"
+              }
+            ]
+          }
+        },
+        "id": "340011148",
+        "name": "yesenia esmeralda",
+        "pinned_tweet_id": "1980967287197970724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892271997629190146/NLLI8I6-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 573,
+          "following_count": 34,
+          "like_count": 154,
+          "listed_count": 1,
+          "media_count": 87,
+          "tweet_count": 283
+        },
+        "url": "https://t.co/lccOWUbKnp",
+        "username": "EsmeMolavi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-14T02:10:02.000Z",
+        "description": "我说的所有悲伤的事情都是莫须有的 不要相信我的话 妈妈@shelterwith 厨子阳痿主治医师@czz2360366574 狗@ci_shang85157 闺蜜宝宝喜欢你@SoSleepy4wy 这个人对我很冷淡，，，@wwttw133",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 27,
+                "username": "shelterwith"
+              },
+              {
+                "end": 62,
+                "start": 48,
+                "username": "czz2360366574"
+              },
+              {
+                "end": 78,
+                "start": 64,
+                "username": "ci_shang85157"
+              },
+              {
+                "end": 98,
+                "start": 86,
+                "username": "SoSleepy4wy"
+              },
+              {
+                "end": 119,
+                "start": 110,
+                "username": "wwttw133"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wusanshui1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wusanshui1",
+                "start": 0,
+                "url": "https://t.co/V5qr5fiRaO"
+              }
+            ]
+          }
+        },
+        "id": "1746353897403498496",
+        "location": "天堂喵",
+        "name": "三水水水",
+        "pinned_tweet_id": "1962571532879659324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957421800175849472/Rt7GiUUp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370,
+          "following_count": 264,
+          "like_count": 31010,
+          "listed_count": 3,
+          "media_count": 509,
+          "tweet_count": 5128
+        },
+        "url": "https://t.co/V5qr5fiRaO",
+        "username": "wuyan_sleeeepy",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1871129953938665715",
+    "created_at": "2024-12-23T18:06:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-23T19:06:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1871256098919035129"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1855427972787777536",
+          "start": 0,
+          "username": "su_song92698"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1871256098919035129",
+    "in_reply_to_user_id": "1855427972787777536",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1871129953938665715",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@su_song92698 好吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1871129953938665715",
+        "created_at": "2024-12-23T18:06:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-23T19:06:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1871256098919035129"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1855427972787777536",
+              "start": 0,
+              "username": "su_song92698"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1871256098919035129",
+        "in_reply_to_user_id": "1855427972787777536",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1871129953938665715",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@su_song92698 好吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1871129829405556737"
+          ]
+        },
+        "author_id": "1855427972787777536",
+        "conversation_id": "1871129953938665715",
+        "created_at": "2024-12-23T09:45:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-23T10:45:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1871129953938665715"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SYYqMhXGCY",
+              "end": 37,
+              "expanded_url": "https://x.com/su_song92698/status/1871129953938665715/video/1",
+              "media_key": "7_1871129829405556737",
+              "start": 14,
+              "url": "https://t.co/SYYqMhXGCY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1871129953938665715",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 404,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刚冲完录的…感觉可以发一下 https://t.co/SYYqMhXGCY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，有兴趣就可以一起玩",
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844188914451365901/gNnOT4GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 280,
+          "like_count": 1394,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 555
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-10T01:51:25.000Z",
+        "description": "社交无能且阳气有限的屌丝",
+        "id": "1855427972787777536",
+        "name": "诉讼主动",
+        "pinned_tweet_id": "1857738674693132710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855429461077884928/EEJk9t6x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 402,
+          "following_count": 403,
+          "like_count": 2119,
+          "listed_count": 3,
+          "media_count": 24,
+          "tweet_count": 268
+        },
+        "username": "su_song92698",
+        "verified": false
+      }
+    ]
+  }
+}

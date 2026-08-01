@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1935392085026451912",
+    "created_at": "2025-06-18T17:42:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-18T18:42:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935392602532233269"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1935392602532233269",
+    "in_reply_to_user_id": "1826281483675299840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935392085026451912",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我认为我是对受不公平人士和自身的共情 我又是觉得好像共情能力有些强烈了 我总是想帮些什么 但是我能帮多少人呢 好像并没有什么用 源头还是脏的 再怎么净化下流也会有源源不断的脏水"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1935392085026451912",
+        "created_at": "2025-06-18T17:42:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T18:42:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935392602532233269"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1935392602532233269",
+        "in_reply_to_user_id": "1826281483675299840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935392085026451912",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我认为我是对受不公平人士和自身的共情 我又是觉得好像共情能力有些强烈了 我总是想帮些什么 但是我能帮多少人呢 好像并没有什么用 源头还是脏的 再怎么净化下流也会有源源不断的脏水"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1935392085026451912",
+        "created_at": "2025-06-18T17:40:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T18:40:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935392085026451912"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1935392085026451912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "21世纪前的中国共产主义还是处于上升阶段的 现在越来越多恨国党以及反党人士 其实都有个原因的 上升阶段的时候欣欣向荣 现在这种人士越来越多的原因我认为归结于对制度以及社会的失望  我们曾短暂到达过未来吗？我其实是想让它变得更好的 要不我的批评就完全没有立场了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲，生理性别男，请不要私信给我发那种奇怪的东西了\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 74,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 734,
+          "following_count": 566,
+          "like_count": 12863,
+          "listed_count": 2,
+          "media_count": 196,
+          "tweet_count": 5187
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "data": {
+    "author_id": "1826281483675299840",
+    "conversation_id": "1815017833706983460",
+    "created_at": "2024-10-14T07:32:37.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-14T08:32:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1845729409866858663"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1681300968489754626",
+          "start": 0,
+          "username": "gutou1589367207"
+        },
+        {
+          "end": 26,
+          "id": "1493568831801139204",
+          "start": 17,
+          "username": "rra_rr_r"
+        }
+      ]
+    },
+    "id": "1845729409866858663",
+    "in_reply_to_user_id": "1681300968489754626",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 14,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1815076927268671811",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gutou1589367207 @rra_rr_r @wonzzang_s2 傻逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "1826281483675299840",
+        "conversation_id": "1815017833706983460",
+        "created_at": "2024-10-14T07:32:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-14T08:32:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1845729409866858663"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1681300968489754626",
+              "start": 0,
+              "username": "gutou1589367207"
+            },
+            {
+              "end": 26,
+              "id": "1493568831801139204",
+              "start": 17,
+              "username": "rra_rr_r"
+            }
+          ]
+        },
+        "id": "1845729409866858663",
+        "in_reply_to_user_id": "1681300968489754626",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1815076927268671811",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gutou1589367207 @rra_rr_r @wonzzang_s2 傻逼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，有兴趣就可以一起玩",
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844188914451365901/gNnOT4GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 201,
+          "like_count": 784,
+          "listed_count": 0,
+          "tweet_count": 141
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-18T13:52:50.000Z",
+        "description": "",
+        "id": "1681300968489754626",
+        "name": "骨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853449538226597888/rBQvnpGW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 85,
+          "like_count": 4,
+          "listed_count": 0,
+          "tweet_count": 5
+        },
+        "username": "gutou1589367207",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-15T12:52:21.000Z",
+        "description": "",
+        "id": "1493568831801139204",
+        "name": "ラン",
+        "pinned_tweet_id": "1857748092227039672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1665773525444210688/5EKZtTov_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116831,
+          "following_count": 143,
+          "like_count": 11679,
+          "listed_count": 474,
+          "tweet_count": 6705
+        },
+        "username": "rra_rr_r",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1916896217491226902",
+    "created_at": "2025-04-28T17:18:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-28T18:18:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916904908781150229"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1844410398407323648",
+          "start": 0,
+          "username": "dsfof1989"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916904908781150229",
+    "in_reply_to_user_id": "1844410398407323648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916896217491226902",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dsfof1989 我们都在用力的活着"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 42747,
+        "height": 640,
+        "media_key": "7_1916896069885235200",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1916896069885235200/pu/img/93fIlN_OaVRixOw2.jpg",
+        "public_metrics": {
+          "view_count": 11
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1916896069885235200/pu/vid/avc1/320x532/KkZY7HYhg_kKAqCl.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1916896069885235200/pu/vid/avc1/384x640/tcNOhe9HIxxHLoFi.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1916896069885235200/pu/pl/LlYEmzgSmUyV2s_H.m3u8?tag=12"
+          }
+        ],
+        "width": 384
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1916896217491226902",
+        "created_at": "2025-04-28T17:18:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-28T18:18:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916904908781150229"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1844410398407323648",
+              "start": 0,
+              "username": "dsfof1989"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916904908781150229",
+        "in_reply_to_user_id": "1844410398407323648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916896217491226902",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dsfof1989 我们都在用力的活着"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1916896069885235200"
+          ]
+        },
+        "author_id": "1844410398407323648",
+        "conversation_id": "1916896217491226902",
+        "created_at": "2025-04-28T16:44:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-28T17:44:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916896217491226902"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gIETbEXQPh",
+              "end": 28,
+              "expanded_url": "https://x.com/dsfof1989/status/1916896217491226902/video/1",
+              "media_key": "7_1916896069885235200",
+              "start": 5,
+              "url": "https://t.co/gIETbEXQPh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916896217491226902",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一笑了之 https://t.co/gIETbEXQPh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 419,
+          "following_count": 420,
+          "like_count": 7401,
+          "listed_count": 1,
+          "media_count": 131,
+          "tweet_count": 3209
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-10T16:11:30.000Z",
+        "description": "大号 @dsfin1989被封，现推友找回中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 3,
+                "username": "dsfin1989"
+              }
+            ]
+          }
+        },
+        "id": "1844410398407323648",
+        "location": "距离你1.0km",
+        "name": "哈基米归来，看叮咚鸡大狗叫，核酸时代即将到来",
+        "pinned_tweet_id": "1904540486553276660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906977030962622465/RWXy6qAj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1206,
+          "following_count": 641,
+          "like_count": 2346,
+          "listed_count": 0,
+          "media_count": 309,
+          "tweet_count": 952
+        },
+        "username": "dsfof1989",
+        "verified": false
+      }
+    ]
+  }
+}

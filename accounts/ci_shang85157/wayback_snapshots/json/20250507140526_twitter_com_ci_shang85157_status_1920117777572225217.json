@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1919888643092615168"
+      ],
+      "media_source_tweet_id": [
+        "1919888698998395005"
+      ]
+    },
+    "author_id": "1826281483675299840",
+    "conversation_id": "1920117777572225217",
+    "created_at": "2025-05-07T14:05:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-07T15:05:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920117777572225217"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1471640417519030275",
+          "start": 3,
+          "username": "TopGyaru"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/20bRNmxaPU",
+          "end": 37,
+          "expanded_url": "https://x.com/TopGyaru/status/1919888698998395005/video/1",
+          "media_key": "7_1919888643092615168",
+          "start": 14,
+          "url": "https://t.co/20bRNmxaPU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920117777572225217",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 47
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919888698998395005",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TopGyaru: https://t.co/20bRNmxaPU"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10263,
+        "height": 1280,
+        "media_key": "7_1919888643092615168",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1919888643092615168/pu/img/bXMyDcj9LxYtO-9A.jpg",
+        "public_metrics": {
+          "view_count": 13834
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1919888643092615168/pu/vid/avc1/320x568/y5YA-5dd6To_a5Xl.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1919888643092615168/pu/vid/avc1/480x852/4IYwEn0OKXlpEOqc.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1919888643092615168/pu/vid/avc1/720x1280/Xvg84OPkW51Pm39p.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1919888643092615168/pu/pl/geo5-iaLwm7cziFk.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1919888643092615168"
+          ],
+          "media_source_tweet_id": [
+            "1919888698998395005"
+          ]
+        },
+        "author_id": "1826281483675299840",
+        "conversation_id": "1920117777572225217",
+        "created_at": "2025-05-07T14:05:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T15:05:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920117777572225217"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1471640417519030275",
+              "start": 3,
+              "username": "TopGyaru"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/20bRNmxaPU",
+              "end": 37,
+              "expanded_url": "https://x.com/TopGyaru/status/1919888698998395005/video/1",
+              "media_key": "7_1919888643092615168",
+              "start": 14,
+              "url": "https://t.co/20bRNmxaPU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920117777572225217",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 47
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919888698998395005",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TopGyaru: https://t.co/20bRNmxaPU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1919888643092615168"
+          ]
+        },
+        "author_id": "1471640417519030275",
+        "conversation_id": "1919888698998395005",
+        "created_at": "2025-05-06T22:55:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T23:55:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919888698998395005"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/20bRNmxaPU",
+              "end": 23,
+              "expanded_url": "https://x.com/TopGyaru/status/1919888698998395005/video/1",
+              "media_key": "7_1919888643092615168",
+              "start": 0,
+              "url": "https://t.co/20bRNmxaPU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919888698998395005",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 120,
+          "impression_count": 25185,
+          "like_count": 551,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 47
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/20bRNmxaPU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 497,
+          "following_count": 452,
+          "like_count": 8566,
+          "listed_count": 2,
+          "media_count": 140,
+          "tweet_count": 3606
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-17T00:36:50.000Z",
+        "description": "Top Gyaru at your service! I just shitpost and retweet My Dress-up Darling stuff 😆",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ko-fi.com/topgyaru",
+                "end": 23,
+                "expanded_url": "https://ko-fi.com/topgyaru",
+                "start": 0,
+                "url": "https://t.co/PeVNLbcRpx"
+              }
+            ]
+          }
+        },
+        "id": "1471640417519030275",
+        "location": " She/Her",
+        "name": "Maririn~",
+        "pinned_tweet_id": "1892952150281539702",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1742239844129210369/Y0waOB9T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243281,
+          "following_count": 1321,
+          "like_count": 130838,
+          "listed_count": 413,
+          "media_count": 7548,
+          "tweet_count": 22458
+        },
+        "url": "https://t.co/PeVNLbcRpx",
+        "username": "TopGyaru",
+        "verified": true
+      }
+    ]
+  }
+}

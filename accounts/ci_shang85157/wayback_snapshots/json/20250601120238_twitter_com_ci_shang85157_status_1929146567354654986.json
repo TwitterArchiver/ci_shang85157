@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1929129786523152755",
+    "created_at": "2025-06-01T12:02:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-01T13:02:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929146567354654986"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1904150959229734912",
+          "start": 0,
+          "username": "mengmeng091297"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929146567354654986",
+    "in_reply_to_user_id": "1904150959229734912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929129786523152755",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mengmeng091297 对不起"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1929129786523152755",
+        "created_at": "2025-06-01T12:02:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-01T13:02:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929146567354654986"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1904150959229734912",
+              "start": 0,
+              "username": "mengmeng091297"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929146567354654986",
+        "in_reply_to_user_id": "1904150959229734912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929129786523152755",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mengmeng091297 对不起"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904150959229734912",
+        "conversation_id": "1929129786523152755",
+        "created_at": "2025-06-01T10:55:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-01T11:55:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1929129786523152755"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1929129786523152755",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "初见我时我面部已有穿孔 后来恋爱你也该爱我的钉子而不是妄想让我改变 逼我取下钉子 我在面部添加新穿孔的时候 我也不想听到你阴阳怪气的话 钉子我不会摘的 你想走就走吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲，生理性别男，请不要私信给我发那种奇怪的东西了\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 74,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 613,
+          "following_count": 538,
+          "like_count": 11043,
+          "listed_count": 2,
+          "media_count": 175,
+          "tweet_count": 4580
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-24T12:40:08.000Z",
+        "description": "",
+        "id": "1904150959229734912",
+        "name": "梦梦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904151332015198209/exU_bnns_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 57,
+          "like_count": 1077,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 619
+        },
+        "username": "mengmeng091297",
+        "verified": false
+      }
+    ]
+  }
+}

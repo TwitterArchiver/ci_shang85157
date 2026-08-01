@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1896414584610967774",
+    "created_at": "2025-03-04T20:41:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-04T21:41:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897024629925142536"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "767772702203576320",
+          "start": 0,
+          "username": "JAVE1_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897024629925142536",
+    "in_reply_to_user_id": "767772702203576320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896414584610967774",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JAVE1_ 我在外面吃过了，松鹤楼，郭淳请的客"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1896414572422283264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlFrAYgawAAtoGk.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1896414584610967774",
+        "created_at": "2025-03-04T20:41:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-04T21:41:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897024629925142536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "767772702203576320",
+              "start": 0,
+              "username": "JAVE1_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897024629925142536",
+        "in_reply_to_user_id": "767772702203576320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896414584610967774",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JAVE1_ 我在外面吃过了，松鹤楼，郭淳请的客"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1896414572422283264"
+          ]
+        },
+        "author_id": "767772702203576320",
+        "conversation_id": "1896414584610967774",
+        "created_at": "2025-03-03T04:17:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-03T05:17:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896414584610967774"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pekvl746h6",
+              "end": 35,
+              "expanded_url": "https://x.com/JAVE1_/status/1896414584610967774/photo/1",
+              "media_key": "3_1896414572422283264",
+              "start": 12,
+              "url": "https://t.co/Pekvl746h6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896414584610967774",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 130,
+          "impression_count": 340039,
+          "like_count": 1001,
+          "quote_count": 15,
+          "reply_count": 92,
+          "retweet_count": 37
+        },
+        "reply_settings": "everyone",
+        "text": "也是deepseek了 https://t.co/Pekvl746h6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲\n小猫：@kimKAAAAAILUV",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kimKAAAAAILUV"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844188914451365901/gNnOT4GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 293,
+          "like_count": 2828,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 1291
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-22T17:17:31.000Z",
+        "description": "小透明一只/丢伞专业/易打翻食物体质/青菜脸盲患者/克服怕黑中/屌丝/慢热热热热… \n🎬YouTube：https://t.co/4LjRU2RjSw",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@jave321?si=xL…",
+                "end": 75,
+                "expanded_url": "https://youtube.com/@jave321?si=xLnQlL_b8Oyq2gb2",
+                "start": 52,
+                "url": "https://t.co/4LjRU2RjSw"
+              }
+            ]
+          }
+        },
+        "id": "767772702203576320",
+        "name": "JAVE",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1471668854862618626/UzzNMANq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14458,
+          "following_count": 1315,
+          "like_count": 4852,
+          "listed_count": 71,
+          "media_count": 5117,
+          "tweet_count": 20336
+        },
+        "username": "JAVE1_",
+        "verified": true
+      }
+    ]
+  }
+}

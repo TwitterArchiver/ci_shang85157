@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1841714988399919335",
+    "created_at": "2024-10-05T13:13:36.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-05T14:13:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1842553728626237485"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "920290443492859904",
+          "start": 0,
+          "username": "e45584317"
+        },
+        {
+          "end": 24,
+          "id": "903140569685270528",
+          "start": 11,
+          "username": "meirifangong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1842553728626237485",
+    "in_reply_to_user_id": "920290443492859904",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1842416307200983466",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@e45584317 @meirifangong 我急了只是你的臆想，你妈死了是事实无可反驳"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1841714988399919335",
+        "created_at": "2024-10-05T13:13:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-05T14:13:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1842553728626237485"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "920290443492859904",
+              "start": 0,
+              "username": "e45584317"
+            },
+            {
+              "end": 24,
+              "id": "903140569685270528",
+              "start": 11,
+              "username": "meirifangong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1842553728626237485",
+        "in_reply_to_user_id": "920290443492859904",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1842416307200983466",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@e45584317 @meirifangong 我急了只是你的臆想，你妈死了是事实无可反驳"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "920290443492859904",
+        "conversation_id": "1841714988399919335",
+        "created_at": "2024-10-05T04:07:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-05T05:07:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1842416307200983466"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1826281483675299840",
+              "start": 0,
+              "username": "ci_shang85157"
+            },
+            {
+              "end": 28,
+              "id": "903140569685270528",
+              "start": 15,
+              "username": "meirifangong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1842416307200983466",
+        "in_reply_to_user_id": "1826281483675299840",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1842328379825291593",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ci_shang85157 @meirifangong 更急了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "",
+        "id": "1826281483675299840",
+        "name": "伤心慈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826328643179802624/ScytKW-C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 144,
+          "like_count": 403,
+          "listed_count": 0,
+          "tweet_count": 30
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2017-10-17T14:08:34.000Z",
+        "description": "",
+        "id": "920290443492859904",
+        "name": "🏁🏁🏁",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 13,
+          "like_count": 4,
+          "listed_count": 0,
+          "tweet_count": 46
+        },
+        "username": "e45584317",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-31T06:21:06.000Z",
+        "description": "不自由，毋宁死！ #AntiCCP #FreeChina #白纸革命 #释放李康梦",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 9,
+                "tag": "AntiCCP"
+              },
+              {
+                "end": 28,
+                "start": 18,
+                "tag": "FreeChina"
+              },
+              {
+                "end": 34,
+                "start": 29,
+                "tag": "白纸革命"
+              },
+              {
+                "end": 41,
+                "start": 35,
+                "tag": "释放李康梦"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/i/communities/…",
+                "end": 23,
+                "expanded_url": "https://x.com/i/communities/1777116624882946455",
+                "start": 0,
+                "url": "https://t.co/st4szFBWJV"
+              }
+            ]
+          }
+        },
+        "id": "903140569685270528",
+        "location": "中華民國",
+        "name": "每日反共🇺🇦",
+        "pinned_tweet_id": "1596685843913396225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1602260595604348928/AVtXzTXf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94583,
+          "following_count": 2060,
+          "like_count": 66145,
+          "listed_count": 326,
+          "tweet_count": 31372
+        },
+        "url": "https://t.co/st4szFBWJV",
+        "username": "meirifangong",
+        "verified": true
+      }
+    ]
+  }
+}

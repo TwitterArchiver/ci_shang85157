@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1957701461015687207",
+    "created_at": "2025-08-19T15:57:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-19T16:57:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957834284657529282"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1951684284949168128",
+          "start": 0,
+          "username": "saltedfish_888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957834284657529282",
+    "in_reply_to_user_id": "1951684284949168128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957701461015687207",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@saltedfish_888 180多到130多，全靠厌食一天一顿加低血糖，就这还坚持跑步上班"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1957701461015687207",
+        "created_at": "2025-08-19T15:57:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T16:57:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957834284657529282"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1951684284949168128",
+              "start": 0,
+              "username": "saltedfish_888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957834284657529282",
+        "in_reply_to_user_id": "1951684284949168128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957701461015687207",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@saltedfish_888 180多到130多，全靠厌食一天一顿加低血糖，就这还坚持跑步上班"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951684284949168128",
+        "conversation_id": "1957701461015687207",
+        "created_at": "2025-08-19T07:09:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T08:09:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957701461015687207"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1957701461015687207",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 16677,
+          "like_count": 257,
+          "quote_count": 1,
+          "reply_count": 60,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有点佩服自己，从160斤减到116斤真是太辛苦了😭，我真棒( ´▽｀)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像失去了一条时间线，算了，我们从来吧",
+        "id": "1826281483675299840",
+        "name": "泉方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 706,
+          "following_count": 549,
+          "like_count": 12962,
+          "listed_count": 2,
+          "media_count": 159,
+          "tweet_count": 5295
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-02T16:41:34.000Z",
+        "description": "",
+        "id": "1951684284949168128",
+        "name": "做条咸鱼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951685850863116288/3a-psNP4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 63,
+          "like_count": 1028,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 171
+        },
+        "username": "saltedfish_888",
+        "verified": false
+      }
+    ]
+  }
+}

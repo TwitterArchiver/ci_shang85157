@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1920820678174839114",
+    "created_at": "2025-05-09T13:28:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-09T14:28:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920833145944883710"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1779621051024232448",
+          "start": 0,
+          "username": "lycywsw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920833145944883710",
+    "in_reply_to_user_id": "1779621051024232448",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920820678174839114",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lycywsw 谈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1920820678174839114",
+        "created_at": "2025-05-09T13:28:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-09T14:28:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920833145944883710"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1779621051024232448",
+              "start": 0,
+              "username": "lycywsw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920833145944883710",
+        "in_reply_to_user_id": "1779621051024232448",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920820678174839114",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lycywsw 谈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779621051024232448",
+        "conversation_id": "1920820678174839114",
+        "created_at": "2025-05-09T12:38:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-09T13:38:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920820678174839114"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1920820678174839114",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 133,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想谈一场甜甜的恋爱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 517,
+          "following_count": 474,
+          "like_count": 8975,
+          "listed_count": 2,
+          "media_count": 145,
+          "tweet_count": 3797
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-14T21:21:47.000Z",
+        "description": "揪咪 不闲聊05的单",
+        "id": "1779621051024232448",
+        "location": "石家庄🚪9999999999",
+        "name": "河北第一深情野牛（不闲聊）",
+        "pinned_tweet_id": "1918028311743348880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918647817754513408/HSdzS6J7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1263,
+          "following_count": 71,
+          "like_count": 435,
+          "listed_count": 1,
+          "media_count": 62,
+          "tweet_count": 1705
+        },
+        "username": "lycywsw",
+        "verified": false
+      }
+    ]
+  }
+}

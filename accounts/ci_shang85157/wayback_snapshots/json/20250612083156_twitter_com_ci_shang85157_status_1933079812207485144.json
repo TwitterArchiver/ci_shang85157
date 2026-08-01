@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1932509787595616597",
+    "created_at": "2025-06-12T08:31:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-12T09:31:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933079812207485144"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1889290861261053953",
+          "start": 0,
+          "username": "Catbratmeng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933079812207485144",
+    "in_reply_to_user_id": "1889290861261053953",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932509787595616597",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Catbratmeng 河南人都是（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1932509787595616597",
+        "created_at": "2025-06-12T08:31:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-12T09:31:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933079812207485144"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1889290861261053953",
+              "start": 0,
+              "username": "Catbratmeng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933079812207485144",
+        "in_reply_to_user_id": "1889290861261053953",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932509787595616597",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Catbratmeng 河南人都是（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889290861261053953",
+        "conversation_id": "1932509787595616597",
+        "created_at": "2025-06-10T18:46:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T19:46:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932509787595616597"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1932509787595616597",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2446,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你愿意跟我回河南吗 我会用我最好的人脉和资源 让你种产量最高的地"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲，生理性别男，请不要私信给我发那种奇怪的东西了\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 74,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 699,
+          "following_count": 562,
+          "like_count": 12465,
+          "listed_count": 2,
+          "media_count": 192,
+          "tweet_count": 5070
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-11T12:30:29.000Z",
+        "description": "骄傲长在骨子里 烧了还有一把灰",
+        "id": "1889290861261053953",
+        "name": "萌到昏古七",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891399643579535360/j1FxM-B5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 28,
+          "like_count": 115,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 111
+        },
+        "username": "Catbratmeng",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1897222800475349082",
+    "created_at": "2025-03-06T11:04:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-06T12:04:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897604181529448948"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1687517394837905408",
+          "start": 0,
+          "username": "ChestnutKing4ev"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897604181529448948",
+    "in_reply_to_user_id": "1687517394837905408",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897222800475349082",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChestnutKing4ev 让吃不到的我黯然销魂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3243,
+        "media_key": "3_1897222787309215744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlRKErlXoAA3M1V.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1897222800475349082",
+        "created_at": "2025-03-06T11:04:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-06T12:04:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897604181529448948"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1687517394837905408",
+              "start": 0,
+              "username": "ChestnutKing4ev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897604181529448948",
+        "in_reply_to_user_id": "1687517394837905408",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897222800475349082",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChestnutKing4ev 让吃不到的我黯然销魂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1897222787309215744"
+          ]
+        },
+        "author_id": "1687517394837905408",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1897222800475349082",
+        "created_at": "2025-03-05T09:48:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-05T10:48:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1897222800475349082"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gsO7QPkfig",
+              "end": 38,
+              "expanded_url": "https://x.com/ChestnutKing4ev/status/1897222800475349082/photo/1",
+              "media_key": "3_1897222787309215744",
+              "start": 15,
+              "url": "https://t.co/gsO7QPkfig"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897222800475349082",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 14069,
+          "like_count": 209,
+          "quote_count": 3,
+          "reply_count": 39,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "黯然销魂饭 让我尝尝有多销魂 https://t.co/gsO7QPkfig"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844188914451365901/gNnOT4GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 307,
+          "like_count": 3066,
+          "listed_count": 1,
+          "media_count": 62,
+          "tweet_count": 1419
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-04T17:34:43.000Z",
+        "description": "纯绿，不🚪，互关+v，女宝全肯定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chestnutahan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chestnutahan",
+                "start": 0,
+                "url": "https://t.co/Ov0LQDvQrV"
+              }
+            ]
+          }
+        },
+        "id": "1687517394837905408",
+        "name": "栗子大王",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888237206260830208/ZF8kdYZs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1455,
+          "following_count": 124,
+          "like_count": 439,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 689
+        },
+        "url": "https://t.co/Ov0LQDvQrV",
+        "username": "ChestnutKing4ev",
+        "verified": false
+      }
+    ]
+  }
+}

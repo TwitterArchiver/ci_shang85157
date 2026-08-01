@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1957278445320425846",
+    "created_at": "2025-08-18T03:24:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-18T04:24:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957282368412320005"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1799770485242388481",
+          "start": 0,
+          "username": "H1zzan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957282368412320005",
+    "in_reply_to_user_id": "1799770485242388481",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957281766609441072",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@H1zzan 替我在新西兰多玩玩，多给我拍照片发过来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1957278445320425846",
+        "created_at": "2025-08-18T03:24:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T04:24:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957282368412320005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1799770485242388481",
+              "start": 0,
+              "username": "H1zzan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957282368412320005",
+        "in_reply_to_user_id": "1799770485242388481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957281766609441072",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@H1zzan 替我在新西兰多玩玩，多给我拍照片发过来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1799770485242388481",
+        "conversation_id": "1957278445320425846",
+        "created_at": "2025-08-18T03:21:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T04:21:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957281766609441072"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1826281483675299840",
+              "start": 0,
+              "username": "ci_shang85157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957281766609441072",
+        "in_reply_to_user_id": "1826281483675299840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957279467795362198",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ci_shang85157 你太累了宝宝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "退一段时间？可能是一个月？也可能不会回来了",
+        "id": "1826281483675299840",
+        "name": "泉方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 697,
+          "following_count": 544,
+          "like_count": 12792,
+          "listed_count": 2,
+          "media_count": 161,
+          "tweet_count": 5228
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-09T11:48:28.000Z",
+        "description": "活在缘分中，而非关系里…",
+        "id": "1799770485242388481",
+        "name": "H.solo9",
+        "pinned_tweet_id": "1911069036923732215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905911845426540544/VuyVbtm__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 315,
+          "like_count": 6148,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 783
+        },
+        "username": "H1zzan",
+        "verified": false
+      }
+    ]
+  }
+}

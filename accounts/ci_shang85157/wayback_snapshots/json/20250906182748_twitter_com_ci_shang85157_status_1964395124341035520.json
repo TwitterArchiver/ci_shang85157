@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1964395124341035520",
+    "created_at": "2025-09-06T18:27:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-06T19:27:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1964395124341035520"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1857335218673483776",
+          "start": 0,
+          "username": "xiaoyu_xiaoyang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964395124341035520",
+    "in_reply_to_user_id": "1857335218673483776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@xiaoyu_xiaoyang 你是不是傻逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1964395124341035520",
+        "created_at": "2025-09-06T18:27:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T19:27:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964395124341035520"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1857335218673483776",
+              "start": 0,
+              "username": "xiaoyu_xiaoyang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964395124341035520",
+        "in_reply_to_user_id": "1857335218673483776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@xiaoyu_xiaoyang 你是不是傻逼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧   小男友@pertx114514",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 27,
+                "username": "pertx114514"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉方",
+        "pinned_tweet_id": "1963923748203139355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 770,
+          "following_count": 603,
+          "like_count": 14424,
+          "listed_count": 3,
+          "media_count": 173,
+          "tweet_count": 5776
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "description": "叫我小雨就好//🚪槛52 部分不需要//gal 日乙 二游 魂类游戏爱好者//cos//碎碎念//抽象//电波系//自伤警告",
+        "id": "1857335218673483776",
+        "location": "罗德尔",
+        "name": "雨",
+        "pinned_tweet_id": "1962900627195056567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963695521123774464/EIvYkzgu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2051,
+          "following_count": 339,
+          "like_count": 3192,
+          "listed_count": 2,
+          "media_count": 132,
+          "tweet_count": 1736
+        },
+        "username": "xiaoyu_xiaoyang",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1896899959385202702",
+    "created_at": "2025-03-04T14:32:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-04T15:32:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896931854042951745"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1878981575427162114",
+          "start": 0,
+          "username": "kimKAAAAAILuv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896931854042951745",
+    "in_reply_to_user_id": "1878981575427162114",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896899959385202702",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kimKAAAAAILuv 吃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1896899959385202702",
+        "created_at": "2025-03-04T14:32:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-04T15:32:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896931854042951745"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1878981575427162114",
+              "start": 0,
+              "username": "kimKAAAAAILuv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896931854042951745",
+        "in_reply_to_user_id": "1878981575427162114",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896899959385202702",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kimKAAAAAILuv 吃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878981575427162114",
+        "conversation_id": "1896899959385202702",
+        "created_at": "2025-03-04T12:26:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-04T13:26:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896899959385202702"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1896899959385202702",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想吃饺子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲\n小猫：@kimKAAAAAILUV",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kimKAAAAAILUV"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844188914451365901/gNnOT4GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 291,
+          "like_count": 2779,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 1274
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-14T01:45:48.000Z",
+        "description": "没有观点 不发表观点  小狗@ci_shang85157",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 14,
+                "username": "ci_shang85157"
+              }
+            ]
+          }
+        },
+        "id": "1878981575427162114",
+        "name": "Qr.热蛋挞小姐",
+        "pinned_tweet_id": "1879161020587053119",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879010527458058240/lWfyqqhU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 53,
+          "like_count": 528,
+          "listed_count": 0,
+          "media_count": 168,
+          "tweet_count": 1145
+        },
+        "username": "kimKAAAAAILuv",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1903003002065043947",
+    "created_at": "2025-03-23T07:51:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-23T08:51:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903716234732220666"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1645627834701082624",
+          "start": 0,
+          "username": "kira20194922529"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903716234732220666",
+    "in_reply_to_user_id": "1645627834701082624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903003002065043947",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kira20194922529 自己上班挣多少钱心里没数？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 323,
+        "media_key": "3_1903002992623968256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmjTI6XbYAAKpv7.jpg",
+        "width": 775
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1903003002065043947",
+        "created_at": "2025-03-23T07:51:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T08:51:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903716234732220666"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1645627834701082624",
+              "start": 0,
+              "username": "kira20194922529"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903716234732220666",
+        "in_reply_to_user_id": "1645627834701082624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903003002065043947",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kira20194922529 自己上班挣多少钱心里没数？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1903002992623968256"
+          ]
+        },
+        "author_id": "1645627834701082624",
+        "conversation_id": "1903003002065043947",
+        "created_at": "2025-03-21T08:37:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-21T09:37:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1903003002065043947"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/67AbspNBUI",
+              "end": 33,
+              "expanded_url": "https://x.com/kira20194922529/status/1903003002065043947/photo/1",
+              "media_key": "3_1903002992623968256",
+              "start": 10,
+              "url": "https://t.co/67AbspNBUI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903003002065043947",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 59285,
+          "like_count": 289,
+          "quote_count": 0,
+          "reply_count": 70,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我操你妈够干啥的？ https://t.co/67AbspNBUI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 322,
+          "following_count": 322,
+          "like_count": 4353,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 1952
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-11T03:20:33.000Z",
+        "description": "我不想上班了\n这是我的小号@keaiiea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "keaiiea"
+              }
+            ]
+          }
+        },
+        "id": "1645627834701082624",
+        "location": "0.1km",
+        "name": "Jonas·El Niño",
+        "pinned_tweet_id": "1868990255954903447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872088243606552576/btnTx5UM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 665,
+          "following_count": 1268,
+          "like_count": 42877,
+          "listed_count": 0,
+          "media_count": 604,
+          "tweet_count": 3269
+        },
+        "username": "kira20194922529",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "2020688248104997253",
+    "created_at": "2026-02-09T10:38:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T11:38:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020809643010789681"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1845719473631952896",
+          "start": 0,
+          "username": "__DarkYun_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020809643010789681",
+    "in_reply_to_user_id": "1845719473631952896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020777957640536555",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@__DarkYun_ 那我去当了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "2020688248104997253",
+        "created_at": "2026-02-09T10:38:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T11:38:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020809643010789681"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1845719473631952896",
+              "start": 0,
+              "username": "__DarkYun_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020809643010789681",
+        "in_reply_to_user_id": "1845719473631952896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020777957640536555",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@__DarkYun_ 那我去当了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845719473631952896",
+        "conversation_id": "2020688248104997253",
+        "created_at": "2026-02-09T08:33:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T09:33:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020777957640536555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1826281483675299840",
+              "start": 0,
+              "username": "ci_shang85157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020777957640536555",
+        "in_reply_to_user_id": "1826281483675299840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 290,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020688248104997253",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ci_shang85157 有建模和身材就能"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧 https://t.co/ILEWFdOQz0。 ngl匿名问答 想交朋友或者互fo尽管私信我 每个人都会回",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%8950122",
+                "end": 45,
+                "expanded_url": "https://ngl.link/%E6%B3%8950122",
+                "start": 22,
+                "url": "https://t.co/ILEWFdOQz0"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "永雏泉",
+        "pinned_tweet_id": "2020083398971388378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978274114138996736/r_khhgIT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1065,
+          "following_count": 695,
+          "like_count": 20934,
+          "listed_count": 2,
+          "media_count": 242,
+          "tweet_count": 7733
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-14T06:53:20.000Z",
+        "description": "地下之生灵\n我好想死亡",
+        "id": "1845719473631952896",
+        "location": "Night City",
+        "name": "𝖄𝖀𝕹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995794496475594754/msxKvQ27_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 174,
+          "like_count": 1645,
+          "listed_count": 0,
+          "media_count": 395,
+          "tweet_count": 3014
+        },
+        "username": "__DarkYun_",
+        "verified": false
+      }
+    ]
+  }
+}

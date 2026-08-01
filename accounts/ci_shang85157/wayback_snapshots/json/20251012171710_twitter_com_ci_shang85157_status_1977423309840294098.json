@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1977423298117156865"
+      ]
+    },
+    "author_id": "1826281483675299840",
+    "conversation_id": "1977423309840294098",
+    "created_at": "2025-10-12T17:17:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T18:17:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1977423309840294098"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 4,
+          "start": 0,
+          "tag": "新头像"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/f72DDJXfX3",
+          "end": 28,
+          "expanded_url": "https://x.com/ci_shang85157/status/1977423309840294098/photo/1",
+          "media_key": "3_1977423298117156865",
+          "start": 5,
+          "url": "https://t.co/f72DDJXfX3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977423309840294098",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#新头像 https://t.co/f72DDJXfX3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 399,
+        "media_key": "3_1977423298117156865",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3E4A0bawAEFdmU.jpg",
+        "width": 399
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977423298117156865"
+          ]
+        },
+        "author_id": "1826281483675299840",
+        "conversation_id": "1977423309840294098",
+        "created_at": "2025-10-12T17:17:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T18:17:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977423309840294098"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "新头像"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/f72DDJXfX3",
+              "end": 28,
+              "expanded_url": "https://x.com/ci_shang85157/status/1977423309840294098/photo/1",
+              "media_key": "3_1977423298117156865",
+              "start": 5,
+              "url": "https://t.co/f72DDJXfX3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977423309840294098",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#新头像 https://t.co/f72DDJXfX3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧 小男友@pertx114514  结义兄弟@wuyan_sleeeepy还有穹璃 互fo可以私信我交朋友什么的 反正我还挺闲 然后就是没有然后了 一切都是最好的安排https://t.co/ILEWFdOQz0。 ngl匿名问答",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "pertx114514"
+              },
+              {
+                "end": 58,
+                "start": 43,
+                "username": "wuyan_sleeeepy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%8950122",
+                "end": 127,
+                "expanded_url": "https://ngl.link/%E6%B3%8950122",
+                "start": 104,
+                "url": "https://t.co/ILEWFdOQz0"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉",
+        "pinned_tweet_id": "1970427616353296660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977423285974675457/bW8DNFIj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 815,
+          "following_count": 657,
+          "like_count": 16984,
+          "listed_count": 2,
+          "media_count": 199,
+          "tweet_count": 6563
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      }
+    ]
+  }
+}

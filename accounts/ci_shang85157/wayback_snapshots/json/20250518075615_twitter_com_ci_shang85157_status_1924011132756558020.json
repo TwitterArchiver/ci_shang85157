@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1923871309827801181",
+    "created_at": "2025-05-18T07:56:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-18T08:56:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924011132756558020"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1818214513059201024",
+          "start": 0,
+          "username": "1234568hhhhh"
+        },
+        {
+          "end": 23,
+          "id": "1905127566002044928",
+          "start": 14,
+          "username": "KobatoMB"
+        },
+        {
+          "end": 37,
+          "id": "1683348184331059201",
+          "start": 24,
+          "username": "ccckoajiahao"
+        },
+        {
+          "end": 53,
+          "id": "1833919115360436229",
+          "start": 38,
+          "username": "cleanDust_Chen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924011132756558020",
+    "in_reply_to_user_id": "1818214513059201024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923911088380445108",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1234568hhhhh @KobatoMB @ccckoajiahao @cleanDust_Chen 不错"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1923871309827801181",
+        "created_at": "2025-05-18T07:56:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-18T08:56:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924011132756558020"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1818214513059201024",
+              "start": 0,
+              "username": "1234568hhhhh"
+            },
+            {
+              "end": 23,
+              "id": "1905127566002044928",
+              "start": 14,
+              "username": "KobatoMB"
+            },
+            {
+              "end": 37,
+              "id": "1683348184331059201",
+              "start": 24,
+              "username": "ccckoajiahao"
+            },
+            {
+              "end": 53,
+              "id": "1833919115360436229",
+              "start": 38,
+              "username": "cleanDust_Chen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924011132756558020",
+        "in_reply_to_user_id": "1818214513059201024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923911088380445108",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1234568hhhhh @KobatoMB @ccckoajiahao @cleanDust_Chen 不错"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1818214513059201024",
+        "conversation_id": "1923871309827801181",
+        "created_at": "2025-05-18T01:18:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-18T02:18:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923911088380445108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1905127566002044928",
+              "start": 0,
+              "username": "KobatoMB"
+            },
+            {
+              "end": 23,
+              "id": "1683348184331059201",
+              "start": 10,
+              "username": "ccckoajiahao"
+            },
+            {
+              "end": 38,
+              "id": "1826281483675299840",
+              "start": 24,
+              "username": "ci_shang85157"
+            },
+            {
+              "end": 54,
+              "id": "1833919115360436229",
+              "start": 39,
+              "username": "cleanDust_Chen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923911088380445108",
+        "in_reply_to_user_id": "1905127566002044928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923871309827801181",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KobatoMB @ccckoajiahao @ci_shang85157 @cleanDust_Chen \n这个这个这个\n是真真真无敌\n好看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 587,
+          "following_count": 514,
+          "like_count": 9829,
+          "listed_count": 2,
+          "media_count": 159,
+          "tweet_count": 4117
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-30T09:18:22.000Z",
+        "description": "所谓过往，皆为序章",
+        "id": "1818214513059201024",
+        "location": "鸡窝托斯",
+        "name": "星野日向（互fo）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823799508263669761/CFFimO0K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 587,
+          "like_count": 6858,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 1392
+        },
+        "username": "1234568hhhhh",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-27T05:19:54.000Z",
+        "description": "我补是人机阿",
+        "id": "1905127566002044928",
+        "name": "棉花糖小小子",
+        "pinned_tweet_id": "1921827079177281761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905129188476243968/gsYPwiJO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7980,
+          "following_count": 48,
+          "like_count": 119,
+          "listed_count": 26,
+          "media_count": 55,
+          "tweet_count": 175
+        },
+        "username": "KobatoMB",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-24T05:27:50.000Z",
+        "description": "我是男银… 常在线，求骚扰（互fo）还有额…..算了算了不会写简介！就这样吧求骚扰！",
+        "id": "1683348184331059201",
+        "location": "1m",
+        "name": "c cc ko a",
+        "pinned_tweet_id": "1918351859032723600",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1683349322598068224/LTc07JBC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 424,
+          "like_count": 5315,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 2875
+        },
+        "username": "ccckoajiahao",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-11T17:22:55.000Z",
+        "description": "✨今天也很棒！~✧*    \n🌸情绪稳定的咩咩树洞.:*♡    \n🤖情绪价值贩卖机器人ノ✿    \n🔔想用梗图meme治疗肌肤饥渴    \n🎮怪猎世界沉迷       //欢迎扩列//欢迎贴贴//偶尔涩涩//请私聊窝",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cleandust_chen",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cleandust_chen",
+                "start": 0,
+                "url": "https://t.co/zJyn77Q8sg"
+              }
+            ]
+          }
+        },
+        "id": "1833919115360436229",
+        "location": "月辰前线据点，新大陆",
+        "name": "自动发帖bot咩咩子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919740749937311744/kHTDC-5o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 205,
+          "like_count": 728,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 180
+        },
+        "url": "https://t.co/zJyn77Q8sg",
+        "username": "cleanDust_Chen",
+        "verified": false
+      }
+    ]
+  }
+}

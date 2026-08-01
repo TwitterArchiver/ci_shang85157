@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1862045639292682667",
+    "created_at": "2024-11-29T07:11:59.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-29T08:11:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1862394055973630106"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1299346099761590272",
+          "start": 0,
+          "username": "pDoGORg1ESYVkXl"
+        },
+        {
+          "end": 25,
+          "id": "1433678976564662273",
+          "start": 17,
+          "username": "hsn8086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862394055973630106",
+    "in_reply_to_user_id": "1299346099761590272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1862101197337022669",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pDoGORg1ESYVkXl @hsn8086 我嘞个忍战宁次"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1862045639292682667",
+        "created_at": "2024-11-29T07:11:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-29T08:11:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862394055973630106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1299346099761590272",
+              "start": 0,
+              "username": "pDoGORg1ESYVkXl"
+            },
+            {
+              "end": 25,
+              "id": "1433678976564662273",
+              "start": 17,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862394055973630106",
+        "in_reply_to_user_id": "1299346099761590272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862101197337022669",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pDoGORg1ESYVkXl @hsn8086 我嘞个忍战宁次"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1862101193561931776"
+          ]
+        },
+        "author_id": "1299346099761590272",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1862045639292682667",
+        "created_at": "2024-11-28T11:48:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-28T12:48:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862101197337022669"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1433678976564662273",
+              "start": 0,
+              "username": "hsn8086"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PMXABuTjH5",
+              "end": 67,
+              "expanded_url": "https://x.com/pDoGORg1ESYVkXl/status/1862101197337022669/photo/1",
+              "media_key": "3_1862101193561931776",
+              "start": 44,
+              "url": "https://t.co/PMXABuTjH5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862101197337022669",
+        "in_reply_to_user_id": "1433678976564662273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 7593,
+          "like_count": 226,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862045639292682667",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086 没有患者，就自己制造患者！\n提醒一下她是学针灸的，你在她眼里是这样的 https://t.co/PMXABuTjH5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，有兴趣就可以一起玩",
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844188914451365901/gNnOT4GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 207,
+          "like_count": 833,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 159
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-28T14:00:44.000Z",
+        "description": "弔图/meme/猫/狗/文学/发癫/毛茸茸教/…我永远拥护毛茸茸，可以找我聊天对我倾诉，辱华的就别关注我了我就是你们口中讨厌的人别放贱😅反共的话没关系\n不是♂同，别他妈给我发diao照了！😅",
+        "id": "1299346099761590272",
+        "name": "八岐大喵🐻",
+        "pinned_tweet_id": "1811570336770523635",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855442002214899712/miO84fXC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2389,
+          "following_count": 246,
+          "like_count": 3881,
+          "listed_count": 4,
+          "media_count": 160,
+          "tweet_count": 1014
+        },
+        "username": "pDoGORg1ESYVkXl",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 内: @hsn8086k | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 14,
+                "username": "hsn8086k"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1846240135534596297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1707161507161944064/DD0pRpE6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18515,
+          "following_count": 887,
+          "like_count": 36132,
+          "listed_count": 55,
+          "media_count": 3367,
+          "tweet_count": 7841
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

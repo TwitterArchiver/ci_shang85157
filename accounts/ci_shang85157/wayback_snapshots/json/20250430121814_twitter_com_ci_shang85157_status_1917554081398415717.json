@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1917547325981090135",
+    "created_at": "2025-04-30T12:18:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-30T13:18:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917554081398415717"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1592865779241734144",
+          "start": 0,
+          "username": "yuanyuan774"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917554081398415717",
+    "in_reply_to_user_id": "1592865779241734144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917547325981090135",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuanyuan774 你要成黄推了吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5850,
+        "height": 720,
+        "media_key": "13_1917547240815747076",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1917547240815747076/img/OBnxP_61tt5epTw2.jpg",
+        "public_metrics": {
+          "view_count": 168
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1917547240815747076/vid/avc1/450x270/7wFl6nqKdhmwuB78.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1917547240815747076/vid/avc1/602x360/l05Y2WWl4Y9FzyPi.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1917547240815747076/vid/avc1/1204x720/65Xc2IzJsJsCWFwB.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1917547240815747076/pl/2yzrstKyRrDzNPOR.m3u8?tag=14"
+          }
+        ],
+        "width": 1204
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1917547325981090135",
+        "created_at": "2025-04-30T12:18:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-30T13:18:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917554081398415717"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1592865779241734144",
+              "start": 0,
+              "username": "yuanyuan774"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917554081398415717",
+        "in_reply_to_user_id": "1592865779241734144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917547325981090135",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuanyuan774 你要成黄推了吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1917547240815747076"
+          ]
+        },
+        "author_id": "1592865779241734144",
+        "conversation_id": "1917547325981090135",
+        "created_at": "2025-04-30T11:51:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-30T12:51:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917547325981090135"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/u5TKZ0EVhD",
+              "end": 34,
+              "expanded_url": "https://x.com/yuanyuan774/status/1917547325981090135/video/1",
+              "media_key": "13_1917547240815747076",
+              "start": 11,
+              "url": "https://t.co/u5TKZ0EVhD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917547325981090135",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 441,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实不大…是我挤的🚬 https://t.co/u5TKZ0EVhD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 429,
+          "following_count": 411,
+          "like_count": 7603,
+          "listed_count": 1,
+          "media_count": 134,
+          "tweet_count": 3259
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-16T13:03:00.000Z",
+        "description": "🚪128纯绿（不打钱不许骚扰我",
+        "id": "1592865779241734144",
+        "location": "如果因我而感到幸福请上钩𐃆 ˒˒𑙕 .   ᩙ . ꛒ",
+        "name": "你是不是欠",
+        "pinned_tweet_id": "1908417822847344702",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917197123696619520/rzPIHJ7A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8643,
+          "following_count": 242,
+          "like_count": 20902,
+          "listed_count": 9,
+          "media_count": 768,
+          "tweet_count": 16166
+        },
+        "username": "yuanyuan774",
+        "verified": false
+      }
+    ]
+  }
+}

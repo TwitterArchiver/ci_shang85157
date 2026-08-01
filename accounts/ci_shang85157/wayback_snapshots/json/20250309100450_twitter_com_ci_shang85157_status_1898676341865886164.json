@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1898669117974233563",
+    "created_at": "2025-03-09T10:04:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-09T11:04:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898676341865886164"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1733521725772664832",
+          "start": 0,
+          "username": "kiko510054"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898676341865886164",
+    "in_reply_to_user_id": "1733521725772664832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898669117974233563",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kiko510054 可能是凉了，需要自己去微波炉加热，又或者是代购"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1898669117974233563",
+        "created_at": "2025-03-09T10:04:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T11:04:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898676341865886164"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1733521725772664832",
+              "start": 0,
+              "username": "kiko510054"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898676341865886164",
+        "in_reply_to_user_id": "1733521725772664832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898669117974233563",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kiko510054 可能是凉了，需要自己去微波炉加热，又或者是代购"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1733521725772664832",
+        "conversation_id": "1898669117974233563",
+        "created_at": "2025-03-09T09:36:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T10:36:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898669117974233563"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1898669117974233563",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 90,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "出原味到底是什么意思  肯爷爷的吮指原味鸡吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844188914451365901/gNnOT4GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 313,
+          "like_count": 3389,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 1556
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-09T16:19:49.000Z",
+        "description": "不加v  除了猫猫和女孩子都不闲聊",
+        "id": "1733521725772664832",
+        "location": "猫猫国有小主",
+        "name": "kiko",
+        "pinned_tweet_id": "1889476256372056433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1752773417722609664/FejijaJu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 101,
+          "like_count": 489,
+          "listed_count": 3,
+          "media_count": 31,
+          "tweet_count": 272
+        },
+        "username": "kiko510054",
+        "verified": false
+      }
+    ]
+  }
+}

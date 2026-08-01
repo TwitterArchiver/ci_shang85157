@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1924478225851560103",
+    "created_at": "2025-05-19T14:57:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-19T15:57:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924479603009302612"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1799770485242388481",
+          "start": 0,
+          "username": "H1zzan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924479603009302612",
+    "in_reply_to_user_id": "1799770485242388481",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924478225851560103",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@H1zzan 帅的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1924478200987725824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrUeujvbMAABA0M.jpg",
+        "width": 1863
+      },
+      {
+        "height": 1152,
+        "media_key": "3_1924478200828354560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrUeujJbYAA_sSO.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1924478200824094721",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrUeujIaYAE5SVQ.jpg",
+        "width": 1536
+      },
+      {
+        "height": 752,
+        "media_key": "3_1924478200828329984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrUeujJbAAADk16.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1924478225851560103",
+        "created_at": "2025-05-19T14:57:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-19T15:57:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924479603009302612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1799770485242388481",
+              "start": 0,
+              "username": "H1zzan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924479603009302612",
+        "in_reply_to_user_id": "1799770485242388481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924478225851560103",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@H1zzan 帅的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1924478200987725824",
+            "3_1924478200828354560",
+            "3_1924478200824094721",
+            "3_1924478200828329984"
+          ]
+        },
+        "author_id": "1799770485242388481",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1924478225851560103",
+        "created_at": "2025-05-19T14:52:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-19T15:52:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1924478225851560103"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uwti4JZvu4",
+              "end": 70,
+              "expanded_url": "https://x.com/H1zzan/status/1924478225851560103/photo/1",
+              "media_key": "3_1924478200987725824",
+              "start": 47,
+              "url": "https://t.co/uwti4JZvu4"
+            },
+            {
+              "display_url": "pic.x.com/uwti4JZvu4",
+              "end": 70,
+              "expanded_url": "https://x.com/H1zzan/status/1924478225851560103/photo/1",
+              "media_key": "3_1924478200828354560",
+              "start": 47,
+              "url": "https://t.co/uwti4JZvu4"
+            },
+            {
+              "display_url": "pic.x.com/uwti4JZvu4",
+              "end": 70,
+              "expanded_url": "https://x.com/H1zzan/status/1924478225851560103/photo/1",
+              "media_key": "3_1924478200824094721",
+              "start": 47,
+              "url": "https://t.co/uwti4JZvu4"
+            },
+            {
+              "display_url": "pic.x.com/uwti4JZvu4",
+              "end": 70,
+              "expanded_url": "https://x.com/H1zzan/status/1924478225851560103/photo/1",
+              "media_key": "3_1924478200828329984",
+              "start": 47,
+              "url": "https://t.co/uwti4JZvu4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924478225851560103",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "這一款Bose nc700很有設計感，適合一個人在520前夕戴著在街上聽Piazzola😬😬 https://t.co/uwti4JZvu4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲，生理性别男，请不要私信给我发那种奇怪的东西了\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 74,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 589,
+          "following_count": 510,
+          "like_count": 9984,
+          "listed_count": 2,
+          "media_count": 162,
+          "tweet_count": 4189
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-09T11:48:28.000Z",
+        "description": "不要发现我我其实是只老鼠人谢谢🙏",
+        "id": "1799770485242388481",
+        "name": "H.solo9",
+        "pinned_tweet_id": "1911069036923732215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905911845426540544/VuyVbtm__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 277,
+          "like_count": 3146,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 552
+        },
+        "username": "H1zzan",
+        "verified": false
+      }
+    ]
+  }
+}

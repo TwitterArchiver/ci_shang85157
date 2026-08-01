@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1872191490463875379",
+    "created_at": "2024-12-26T16:38:52.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-26T17:38:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1872321191664668878"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1516941936971554817",
+          "start": 0,
+          "username": "Wolfy_XBT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1872321191664668878",
+    "in_reply_to_user_id": "1516941936971554817",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872191490463875379",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wolfy_XBT 你是不是用ai？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1872191490463875379",
+        "created_at": "2024-12-26T16:38:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-26T17:38:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872321191664668878"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1516941936971554817",
+              "start": 0,
+              "username": "Wolfy_XBT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872321191664668878",
+        "in_reply_to_user_id": "1516941936971554817",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872191490463875379",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wolfy_XBT 你是不是用ai？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1516941936971554817",
+        "conversation_id": "1872191490463875379",
+        "created_at": "2024-12-26T08:03:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-26T09:03:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1872191490463875379"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1872191490463875379",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 863,
+          "impression_count": 682545,
+          "like_count": 1433,
+          "quote_count": 9,
+          "reply_count": 975,
+          "retweet_count": 74
+        },
+        "reply_settings": "everyone",
+        "text": "你发图，我找番号 😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，有兴趣就可以一起玩",
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844188914451365901/gNnOT4GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 288,
+          "like_count": 1488,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 616
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-21T00:48:42.000Z",
+        "description": "数据分析 & 信息整理博主｜全职韭菜｜兼职傻逼｜尽我所能地真诚对待所有人｜商务合作请联系小助理：@Wolf_Assist｜买 Memecoin 推荐使用 GMGN 工具：https://t.co/So9qyNKHTQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 48,
+                "username": "Wolf_Assist"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "gmgn.ai/?ref=rYYybUsv&…",
+                "end": 108,
+                "expanded_url": "http://gmgn.ai/?ref=rYYybUsv&chain=sol",
+                "start": 85,
+                "url": "https://t.co/So9qyNKHTQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/killthewolf",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/killthewolf",
+                "start": 0,
+                "url": "https://t.co/qzROKKvQHj"
+              }
+            ]
+          }
+        },
+        "id": "1516941936971554817",
+        "location": "🚪520/1314 不约线下",
+        "name": "杀破狼 WolfyXBT",
+        "pinned_tweet_id": "1867589668700926395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1680938637628944384/2FYk0Ft4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 802237,
+          "following_count": 4645,
+          "like_count": 38358,
+          "listed_count": 2702,
+          "media_count": 1730,
+          "tweet_count": 15941
+        },
+        "url": "https://t.co/qzROKKvQHj",
+        "username": "Wolfy_XBT",
+        "verified": true
+      }
+    ]
+  }
+}

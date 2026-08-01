@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1959484294856097959",
+    "created_at": "2025-08-24T19:00:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-24T20:00:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959692298473857498"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1810940278468964352",
+          "start": 0,
+          "username": "stgggjj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959692298473857498",
+    "in_reply_to_user_id": "1810940278468964352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959484294856097959",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@stgggjj 你终究不是我的雪之下雪乃啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1959484283477020672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzF8kvOb0AAF5oc.jpg",
+        "width": 1109
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1959484294856097959",
+        "created_at": "2025-08-24T19:00:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T20:00:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959692298473857498"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1810940278468964352",
+              "start": 0,
+              "username": "stgggjj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959692298473857498",
+        "in_reply_to_user_id": "1810940278468964352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959484294856097959",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@stgggjj 你终究不是我的雪之下雪乃啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1959484283477020672"
+          ]
+        },
+        "author_id": "1810940278468964352",
+        "conversation_id": "1959484294856097959",
+        "created_at": "2025-08-24T05:13:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T06:13:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959484294856097959"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I6uO9nLZBX",
+              "end": 72,
+              "expanded_url": "https://x.com/stgggjj/status/1959484294856097959/photo/1",
+              "media_key": "3_1959484283477020672",
+              "start": 49,
+              "url": "https://t.co/I6uO9nLZBX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959484294856097959",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 624,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我知道你不回我是玩欲擒故纵\n我知道你也暗恋我\n抱歉我讨厌温柔的女孩子\n你终究不是我的雪之下雪乃啊 https://t.co/I6uO9nLZBX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像失去了一条时间线，算了，我们从来吧",
+        "id": "1826281483675299840",
+        "name": "泉方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 720,
+          "following_count": 571,
+          "like_count": 13293,
+          "listed_count": 3,
+          "media_count": 161,
+          "tweet_count": 5402
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-10T07:33:14.000Z",
+        "description": "［我没把握说自己真的是生物、真的在生存什么的］\n\n提问箱https://t.co/xQun8GlnPU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/27rainyseason",
+                "end": 51,
+                "expanded_url": "https://ngl.link/27rainyseason",
+                "start": 28,
+                "url": "https://t.co/xQun8GlnPU"
+              }
+            ]
+          }
+        },
+        "id": "1810940278468964352",
+        "location": "Chiyoda-ku, Tokyo",
+        "name": "骑士小鱼🐟",
+        "pinned_tweet_id": "1933049247592857793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954173401628909568/Rl2Z1oiA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 362,
+          "following_count": 498,
+          "like_count": 8298,
+          "listed_count": 4,
+          "media_count": 404,
+          "tweet_count": 5908
+        },
+        "username": "stgggjj",
+        "verified": false
+      }
+    ]
+  }
+}

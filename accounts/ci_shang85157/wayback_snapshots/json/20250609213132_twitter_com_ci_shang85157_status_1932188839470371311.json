@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1932100741117911337",
+    "created_at": "2025-06-09T21:31:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-09T22:31:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932188839470371311"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1895770308260610048",
+          "start": 0,
+          "username": "chenyu537320"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932188839470371311",
+    "in_reply_to_user_id": "1895770308260610048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932101117527368062",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chenyu537320 这还是人？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1932100741117911337",
+        "created_at": "2025-06-09T21:31:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T22:31:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932188839470371311"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1895770308260610048",
+              "start": 0,
+              "username": "chenyu537320"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932188839470371311",
+        "in_reply_to_user_id": "1895770308260610048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932101117527368062",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chenyu537320 这还是人？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1895770308260610048",
+        "conversation_id": "1932100741117911337",
+        "created_at": "2025-06-09T15:42:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T16:42:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932101117527368062"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1932101117527368062",
+        "in_reply_to_user_id": "1895770308260610048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 82,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932100741117911337",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "怎么办这已经是我遇到过最具人形的班主任了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲，生理性别男，请不要私信给我发那种奇怪的东西了\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 74,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 670,
+          "following_count": 561,
+          "like_count": 12122,
+          "listed_count": 2,
+          "media_count": 189,
+          "tweet_count": 4957
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-01T09:37:28.000Z",
+        "description": "小号垃圾场，平时不太活跃，大号主要是看日推的@sappukei264576 | 09高一 | infj-t \n听j-rock、metalcore、post-hardcore、punk等",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "sappukei264576"
+              }
+            ]
+          }
+        },
+        "id": "1895770308260610048",
+        "location": "😺",
+        "name": "ちぇにゅ",
+        "pinned_tweet_id": "1908553803487666183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918179626305871872/kRn2HsUg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 538,
+          "like_count": 3851,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 204
+        },
+        "username": "chenyu537320",
+        "verified": false
+      }
+    ]
+  }
+}

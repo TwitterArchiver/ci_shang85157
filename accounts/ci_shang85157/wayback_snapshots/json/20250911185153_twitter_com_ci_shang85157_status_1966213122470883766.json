@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1966109533140574565",
+    "created_at": "2025-09-11T18:51:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-11T19:51:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966213122470883766"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1883266432793976833",
+          "start": 0,
+          "username": "CarbonicWhite"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966213122470883766",
+    "in_reply_to_user_id": "1883266432793976833",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966109533140574565",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CarbonicWhite 复活了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1966109533140574565",
+        "created_at": "2025-09-11T18:51:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T19:51:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966213122470883766"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1883266432793976833",
+              "start": 0,
+              "username": "CarbonicWhite"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966213122470883766",
+        "in_reply_to_user_id": "1883266432793976833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966109533140574565",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CarbonicWhite 复活了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883266432793976833",
+        "conversation_id": "1966109533140574565",
+        "created_at": "2025-09-11T12:00:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T13:00:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966109533140574565"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1966109533140574565",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "拳皇已复活😡我将以冰蓝蓝形态重拳出击"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧   小男友@pertx114514\n星努@wuyan_sleeeepy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 27,
+                "username": "pertx114514"
+              },
+              {
+                "end": 57,
+                "start": 42,
+                "username": "wuyan_sleeeepy"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉方",
+        "pinned_tweet_id": "1963923748203139355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 779,
+          "following_count": 607,
+          "like_count": 14751,
+          "listed_count": 3,
+          "media_count": 178,
+          "tweet_count": 5882
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-25T21:31:42.000Z",
+        "description": "某人的阴暗面👁️👁️",
+        "id": "1883266432793976833",
+        "name": "我是拳皇冰蓝蓝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883269526692966400/hBrTY46o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 332,
+          "like_count": 488,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 489
+        },
+        "username": "CarbonicWhite",
+        "verified": false
+      }
+    ]
+  }
+}

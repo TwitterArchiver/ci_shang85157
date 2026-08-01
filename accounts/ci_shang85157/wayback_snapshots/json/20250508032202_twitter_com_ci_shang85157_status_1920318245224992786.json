@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1920318242083467264"
+      ]
+    },
+    "author_id": "1826281483675299840",
+    "conversation_id": "1920076953341604011",
+    "created_at": "2025-05-08T03:22:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-08T04:22:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920318245224992786"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1746015386498482176",
+          "start": 0,
+          "username": "dou_bei68895"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XOdiIactfD",
+          "end": 37,
+          "expanded_url": "https://x.com/ci_shang85157/status/1920318245224992786/photo/1",
+          "media_key": "3_1920318242083467264",
+          "start": 14,
+          "url": "https://t.co/XOdiIactfD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920318245224992786",
+    "in_reply_to_user_id": "1746015386498482176",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920316386577928634",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dou_bei68895 https://t.co/XOdiIactfD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 403,
+        "media_key": "3_1920318242083467264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqZXRFMWcAAN-W5.jpg",
+        "width": 403
+      },
+      {
+        "height": 105,
+        "media_key": "3_1920316380819161088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqZVkvcXAAAdPUv.jpg",
+        "width": 122
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1920318242083467264"
+          ]
+        },
+        "author_id": "1826281483675299840",
+        "conversation_id": "1920076953341604011",
+        "created_at": "2025-05-08T03:22:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-08T04:22:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920318245224992786"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1746015386498482176",
+              "start": 0,
+              "username": "dou_bei68895"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XOdiIactfD",
+              "end": 37,
+              "expanded_url": "https://x.com/ci_shang85157/status/1920318245224992786/photo/1",
+              "media_key": "3_1920318242083467264",
+              "start": 14,
+              "url": "https://t.co/XOdiIactfD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920318245224992786",
+        "in_reply_to_user_id": "1746015386498482176",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920316386577928634",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dou_bei68895 https://t.co/XOdiIactfD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1920316380819161088"
+          ]
+        },
+        "author_id": "1746015386498482176",
+        "conversation_id": "1920076953341604011",
+        "created_at": "2025-05-08T03:14:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-08T04:14:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920316386577928634"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1826281483675299840",
+              "start": 0,
+              "username": "ci_shang85157"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oRv5hbWCXT",
+              "end": 48,
+              "expanded_url": "https://x.com/dou_bei68895/status/1920316386577928634/photo/1",
+              "media_key": "3_1920316380819161088",
+              "start": 25,
+              "url": "https://t.co/oRv5hbWCXT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920316386577928634",
+        "in_reply_to_user_id": "1826281483675299840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920076953341604011",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ci_shang85157 頭像發一下有點好看 https://t.co/oRv5hbWCXT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 507,
+          "following_count": 462,
+          "like_count": 8703,
+          "listed_count": 2,
+          "media_count": 141,
+          "tweet_count": 3662
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-13T03:45:54.000Z",
+        "description": "感謝する。",
+        "id": "1746015386498482176",
+        "location": "多倫多",
+        "name": "北都",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904796307551932416/ezs3rI_9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 118,
+          "like_count": 406,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 37
+        },
+        "username": "dou_bei68895",
+        "verified": false
+      }
+    ]
+  }
+}

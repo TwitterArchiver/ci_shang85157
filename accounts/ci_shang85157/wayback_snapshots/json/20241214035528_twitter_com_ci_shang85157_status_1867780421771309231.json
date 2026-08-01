@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1867413567726924029",
+    "created_at": "2024-12-14T03:55:28.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-14T04:55:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1867780421771309231"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1394515070961389569",
+          "start": 0,
+          "username": "hkyiye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1867780421771309231",
+    "in_reply_to_user_id": "1394515070961389569",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1867413567726924029",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hkyiye 是干嘛的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1867413567726924029",
+        "created_at": "2024-12-14T03:55:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-14T04:55:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867780421771309231"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1394515070961389569",
+              "start": 0,
+              "username": "hkyiye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867780421771309231",
+        "in_reply_to_user_id": "1394515070961389569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867413567726924029",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hkyiye 是干嘛的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1867413549125177344",
+            "3_1867413559883522048"
+          ]
+        },
+        "author_id": "1394515070961389569",
+        "conversation_id": "1867413567726924029",
+        "created_at": "2024-12-13T03:37:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-13T04:37:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1867413567726924029"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lTSZNfdTL7",
+              "end": 31,
+              "expanded_url": "https://x.com/hkyiye/status/1867413567726924029/photo/1",
+              "media_key": "3_1867413549125177344",
+              "start": 8,
+              "url": "https://t.co/lTSZNfdTL7"
+            },
+            {
+              "display_url": "pic.x.com/lTSZNfdTL7",
+              "end": 31,
+              "expanded_url": "https://x.com/hkyiye/status/1867413567726924029/photo/1",
+              "media_key": "3_1867413559883522048",
+              "start": 8,
+              "url": "https://t.co/lTSZNfdTL7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867413567726924029",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 245,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不是 你有病吧 https://t.co/lTSZNfdTL7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，有兴趣就可以一起玩",
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844188914451365901/gNnOT4GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 258,
+          "like_count": 1119,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 389
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-18T04:48:04.000Z",
+        "description": "q:3226464001 一直在海口",
+        "id": "1394515070961389569",
+        "location": "Hainan",
+        "name": "一叶 海口",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1645387208021426176/AJYvVUDk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 834,
+          "following_count": 784,
+          "like_count": 959,
+          "listed_count": 8,
+          "media_count": 120,
+          "tweet_count": 286
+        },
+        "username": "hkyiye",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1978871239335907382",
+    "created_at": "2025-10-18T15:40:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-18T16:40:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979573276256186722"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1807666546057338880",
+          "start": 0,
+          "username": "enxwo11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979573276256186722",
+    "in_reply_to_user_id": "1807666546057338880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978871239335907382",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@enxwo11 我喜欢你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1978871239335907382",
+        "created_at": "2025-10-18T15:40:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T16:40:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979573276256186722"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1807666546057338880",
+              "start": 0,
+              "username": "enxwo11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979573276256186722",
+        "in_reply_to_user_id": "1807666546057338880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978871239335907382",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@enxwo11 我喜欢你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1807666546057338880",
+        "conversation_id": "1978871239335907382",
+        "created_at": "2025-10-16T17:10:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T18:10:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978871239335907382"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1978871239335907382",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1582,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想黏人发现0个人可以被我骚扰我想哭吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧 小男友@pertx114514  结义兄弟@wuyan_sleeeepy还有穹璃 互fo可以私信我交朋友什么的 反正我还挺闲 然后就是没有然后了 一切都是最好的安排https://t.co/ILEWFdOQz0。 ngl匿名问答",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "pertx114514"
+              },
+              {
+                "end": 58,
+                "start": 43,
+                "username": "wuyan_sleeeepy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%8950122",
+                "end": 127,
+                "expanded_url": "https://ngl.link/%E6%B3%8950122",
+                "start": 104,
+                "url": "https://t.co/ILEWFdOQz0"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉",
+        "pinned_tweet_id": "1970427616353296660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978274114138996736/r_khhgIT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 825,
+          "following_count": 666,
+          "like_count": 17544,
+          "listed_count": 2,
+          "media_count": 202,
+          "tweet_count": 6665
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-01T06:44:32.000Z",
+        "description": "不约不卡不互看不线下",
+        "id": "1807666546057338880",
+        "name": "ence",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974815563013918721/9F8wYC9E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1064,
+          "following_count": 165,
+          "like_count": 4072,
+          "listed_count": 2,
+          "media_count": 121,
+          "tweet_count": 6742
+        },
+        "username": "enxwo11",
+        "verified": false
+      }
+    ]
+  }
+}

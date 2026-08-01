@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1873686607741808640"
+      ],
+      "media_source_tweet_id": [
+        "1873686639983419439"
+      ]
+    },
+    "author_id": "1826281483675299840",
+    "conversation_id": "1873871145898070178",
+    "created_at": "2024-12-30T23:17:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-31T00:17:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1873871145898070178"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1691417549227884544",
+          "start": 3,
+          "username": "fulafu618"
+        },
+        {
+          "end": 31,
+          "id": "1634559545975664640",
+          "start": 15,
+          "username": "MisterYang88137"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jXPsP4ZIvc",
+          "end": 55,
+          "expanded_url": "https://x.com/fulafu618/status/1873686639983419439/video/1",
+          "media_key": "7_1873686607741808640",
+          "start": 32,
+          "url": "https://t.co/jXPsP4ZIvc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1873871145898070178",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1873686639983419439",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fulafu618: @MisterYang88137 https://t.co/jXPsP4ZIvc"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1873871145898070178].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1873871145898070178",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1873871145898070178"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8126,
+        "height": 1280,
+        "media_key": "7_1873686607741808640",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1873686607741808640/pu/img/njVAlEYkz7xian_Z.jpg",
+        "public_metrics": {
+          "view_count": 2515
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1873686607741808640/pu/vid/avc1/320x568/RQMTgyYTOMslt0jx.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1873686607741808640/pu/vid/avc1/480x852/WxpvlACCPqOdHYu5.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1873686607741808640/pu/vid/avc1/720x1280/adQ-RrgWRdIhSpp3.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1873686607741808640/pu/pl/TQOiOi0rOSlK-cWq.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1873686607741808640"
+          ]
+        },
+        "author_id": "1691417549227884544",
+        "conversation_id": "1873677072192979240",
+        "created_at": "2024-12-30T11:04:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-30T12:04:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1873686639983419439"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1634559545975664640",
+              "start": 0,
+              "username": "MisterYang88137"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jXPsP4ZIvc",
+              "end": 40,
+              "expanded_url": "https://x.com/fulafu618/status/1873686639983419439/video/1",
+              "media_key": "7_1873686607741808640",
+              "start": 17,
+              "url": "https://t.co/jXPsP4ZIvc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873686639983419439",
+        "in_reply_to_user_id": "1634559545975664640",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 6043,
+          "like_count": 39,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873677072192979240",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MisterYang88137 https://t.co/jXPsP4ZIvc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，有兴趣就可以一起玩",
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844188914451365901/gNnOT4GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 292,
+          "like_count": 1649,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 692
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-15T11:52:35.000Z",
+        "description": "母语是Cantonese，Hokkienese和Türkçe也会一些，越南占族裔马六甲州。",
+        "id": "1691417549227884544",
+        "location": "Malaysia",
+        "name": "嚟友友Lê ỷưu🇲🇾☪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855572219906375680/0CbxoV1A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 525,
+          "like_count": 1577,
+          "listed_count": 0,
+          "media_count": 290,
+          "tweet_count": 1434
+        },
+        "username": "fulafu618",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-11T14:19:14.000Z",
+        "description": "I'm an artist, I'm a performance artist.",
+        "id": "1634559545975664640",
+        "name": "大种马",
+        "pinned_tweet_id": "1814838004156145763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871494222219821056/mM6mMmMZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12639,
+          "following_count": 606,
+          "like_count": 74105,
+          "listed_count": 35,
+          "media_count": 6002,
+          "tweet_count": 23630
+        },
+        "username": "MisterYang88137",
+        "verified": true
+      }
+    ]
+  }
+}

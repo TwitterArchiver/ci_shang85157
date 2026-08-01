@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1927554063694020949",
+    "created_at": "2025-05-29T22:55:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-29T23:55:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928223688819724562"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "25950119",
+          "start": 0,
+          "username": "not_2b_or_2b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928223688819724562",
+    "in_reply_to_user_id": "25950119",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927554063694020949",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@not_2b_or_2b 好像劫匪也知道银行有钱，但是还是会挑路边的人下手"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 912,
+        "media_key": "3_1927554060032385024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsAMNHmXoAApA_t.jpg",
+        "width": 690
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1927554063694020949",
+        "created_at": "2025-05-29T22:55:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-29T23:55:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928223688819724562"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "25950119",
+              "start": 0,
+              "username": "not_2b_or_2b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928223688819724562",
+        "in_reply_to_user_id": "25950119",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927554063694020949",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@not_2b_or_2b 好像劫匪也知道银行有钱，但是还是会挑路边的人下手"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1927554060032385024"
+          ]
+        },
+        "author_id": "25950119",
+        "conversation_id": "1927554063694020949",
+        "created_at": "2025-05-28T02:34:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T03:34:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927554063694020949"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WVC3NMzlUB",
+              "end": 49,
+              "expanded_url": "https://x.com/not_2b_or_2b/status/1927554063694020949/photo/1",
+              "media_key": "3_1927554060032385024",
+              "start": 26,
+              "url": "https://t.co/WVC3NMzlUB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927554063694020949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 463,
+          "impression_count": 3148930,
+          "like_count": 3892,
+          "quote_count": 38,
+          "reply_count": 1216,
+          "retweet_count": 138
+        },
+        "reply_settings": "everyone",
+        "text": "网友说发现了《西游记》的一个大BUG。 你觉得呢？ https://t.co/WVC3NMzlUB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲，生理性别男，请不要私信给我发那种奇怪的东西了\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 74,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 605,
+          "following_count": 532,
+          "like_count": 10819,
+          "listed_count": 2,
+          "media_count": 171,
+          "tweet_count": 4481
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2009-03-23T04:08:06.000Z",
+        "description": "Less is more",
+        "id": "25950119",
+        "location": "Canada",
+        "name": "To be, or not to be",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/573708483322773504/C38RzJoL_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36725,
+          "following_count": 179,
+          "like_count": 110,
+          "listed_count": 216,
+          "media_count": 7182,
+          "tweet_count": 11864
+        },
+        "username": "not_2b_or_2b",
+        "verified": false
+      }
+    ]
+  }
+}

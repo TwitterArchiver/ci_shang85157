@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1929874372141240372",
+    "created_at": "2025-06-04T09:33:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-04T10:33:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930196230904410381"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1904150959229734912",
+          "start": 0,
+          "username": "mengmeng091297"
+        },
+        {
+          "end": 25,
+          "id": "1891428713419698176",
+          "start": 16,
+          "username": "LCZ_zzzz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930196230904410381",
+    "in_reply_to_user_id": "1904150959229734912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930192143668109764",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mengmeng091297 @LCZ_zzzz 生气了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1929874372141240372",
+        "created_at": "2025-06-04T09:33:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T10:33:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930196230904410381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1904150959229734912",
+              "start": 0,
+              "username": "mengmeng091297"
+            },
+            {
+              "end": 25,
+              "id": "1891428713419698176",
+              "start": 16,
+              "username": "LCZ_zzzz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930196230904410381",
+        "in_reply_to_user_id": "1904150959229734912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930192143668109764",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mengmeng091297 @LCZ_zzzz 生气了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904150959229734912",
+        "conversation_id": "1929874372141240372",
+        "created_at": "2025-06-04T09:17:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T10:17:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930192143668109764"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1891428713419698176",
+              "start": 0,
+              "username": "LCZ_zzzz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930192143668109764",
+        "in_reply_to_user_id": "1891428713419698176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929874372141240372",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LCZ_zzzz 我有一双蜘蛛网骷髅头的 每次穿得我都生气"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲，生理性别男，请不要私信给我发那种奇怪的东西了\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 74,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 630,
+          "following_count": 544,
+          "like_count": 11473,
+          "listed_count": 2,
+          "media_count": 181,
+          "tweet_count": 4726
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-24T12:40:08.000Z",
+        "description": "",
+        "id": "1904150959229734912",
+        "name": "梦梦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904151332015198209/exU_bnns_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 57,
+          "like_count": 1115,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 638
+        },
+        "username": "mengmeng091297",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-17T10:05:34.000Z",
+        "description": "因为我不想后悔",
+        "id": "1891428713419698176",
+        "location": "泛性恋",
+        "name": "柳橙汁",
+        "pinned_tweet_id": "1920838138475303172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908515711900934145/P9wOtcIZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 550,
+          "following_count": 178,
+          "like_count": 954,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 531
+        },
+        "username": "LCZ_zzzz",
+        "verified": false
+      }
+    ]
+  }
+}

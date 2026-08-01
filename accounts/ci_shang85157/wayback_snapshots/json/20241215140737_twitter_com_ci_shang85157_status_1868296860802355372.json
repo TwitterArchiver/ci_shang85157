@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1868275469528989961",
+    "created_at": "2024-12-15T14:07:37.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-15T15:07:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1868296860802355372"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "702827952803680256",
+          "start": 0,
+          "username": "allvulples"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868296860802355372",
+    "in_reply_to_user_id": "702827952803680256",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1868275469528989961",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@allvulples 你是跨啊大叔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1868275469528989961",
+        "created_at": "2024-12-15T14:07:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-15T15:07:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868296860802355372"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "702827952803680256",
+              "start": 0,
+              "username": "allvulples"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868296860802355372",
+        "in_reply_to_user_id": "702827952803680256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868275469528989961",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@allvulples 你是跨啊大叔"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1868275466005790720"
+          ]
+        },
+        "author_id": "702827952803680256",
+        "conversation_id": "1868275469528989961",
+        "created_at": "2024-12-15T12:42:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-15T13:42:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1868275469528989961"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5x4ZGvpgRY",
+              "end": 25,
+              "expanded_url": "https://x.com/allvulples/status/1868275469528989961/photo/1",
+              "media_key": "3_1868275466005790720",
+              "start": 2,
+              "url": "https://t.co/5x4ZGvpgRY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868275469528989961",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "恩 https://t.co/5x4ZGvpgRY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，有兴趣就可以一起玩",
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844188914451365901/gNnOT4GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 258,
+          "like_count": 1154,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 405
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2016-02-25T12:10:16.000Z",
+        "description": "BIG BANG BAD BOYS AND GIRLS.",
+        "id": "702827952803680256",
+        "location": "Hong Kong",
+        "name": "Demonkeyse Manell",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851675836552003584/P9GHvu4w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 1339,
+          "like_count": 11011,
+          "listed_count": 3,
+          "media_count": 57,
+          "tweet_count": 12768
+        },
+        "username": "allvulples",
+        "verified": false
+      }
+    ]
+  }
+}

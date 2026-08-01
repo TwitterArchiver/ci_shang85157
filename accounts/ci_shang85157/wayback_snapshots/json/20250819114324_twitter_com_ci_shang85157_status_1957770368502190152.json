@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1957458721942245637",
+    "created_at": "2025-08-19T11:43:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-19T12:43:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957770368502190152"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1938829666703527936",
+          "start": 0,
+          "username": "BBBing1207"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957770368502190152",
+    "in_reply_to_user_id": "1938829666703527936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957458721942245637",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BBBing1207 有话没人说，当写日记了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1957458721942245637",
+        "created_at": "2025-08-19T11:43:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T12:43:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957770368502190152"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1938829666703527936",
+              "start": 0,
+              "username": "BBBing1207"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957770368502190152",
+        "in_reply_to_user_id": "1938829666703527936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957458721942245637",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BBBing1207 有话没人说，当写日记了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1938829666703527936",
+        "conversation_id": "1957458721942245637",
+        "created_at": "2025-08-18T15:05:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T16:05:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957458721942245637"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1957458721942245637",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 8367,
+          "like_count": 111,
+          "quote_count": 0,
+          "reply_count": 112,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你们最开始都为了什么玩推特的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像失去了一条时间线，算了，我们从来吧",
+        "id": "1826281483675299840",
+        "name": "泉方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 704,
+          "following_count": 548,
+          "like_count": 12935,
+          "listed_count": 2,
+          "media_count": 159,
+          "tweet_count": 5286
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-28T05:20:16.000Z",
+        "description": "ISFJ♏ | 可以叫我饼饼或者小鼠 | 这是我的自由小天地 | 什么都发 | 不约不线下不闲聊 | 私信会回有礼貌的 | 闲聊过🚪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mouse87426",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mouse87426",
+                "start": 0,
+                "url": "https://t.co/XeCnBoAEdq"
+              }
+            ]
+          }
+        },
+        "id": "1938829666703527936",
+        "location": "纯绿🚪私",
+        "name": "冰冰饼",
+        "pinned_tweet_id": "1957448798806122682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942928934179364864/e53zLlAZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 112,
+          "like_count": 2707,
+          "listed_count": 0,
+          "media_count": 135,
+          "tweet_count": 907
+        },
+        "url": "https://t.co/XeCnBoAEdq",
+        "username": "BBBing1207",
+        "verified": false
+      }
+    ]
+  }
+}

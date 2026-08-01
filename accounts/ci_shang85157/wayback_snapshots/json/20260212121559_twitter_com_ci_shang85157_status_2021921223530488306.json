@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "2014342885085245466",
+    "created_at": "2026-02-12T12:15:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T13:15:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021921223530488306"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1762469921248669696",
+          "start": 0,
+          "username": "zhx14651611"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021921223530488306",
+    "in_reply_to_user_id": "1762469921248669696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014342885085245466",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhx14651611 一份汉堡套装没有了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "2014342885085245466",
+        "created_at": "2026-02-12T12:15:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T13:15:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021921223530488306"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1762469921248669696",
+              "start": 0,
+              "username": "zhx14651611"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021921223530488306",
+        "in_reply_to_user_id": "1762469921248669696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014342885085245466",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhx14651611 一份汉堡套装没有了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1762469921248669696",
+        "conversation_id": "2014342885085245466",
+        "created_at": "2026-01-22T14:22:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T15:22:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014342885085245466"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2014342885085245466",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 112,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "合约第四次爆仓，人生能重来一次多好。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧 https://t.co/ILEWFdOQz0。 ngl匿名问答 想交朋友或者互fo尽管私信我 每个人都会回",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%8950122",
+                "end": 45,
+                "expanded_url": "https://ngl.link/%E6%B3%8950122",
+                "start": 22,
+                "url": "https://t.co/ILEWFdOQz0"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "永雏泉",
+        "pinned_tweet_id": "2020083398971388378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978274114138996736/r_khhgIT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1101,
+          "following_count": 701,
+          "like_count": 21211,
+          "listed_count": 2,
+          "media_count": 243,
+          "tweet_count": 7792
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-27T13:29:26.000Z",
+        "description": "事世变迁，\n无人记得。",
+        "id": "1762469921248669696",
+        "name": "十三画",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843742760404234240/dt0m5CeY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 19,
+          "like_count": 52,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 253
+        },
+        "username": "zhx14651611",
+        "verified": false
+      }
+    ]
+  }
+}

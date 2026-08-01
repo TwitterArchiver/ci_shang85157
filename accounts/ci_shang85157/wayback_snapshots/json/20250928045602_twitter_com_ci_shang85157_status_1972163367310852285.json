@@ -1,0 +1,517 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1971953558343053313"
+      ],
+      "media_source_tweet_id": [
+        "1971953571785855270"
+      ]
+    },
+    "author_id": "1826281483675299840",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "1575775931846709248",
+          "name": "ぼっち・ざ・ろっく!"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1585394722129858560",
+          "name": "Bocchi the Rock!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1585394722129858560",
+          "name": "Bocchi the Rock!"
+        }
+      }
+    ],
+    "conversation_id": "1972163367310852285",
+    "created_at": "2025-09-28T04:56:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-28T05:56:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972163367310852285"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 21,
+          "normalized_text": "きくりさん",
+          "probability": 0.4011,
+          "start": 17,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 42,
+          "start": 29,
+          "tag": "廣井きくり生誕祭2025"
+        },
+        {
+          "end": 53,
+          "start": 43,
+          "tag": "ぼっち・ざ・ろっく"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1265143184801202177",
+          "start": 3,
+          "username": "kujo_karen9"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mzyvuXtrGc",
+          "end": 77,
+          "expanded_url": "https://x.com/kujo_karen9/status/1971953571785855270/photo/1",
+          "media_key": "3_1971953558343053313",
+          "start": 54,
+          "url": "https://t.co/mzyvuXtrGc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972163367310852285",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 454
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971953571785855270",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kujo_karen9: きくりさんおめでとう🍻\n#廣井きくり生誕祭2025\n#ぼっち・ざ・ろっく https://t.co/mzyvuXtrGc"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "再掲",
+        "height": 1200,
+        "media_key": "3_1971953558343053313",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G13JUD6a8AEbj45.jpg",
+        "width": 1129
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971953558343053313"
+          ],
+          "media_source_tweet_id": [
+            "1971953571785855270"
+          ]
+        },
+        "author_id": "1826281483675299840",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1575775931846709248",
+              "name": "ぼっち・ざ・ろっく!"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1585394722129858560",
+              "name": "Bocchi the Rock!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585394722129858560",
+              "name": "Bocchi the Rock!"
+            }
+          }
+        ],
+        "conversation_id": "1972163367310852285",
+        "created_at": "2025-09-28T04:56:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T05:56:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972163367310852285"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "きくりさん",
+              "probability": 0.4011,
+              "start": 17,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 42,
+              "start": 29,
+              "tag": "廣井きくり生誕祭2025"
+            },
+            {
+              "end": 53,
+              "start": 43,
+              "tag": "ぼっち・ざ・ろっく"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1265143184801202177",
+              "start": 3,
+              "username": "kujo_karen9"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mzyvuXtrGc",
+              "end": 77,
+              "expanded_url": "https://x.com/kujo_karen9/status/1971953571785855270/photo/1",
+              "media_key": "3_1971953558343053313",
+              "start": 54,
+              "url": "https://t.co/mzyvuXtrGc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972163367310852285",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 454
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971953571785855270",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kujo_karen9: きくりさんおめでとう🍻\n#廣井きくり生誕祭2025\n#ぼっち・ざ・ろっく https://t.co/mzyvuXtrGc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971953558343053313"
+          ]
+        },
+        "author_id": "1265143184801202177",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1575775931846709248",
+              "name": "ぼっち・ざ・ろっく!"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1585394722129858560",
+              "name": "Bocchi the Rock!"
+            }
+          }
+        ],
+        "conversation_id": "1971953571785855270",
+        "created_at": "2025-09-27T15:02:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T16:02:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971953571785855270"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "きくりさん",
+              "probability": 0.5404,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 12,
+              "tag": "廣井きくり生誕祭2025"
+            },
+            {
+              "end": 36,
+              "start": 26,
+              "tag": "ぼっち・ざ・ろっく"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mzyvuXtrGc",
+              "end": 60,
+              "expanded_url": "https://x.com/kujo_karen9/status/1971953571785855270/photo/1",
+              "media_key": "3_1971953558343053313",
+              "start": 37,
+              "url": "https://t.co/mzyvuXtrGc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971953571785855270",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 154,
+          "impression_count": 31684,
+          "like_count": 2699,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 454
+        },
+        "reply_settings": "everyone",
+        "text": "きくりさんおめでとう🍻\n#廣井きくり生誕祭2025\n#ぼっち・ざ・ろっく https://t.co/mzyvuXtrGc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧 小男友@pertx114514还有穹璃 互fo可以私信我交朋友什么的 反正我还挺闲 然后就是没有然后了 一切都是最好的安排https://t.co/ILEWFdOQz0。 ngl匿名问答",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "pertx114514"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%8950122",
+                "end": 106,
+                "expanded_url": "https://ngl.link/%E6%B3%8950122",
+                "start": 83,
+                "url": "https://t.co/ILEWFdOQz0"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉方",
+        "pinned_tweet_id": "1970427616353296660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 809,
+          "following_count": 648,
+          "like_count": 16149,
+          "listed_count": 2,
+          "media_count": 193,
+          "tweet_count": 6341
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-26T04:50:20.000Z",
+        "description": "くじょうです。メンダコやツチノコを描きます！\nhttps://t.co/Uptk3sdouw",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@kujo_karen9",
+                "end": 46,
+                "expanded_url": "https://www.youtube.com/@kujo_karen9",
+                "start": 23,
+                "url": "https://t.co/Uptk3sdouw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/4360090",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/4360090",
+                "start": 0,
+                "url": "https://t.co/SrZ3eNLqfx"
+              }
+            ]
+          }
+        },
+        "id": "1265143184801202177",
+        "location": "東京",
+        "name": "九畳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960838323506962435/1YIFH8UL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5195,
+          "following_count": 68,
+          "like_count": 4539,
+          "listed_count": 26,
+          "media_count": 397,
+          "tweet_count": 2903
+        },
+        "url": "https://t.co/SrZ3eNLqfx",
+        "username": "kujo_karen9",
+        "verified": true
+      }
+    ]
+  }
+}

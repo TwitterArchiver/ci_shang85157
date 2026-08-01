@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "2015861114501005389",
+    "created_at": "2026-01-26T20:41:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T21:41:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015887932633276518"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1878981575427162114",
+          "start": 0,
+          "username": "kimKAAAAAILuv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015887932633276518",
+    "in_reply_to_user_id": "1878981575427162114",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015861114501005389",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kimKAAAAAILuv 你又给谁挂了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1108,
+        "media_key": "3_2015861111732801536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_nHAClbkAA-na0.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "2015861114501005389",
+        "created_at": "2026-01-26T20:41:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T21:41:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015887932633276518"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1878981575427162114",
+              "start": 0,
+              "username": "kimKAAAAAILuv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015887932633276518",
+        "in_reply_to_user_id": "1878981575427162114",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015861114501005389",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kimKAAAAAILuv 你又给谁挂了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015861111732801536"
+          ]
+        },
+        "author_id": "1878981575427162114",
+        "conversation_id": "2015861114501005389",
+        "created_at": "2026-01-26T18:55:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T19:55:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015861114501005389"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CrihVsCxCg",
+              "end": 31,
+              "expanded_url": "https://x.com/kimKAAAAAILuv/status/2015861114501005389/photo/1",
+              "media_key": "3_2015861111732801536",
+              "start": 8,
+              "url": "https://t.co/CrihVsCxCg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015861114501005389",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "月抛➕ 无门槛 https://t.co/CrihVsCxCg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧 https://t.co/ILEWFdOQz0。 ngl匿名问答 想交朋友或者互fo尽管私信我 每个人都会回",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%8950122",
+                "end": 45,
+                "expanded_url": "https://ngl.link/%E6%B3%8950122",
+                "start": 22,
+                "url": "https://t.co/ILEWFdOQz0"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "永雏泉",
+        "pinned_tweet_id": "2005263135222165835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978274114138996736/r_khhgIT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 993,
+          "following_count": 672,
+          "like_count": 20451,
+          "listed_count": 2,
+          "media_count": 234,
+          "tweet_count": 7565
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-14T01:45:48.000Z",
+        "description": "王者荣耀我操你血妈！",
+        "id": "1878981575427162114",
+        "name": "废话少讲好吗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879010527458058240/lWfyqqhU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 76,
+          "like_count": 895,
+          "listed_count": 0,
+          "media_count": 275,
+          "tweet_count": 1688
+        },
+        "username": "kimKAAAAAILuv",
+        "verified": false
+      }
+    ]
+  }
+}

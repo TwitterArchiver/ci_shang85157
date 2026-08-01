@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1914765584098906112"
+      ],
+      "media_source_tweet_id": [
+        "1914765658174447759"
+      ]
+    },
+    "author_id": "1826281483675299840",
+    "conversation_id": "1918367739724611599",
+    "created_at": "2025-05-02T18:11:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-02T19:11:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1918367739724611599"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "968985366354018304",
+          "start": 3,
+          "username": "AMESYA2018"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6UD5iGdYPU",
+          "end": 39,
+          "expanded_url": "https://x.com/AMESYA2018/status/1914765658174447759/photo/1",
+          "media_key": "3_1914765584098906112",
+          "start": 16,
+          "url": "https://t.co/6UD5iGdYPU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918367739724611599",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 785
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914765658174447759",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AMESYA2018: https://t.co/6UD5iGdYPU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1085,
+        "media_key": "3_1914765584098906112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpKdJ2Rb0AAVXJM.jpg",
+        "width": 705
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1914765584098906112"
+          ],
+          "media_source_tweet_id": [
+            "1914765658174447759"
+          ]
+        },
+        "author_id": "1826281483675299840",
+        "conversation_id": "1918367739724611599",
+        "created_at": "2025-05-02T18:11:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-02T19:11:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918367739724611599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "968985366354018304",
+              "start": 3,
+              "username": "AMESYA2018"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6UD5iGdYPU",
+              "end": 39,
+              "expanded_url": "https://x.com/AMESYA2018/status/1914765658174447759/photo/1",
+              "media_key": "3_1914765584098906112",
+              "start": 16,
+              "url": "https://t.co/6UD5iGdYPU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918367739724611599",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 785
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914765658174447759",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AMESYA2018: https://t.co/6UD5iGdYPU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1914765584098906112"
+          ]
+        },
+        "author_id": "968985366354018304",
+        "conversation_id": "1914765658174447759",
+        "created_at": "2025-04-22T19:38:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T20:38:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914765658174447759"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6UD5iGdYPU",
+              "end": 23,
+              "expanded_url": "https://x.com/AMESYA2018/status/1914765658174447759/photo/1",
+              "media_key": "3_1914765584098906112",
+              "start": 0,
+              "url": "https://t.co/6UD5iGdYPU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914765658174447759",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 740,
+          "impression_count": 98886,
+          "like_count": 7757,
+          "quote_count": 7,
+          "reply_count": 11,
+          "retweet_count": 785
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/6UD5iGdYPU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 438,
+          "following_count": 423,
+          "like_count": 7838,
+          "listed_count": 1,
+          "media_count": 136,
+          "tweet_count": 3338
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2018-02-28T23:04:49.000Z",
+        "description": "NO DM",
+        "id": "968985366354018304",
+        "name": "AMESYA",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888233579559387136/Ab4hz7eJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2660,
+          "following_count": 490,
+          "like_count": 4154,
+          "listed_count": 24,
+          "media_count": 1638,
+          "tweet_count": 3930
+        },
+        "username": "AMESYA2018",
+        "verified": true
+      }
+    ]
+  }
+}

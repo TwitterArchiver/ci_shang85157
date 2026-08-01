@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "2078407715169460245",
+    "created_at": "2026-07-18T15:33:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T16:33:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078503485071610233"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1746353897403498496",
+          "start": 0,
+          "username": "wuyan_sleeeepy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078503485071610233",
+    "in_reply_to_user_id": "1746353897403498496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078407715169460245",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wuyan_sleeeepy 四折生日快乐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "2078407715169460245",
+        "created_at": "2026-07-18T15:33:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T16:33:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078503485071610233"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1746353897403498496",
+              "start": 0,
+              "username": "wuyan_sleeeepy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078503485071610233",
+        "in_reply_to_user_id": "1746353897403498496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078407715169460245",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wuyan_sleeeepy 四折生日快乐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1746353897403498496",
+        "conversation_id": "2078407715169460245",
+        "created_at": "2026-07-18T09:13:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T10:13:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078407715169460245"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078407715169460245",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "给四折过生日了，用烟代替生日蜡烛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧 https://t.co/ILEWFdOQz0。 ngl匿名问答。  嗯我是男生 不要认错了。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%8950122",
+                "end": 45,
+                "expanded_url": "https://ngl.link/%E6%B3%8950122",
+                "start": 22,
+                "url": "https://t.co/ILEWFdOQz0"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "永雏泉",
+        "pinned_tweet_id": "2060026487768760460",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978274114138996736/r_khhgIT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1140,
+          "following_count": 740,
+          "like_count": 24715,
+          "listed_count": 2,
+          "media_count": 273,
+          "tweet_count": 8909
+        },
+        "url": "",
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-14T02:10:02.000Z",
+        "description": "什么都没有(˘•ω•˘)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wusanshui1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wusanshui1",
+                "start": 0,
+                "url": "https://t.co/V5qr5fjp0m"
+              }
+            ]
+          }
+        },
+        "id": "1746353897403498496",
+        "location": "天堂",
+        "name": "三水水水",
+        "pinned_tweet_id": "1962571532879659324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045466534672531456/-RZJyMKU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 503,
+          "following_count": 340,
+          "like_count": 36603,
+          "listed_count": 1,
+          "media_count": 576,
+          "tweet_count": 6392
+        },
+        "url": "https://t.co/V5qr5fjp0m",
+        "username": "wuyan_sleeeepy",
+        "verified": false
+      }
+    ]
+  }
+}

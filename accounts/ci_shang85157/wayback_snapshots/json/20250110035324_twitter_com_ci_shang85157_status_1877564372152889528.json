@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1877244839336595659",
+    "created_at": "2025-01-10T03:53:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-10T04:53:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1877564372152889528"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "702827952803680256",
+          "start": 0,
+          "username": "allvulples"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1877564372152889528",
+    "in_reply_to_user_id": "702827952803680256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1877244839336595659",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@allvulples 人均给我排除在外了？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1877244839336595659",
+        "created_at": "2025-01-10T03:53:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-10T04:53:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1877564372152889528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "702827952803680256",
+              "start": 0,
+              "username": "allvulples"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877564372152889528",
+        "in_reply_to_user_id": "702827952803680256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1877244839336595659",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@allvulples 人均给我排除在外了？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1877244837113769988"
+          ]
+        },
+        "author_id": "702827952803680256",
+        "conversation_id": "1877244839336595659",
+        "created_at": "2025-01-09T06:43:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-09T07:43:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1877244839336595659"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/43BKmnubjb",
+              "end": 60,
+              "expanded_url": "https://x.com/allvulples/status/1877244839336595659/photo/1",
+              "media_key": "3_1877244837113769988",
+              "start": 37,
+              "url": "https://t.co/43BKmnubjb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877244839336595659",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 85,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看看中國人多麼有錢吧！ 反賊殖人，民小，支黑，潤人，有這麼多錢嗎？🐶🐶🐶 https://t.co/43BKmnubjb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲",
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844188914451365901/gNnOT4GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 215,
+          "like_count": 2017,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 894
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2016-02-25T12:10:16.000Z",
+        "description": "BIG BANG BAD BOYS AND GIRLS.",
+        "id": "702827952803680256",
+        "location": "Hong Kong",
+        "name": "Demonkeyse Manell",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873637459722211328/xhsKFaVI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 322,
+          "following_count": 1707,
+          "like_count": 14492,
+          "listed_count": 2,
+          "media_count": 245,
+          "tweet_count": 18755
+        },
+        "username": "allvulples",
+        "verified": false
+      }
+    ]
+  }
+}

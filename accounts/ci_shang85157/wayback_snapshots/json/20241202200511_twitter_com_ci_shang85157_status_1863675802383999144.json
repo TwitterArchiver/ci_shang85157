@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1863192222012747781",
+    "created_at": "2024-12-02T20:05:11.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-02T21:05:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1863675802383999144"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1808051447193628673",
+          "start": 0,
+          "username": "muxinggeyidwimu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1863675802383999144",
+    "in_reply_to_user_id": "1808051447193628673",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1863192222012747781",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@muxinggeyidwimu 其实我也会想第一个听到英语的中国人是怎么知道他们说的是什么意思"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1863192222012747781",
+        "created_at": "2024-12-02T20:05:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-02T21:05:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863675802383999144"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1808051447193628673",
+              "start": 0,
+              "username": "muxinggeyidwimu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863675802383999144",
+        "in_reply_to_user_id": "1808051447193628673",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863192222012747781",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@muxinggeyidwimu 其实我也会想第一个听到英语的中国人是怎么知道他们说的是什么意思"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1863192197706698752"
+          ]
+        },
+        "author_id": "1808051447193628673",
+        "conversation_id": "1863192222012747781",
+        "created_at": "2024-12-01T12:03:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-01T13:03:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1863192222012747781"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AwN84GWmnz",
+              "end": 23,
+              "expanded_url": "https://x.com/muxinggeyidwimu/status/1863192222012747781/photo/1",
+              "media_key": "3_1863192197706698752",
+              "start": 0,
+              "url": "https://t.co/AwN84GWmnz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863192222012747781",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 31046,
+          "like_count": 830,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/AwN84GWmnz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，有兴趣就可以一起玩",
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844188914451365901/gNnOT4GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 217,
+          "like_count": 881,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 199
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-02T08:14:00.000Z",
+        "description": "每日不定期更新，谢谢您的fo和点赞，发帖只为博您一乐🥳私信都会回，梗图随意转载无需通知，谢谢大家的喜欢，欢迎投稿，不要转载我的帖子用于政治话题🙏",
+        "id": "1808051447193628673",
+        "location": "夜之城",
+        "name": "幕星格.一代目",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859254927291277312/LhZwctZc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4633,
+          "following_count": 56,
+          "like_count": 3328,
+          "listed_count": 18,
+          "media_count": 363,
+          "tweet_count": 1055
+        },
+        "username": "muxinggeyidwimu",
+        "verified": false
+      }
+    ]
+  }
+}

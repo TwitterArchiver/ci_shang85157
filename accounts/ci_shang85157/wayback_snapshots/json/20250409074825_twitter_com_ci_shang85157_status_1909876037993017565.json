@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1909835929696739403",
+    "created_at": "2025-04-09T07:48:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-09T08:48:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909876037993017565"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1759721938191110144",
+          "start": 0,
+          "username": "Aurora71310"
+        },
+        {
+          "end": 26,
+          "id": "3120300402",
+          "start": 13,
+          "username": "sky_blueness"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909876037993017565",
+    "in_reply_to_user_id": "1759721938191110144",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909866177255575806",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aurora71310 @sky_blueness 神了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1909835929696739403",
+        "created_at": "2025-04-09T07:48:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-09T08:48:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909876037993017565"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1759721938191110144",
+              "start": 0,
+              "username": "Aurora71310"
+            },
+            {
+              "end": 26,
+              "id": "3120300402",
+              "start": 13,
+              "username": "sky_blueness"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909876037993017565",
+        "in_reply_to_user_id": "1759721938191110144",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909866177255575806",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aurora71310 @sky_blueness 神了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1759721938191110144",
+        "conversation_id": "1909835929696739403",
+        "created_at": "2025-04-09T07:09:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-09T08:09:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909866177255575806"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "3120300402",
+              "start": 0,
+              "username": "sky_blueness"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909866177255575806",
+        "in_reply_to_user_id": "3120300402",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909860419797131507",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sky_blueness 没事，我才初二"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 360,
+          "following_count": 353,
+          "like_count": 5197,
+          "listed_count": 1,
+          "media_count": 92,
+          "tweet_count": 2378
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-19T23:29:39.000Z",
+        "description": "14MTF｜初三休学中...｜阿斯伯格综合征+ADHD+抑郁状态+焦虑状态+睡眠障碍+幻觉｜家长党｜持小证阻断+（自己HRT）｜老婆 @chen_qian97548女儿@MinaseAyano 猫猫@AGeSang2008｜喜欢山地自行车（enduro）、卡丁车（270CC）和玩游戏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 67,
+                "username": "chen_qian97548"
+              },
+              {
+                "end": 96,
+                "start": 84,
+                "username": "MinaseAyano"
+              },
+              {
+                "end": 111,
+                "start": 99,
+                "username": "AGeSang2008"
+              }
+            ]
+          }
+        },
+        "id": "1759721938191110144",
+        "location": "北京",
+        "name": "云迹",
+        "pinned_tweet_id": "1897312766664507614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895489774967828480/o9n0xLIY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 748,
+          "following_count": 800,
+          "like_count": 1434,
+          "listed_count": 1,
+          "media_count": 84,
+          "tweet_count": 1147
+        },
+        "username": "Aurora71310",
+        "verified": false
+      },
+      {
+        "created_at": "2015-03-31T13:53:03.000Z",
+        "description": "没有简介",
+        "id": "3120300402",
+        "name": "X",
+        "pinned_tweet_id": "1898409635838869765",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1671666625857351680/90Ke1PGw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 1401,
+          "like_count": 10165,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 7019
+        },
+        "username": "sky_blueness",
+        "verified": false
+      }
+    ]
+  }
+}

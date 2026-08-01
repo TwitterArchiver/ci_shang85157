@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1920821035672232421",
+    "created_at": "2025-05-26T21:37:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-26T22:37:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927116987232120907"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1669599710347403264",
+          "start": 0,
+          "username": "baigeinuofeng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927116987232120907",
+    "in_reply_to_user_id": "1669599710347403264",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920821035672232421",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baigeinuofeng 居然是巨手BUG？"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 43539,
+        "height": 576,
+        "media_key": "7_1920820913932824578",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1920820913932824578/pu/img/P1NxkzJIf9_oDBuT.jpg",
+        "public_metrics": {
+          "view_count": 14
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1920820913932824578/pu/vid/avc1/600x270/jupVUUaqAMAI67D5.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1920820913932824578/pu/vid/avc1/800x360/2xCepAgbZ5xYjzZ2.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1920820913932824578/pu/vid/avc1/1280x576/j2Z6STBCPhTzLkD7.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1920820913932824578/pu/pl/9XYuMBNHFKRMbe2I.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1920821035672232421",
+        "created_at": "2025-05-26T21:37:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T22:37:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927116987232120907"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1669599710347403264",
+              "start": 0,
+              "username": "baigeinuofeng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927116987232120907",
+        "in_reply_to_user_id": "1669599710347403264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920821035672232421",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baigeinuofeng 居然是巨手BUG？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1920820913932824578"
+          ]
+        },
+        "author_id": "1669599710347403264",
+        "conversation_id": "1920821035672232421",
+        "created_at": "2025-05-09T12:39:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-09T13:39:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920821035672232421"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eNhwAePpZd",
+              "end": 34,
+              "expanded_url": "https://x.com/baigeinuofeng/status/1920821035672232421/video/1",
+              "media_key": "7_1920820913932824578",
+              "start": 11,
+              "url": "https://t.co/eNhwAePpZd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920821035672232421",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "企图用佐助杀死佐助🤔 https://t.co/eNhwAePpZd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲，生理性别男，请不要私信给我发那种奇怪的东西了\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 74,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 599,
+          "following_count": 520,
+          "like_count": 10501,
+          "listed_count": 2,
+          "media_count": 167,
+          "tweet_count": 4345
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-16T06:56:15.000Z",
+        "description": "我就一玩火影的  喜欢叫妈妈 说白了就一打游戏的魔怔小孩  木叶村赶紧完蛋吧😭欢迎大家骚扰我",
+        "id": "1669599710347403264",
+        "location": "郑如州/",
+        "name": "宇智波佐助［永恒万花筒］",
+        "pinned_tweet_id": "1904029505397928061",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903802187781939200/f3R55rKb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 64,
+          "like_count": 70,
+          "listed_count": 1,
+          "media_count": 64,
+          "tweet_count": 238
+        },
+        "username": "baigeinuofeng",
+        "verified": false
+      }
+    ]
+  }
+}

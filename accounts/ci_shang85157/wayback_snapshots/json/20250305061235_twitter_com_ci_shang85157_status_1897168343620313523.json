@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1896817947131379847",
+    "created_at": "2025-03-05T06:12:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-05T07:12:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897168343620313523"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1534223646574759943",
+          "start": 0,
+          "username": "XY_6OoO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897168343620313523",
+    "in_reply_to_user_id": "1534223646574759943",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896817947131379847",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XY_6OoO 1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1896817947131379847",
+        "created_at": "2025-03-05T06:12:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-05T07:12:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897168343620313523"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1534223646574759943",
+              "start": 0,
+              "username": "XY_6OoO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897168343620313523",
+        "in_reply_to_user_id": "1534223646574759943",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896817947131379847",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XY_6OoO 1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1534223646574759943",
+        "conversation_id": "1896817947131379847",
+        "created_at": "2025-03-04T07:00:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-04T08:00:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896817947131379847"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1896817947131379847",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 16206,
+          "like_count": 172,
+          "quote_count": 1,
+          "reply_count": 61,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "在推特 只要能做到不在皮下男评论区扣1 不随便骚扰女生 不给女生私信发🐔这三点 你就可以超越90％的男生了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲\n小猫：@kimKAAAAAILUV",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kimKAAAAAILUV"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844188914451365901/gNnOT4GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 294,
+          "like_count": 2855,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 1309
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-07T17:19:57.000Z",
+        "description": "如果一定要坐牢那我选择麦当劳",
+        "id": "1534223646574759943",
+        "location": "🚪",
+        "name": "After",
+        "pinned_tweet_id": "1878421712846688626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874413332654116864/YOV1hfgb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5313,
+          "following_count": 20,
+          "like_count": 84,
+          "listed_count": 13,
+          "media_count": 33,
+          "tweet_count": 94
+        },
+        "username": "XY_6OoO",
+        "verified": false
+      }
+    ]
+  }
+}

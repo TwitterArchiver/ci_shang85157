@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1919518378105991679",
+    "created_at": "2025-05-12T00:15:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-12T01:15:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921720813994033343"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1823729658833055745",
+          "start": 0,
+          "username": "pijiuyayaya"
+        },
+        {
+          "end": 29,
+          "id": "1810916896625315840",
+          "start": 13,
+          "username": "Olivera05155412"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921720813994033343",
+    "in_reply_to_user_id": "1823729658833055745",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919571318124498962",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pijiuyayaya @Olivera05155412 有意思，抽烟🚬🚬🚬"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1919518378105991679",
+        "created_at": "2025-05-12T00:15:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-12T01:15:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921720813994033343"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1823729658833055745",
+              "start": 0,
+              "username": "pijiuyayaya"
+            },
+            {
+              "end": 29,
+              "id": "1810916896625315840",
+              "start": 13,
+              "username": "Olivera05155412"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921720813994033343",
+        "in_reply_to_user_id": "1823729658833055745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919571318124498962",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pijiuyayaya @Olivera05155412 有意思，抽烟🚬🚬🚬"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1823729658833055745",
+        "conversation_id": "1919518378105991679",
+        "created_at": "2025-05-06T01:54:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T02:54:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919571318124498962"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1810916896625315840",
+              "start": 0,
+              "username": "Olivera05155412"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919571318124498962",
+        "in_reply_to_user_id": "1810916896625315840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919564206199685162",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Olivera05155412 我同意你不上学了。龟责一下😸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 556,
+          "following_count": 498,
+          "like_count": 9313,
+          "listed_count": 2,
+          "media_count": 150,
+          "tweet_count": 3927
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-14T14:33:41.000Z",
+        "description": "不接推广。什么都不接。",
+        "id": "1823729658833055745",
+        "location": "家里打游戏当死宅ing",
+        "name": "鹈鹕吃烤肠也吃鹌鹑",
+        "pinned_tweet_id": "1920792923378942040",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919898307712983040/-d0gWgAN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 453,
+          "following_count": 307,
+          "like_count": 6757,
+          "listed_count": 3,
+          "media_count": 446,
+          "tweet_count": 4605
+        },
+        "username": "pijiuyayaya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-10T06:00:17.000Z",
+        "description": "每天会日常更新自己的健身日记，愿大家的生活都过得越来越好，不断提升自己🥹\n觉得我有意思很好玩的话可以私信，只要没练琴练声乐或者健身都会回的。但是请不要给我发牛子，发牛子的我祝愿你全家只有你和开瓶的可乐有气😇😇私信性骚扰的死全家",
+        "id": "1810916896625315840",
+        "location": "纯绿无线下🚪68 cs2陪玩，三角洲绝密kd2纯绿护航",
+        "name": "冷冻三文鱼🐟",
+        "pinned_tweet_id": "1920161694929781066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1810917007233335296/azJBuCVy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 242,
+          "like_count": 7167,
+          "listed_count": 1,
+          "media_count": 123,
+          "tweet_count": 6225
+        },
+        "username": "Olivera05155412",
+        "verified": false
+      }
+    ]
+  }
+}

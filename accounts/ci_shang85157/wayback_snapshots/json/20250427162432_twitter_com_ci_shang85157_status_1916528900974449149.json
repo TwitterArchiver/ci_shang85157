@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1916468489529028964",
+    "created_at": "2025-04-27T16:24:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-27T17:24:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916528900974449149"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1775366687875100672",
+          "start": 0,
+          "username": "CAT2081667"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916528900974449149",
+    "in_reply_to_user_id": "1775366687875100672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916468489529028964",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CAT2081667 主要是你可爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1916468485292728324",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gpip7vkaoAQMGk8.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1916468486509101056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gpip70GbAAAK42g.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1916468486689394688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gpip70xaEAA-KI1.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1916468489529028964",
+        "created_at": "2025-04-27T16:24:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T17:24:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916528900974449149"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1775366687875100672",
+              "start": 0,
+              "username": "CAT2081667"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916528900974449149",
+        "in_reply_to_user_id": "1775366687875100672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916468489529028964",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CAT2081667 主要是你可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1916468485292728324",
+            "3_1916468486509101056",
+            "3_1916468486689394688"
+          ]
+        },
+        "author_id": "1775366687875100672",
+        "conversation_id": "1916468489529028964",
+        "created_at": "2025-04-27T12:24:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T13:24:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916468489529028964"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tbjhL4gtV8",
+              "end": 46,
+              "expanded_url": "https://x.com/CAT2081667/status/1916468489529028964/photo/1",
+              "media_key": "3_1916468485292728324",
+              "start": 23,
+              "url": "https://t.co/tbjhL4gtV8"
+            },
+            {
+              "display_url": "pic.x.com/tbjhL4gtV8",
+              "end": 46,
+              "expanded_url": "https://x.com/CAT2081667/status/1916468489529028964/photo/1",
+              "media_key": "3_1916468486509101056",
+              "start": 23,
+              "url": "https://t.co/tbjhL4gtV8"
+            },
+            {
+              "display_url": "pic.x.com/tbjhL4gtV8",
+              "end": 46,
+              "expanded_url": "https://x.com/CAT2081667/status/1916468489529028964/photo/1",
+              "media_key": "3_1916468486689394688",
+              "start": 23,
+              "url": "https://t.co/tbjhL4gtV8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916468489529028964",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4308,
+          "like_count": 74,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "到底是谁在说水色系像厂服的啊🥺，明明很可爱啊 https://t.co/tbjhL4gtV8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 410,
+          "following_count": 409,
+          "like_count": 7104,
+          "listed_count": 1,
+          "media_count": 126,
+          "tweet_count": 3113
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-03T03:36:27.000Z",
+        "description": "163/42   无证含糖，坐标湖南. 互fo\n+q2480438910 \n07.09.19     🚪50纯绿\nQQ群940637892\n纸飞机也是@CAT2081667\nMtf mtf mtf重要的事情说三遍！！！\n对象@tom307683",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 75,
+                "username": "CAT2081667"
+              },
+              {
+                "end": 122,
+                "start": 112,
+                "username": "tom307683"
+              }
+            ]
+          }
+        },
+        "id": "1775366687875100672",
+        "location": "月球",
+        "name": "小草🍥🏳️‍⚧️（互fo）🏳️‍⚧️",
+        "pinned_tweet_id": "1831819458580730137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775754406329561088/S3TgNZHa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12427,
+          "following_count": 424,
+          "like_count": 3380,
+          "listed_count": 35,
+          "media_count": 124,
+          "tweet_count": 2534
+        },
+        "username": "CAT2081667",
+        "verified": false
+      }
+    ]
+  }
+}

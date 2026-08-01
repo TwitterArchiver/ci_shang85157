@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1965766545629675706",
+    "created_at": "2025-09-11T18:51:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-11T19:51:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966212985879441919"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1883266432793976833",
+          "start": 0,
+          "username": "CarbonicWhite"
+        },
+        {
+          "end": 26,
+          "id": "1828073821297078272",
+          "start": 15,
+          "username": "maigo46511"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966212985879441919",
+    "in_reply_to_user_id": "1883266432793976833",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966117529266565133",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CarbonicWhite @maigo46511 好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1965766545629675706",
+        "created_at": "2025-09-11T18:51:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T19:51:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966212985879441919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1883266432793976833",
+              "start": 0,
+              "username": "CarbonicWhite"
+            },
+            {
+              "end": 26,
+              "id": "1828073821297078272",
+              "start": 15,
+              "username": "maigo46511"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966212985879441919",
+        "in_reply_to_user_id": "1883266432793976833",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966117529266565133",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CarbonicWhite @maigo46511 好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883266432793976833",
+        "conversation_id": "1965766545629675706",
+        "created_at": "2025-09-11T12:32:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T13:32:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966117529266565133"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1828073821297078272",
+              "start": 0,
+              "username": "maigo46511"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966117529266565133",
+        "in_reply_to_user_id": "1828073821297078272",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965766545629675706",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maigo46511 没人吃我先吃😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧   小男友@pertx114514\n星努@wuyan_sleeeepy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 27,
+                "username": "pertx114514"
+              },
+              {
+                "end": 57,
+                "start": 42,
+                "username": "wuyan_sleeeepy"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉方",
+        "pinned_tweet_id": "1963923748203139355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 779,
+          "following_count": 607,
+          "like_count": 14749,
+          "listed_count": 3,
+          "media_count": 178,
+          "tweet_count": 5881
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-25T21:31:42.000Z",
+        "description": "某人的阴暗面👁️👁️",
+        "id": "1883266432793976833",
+        "name": "我是拳皇冰蓝蓝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883269526692966400/hBrTY46o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 332,
+          "like_count": 488,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 489
+        },
+        "username": "CarbonicWhite",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-26T14:16:06.000Z",
+        "description": "🔰||War Thunder||艦これ||中文/日本語/English||🐟",
+        "id": "1828073821297078272",
+        "location": "太阳系",
+        "name": "蛞蝓的亲戚🐌🐌",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841846809553158144/KYjAbLrt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3148,
+          "following_count": 413,
+          "like_count": 819,
+          "listed_count": 14,
+          "media_count": 14,
+          "tweet_count": 84
+        },
+        "username": "maigo46511",
+        "verified": false
+      }
+    ]
+  }
+}

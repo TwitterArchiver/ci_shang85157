@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1876787644526461062",
+    "created_at": "2025-02-20T10:07:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-20T11:07:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1892516301521686592"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1580173726548647936",
+          "start": 0,
+          "username": "heimao02732651"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892516301521686592",
+    "in_reply_to_user_id": "1580173726548647936",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1879943987035046295",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@heimao02732651 宝宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1876787644526461062",
+        "created_at": "2025-02-20T10:07:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-20T11:07:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892516301521686592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1580173726548647936",
+              "start": 0,
+              "username": "heimao02732651"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892516301521686592",
+        "in_reply_to_user_id": "1580173726548647936",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879943987035046295",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@heimao02732651 宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1580173726548647936",
+        "conversation_id": "1876787644526461062",
+        "created_at": "2025-01-16T17:29:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-16T18:29:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1879943987035046295"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1826281483675299840",
+              "start": 0,
+              "username": "ci_shang85157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879943987035046295",
+        "in_reply_to_user_id": "1826281483675299840",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876787644526461062",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ci_shang85157 37"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲",
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844188914451365901/gNnOT4GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 246,
+          "like_count": 2382,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 1095
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-12T12:29:19.000Z",
+        "description": "交友，聊天，新手偏s共同探索，真心换真心，素质低勿扰，不定时发疯 。（猫猫好可爱，喜欢，想养）",
+        "id": "1580173726548647936",
+        "location": "电报：@ahua_1",
+        "name": "阿华",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1734752879809011712/ENZmDX07_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 117,
+          "like_count": 1838,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 207
+        },
+        "username": "heimao02732651",
+        "verified": false
+      }
+    ]
+  }
+}

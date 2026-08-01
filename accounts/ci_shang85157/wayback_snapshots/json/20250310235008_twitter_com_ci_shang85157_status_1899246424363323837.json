@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1898955630255435860",
+    "created_at": "2025-03-10T23:50:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-11T00:50:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1899246424363323837"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1790991178546253824",
+          "start": 0,
+          "username": "ANXininter89786"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1899246424363323837",
+    "in_reply_to_user_id": "1790991178546253824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898955630255435860",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ANXininter89786 还得是老祖宗留下来的东西好用"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1381,
+        "media_key": "3_1898955509711192064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Glpx-ZibQAAlcAX.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1898955630255435860",
+        "created_at": "2025-03-10T23:50:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-11T00:50:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1899246424363323837"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1790991178546253824",
+              "start": 0,
+              "username": "ANXininter89786"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899246424363323837",
+        "in_reply_to_user_id": "1790991178546253824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898955630255435860",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ANXininter89786 还得是老祖宗留下来的东西好用"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1898955509711192064"
+          ]
+        },
+        "author_id": "1790991178546253824",
+        "conversation_id": "1898955630255435860",
+        "created_at": "2025-03-10T04:34:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-10T05:34:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898955630255435860"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BdhoCZIbb0",
+              "end": 42,
+              "expanded_url": "https://x.com/ANXininter89786/status/1898955630255435860/photo/1",
+              "media_key": "3_1898955509711192064",
+              "start": 19,
+              "url": "https://t.co/BdhoCZIbb0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898955630255435860",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 82,
+          "impression_count": 15754,
+          "like_count": 267,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "公司欠薪肯定存在逃税行为，一告一个准 https://t.co/BdhoCZIbb0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844188914451365901/gNnOT4GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265,
+          "following_count": 298,
+          "like_count": 3544,
+          "listed_count": 1,
+          "media_count": 67,
+          "tweet_count": 1604
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-16T06:22:33.000Z",
+        "description": "已离职已复活",
+        "id": "1790991178546253824",
+        "location": "🇺🇳",
+        "name": "安心🇵🇸🇺🇦",
+        "pinned_tweet_id": "1868872796526592412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867800374805200896/KVMPr-XV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2273,
+          "following_count": 482,
+          "like_count": 31155,
+          "listed_count": 13,
+          "media_count": 3073,
+          "tweet_count": 21252
+        },
+        "username": "ANXininter89786",
+        "verified": false
+      }
+    ]
+  }
+}

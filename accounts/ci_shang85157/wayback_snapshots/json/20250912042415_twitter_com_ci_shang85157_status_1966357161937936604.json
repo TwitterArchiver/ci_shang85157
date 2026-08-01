@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1966084150823367088",
+    "created_at": "2025-09-12T04:24:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-12T05:24:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966357161937936604"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1933020042146594816",
+          "start": 0,
+          "username": "Lizz__lin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966357161937936604",
+    "in_reply_to_user_id": "1933020042146594816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966084150823367088",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@Lizz__lin 我喜欢把快递堆起来一次性拿了，尽管快递站就在寝室旁边"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1966084150823367088",
+        "created_at": "2025-09-12T04:24:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T05:24:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966357161937936604"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1933020042146594816",
+              "start": 0,
+              "username": "Lizz__lin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966357161937936604",
+        "in_reply_to_user_id": "1933020042146594816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966084150823367088",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@Lizz__lin 我喜欢把快递堆起来一次性拿了，尽管快递站就在寝室旁边"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1933020042146594816",
+        "conversation_id": "1966084150823367088",
+        "created_at": "2025-09-11T10:19:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T11:19:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966084150823367088"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1966084150823367088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 569,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "要不要为了一个手机壳去拿快递。快递站好远"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧   小男友@pertx114514\n星努@wuyan_sleeeepy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 27,
+                "username": "pertx114514"
+              },
+              {
+                "end": 57,
+                "start": 42,
+                "username": "wuyan_sleeeepy"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉方",
+        "pinned_tweet_id": "1963923748203139355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 780,
+          "following_count": 606,
+          "like_count": 14751,
+          "listed_count": 3,
+          "media_count": 178,
+          "tweet_count": 5887
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-12T04:36:06.000Z",
+        "description": "做梦~zZreset/恩师taro",
+        "id": "1933020042146594816",
+        "location": "怪物岛",
+        "name": "lin",
+        "pinned_tweet_id": "1962376763474137495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966181824264310784/YMvSs0kC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 175,
+          "like_count": 7149,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 1476
+        },
+        "username": "Lizz__lin",
+        "verified": false
+      }
+    ]
+  }
+}

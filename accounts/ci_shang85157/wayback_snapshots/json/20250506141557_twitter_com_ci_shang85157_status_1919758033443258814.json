@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1919611681434480805",
+    "created_at": "2025-05-06T14:15:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-06T15:15:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919758033443258814"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1683348184331059201",
+          "start": 0,
+          "username": "ccckoajiahao"
+        },
+        {
+          "end": 28,
+          "id": "1856829734136811523",
+          "start": 14,
+          "username": "qhmm_official"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919758033443258814",
+    "in_reply_to_user_id": "1683348184331059201",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919709325305467275",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ccckoajiahao @qhmm_official 你都玩推了，还用浏览器啊，可怕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1919611681434480805",
+        "created_at": "2025-05-06T14:15:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T15:15:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919758033443258814"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1683348184331059201",
+              "start": 0,
+              "username": "ccckoajiahao"
+            },
+            {
+              "end": 28,
+              "id": "1856829734136811523",
+              "start": 14,
+              "username": "qhmm_official"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919758033443258814",
+        "in_reply_to_user_id": "1683348184331059201",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919709325305467275",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ccckoajiahao @qhmm_official 你都玩推了，还用浏览器啊，可怕"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1683348184331059201",
+        "conversation_id": "1919611681434480805",
+        "created_at": "2025-05-06T11:02:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T12:02:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919709325305467275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1856829734136811523",
+              "start": 0,
+              "username": "qhmm_official"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919709325305467275",
+        "in_reply_to_user_id": "1856829734136811523",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 382,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919611681434480805",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qhmm_official 微信，浏览器！（还是那句话该发泄就发泄，不要把自己憋坏了！）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 466,
+          "following_count": 442,
+          "like_count": 8290,
+          "listed_count": 1,
+          "media_count": 139,
+          "tweet_count": 3493
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-24T05:27:50.000Z",
+        "description": "我是男银… 常在线，求骚扰（互fo）还有额…..算了算了不会写简介！就这样吧求骚扰！",
+        "id": "1683348184331059201",
+        "location": "1m",
+        "name": "c cc ko a",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1683349322598068224/LTc07JBC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 308,
+          "like_count": 2115,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 1219
+        },
+        "username": "ccckoajiahao",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-13T22:41:44.000Z",
+        "description": "願天上的每個星星都能成為璀璨星光……",
+        "id": "1856829734136811523",
+        "name": "晴海喵酱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904024866925203456/WuIcp2Cb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 72,
+          "like_count": 694,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 57
+        },
+        "username": "qhmm_official",
+        "verified": false
+      }
+    ]
+  }
+}

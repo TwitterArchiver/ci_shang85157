@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "2007069155237986668",
+    "created_at": "2026-01-02T13:38:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T14:38:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007084116425224639"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1875500251370680323",
+          "start": 0,
+          "username": "HHHT9CepHC17729"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007084116425224639",
+    "in_reply_to_user_id": "1875500251370680323",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007076393562378277",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HHHT9CepHC17729 所有人保持内裤干燥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "2007069155237986668",
+        "created_at": "2026-01-02T13:38:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T14:38:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007084116425224639"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1875500251370680323",
+              "start": 0,
+              "username": "HHHT9CepHC17729"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007084116425224639",
+        "in_reply_to_user_id": "1875500251370680323",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007076393562378277",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HHHT9CepHC17729 所有人保持内裤干燥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1875500251370680323",
+        "conversation_id": "2007069155237986668",
+        "created_at": "2026-01-02T13:07:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T14:07:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007076393562378277"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1826281483675299840",
+              "start": 0,
+              "username": "ci_shang85157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007076393562378277",
+        "in_reply_to_user_id": "1826281483675299840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007069155237986668",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ci_shang85157 所有人点推荐…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧 https://t.co/ILEWFdOiJs。 ngl匿名问答 想交朋友或者互fo尽管私信我 每个人都会回",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%8950122",
+                "end": 45,
+                "expanded_url": "https://ngl.link/%E6%B3%8950122",
+                "start": 22,
+                "url": "https://t.co/ILEWFdOiJs"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉",
+        "pinned_tweet_id": "2006393841994371256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978274114138996736/r_khhgIT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 915,
+          "following_count": 676,
+          "like_count": 20263,
+          "listed_count": 2,
+          "media_count": 230,
+          "tweet_count": 7422
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-04T11:11:50.000Z",
+        "description": "It’s not safe here@",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sayashi1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sayashi1",
+                "start": 0,
+                "url": "https://t.co/e9fNDYtyOv"
+              }
+            ]
+          }
+        },
+        "id": "1875500251370680323",
+        "name": "sayashii",
+        "pinned_tweet_id": "1902359934303375539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875529727622221824/TporsLRI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 41,
+          "like_count": 933,
+          "listed_count": 1,
+          "media_count": 259,
+          "tweet_count": 1377
+        },
+        "url": "https://t.co/e9fNDYtyOv",
+        "username": "HHHT9CepHC17729",
+        "verified": false
+      }
+    ]
+  }
+}

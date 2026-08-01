@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1896077139969212880",
+    "created_at": "2025-03-04T05:05:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-04T06:05:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896789036100100379"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1546492436737712129",
+          "start": 0,
+          "username": "Comrade_LeeLP"
+        },
+        {
+          "end": 23,
+          "id": "1433678976564662273",
+          "start": 15,
+          "username": "hsn8086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896789036100100379",
+    "in_reply_to_user_id": "1546492436737712129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896081123090001921",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Comrade_LeeLP @hsn8086 迷你世界不会下雨，玩迷你世界吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1896077139969212880",
+        "created_at": "2025-03-04T05:05:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-04T06:05:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896789036100100379"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1546492436737712129",
+              "start": 0,
+              "username": "Comrade_LeeLP"
+            },
+            {
+              "end": 23,
+              "id": "1433678976564662273",
+              "start": 15,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896789036100100379",
+        "in_reply_to_user_id": "1546492436737712129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896081123090001921",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Comrade_LeeLP @hsn8086 迷你世界不会下雨，玩迷你世界吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546492436737712129",
+        "conversation_id": "1896077139969212880",
+        "created_at": "2025-03-02T06:12:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-02T07:12:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896081123090001921"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1433678976564662273",
+              "start": 0,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896081123090001921",
+        "in_reply_to_user_id": "1433678976564662273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 59146,
+          "like_count": 474,
+          "quote_count": 1,
+          "reply_count": 30,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896077139969212880",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086 我的世界一直在下雨怎么办"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲",
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844188914451365901/gNnOT4GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 287,
+          "like_count": 2736,
+          "listed_count": 1,
+          "media_count": 56,
+          "tweet_count": 1262
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-11T13:52:22.000Z",
+        "description": "",
+        "id": "1546492436737712129",
+        "location": "Listenbourg",
+        "name": "易燃松果",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868483745659113472/C9eskl8u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 131,
+          "like_count": 893,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 332
+        },
+        "username": "Comrade_LeeLP",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 避难所: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1895271678005125582",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881530651159179264/61qPk38t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43563,
+          "following_count": 921,
+          "like_count": 36710,
+          "listed_count": 109,
+          "media_count": 7006,
+          "tweet_count": 12305
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

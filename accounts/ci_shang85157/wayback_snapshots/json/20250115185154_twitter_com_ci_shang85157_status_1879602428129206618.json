@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1879573407416922559",
+    "created_at": "2025-01-15T18:51:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-15T19:51:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1879602428129206618"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1855427972787777536",
+          "start": 0,
+          "username": "su_song92698"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1879602428129206618",
+    "in_reply_to_user_id": "1855427972787777536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1879573407416922559",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@su_song92698 回来就好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1879573407416922559",
+        "created_at": "2025-01-15T18:51:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-15T19:51:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1879602428129206618"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1855427972787777536",
+              "start": 0,
+              "username": "su_song92698"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879602428129206618",
+        "in_reply_to_user_id": "1855427972787777536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879573407416922559",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@su_song92698 回来就好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1855427972787777536",
+        "conversation_id": "1879573407416922559",
+        "created_at": "2025-01-15T16:56:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-15T17:56:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1879573407416922559"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1879573407416922559",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 270,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很抱歉已经很久没上线慰问大家了 只能说确实出了很多状况 我精神还能正常我也是个神人了…我想你们"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲",
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844188914451365901/gNnOT4GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 227,
+          "like_count": 2207,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 1001
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-10T01:51:25.000Z",
+        "description": "社交无能且阳气有限的贪财屌丝",
+        "id": "1855427972787777536",
+        "location": "🚪30纯绿",
+        "name": "诉讼主动",
+        "pinned_tweet_id": "1875380344926695892",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855429461077884928/EEJk9t6x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1969,
+          "following_count": 415,
+          "like_count": 2590,
+          "listed_count": 5,
+          "media_count": 29,
+          "tweet_count": 298
+        },
+        "username": "su_song92698",
+        "verified": false
+      }
+    ]
+  }
+}

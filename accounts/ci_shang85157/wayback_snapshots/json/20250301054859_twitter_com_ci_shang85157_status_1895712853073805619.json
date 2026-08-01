@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1895382304576675937",
+    "created_at": "2025-03-01T05:48:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-01T06:48:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895712853073805619"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1586069321666764800",
+          "start": 0,
+          "username": "MrEggy16"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895712853073805619",
+    "in_reply_to_user_id": "1586069321666764800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895681828696309883",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MrEggy16 说得对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1895382304576675937",
+        "created_at": "2025-03-01T05:48:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-01T06:48:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895712853073805619"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1586069321666764800",
+              "start": 0,
+              "username": "MrEggy16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895712853073805619",
+        "in_reply_to_user_id": "1586069321666764800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895681828696309883",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MrEggy16 说得对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1586069321666764800",
+        "conversation_id": "1895382304576675937",
+        "created_at": "2025-03-01T03:45:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-01T04:45:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895681828696309883"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1826281483675299840",
+              "start": 0,
+              "username": "ci_shang85157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895681828696309883",
+        "in_reply_to_user_id": "1826281483675299840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895382304576675937",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ci_shang85157 我现在上推特说实话也只是为了吃瓜，看他们这些人打的了血流成河，热火朝天的挺下饭嘿嘿嘿😈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲",
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844188914451365901/gNnOT4GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 273,
+          "like_count": 2548,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 1175
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-28T18:56:55.000Z",
+        "description": "",
+        "id": "1586069321666764800",
+        "name": "Mr. Eggy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821870487573614592/8NKaQmUV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 54,
+          "like_count": 2509,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 57
+        },
+        "username": "MrEggy16",
+        "verified": false
+      }
+    ]
+  }
+}

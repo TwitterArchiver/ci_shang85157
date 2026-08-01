@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "2046602052139442514",
+    "created_at": "2026-04-22T03:43:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T04:43:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046796922284052847"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1952612167343374336",
+          "start": 0,
+          "username": "gugugubobi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046796922284052847",
+    "in_reply_to_user_id": "1952612167343374336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046602052139442514",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gugugubobi 这是真的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "2046602052139442514",
+        "created_at": "2026-04-22T03:43:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T04:43:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046796922284052847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1952612167343374336",
+              "start": 0,
+              "username": "gugugubobi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046796922284052847",
+        "in_reply_to_user_id": "1952612167343374336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046602052139442514",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gugugubobi 这是真的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1952612167343374336",
+        "conversation_id": "2046602052139442514",
+        "created_at": "2026-04-21T14:48:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T15:48:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046602052139442514"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046602052139442514",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 45767,
+          "like_count": 284,
+          "quote_count": 3,
+          "reply_count": 36,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "为什么感觉好多男m比女m要贱^_^。\n导致有的女m贱到一定程度就像皮下男\n有种非人的诡异感"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧 https://t.co/ILEWFdOQz0。 ngl匿名问答",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%8950122",
+                "end": 45,
+                "expanded_url": "https://ngl.link/%E6%B3%8950122",
+                "start": 22,
+                "url": "https://t.co/ILEWFdOQz0"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "永雏泉",
+        "pinned_tweet_id": "2034295067847147660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978274114138996736/r_khhgIT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1067,
+          "following_count": 713,
+          "like_count": 23468,
+          "listed_count": 2,
+          "media_count": 262,
+          "tweet_count": 8401
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-05T06:06:49.000Z",
+        "description": "ed 我想说什么就说什么 没有回复的义务 不加人 非单身但也没谈",
+        "id": "1952612167343374336",
+        "location": "永远的初心不改",
+        "name": "弱智大王bobi",
+        "pinned_tweet_id": "2002371728643588513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952615390724628480/8sBaOw0g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7773,
+          "following_count": 287,
+          "like_count": 2156,
+          "listed_count": 18,
+          "media_count": 769,
+          "tweet_count": 6518
+        },
+        "username": "gugugubobi",
+        "verified": false
+      }
+    ]
+  }
+}

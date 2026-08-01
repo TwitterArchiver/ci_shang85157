@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1865062345170706825",
+    "created_at": "2024-12-07T21:09:04.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-07T22:09:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1865503817912942850"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1685650787245101057",
+          "start": 0,
+          "username": "VLTHellolin"
+        },
+        {
+          "end": 28,
+          "id": "1785708486472634369",
+          "start": 13,
+          "username": "fang_zhao95506"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1865503817912942850",
+    "in_reply_to_user_id": "1685650787245101057",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1865383380948570267",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@VLTHellolin @fang_zhao95506 为什么我没有斜杠啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1865062345170706825",
+        "created_at": "2024-12-07T21:09:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-07T22:09:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1865503817912942850"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1685650787245101057",
+              "start": 0,
+              "username": "VLTHellolin"
+            },
+            {
+              "end": 28,
+              "id": "1785708486472634369",
+              "start": 13,
+              "username": "fang_zhao95506"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865503817912942850",
+        "in_reply_to_user_id": "1685650787245101057",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1865383380948570267",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VLTHellolin @fang_zhao95506 为什么我没有斜杠啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685650787245101057",
+        "conversation_id": "1865062345170706825",
+        "created_at": "2024-12-07T13:10:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-07T14:10:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1865383380948570267"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1785708486472634369",
+              "start": 0,
+              "username": "fang_zhao95506"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865383380948570267",
+        "in_reply_to_user_id": "1785708486472634369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 774,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1865375901221068939",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fang_zhao95506 推特底栏那个斜杠一样的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，有兴趣就可以一起玩",
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844188914451365901/gNnOT4GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 229,
+          "like_count": 974,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 265
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-30T13:57:25.000Z",
+        "description": "🇨🇳 || Frontend Dev || Competitive Programmer || JavaScript/C++/Rust || 14 y.o. || He/Him || zh-CN/en-US/ja-JP",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hellolin.top",
+                "end": 23,
+                "expanded_url": "https://hellolin.top/",
+                "start": 0,
+                "url": "https://t.co/JDea8CGlB9"
+              }
+            ]
+          }
+        },
+        "id": "1685650787245101057",
+        "location": "Shandong, China",
+        "name": "hellolin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753683653849440256/h6Qa5b-o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 363,
+          "following_count": 791,
+          "like_count": 7793,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 656
+        },
+        "url": "https://t.co/JDea8CGlB9",
+        "username": "VLTHellolin",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-01T16:31:11.000Z",
+        "description": "世间八万字 一字可杀人 一字可误人",
+        "id": "1785708486472634369",
+        "name": "离枝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863260758605221888/zIufx4fA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 37,
+          "like_count": 45,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 29
+        },
+        "username": "fang_zhao95506",
+        "verified": false
+      }
+    ]
+  }
+}

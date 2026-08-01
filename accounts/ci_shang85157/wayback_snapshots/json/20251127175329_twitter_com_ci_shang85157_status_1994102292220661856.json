@@ -1,0 +1,417 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1993852921356931464",
+    "created_at": "2025-11-27T17:53:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T18:53:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994102292220661856"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1622226629136367674",
+          "start": 0,
+          "username": "kexuejiazhuang"
+        },
+        {
+          "end": 26,
+          "id": "1927912422385537024",
+          "start": 16,
+          "username": "giveson30"
+        },
+        {
+          "end": 43,
+          "id": "1357825254366851073",
+          "start": 27,
+          "username": "OceanTides_Moon"
+        },
+        {
+          "end": 53,
+          "id": "1904160189923676160",
+          "start": 44,
+          "username": "Nekoiuoi"
+        },
+        {
+          "end": 66,
+          "id": "1692784462910894081",
+          "start": 54,
+          "username": "biyori33115"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994102292220661856",
+    "in_reply_to_user_id": "1622226629136367674",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993869043204542781",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kexuejiazhuang @giveson30 @OceanTides_Moon @Nekoiuoi @biyori33115 妈妈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1993852921356931464",
+        "created_at": "2025-11-27T17:53:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T18:53:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994102292220661856"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1622226629136367674",
+              "start": 0,
+              "username": "kexuejiazhuang"
+            },
+            {
+              "end": 26,
+              "id": "1927912422385537024",
+              "start": 16,
+              "username": "giveson30"
+            },
+            {
+              "end": 43,
+              "id": "1357825254366851073",
+              "start": 27,
+              "username": "OceanTides_Moon"
+            },
+            {
+              "end": 53,
+              "id": "1904160189923676160",
+              "start": 44,
+              "username": "Nekoiuoi"
+            },
+            {
+              "end": 66,
+              "id": "1692784462910894081",
+              "start": 54,
+              "username": "biyori33115"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994102292220661856",
+        "in_reply_to_user_id": "1622226629136367674",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993869043204542781",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kexuejiazhuang @giveson30 @OceanTides_Moon @Nekoiuoi @biyori33115 妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622226629136367674",
+        "conversation_id": "1993852921356931464",
+        "created_at": "2025-11-27T02:26:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T03:26:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993869043204542781"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1927912422385537024",
+              "start": 0,
+              "username": "giveson30"
+            },
+            {
+              "end": 27,
+              "id": "1357825254366851073",
+              "start": 11,
+              "username": "OceanTides_Moon"
+            },
+            {
+              "end": 37,
+              "id": "1904160189923676160",
+              "start": 28,
+              "username": "Nekoiuoi"
+            },
+            {
+              "end": 50,
+              "id": "1692784462910894081",
+              "start": 38,
+              "username": "biyori33115"
+            },
+            {
+              "end": 65,
+              "id": "1826281483675299840",
+              "start": 51,
+              "username": "ci_shang85157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993869043204542781",
+        "in_reply_to_user_id": "1927912422385537024",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993865310148153363",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@giveson30 @OceanTides_Moon @Nekoiuoi @biyori33115 @ci_shang85157 👰🏻‍♀️👰🏻‍♀️👰🏻‍♀️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧 结义兄弟@wuyan_sleeeepy @SoSleepy4wy还有穹璃 求求你们了找我聊天好不好https://t.co/ILEWFdOQz0。 ngl匿名问答",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 26,
+                "username": "wuyan_sleeeepy"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "SoSleepy4wy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%8950122",
+                "end": 94,
+                "expanded_url": "https://ngl.link/%E6%B3%8950122",
+                "start": 71,
+                "url": "https://t.co/ILEWFdOQz0"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉",
+        "pinned_tweet_id": "1970427616353296660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978274114138996736/r_khhgIT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 823,
+          "following_count": 648,
+          "like_count": 19142,
+          "listed_count": 2,
+          "media_count": 217,
+          "tweet_count": 7079
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-05T13:32:39.000Z",
+        "description": "此号起到一个墓碑的作用 https://t.co/qXcDn5D2HC",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kexuejiazhuang",
+                "end": 35,
+                "expanded_url": "https://ngl.link/kexuejiazhuang",
+                "start": 12,
+                "url": "https://t.co/qXcDn5D2HC"
+              }
+            ]
+          }
+        },
+        "id": "1622226629136367674",
+        "name": "给我寿司吧🍣",
+        "pinned_tweet_id": "1950532666186400211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965612372326060032/qYCNJqxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 125,
+          "like_count": 12307,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 1456
+        },
+        "username": "kexuejiazhuang",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-29T02:18:50.000Z",
+        "description": "一个很无聊的低脂发牢骚日常号/欢迎大家来找我聊天\n匿名在这里https://t.co/bapTaOI2DV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sadnessduck1",
+                "end": 53,
+                "expanded_url": "https://ngl.link/sadnessduck1",
+                "start": 30,
+                "url": "https://t.co/bapTaOI2DV"
+              }
+            ]
+          }
+        },
+        "id": "1927912422385537024",
+        "name": "忧郁鸭子🦆",
+        "pinned_tweet_id": "1972329830030139885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949168743495634944/Je9AakIv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 210,
+          "like_count": 13034,
+          "listed_count": 1,
+          "media_count": 473,
+          "tweet_count": 6356
+        },
+        "username": "giveson30",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-05T22:55:57.000Z",
+        "description": "sub且DDLG，brat，微微微微微微微m/废话超多，碎碎念选手，一天八百条，日常发癫/01年的别再问我多大了/日语专业毕业/脾气非常暴躁，你惹我就会骂你，我烦你就会拉黑你/随机掉落meme和抽象文案/搞黄营业号@StillAliveGreat",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 107,
+                "username": "StillAliveGreat"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b1.达蒙.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://b1.xn--hv1a41u.com/#/register?code=k4wo0nVp",
+                "start": 0,
+                "url": "https://t.co/x6obx5PIGV"
+              }
+            ]
+          }
+        },
+        "id": "1357825254366851073",
+        "location": "🪜：",
+        "name": "月光、海洋和潮汐",
+        "pinned_tweet_id": "1853831182183485538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865390571994705920/1i3AS-Mu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8641,
+          "following_count": 8308,
+          "like_count": 15334,
+          "listed_count": 41,
+          "media_count": 2597,
+          "tweet_count": 25463
+        },
+        "url": "https://t.co/x6obx5PIGV",
+        "username": "OceanTides_Moon",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-24T13:15:53.000Z",
+        "description": "没回fo可以私信我｜欢迎找我互动喵",
+        "id": "1904160189923676160",
+        "location": "Los Angeles, CA",
+        "name": "迈德漠斯",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993716464248033280/YsyVSWvV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 34,
+          "like_count": 66,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 141
+        },
+        "username": "Nekoiuoi",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-19T06:24:15.000Z",
+        "description": "在深圳waiting for小男孩。side",
+        "id": "1692784462910894081",
+        "location": "家里",
+        "name": "咲初小藤",
+        "pinned_tweet_id": "1949774470991970389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770495309220851712/FGFGSSKU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 528,
+          "like_count": 1570,
+          "listed_count": 0,
+          "media_count": 133,
+          "tweet_count": 843
+        },
+        "username": "biyori33115",
+        "verified": false
+      }
+    ]
+  }
+}

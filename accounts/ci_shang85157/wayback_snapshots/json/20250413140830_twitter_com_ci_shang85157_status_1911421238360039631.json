@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1911007357137478047",
+    "created_at": "2025-04-13T14:08:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-13T15:08:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1911421238360039631"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1841626911228780545",
+          "start": 0,
+          "username": "kujou_king"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1911421238360039631",
+    "in_reply_to_user_id": "1841626911228780545",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1911007357137478047",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kujou_king 经常上称是减肥的大忌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1911007357137478047",
+        "created_at": "2025-04-13T14:08:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-13T15:08:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911421238360039631"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1841626911228780545",
+              "start": 0,
+              "username": "kujou_king"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911421238360039631",
+        "in_reply_to_user_id": "1841626911228780545",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911007357137478047",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kujou_king 经常上称是减肥的大忌"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841626911228780545",
+        "conversation_id": "1911007357137478047",
+        "created_at": "2025-04-12T10:43:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-12T11:43:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1911007357137478047"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1911007357137478047",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 50482,
+          "like_count": 476,
+          "quote_count": 4,
+          "reply_count": 126,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我操了，到底是哪个煞笔中国入告诉我的米饭配水瘦成干尸的，今天比昨天又重了0.3kg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 360,
+          "following_count": 354,
+          "like_count": 5330,
+          "listed_count": 1,
+          "media_count": 92,
+          "tweet_count": 2456
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-02T23:50:53.000Z",
+        "description": "测评结果:有一定程度的王的资质，老子不需要钱，欢迎私信入我门槛，我挨个审视一遍。\n大儿子:@Chuan_zi28\n二儿子:@_SAGAWAASHSAHI_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 45,
+                "username": "Chuan_zi28"
+              },
+              {
+                "end": 77,
+                "start": 61,
+                "username": "_SAGAWAASHSAHI_"
+              }
+            ]
+          }
+        },
+        "id": "1841626911228780545",
+        "location": " Chinese and dogs not admitted",
+        "name": "🧸猪界传奇愛莉莎🍻",
+        "pinned_tweet_id": "1871831076504735759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911294811434315776/u1bQSuh__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2484,
+          "following_count": 521,
+          "like_count": 3496,
+          "listed_count": 17,
+          "media_count": 151,
+          "tweet_count": 1920
+        },
+        "username": "kujou_king",
+        "verified": false
+      }
+    ]
+  }
+}

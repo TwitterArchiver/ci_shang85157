@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1916746899174072519",
+    "created_at": "2025-04-28T06:52:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-28T07:52:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916747379920843227"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1778757957796405248",
+          "start": 0,
+          "username": "xiaoQTvT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916747379920843227",
+    "in_reply_to_user_id": "1778757957796405248",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916746899174072519",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoQTvT 真的假的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1916746899174072519",
+        "created_at": "2025-04-28T06:52:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-28T07:52:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916747379920843227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1778757957796405248",
+              "start": 0,
+              "username": "xiaoQTvT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916747379920843227",
+        "in_reply_to_user_id": "1778757957796405248",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916746899174072519",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoQTvT 真的假的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778757957796405248",
+        "conversation_id": "1916746899174072519",
+        "created_at": "2025-04-28T06:50:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-28T07:50:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916746899174072519"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1916746899174072519",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不要再问我五一能不能吃冰的了 塞冰的都没事"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 414,
+          "following_count": 415,
+          "like_count": 7239,
+          "listed_count": 1,
+          "media_count": 129,
+          "tweet_count": 3153
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-12T12:12:33.000Z",
+        "description": "问坐标口令10r一次 只回口令 身高体重158/80 /🚪zfb口令 188朋友圈/388（带姓氏）含线下价目表 防走失小号@SamarHa32491957，拜托看看置顶以后不看置顶就私信问一堆的我不会回了！熟人刷到我了不要说出来好吗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 62,
+                "username": "SamarHa32491957"
+              }
+            ]
+          }
+        },
+        "id": "1778757957796405248",
+        "location": "🚪188/388/520/1314",
+        "name": "小q",
+        "pinned_tweet_id": "1904387748028719262",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908861703724634112/4DvlEwr6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89663,
+          "following_count": 168,
+          "like_count": 556,
+          "listed_count": 185,
+          "media_count": 234,
+          "tweet_count": 1191
+        },
+        "username": "xiaoQTvT",
+        "verified": false
+      }
+    ]
+  }
+}

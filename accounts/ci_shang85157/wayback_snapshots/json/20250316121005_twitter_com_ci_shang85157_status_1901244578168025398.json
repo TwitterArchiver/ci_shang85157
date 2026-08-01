@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1900881727213482281",
+    "created_at": "2025-03-16T12:10:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-16T13:10:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1901244578168025398"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1521508530552983552",
+          "start": 0,
+          "username": "leanshou"
+        },
+        {
+          "end": 26,
+          "id": "1573663582994444289",
+          "start": 10,
+          "username": "guojiazongshuji"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1901244578168025398",
+    "in_reply_to_user_id": "1521508530552983552",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1901078191034470809",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@leanshou @guojiazongshuji 包🉐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1900881727213482281",
+        "created_at": "2025-03-16T12:10:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-16T13:10:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1901244578168025398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1521508530552983552",
+              "start": 0,
+              "username": "leanshou"
+            },
+            {
+              "end": 26,
+              "id": "1573663582994444289",
+              "start": 10,
+              "username": "guojiazongshuji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901244578168025398",
+        "in_reply_to_user_id": "1521508530552983552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901078191034470809",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@leanshou @guojiazongshuji 包🉐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521508530552983552",
+        "conversation_id": "1900881727213482281",
+        "created_at": "2025-03-16T01:08:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-16T02:08:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1901078191034470809"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1826281483675299840",
+              "start": 0,
+              "username": "ci_shang85157"
+            },
+            {
+              "end": 31,
+              "id": "1573663582994444289",
+              "start": 15,
+              "username": "guojiazongshuji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901078191034470809",
+        "in_reply_to_user_id": "1826281483675299840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900967867098820767",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ci_shang85157 @guojiazongshuji 火星文！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 303,
+          "like_count": 3949,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 1796
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-03T15:15:27.000Z",
+        "description": "一千年以后，没有人记得我 / 你好，欢迎来到凌宿予笙的主页！/¿不定时发电/发言如有错误，欢迎您的指正。有时不在线。/𝕏/ \n上兵伐谋 其次才伐兵 /\n愿望（每年的生日愿望基本都是这个）：世界和平。/(*╹▽╹*)（未来迷茫中ING）",
+        "id": "1521508530552983552",
+        "location": "重慶市，重慶",
+        "name": "凌宿予笙",
+        "pinned_tweet_id": "1895503858987864145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867239159452299264/wKqist1C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 378,
+          "following_count": 262,
+          "like_count": 58513,
+          "listed_count": 2,
+          "media_count": 234,
+          "tweet_count": 3473
+        },
+        "username": "leanshou",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-24T13:20:19.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "h5.cctvnews.cctv.com/szdh2023/index…",
+                "end": 23,
+                "expanded_url": "https://h5.cctvnews.cctv.com/szdh2023/index.html",
+                "start": 0,
+                "url": "https://t.co/X75VIaIJ9Z"
+              }
+            ]
+          }
+        },
+        "id": "1573663582994444289",
+        "location": "花果山共和国—广州府",
+        "name": "狐仙苏苏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886419378591399936/AA5Epfm__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9839,
+          "following_count": 554,
+          "like_count": 56526,
+          "listed_count": 23,
+          "media_count": 334,
+          "tweet_count": 1195
+        },
+        "url": "https://t.co/X75VIaIJ9Z",
+        "username": "guojiazongshuji",
+        "verified": true
+      }
+    ]
+  }
+}

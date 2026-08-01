@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1921154432261066801",
+    "created_at": "2025-05-10T16:53:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-10T17:53:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921247325462163857"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1608480536925974529",
+          "start": 0,
+          "username": "yangyan25801912"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921247325462163857",
+    "in_reply_to_user_id": "1608480536925974529",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921235727901172082",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yangyan25801912 您说的很对，我有些浅薄了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1921154432261066801",
+        "created_at": "2025-05-10T16:53:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-10T17:53:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921247325462163857"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1608480536925974529",
+              "start": 0,
+              "username": "yangyan25801912"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921247325462163857",
+        "in_reply_to_user_id": "1608480536925974529",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921235727901172082",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yangyan25801912 您说的很对，我有些浅薄了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608480536925974529",
+        "conversation_id": "1921154432261066801",
+        "created_at": "2025-05-10T16:07:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-10T17:07:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921235727901172082"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1826281483675299840",
+              "start": 0,
+              "username": "ci_shang85157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921235727901172082",
+        "in_reply_to_user_id": "1608480536925974529",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921235109287489633",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ci_shang85157 发现问题是很重要的，但更难人可贵的是有丰富的理论以及大量的实践经验去发现适合的方向和道路。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 537,
+          "following_count": 487,
+          "like_count": 9119,
+          "listed_count": 2,
+          "media_count": 146,
+          "tweet_count": 3849
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-29T15:10:29.000Z",
+        "description": "因嚼不动滚刀肉，所以发挥抽象艺术通过转载，搬运，创造，搭建海外版意林😋😋😋",
+        "id": "1608480536925974529",
+        "name": "yangyang",
+        "pinned_tweet_id": "1919705457469640769",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 15,
+          "like_count": 3211,
+          "listed_count": 6,
+          "media_count": 304,
+          "tweet_count": 3804
+        },
+        "username": "yangyan25801912",
+        "verified": false
+      }
+    ]
+  }
+}

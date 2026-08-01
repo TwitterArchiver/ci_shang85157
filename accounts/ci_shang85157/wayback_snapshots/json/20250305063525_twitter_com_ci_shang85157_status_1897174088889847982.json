@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1897145193637535901",
+    "created_at": "2025-03-05T06:35:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-05T07:35:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897174088889847982"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1840055966525726720",
+          "start": 0,
+          "username": "dameiliuhe111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897174088889847982",
+    "in_reply_to_user_id": "1840055966525726720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897172187762888821",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dameiliuhe111 怎么会竞争力下降，我看你是吃饱了看着工人受压迫很开心吗？只要工人中不出现工贼，联合起来的罢工争取权益就不会出现竞争力下降"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1897145193637535901",
+        "created_at": "2025-03-05T06:35:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-05T07:35:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897174088889847982"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1840055966525726720",
+              "start": 0,
+              "username": "dameiliuhe111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897174088889847982",
+        "in_reply_to_user_id": "1840055966525726720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897172187762888821",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dameiliuhe111 怎么会竞争力下降，我看你是吃饱了看着工人受压迫很开心吗？只要工人中不出现工贼，联合起来的罢工争取权益就不会出现竞争力下降"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840055966525726720",
+        "conversation_id": "1897145193637535901",
+        "created_at": "2025-03-05T06:27:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-05T07:27:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897172187762888821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1826281483675299840",
+              "start": 0,
+              "username": "ci_shang85157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897172187762888821",
+        "in_reply_to_user_id": "1826281483675299840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897171701194231929",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ci_shang85157 那是你认为。罢工涨价。竞争力下降，全部下岗\n干嘛去？\n合理？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲\n小猫：@kimKAAAAAILUV",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kimKAAAAAILUV"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844188914451365901/gNnOT4GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 294,
+          "like_count": 2863,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 1317
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-28T15:48:30.000Z",
+        "description": "红色的旗帜，一定会在全球飘扬！",
+        "id": "1840055966525726720",
+        "name": "大美六合（链条）互fo",
+        "pinned_tweet_id": "1889259504791134274",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840917985864925184/qCauo_Ey_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1644,
+          "following_count": 2164,
+          "like_count": 50134,
+          "listed_count": 23,
+          "media_count": 922,
+          "tweet_count": 15065
+        },
+        "username": "dameiliuhe111",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1959505210113507589",
+    "created_at": "2025-08-24T18:53:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-24T19:53:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959690441777160537"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1937341455263236103",
+          "start": 0,
+          "username": "Yuxiaoxion14649"
+        },
+        {
+          "end": 31,
+          "id": "1784300698533785600",
+          "start": 17,
+          "username": "mmisalwayssad"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959690441777160537",
+    "in_reply_to_user_id": "1937341455263236103",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959677793962500238",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuxiaoxion14649 @mmisalwayssad 你咋那么贱呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1959505210113507589",
+        "created_at": "2025-08-24T18:53:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T19:53:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959690441777160537"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1937341455263236103",
+              "start": 0,
+              "username": "Yuxiaoxion14649"
+            },
+            {
+              "end": 31,
+              "id": "1784300698533785600",
+              "start": 17,
+              "username": "mmisalwayssad"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959690441777160537",
+        "in_reply_to_user_id": "1937341455263236103",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959677793962500238",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuxiaoxion14649 @mmisalwayssad 你咋那么贱呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1937341455263236103",
+        "conversation_id": "1959505210113507589",
+        "created_at": "2025-08-24T18:02:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T19:02:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959677793962500238"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1784300698533785600",
+              "start": 0,
+              "username": "mmisalwayssad"
+            },
+            {
+              "end": 29,
+              "id": "1826281483675299840",
+              "start": 15,
+              "username": "ci_shang85157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959677793962500238",
+        "in_reply_to_user_id": "1784300698533785600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959676244976439489",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mmisalwayssad @ci_shang85157 那叫什么？叫几把？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像失去了一条时间线，算了，我们从来吧",
+        "id": "1826281483675299840",
+        "name": "泉方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 720,
+          "following_count": 571,
+          "like_count": 13283,
+          "listed_count": 3,
+          "media_count": 161,
+          "tweet_count": 5397
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-24T02:47:00.000Z",
+        "description": "",
+        "id": "1937341455263236103",
+        "name": "疑雲",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937341659697840128/v5Z1tGW__normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 7,
+          "like_count": 23,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "username": "Yuxiaoxion14649",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-27T19:17:06.000Z",
+        "description": "我不想开学，目前在当她@opitia255274的小三",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "opitia255274"
+              }
+            ]
+          }
+        },
+        "id": "1784300698533785600",
+        "location": "穷逼滚，我没成年",
+        "name": "mm",
+        "pinned_tweet_id": "1959505210113507589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957097521567940608/6fuZfsbT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5756,
+          "following_count": 381,
+          "like_count": 11146,
+          "listed_count": 10,
+          "media_count": 458,
+          "tweet_count": 9423
+        },
+        "username": "mmisalwayssad",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1957280535845425499",
+    "created_at": "2025-08-18T04:15:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-18T05:15:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957295375716606451"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1866063848014508032",
+          "start": 0,
+          "username": "Sartre_and_Noah"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957295375716606451",
+    "in_reply_to_user_id": "1866063848014508032",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957292936275939423",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sartre_and_Noah 撒西不理"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1957292936275939423].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1957292936275939423",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1957292936275939423"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1957280535845425499",
+        "created_at": "2025-08-18T04:15:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T05:15:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957295375716606451"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1866063848014508032",
+              "start": 0,
+              "username": "Sartre_and_Noah"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957295375716606451",
+        "in_reply_to_user_id": "1866063848014508032",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957292936275939423",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sartre_and_Noah 撒西不理"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像失去了一条时间线，算了，我们从来吧",
+        "id": "1826281483675299840",
+        "name": "泉方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 698,
+          "following_count": 547,
+          "like_count": 12814,
+          "listed_count": 2,
+          "media_count": 160,
+          "tweet_count": 5241
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-09T10:14:33.000Z",
+        "description": "锁一段时间推，看成分互fo丨友跨（快翻车了）丨多体丨ADHD丨人文社科爱好者丨成分比较杂丨最近很闲，欢迎找我聊天🥰丨里推@ShuangNian80852",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 60,
+                "username": "ShuangNian80852"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/saintandnoah",
+                "end": 23,
+                "expanded_url": "https://ngl.link/saintandnoah",
+                "start": 0,
+                "url": "https://t.co/KCI0PqyWCM"
+              }
+            ]
+          }
+        },
+        "id": "1866063848014508032",
+        "name": "嗣凝",
+        "pinned_tweet_id": "1933188587262197861",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940301313947959296/LRVywUeE_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 370,
+          "like_count": 15107,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 2093
+        },
+        "url": "https://t.co/KCI0PqyWCM",
+        "username": "Sartre_and_Noah",
+        "verified": false
+      }
+    ]
+  }
+}

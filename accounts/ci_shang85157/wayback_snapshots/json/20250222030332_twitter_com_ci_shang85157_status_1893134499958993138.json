@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1892567190785884450",
+    "created_at": "2025-02-22T03:03:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-22T04:03:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893134499958993138"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1817573438334341120",
+          "start": 0,
+          "username": "teachaerli"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893134499958993138",
+    "in_reply_to_user_id": "1817573438334341120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892567190785884450",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@teachaerli 别的可能不行，喂狗我是专业的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1019,
+        "media_key": "3_1892567186817921024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkO_1EPXsAAC4b0.jpg",
+        "width": 1078
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1892567190785884450",
+        "created_at": "2025-02-22T03:03:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-22T04:03:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893134499958993138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1817573438334341120",
+              "start": 0,
+              "username": "teachaerli"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893134499958993138",
+        "in_reply_to_user_id": "1817573438334341120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892567190785884450",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@teachaerli 别的可能不行，喂狗我是专业的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1892567186817921024"
+          ]
+        },
+        "author_id": "1817573438334341120",
+        "conversation_id": "1892567190785884450",
+        "created_at": "2025-02-20T13:29:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-20T14:29:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1892567190785884450"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qnjTTznmdI",
+              "end": 25,
+              "expanded_url": "https://x.com/teachaerli/status/1892567190785884450/photo/1",
+              "media_key": "3_1892567186817921024",
+              "start": 2,
+              "url": "https://t.co/qnjTTznmdI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892567190785884450",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 49,
+          "impression_count": 158704,
+          "like_count": 915,
+          "quote_count": 5,
+          "reply_count": 117,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "🤔 https://t.co/qnjTTznmdI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲",
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844188914451365901/gNnOT4GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 245,
+          "like_count": 2387,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 1102
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-28T14:51:15.000Z",
+        "description": "墙外天才鉴定师，没病走两步！",
+        "id": "1817573438334341120",
+        "name": "我是你的李院长",
+        "pinned_tweet_id": "1856962667845751296",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1817578026479370240/ENddSCbt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2895,
+          "following_count": 91,
+          "like_count": 35,
+          "listed_count": 9,
+          "media_count": 250,
+          "tweet_count": 269
+        },
+        "username": "teachaerli",
+        "verified": true
+      }
+    ]
+  }
+}

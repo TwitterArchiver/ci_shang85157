@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "2004889608908390482",
+    "created_at": "2025-12-28T05:03:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-28T06:03:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005142436268658810"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1967293517274988544",
+          "start": 0,
+          "username": "Ainai_owo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005142436268658810",
+    "in_reply_to_user_id": "1967293517274988544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005126652985311312",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ainai_owo 气死我了吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "2004889608908390482",
+        "created_at": "2025-12-28T05:03:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T06:03:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005142436268658810"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1967293517274988544",
+              "start": 0,
+              "username": "Ainai_owo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005142436268658810",
+        "in_reply_to_user_id": "1967293517274988544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005126652985311312",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ainai_owo 气死我了吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967293517274988544",
+        "conversation_id": "2004889608908390482",
+        "created_at": "2025-12-28T04:00:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T05:00:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005126652985311312"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1826281483675299840",
+              "start": 0,
+              "username": "ci_shang85157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005126652985311312",
+        "in_reply_to_user_id": "1826281483675299840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004889608908390482",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ci_shang85157 有时候感觉冲了会员都没用"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧 结义兄弟 @SoSleepy4wy还有穹璃 求求你们了找我聊天好不好https://t.co/ILEWFdOQz0。 ngl匿名问答",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 27,
+                "username": "SoSleepy4wy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%8950122",
+                "end": 79,
+                "expanded_url": "https://ngl.link/%E6%B3%8950122",
+                "start": 56,
+                "url": "https://t.co/ILEWFdOQz0"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉",
+        "pinned_tweet_id": "1970427616353296660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978274114138996736/r_khhgIT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 812,
+          "following_count": 651,
+          "like_count": 19568,
+          "listed_count": 2,
+          "media_count": 220,
+          "tweet_count": 7198
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-14T18:25:26.000Z",
+        "description": "糖果小镇聊天群 https://t.co/HUvftwvRD7",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+R_yz2iapzmQ4M…",
+                "end": 31,
+                "expanded_url": "https://t.me/+R_yz2iapzmQ4Mzk1",
+                "start": 8,
+                "url": "https://t.co/HUvftwvRD7"
+              }
+            ]
+          }
+        },
+        "id": "1967293517274988544",
+        "name": "梦爱奈（糖商/全国可发🏳️‍⚧️🍬🍥）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999183222295687168/_tXkqmx__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 25,
+          "like_count": 75,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 25
+        },
+        "username": "Ainai_owo",
+        "verified": true
+      }
+    ]
+  }
+}

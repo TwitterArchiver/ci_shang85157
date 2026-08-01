@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1960513221925986574",
+    "created_at": "2025-08-27T01:54:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T02:54:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960521368510062890"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1881977943083388928",
+          "start": 0,
+          "username": "avaou78011"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960521368510062890",
+    "in_reply_to_user_id": "1881977943083388928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960513221925986574",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@avaou78011 谢谢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1960513221925986574",
+        "created_at": "2025-08-27T01:54:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T02:54:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960521368510062890"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1881977943083388928",
+              "start": 0,
+              "username": "avaou78011"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960521368510062890",
+        "in_reply_to_user_id": "1881977943083388928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960513221925986574",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@avaou78011 谢谢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1881977943083388928",
+        "conversation_id": "1960513221925986574",
+        "created_at": "2025-08-27T01:22:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T02:22:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960513221925986574"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1960513221925986574",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 200,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你会跟我表白吗？其实我挺喜欢你的！你真的非常可爱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像失去了一条时间线，算了，我们从来吧",
+        "id": "1826281483675299840",
+        "name": "泉方",
+        "pinned_tweet_id": "1932824152811188484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 728,
+          "following_count": 574,
+          "like_count": 13501,
+          "listed_count": 3,
+          "media_count": 164,
+          "tweet_count": 5474
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-22T08:11:49.000Z",
+        "description": "nothing",
+        "id": "1881977943083388928",
+        "name": "ava",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957296878820995072/wcbSMRjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 16,
+          "like_count": 293,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 172
+        },
+        "username": "avaou78011",
+        "verified": false
+      }
+    ]
+  }
+}

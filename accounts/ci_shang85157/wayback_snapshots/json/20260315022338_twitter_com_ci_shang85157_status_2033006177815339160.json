@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "2032965832985461080",
+    "created_at": "2026-03-15T02:23:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T03:23:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033006177815339160"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1826483540554645507",
+          "start": 0,
+          "username": "zbzjzyl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033006177815339160",
+    "in_reply_to_user_id": "1826483540554645507",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032969354955075613",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zbzjzyl 早"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "2032965832985461080",
+        "created_at": "2026-03-15T02:23:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T03:23:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033006177815339160"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1826483540554645507",
+              "start": 0,
+              "username": "zbzjzyl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033006177815339160",
+        "in_reply_to_user_id": "1826483540554645507",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032969354955075613",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zbzjzyl 早"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826483540554645507",
+        "conversation_id": "2032965832985461080",
+        "created_at": "2026-03-14T23:57:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T00:57:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032969354955075613"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1826281483675299840",
+              "start": 0,
+              "username": "ci_shang85157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032969354955075613",
+        "in_reply_to_user_id": "1826281483675299840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032965832985461080",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ci_shang85157 早上好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧 https://t.co/ILEWFdOQz0。 ngl匿名问答 想交朋友或者互fo尽管私信我 每个人都会回",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%8950122",
+                "end": 45,
+                "expanded_url": "https://ngl.link/%E6%B3%8950122",
+                "start": 22,
+                "url": "https://t.co/ILEWFdOQz0"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "永雏泉",
+        "pinned_tweet_id": "2019557886406578564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978274114138996736/r_khhgIT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1094,
+          "following_count": 708,
+          "like_count": 22185,
+          "listed_count": 2,
+          "media_count": 247,
+          "tweet_count": 8093
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-22T04:56:38.000Z",
+        "description": "不知道活着的意义 每天都很累 每天都要加油哦",
+        "id": "1826483540554645507",
+        "name": "Xi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984629189362974720/S8BIOf0W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 434,
+          "following_count": 469,
+          "like_count": 20232,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 4081
+        },
+        "username": "zbzjzyl",
+        "verified": false
+      }
+    ]
+  }
+}

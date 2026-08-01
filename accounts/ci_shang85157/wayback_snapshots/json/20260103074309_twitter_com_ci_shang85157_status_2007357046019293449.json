@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "2007347032814694879",
+    "created_at": "2026-01-03T07:43:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T08:43:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007357046019293449"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1620472584562446336",
+          "start": 0,
+          "username": "nagaseruna7777"
+        },
+        {
+          "end": 32,
+          "id": "1570754042590285825",
+          "start": 16,
+          "username": "_ShadowTwilight"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007357046019293449",
+    "in_reply_to_user_id": "1620472584562446336",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007353070561513925",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nagaseruna7777 @_ShadowTwilight 我理你啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "2007347032814694879",
+        "created_at": "2026-01-03T07:43:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T08:43:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007357046019293449"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1620472584562446336",
+              "start": 0,
+              "username": "nagaseruna7777"
+            },
+            {
+              "end": 32,
+              "id": "1570754042590285825",
+              "start": 16,
+              "username": "_ShadowTwilight"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007357046019293449",
+        "in_reply_to_user_id": "1620472584562446336",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007353070561513925",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nagaseruna7777 @_ShadowTwilight 我理你啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620472584562446336",
+        "conversation_id": "2007347032814694879",
+        "created_at": "2026-01-03T07:27:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T08:27:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007353070561513925"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1570754042590285825",
+              "start": 0,
+              "username": "_ShadowTwilight"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007353070561513925",
+        "in_reply_to_user_id": "1570754042590285825",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007352972582572218",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_ShadowTwilight 害怕"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧 https://t.co/ILEWFdOiJs。 ngl匿名问答 想交朋友或者互fo尽管私信我 每个人都会回",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%8950122",
+                "end": 45,
+                "expanded_url": "https://ngl.link/%E6%B3%8950122",
+                "start": 22,
+                "url": "https://t.co/ILEWFdOiJs"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉",
+        "pinned_tweet_id": "2006393841994371256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978274114138996736/r_khhgIT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 920,
+          "following_count": 655,
+          "like_count": 20317,
+          "listed_count": 2,
+          "media_count": 230,
+          "tweet_count": 7437
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-31T17:22:36.000Z",
+        "description": "我是谁？",
+        "id": "1620472584562446336",
+        "location": "Galaxy Platform",
+        "name": "✟Runa✟",
+        "pinned_tweet_id": "1797461251922202820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1733120988471324672/lphr-nDx_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 35,
+          "like_count": 4512,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 2741
+        },
+        "username": "nagaseruna7777",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-16T12:38:51.000Z",
+        "description": "/欢迎互fo和聊天/自由和平/执着于理想，纯粹于当下",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@Satitobi",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@Satitobi",
+                "start": 0,
+                "url": "https://t.co/pID89sGYkq"
+              }
+            ]
+          }
+        },
+        "id": "1570754042590285825",
+        "location": " 不知名城市",
+        "name": "紗千鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984807268664442880/7xDISsnw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 114,
+          "like_count": 539,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 753
+        },
+        "url": "https://t.co/pID89sGYkq",
+        "username": "_ShadowTwilight",
+        "verified": false
+      }
+    ]
+  }
+}

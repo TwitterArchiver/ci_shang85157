@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1916860632554680441",
+    "created_at": "2025-04-28T17:16:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-28T18:16:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916904398175015108"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1592865779241734144",
+          "start": 0,
+          "username": "yuanyuan774"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916904398175015108",
+    "in_reply_to_user_id": "1592865779241734144",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916860632554680441",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuanyuan774 可以"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1916860614301167616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpoOkp9bsAA1TnJ.jpg",
+        "width": 472
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1916860632554680441",
+        "created_at": "2025-04-28T17:16:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-28T18:16:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916904398175015108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1592865779241734144",
+              "start": 0,
+              "username": "yuanyuan774"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916904398175015108",
+        "in_reply_to_user_id": "1592865779241734144",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916860632554680441",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuanyuan774 可以"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1916860614301167616"
+          ]
+        },
+        "author_id": "1592865779241734144",
+        "conversation_id": "1916860632554680441",
+        "created_at": "2025-04-28T14:22:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-28T15:22:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916860632554680441"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QX900Eryc8",
+              "end": 30,
+              "expanded_url": "https://x.com/yuanyuan774/status/1916860632554680441/photo/1",
+              "media_key": "3_1916860614301167616",
+              "start": 7,
+              "url": "https://t.co/QX900Eryc8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916860632554680441",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1478,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不当好人了 https://t.co/QX900Eryc8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 419,
+          "following_count": 420,
+          "like_count": 7398,
+          "listed_count": 1,
+          "media_count": 131,
+          "tweet_count": 3208
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-16T13:03:00.000Z",
+        "description": "小擦一下@xiumao888 🚪128纯绿（不打钱不许骚扰我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 4,
+                "username": "xiumao888"
+              }
+            ]
+          }
+        },
+        "id": "1592865779241734144",
+        "location": "如果因我而感到幸福请上钩𐃆 ˒˒𑙕 .   ᩙ . ꛒ",
+        "name": "你是不是欠",
+        "pinned_tweet_id": "1915905542603555302",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912767100063502336/qt0GQV52_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8659,
+          "following_count": 231,
+          "like_count": 20253,
+          "listed_count": 10,
+          "media_count": 726,
+          "tweet_count": 15565
+        },
+        "username": "yuanyuan774",
+        "verified": false
+      }
+    ]
+  }
+}

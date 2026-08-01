@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1897965808208470514",
+    "created_at": "2025-03-08T04:26:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-08T05:26:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898228782651392173"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1883266432793976833",
+          "start": 0,
+          "username": "CarbonicWhite"
+        },
+        {
+          "end": 22,
+          "id": "1467175651954200577",
+          "start": 15,
+          "username": "kjkluk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898228782651392173",
+    "in_reply_to_user_id": "1883266432793976833",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898204981112844512",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CarbonicWhite @kjkluk 支持"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1897965808208470514",
+        "created_at": "2025-03-08T04:26:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-08T05:26:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898228782651392173"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1883266432793976833",
+              "start": 0,
+              "username": "CarbonicWhite"
+            },
+            {
+              "end": 22,
+              "id": "1467175651954200577",
+              "start": 15,
+              "username": "kjkluk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898228782651392173",
+        "in_reply_to_user_id": "1883266432793976833",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898204981112844512",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CarbonicWhite @kjkluk 支持"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883266432793976833",
+        "conversation_id": "1897965808208470514",
+        "created_at": "2025-03-08T02:51:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-08T03:51:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898204981112844512"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1467175651954200577",
+              "start": 0,
+              "username": "kjkluk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898204981112844512",
+        "in_reply_to_user_id": "1467175651954200577",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897965808208470514",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kjkluk 支持重男轻女家庭正义mtf👊👊👊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844188914451365901/gNnOT4GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 310,
+          "like_count": 3289,
+          "listed_count": 1,
+          "media_count": 63,
+          "tweet_count": 1506
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-25T21:31:42.000Z",
+        "description": "某人的阴暗面👁️👁️",
+        "id": "1883266432793976833",
+        "name": "冰蓝蓝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883269526692966400/hBrTY46o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 326,
+          "like_count": 434,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 380
+        },
+        "username": "CarbonicWhite",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-04T16:55:23.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kjkluk.github.io",
+                "end": 23,
+                "expanded_url": "http://kjkluk.github.io",
+                "start": 0,
+                "url": "https://t.co/GgffWMPMkn"
+              }
+            ]
+          }
+        },
+        "id": "1467175651954200577",
+        "location": "Japan",
+        "name": "川井 橘音🏳️‍⚧️",
+        "pinned_tweet_id": "1897280320694837517",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879463926951243776/JYf1bDOU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2084,
+          "following_count": 2395,
+          "like_count": 195641,
+          "listed_count": 13,
+          "media_count": 612,
+          "tweet_count": 9073
+        },
+        "url": "https://t.co/GgffWMPMkn",
+        "username": "kjkluk",
+        "verified": false
+      }
+    ]
+  }
+}

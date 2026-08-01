@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1957275033451282818",
+    "created_at": "2025-08-18T02:58:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-18T03:58:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957275771753599333"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "702827952803680256",
+          "start": 0,
+          "username": "allvulples"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957275771753599333",
+    "in_reply_to_user_id": "702827952803680256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957275033451282818",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@allvulples 太有意思了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1941,
+        "media_key": "3_1957275021677834240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GymjQxraMAA0eLo.jpg",
+        "width": 1220
+      },
+      {
+        "height": 1693,
+        "media_key": "3_1957275023347200000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GymjQ35asAAKH_v.jpg",
+        "width": 1220
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1957275025909874688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GymjRBcaAAAs0VA.jpg",
+        "width": 1055
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1957275033451282818",
+        "created_at": "2025-08-18T02:58:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T03:58:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957275771753599333"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "702827952803680256",
+              "start": 0,
+              "username": "allvulples"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957275771753599333",
+        "in_reply_to_user_id": "702827952803680256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957275033451282818",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@allvulples 太有意思了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957275021677834240",
+            "3_1957275023347200000",
+            "3_1957275025909874688"
+          ]
+        },
+        "author_id": "702827952803680256",
+        "conversation_id": "1957275033451282818",
+        "created_at": "2025-08-18T02:55:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T03:55:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957275033451282818"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ENq8Zb6GV2",
+              "end": 57,
+              "expanded_url": "https://x.com/allvulples/status/1957275033451282818/photo/1",
+              "media_key": "3_1957275021677834240",
+              "start": 34,
+              "url": "https://t.co/ENq8Zb6GV2"
+            },
+            {
+              "display_url": "pic.x.com/ENq8Zb6GV2",
+              "end": 57,
+              "expanded_url": "https://x.com/allvulples/status/1957275033451282818/photo/1",
+              "media_key": "3_1957275023347200000",
+              "start": 34,
+              "url": "https://t.co/ENq8Zb6GV2"
+            },
+            {
+              "display_url": "pic.x.com/ENq8Zb6GV2",
+              "end": 57,
+              "expanded_url": "https://x.com/allvulples/status/1957275033451282818/photo/1",
+              "media_key": "3_1957275025909874688",
+              "start": 34,
+              "url": "https://t.co/ENq8Zb6GV2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957275033451282818",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "淡推是指用小號瘋狂戰狼出擊👉🤡。到底是誰有政治露陰癖就不多說了吧！ https://t.co/ENq8Zb6GV2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "退一段时间？可能是一个月？也可能不会回来了",
+        "id": "1826281483675299840",
+        "name": "泉方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 697,
+          "following_count": 545,
+          "like_count": 12775,
+          "listed_count": 2,
+          "media_count": 161,
+          "tweet_count": 5213
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2016-02-25T12:10:16.000Z",
+        "description": "BIG BANG BAD BOYS AND GIRLS.",
+        "id": "702827952803680256",
+        "location": "Hong Kong",
+        "name": "Demonkeyse Manell",
+        "pinned_tweet_id": "1957264008970649838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886505840297041922/T3n-n-l2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 817,
+          "following_count": 3601,
+          "like_count": 30051,
+          "listed_count": 3,
+          "media_count": 2075,
+          "tweet_count": 36230
+        },
+        "username": "allvulples",
+        "verified": false
+      }
+    ]
+  }
+}

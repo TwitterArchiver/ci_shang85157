@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1897591344174186719",
+    "created_at": "2025-03-06T10:13:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-06T11:13:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1897591344174186719"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/MTFxyn198964/s…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/MTFxyn198964/status/1897545636045541501",
+          "start": 19,
+          "url": "https://t.co/L8hklPLl2B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897591344174186719",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897545636045541501",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "朋友们对不起，但是我真的想让你们看看 https://t.co/L8hklPLl2B"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 50406,
+        "height": 1280,
+        "media_key": "13_1897545487177175040",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1897545487177175040/img/thEVKFO6MH60fBsN.jpg",
+        "public_metrics": {
+          "view_count": 1280
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1897545487177175040/vid/avc1/320x568/P5zuB-nS4-NiDhiI.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1897545487177175040/vid/avc1/480x852/ZP59U-zeuyZSQamb.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1897545487177175040/vid/avc1/720x1280/SKk-3748eIvedTQA.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1897545487177175040/pl/cNMusJHBh3MG4iIw.m3u8?tag=14&v=7b9"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1897591344174186719",
+        "created_at": "2025-03-06T10:13:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-06T11:13:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1897591344174186719"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/MTFxyn198964/s…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/MTFxyn198964/status/1897545636045541501",
+              "start": 19,
+              "url": "https://t.co/L8hklPLl2B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897591344174186719",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897545636045541501",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "朋友们对不起，但是我真的想让你们看看 https://t.co/L8hklPLl2B"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1897545487177175040"
+          ]
+        },
+        "author_id": "1751084762016681984",
+        "conversation_id": "1897545636045541501",
+        "created_at": "2025-03-06T07:11:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-06T08:11:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897545636045541501"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AHD5gC7Owr",
+              "end": 63,
+              "expanded_url": "https://x.com/MTFxyn198964/status/1897545636045541501/video/1",
+              "media_key": "13_1897545487177175040",
+              "start": 40,
+              "url": "https://t.co/AHD5gC7Owr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897545636045541501",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 3636,
+          "like_count": 42,
+          "quote_count": 6,
+          "reply_count": 16,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "胜利结算MVP\n等我瘦下来，我要重新拍一遍\n（刘明是我生物爹，之前拿刀砍过我） https://t.co/AHD5gC7Owr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844188914451365901/gNnOT4GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 306,
+          "like_count": 3052,
+          "listed_count": 1,
+          "media_count": 62,
+          "tweet_count": 1412
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-27T03:29:28.000Z",
+        "description": "就是那个未成年术后娘🥺支持免术改证Ⅰ废除死刑｜全盘西化｜反terf丨安徽裔满洲人｜🏳️‍⚧️🏳️‍🌈🇮🇱丨飞友丨 mtxyn丨🏳️‍⚧️❤️🇮🇱｜原帐号:@zhoxzhn8964｜ 「做一個自由的人，再回到錫安山和耶路撒冷」｜梦想是建立药娘共和国｜永远的小药娘丨逃生舱@zhoxzhn8963",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 77,
+                "username": "zhoxzhn8964"
+              },
+              {
+                "end": 146,
+                "start": 134,
+                "username": "zhoxzhn8963"
+              }
+            ]
+          }
+        },
+        "id": "1751084762016681984",
+        "location": "药娘共和国",
+        "name": "小药娘紫喵🍥🏳️‍⚧️🇮🇱",
+        "pinned_tweet_id": "1780270621706129775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806207869802708992/sB3Dkpjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4118,
+          "following_count": 1581,
+          "like_count": 10019,
+          "listed_count": 8,
+          "media_count": 402,
+          "tweet_count": 1499
+        },
+        "username": "MTFxyn198964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "2014286324078170543",
+    "created_at": "2026-01-22T17:47:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T18:47:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014394419609542759"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1686428350657740801",
+          "start": 0,
+          "username": "cpshgsdfg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014394419609542759",
+    "in_reply_to_user_id": "1686428350657740801",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014286324078170543",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cpshgsdfg 等我回去咱俩喝"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1450,
+        "media_key": "3_2014286314493874176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_QuuxtWkAAJlbJ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "2014286324078170543",
+        "created_at": "2026-01-22T17:47:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T18:47:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014394419609542759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1686428350657740801",
+              "start": 0,
+              "username": "cpshgsdfg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014394419609542759",
+        "in_reply_to_user_id": "1686428350657740801",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014286324078170543",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cpshgsdfg 等我回去咱俩喝"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014286314493874176"
+          ]
+        },
+        "author_id": "1686428350657740801",
+        "conversation_id": "2014286324078170543",
+        "created_at": "2026-01-22T10:37:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T11:37:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014286324078170543"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gITORq0DOO",
+              "end": 31,
+              "expanded_url": "https://x.com/cpshgsdfg/status/2014286324078170543/photo/1",
+              "media_key": "3_2014286314493874176",
+              "start": 8,
+              "url": "https://t.co/gITORq0DOO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014286324078170543",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 708,
+          "like_count": 78,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "大家要少喝酒！ https://t.co/gITORq0DOO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧 https://t.co/ILEWFdOiJs。 ngl匿名问答 想交朋友或者互fo尽管私信我 每个人都会回",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%8950122",
+                "end": 45,
+                "expanded_url": "https://ngl.link/%E6%B3%8950122",
+                "start": 22,
+                "url": "https://t.co/ILEWFdOiJs"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉",
+        "pinned_tweet_id": "2005263135222165835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978274114138996736/r_khhgIT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 983,
+          "following_count": 672,
+          "like_count": 20395,
+          "listed_count": 2,
+          "media_count": 233,
+          "tweet_count": 7538
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-01T17:27:14.000Z",
+        "description": "这里是罗夏（大家要记住我的昵称哦），神秘日常男。每周一，周四分享健身日常，不要问为什么是这个时间，因为那两天刚好练胸练腹。男同勿扰谢谢！私信都会看，发屌的不回",
+        "id": "1686428350657740801",
+        "location": "🚪52/1888",
+        "name": "ozymandias",
+        "pinned_tweet_id": "2010981911142023466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001229435710951424/PNJO_XDB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2034,
+          "following_count": 134,
+          "like_count": 342,
+          "listed_count": 2,
+          "media_count": 16,
+          "tweet_count": 693
+        },
+        "username": "cpshgsdfg",
+        "verified": false
+      }
+    ]
+  }
+}

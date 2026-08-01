@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1973696315327746533",
+    "created_at": "2025-10-02T10:27:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-02T11:27:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973696448282931226"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1705262200036925440",
+          "start": 0,
+          "username": "xinjie87288"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973696448282931226",
+    "in_reply_to_user_id": "1826281483675299840",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973696315327746533",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xinjie87288"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1573,
+        "media_key": "3_1973696286248620032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2P6ULRbUAAaJvN.jpg",
+        "width": 802
+      },
+      {
+        "height": 886,
+        "media_key": "3_1973696286235963393",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2P6ULOaMAERaN2.jpg",
+        "width": 964
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1973696315327746533",
+        "created_at": "2025-10-02T10:27:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-02T11:27:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973696448282931226"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1705262200036925440",
+              "start": 0,
+              "username": "xinjie87288"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973696448282931226",
+        "in_reply_to_user_id": "1826281483675299840",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973696315327746533",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinjie87288"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1973696286248620032",
+            "3_1973696286235963393"
+          ]
+        },
+        "author_id": "1826281483675299840",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1973696315327746533",
+        "created_at": "2025-10-02T10:27:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-02T11:27:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973696315327746533"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2a2Zh5rwED",
+              "end": 33,
+              "expanded_url": "https://x.com/ci_shang85157/status/1973696315327746533/photo/1",
+              "media_key": "3_1973696286248620032",
+              "start": 10,
+              "url": "https://t.co/2a2Zh5rwED"
+            },
+            {
+              "display_url": "pic.x.com/2a2Zh5rwED",
+              "end": 33,
+              "expanded_url": "https://x.com/ci_shang85157/status/1973696315327746533/photo/1",
+              "media_key": "3_1973696286235963393",
+              "start": 10,
+              "url": "https://t.co/2a2Zh5rwED"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973696315327746533",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真让我接到了谢谢喵 https://t.co/2a2Zh5rwED"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧 小男友@pertx114514  结义兄弟@wuyan_sleeeepy还有穹璃 互fo可以私信我交朋友什么的 反正我还挺闲 然后就是没有然后了 一切都是最好的安排https://t.co/ILEWFdOQz0。 ngl匿名问答",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "pertx114514"
+              },
+              {
+                "end": 58,
+                "start": 43,
+                "username": "wuyan_sleeeepy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%8950122",
+                "end": 127,
+                "expanded_url": "https://ngl.link/%E6%B3%8950122",
+                "start": 104,
+                "url": "https://t.co/ILEWFdOQz0"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉方",
+        "pinned_tweet_id": "1970427616353296660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 818,
+          "following_count": 659,
+          "like_count": 16414,
+          "listed_count": 2,
+          "media_count": 195,
+          "tweet_count": 6431
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-22T16:46:18.000Z",
+        "description": "现在大二，无证含糖，要当小药娘了25年3月9号开始吃的色，20号开始吃的补记录一下身体的变化，不定期上线",
+        "id": "1705262200036925440",
+        "name": "心劫🏳‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864526109850914822/92ZGss9i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 745,
+          "like_count": 215,
+          "listed_count": 1,
+          "media_count": 75,
+          "tweet_count": 268
+        },
+        "username": "xinjie87288",
+        "verified": false
+      }
+    ]
+  }
+}

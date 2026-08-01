@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1916428026763710499",
+    "created_at": "2025-04-27T09:46:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-27T10:46:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916428743834476904"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1613214925425643526",
+          "start": 0,
+          "username": "uniquebirch"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916428743834476904",
+    "in_reply_to_user_id": "1613214925425643526",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916428026763710499",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uniquebirch 有点像地锅鸡之类的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1916428015657226240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpiFIGbbEAArGfv.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1916428026763710499",
+        "created_at": "2025-04-27T09:46:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T10:46:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916428743834476904"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1613214925425643526",
+              "start": 0,
+              "username": "uniquebirch"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916428743834476904",
+        "in_reply_to_user_id": "1613214925425643526",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916428026763710499",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uniquebirch 有点像地锅鸡之类的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1916428015657226240"
+          ]
+        },
+        "author_id": "1613214925425643526",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1916428026763710499",
+        "created_at": "2025-04-27T09:43:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T10:43:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916428026763710499"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LNHBvlbEZj",
+              "end": 25,
+              "expanded_url": "https://x.com/uniquebirch/status/1916428026763710499/photo/1",
+              "media_key": "3_1916428015657226240",
+              "start": 2,
+              "url": "https://t.co/LNHBvlbEZj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916428026763710499",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🥘 https://t.co/LNHBvlbEZj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 411,
+          "following_count": 384,
+          "like_count": 6992,
+          "listed_count": 1,
+          "media_count": 124,
+          "tweet_count": 3075
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T16:43:23.000Z",
+        "description": "isfj🦁/bisexual双/叫我小c或瓜瓜或者碎冰都可以/喜欢碎碎念废话很多/什么都发/高强度在线/女宝多多找我玩/烦我之前先自觉给我打钱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cc59530",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cc59530",
+                "start": 0,
+                "url": "https://t.co/jofCBC7rbV"
+              }
+            ]
+          }
+        },
+        "id": "1613214925425643526",
+        "location": "🚪88 纯绿不退 骚扰私信不回",
+        "name": "c瓜碎冰",
+        "pinned_tweet_id": "1914263210313785838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914288878556733440/sb7MyhP7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 486,
+          "following_count": 288,
+          "like_count": 3210,
+          "listed_count": 0,
+          "media_count": 135,
+          "tweet_count": 2215
+        },
+        "url": "https://t.co/jofCBC7rbV",
+        "username": "uniquebirch",
+        "verified": false
+      }
+    ]
+  }
+}

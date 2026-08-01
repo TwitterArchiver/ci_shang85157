@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1895768516864979223",
+    "created_at": "2025-03-01T09:43:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-01T10:43:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895771949013615025"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1811250754193440768",
+          "start": 0,
+          "username": "kirino_ki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895771949013615025",
+    "in_reply_to_user_id": "1811250754193440768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895768516864979223",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kirino_ki 有钱肯德基麦当劳，没钱华莱士"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_1895768500259659776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gk8faCJaIAAhtaz.jpg",
+        "width": 800
+      },
+      {
+        "height": 736,
+        "media_key": "3_1895768500192333824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gk8faB5W0AAFDBu.jpg",
+        "width": 736
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1895768500200677376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gk8faB7WIAAe3i-.jpg",
+        "width": 1536
+      },
+      {
+        "height": 800,
+        "media_key": "3_1895768500066795520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gk8faBbbQAAJRfq.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1895768516864979223",
+        "created_at": "2025-03-01T09:43:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-01T10:43:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895771949013615025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1811250754193440768",
+              "start": 0,
+              "username": "kirino_ki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895771949013615025",
+        "in_reply_to_user_id": "1811250754193440768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895768516864979223",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kirino_ki 有钱肯德基麦当劳，没钱华莱士"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1895768500259659776",
+            "3_1895768500192333824",
+            "3_1895768500200677376",
+            "3_1895768500066795520"
+          ]
+        },
+        "author_id": "1811250754193440768",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1895768516864979223",
+        "created_at": "2025-03-01T09:30:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-01T10:30:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1895768516864979223"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MAgQxLlEwS",
+              "end": 63,
+              "expanded_url": "https://x.com/kirino_ki/status/1895768516864979223/photo/1",
+              "media_key": "3_1895768500259659776",
+              "start": 40,
+              "url": "https://t.co/MAgQxLlEwS"
+            },
+            {
+              "display_url": "pic.x.com/MAgQxLlEwS",
+              "end": 63,
+              "expanded_url": "https://x.com/kirino_ki/status/1895768516864979223/photo/1",
+              "media_key": "3_1895768500192333824",
+              "start": 40,
+              "url": "https://t.co/MAgQxLlEwS"
+            },
+            {
+              "display_url": "pic.x.com/MAgQxLlEwS",
+              "end": 63,
+              "expanded_url": "https://x.com/kirino_ki/status/1895768516864979223/photo/1",
+              "media_key": "3_1895768500200677376",
+              "start": 40,
+              "url": "https://t.co/MAgQxLlEwS"
+            },
+            {
+              "display_url": "pic.x.com/MAgQxLlEwS",
+              "end": 63,
+              "expanded_url": "https://x.com/kirino_ki/status/1895768516864979223/photo/1",
+              "media_key": "3_1895768500066795520",
+              "start": 40,
+              "url": "https://t.co/MAgQxLlEwS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895768516864979223",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 179,
+          "like_count": 26,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "请选择你的英雄\n扣1:肯德基🍗\n扣2:麦当劳🍟\n扣3:汉堡王🍔\n扣4:华莱士🤡 https://t.co/MAgQxLlEwS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲",
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844188914451365901/gNnOT4GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 269,
+          "like_count": 2577,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 1193
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-11T04:07:02.000Z",
+        "description": "如果在你心中出现一片乌云的时候。 悲伤的诗能给乌云一个小小的拥抱。 然后它就会变换成一道开心的彩虹！",
+        "id": "1811250754193440768",
+        "location": "／ﾟ(๑°口°๑)ﾟ＼",
+        "name": "Kirino",
+        "pinned_tweet_id": "1895360854176182363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876103345871683584/Y-cKgPel_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2841,
+          "following_count": 1779,
+          "like_count": 12894,
+          "listed_count": 3,
+          "media_count": 62,
+          "tweet_count": 1616
+        },
+        "username": "kirino_ki",
+        "verified": true
+      }
+    ]
+  }
+}

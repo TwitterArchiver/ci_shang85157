@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1843183161402130625",
+    "created_at": "2024-10-07T17:32:44.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-07T18:32:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1843343719120130309"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1565163815846572032",
+          "start": 0,
+          "username": "lngto14"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1843343719120130309",
+    "in_reply_to_user_id": "1565163815846572032",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1843183161402130625",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lngto14 我也想试试"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1843183161402130625",
+        "created_at": "2024-10-07T17:32:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-07T18:32:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1843343719120130309"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1565163815846572032",
+              "start": 0,
+              "username": "lngto14"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1843343719120130309",
+        "in_reply_to_user_id": "1565163815846572032",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1843183161402130625",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lngto14 我也想试试"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1843183158524887040"
+          ]
+        },
+        "author_id": "1565163815846572032",
+        "conversation_id": "1843183161402130625",
+        "created_at": "2024-10-07T06:54:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-07T07:54:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1843183161402130625"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "催眠"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KlgLnXQNjA",
+              "end": 84,
+              "expanded_url": "https://x.com/lngto14/status/1843183161402130625/photo/1",
+              "media_key": "3_1843183158524887040",
+              "start": 61,
+              "url": "https://t.co/KlgLnXQNjA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1843183161402130625",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 471,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#催眠  找想被催眠的，只要男的，不接雌堕，最好能视频，别太瘦年龄别太小，可以直接私聊咨询\n这次的适应性挺好，自身也很乖 https://t.co/KlgLnXQNjA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "",
+        "id": "1826281483675299840",
+        "name": "伤心慈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826328643179802624/ScytKW-C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 148,
+          "like_count": 418,
+          "listed_count": 0,
+          "tweet_count": 35
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-01T02:25:19.000Z",
+        "description": "催眠主，可私，最好可以视频，喜欢大只的，拒绝雌堕，只接受男的",
+        "id": "1565163815846572032",
+        "location": "广州",
+        "name": "好奇",
+        "pinned_tweet_id": "1828829928089178577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1565165832597999621/AQpNbd6d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 24,
+          "like_count": 19,
+          "listed_count": 0,
+          "tweet_count": 32
+        },
+        "username": "lngto14",
+        "verified": false
+      }
+    ]
+  }
+}

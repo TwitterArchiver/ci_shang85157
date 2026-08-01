@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "2037823241650307168",
+    "created_at": "2026-03-29T03:08:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T04:08:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038090836001665248"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2014214501416284160",
+          "start": 0,
+          "username": "wgylly2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038090836001665248",
+    "in_reply_to_user_id": "2014214501416284160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037823241650307168",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wgylly2 万达广场附近有吗。😹😹😹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "2037823241650307168",
+        "created_at": "2026-03-29T03:08:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T04:08:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038090836001665248"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2014214501416284160",
+              "start": 0,
+              "username": "wgylly2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038090836001665248",
+        "in_reply_to_user_id": "2014214501416284160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037823241650307168",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wgylly2 万达广场附近有吗。😹😹😹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014214501416284160",
+        "conversation_id": "2037823241650307168",
+        "created_at": "2026-03-28T09:24:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T10:24:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037823241650307168"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037823241650307168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 45046,
+          "like_count": 236,
+          "quote_count": 0,
+          "reply_count": 50,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "一说鸡巴一说奶子 全世界的人机都吻了上来🫦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧 https://t.co/ILEWFdOQz0。 ngl匿名问答 想交朋友或者互fo尽管私信我 每个人都会回",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%8950122",
+                "end": 45,
+                "expanded_url": "https://ngl.link/%E6%B3%8950122",
+                "start": 22,
+                "url": "https://t.co/ILEWFdOQz0"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "永雏泉",
+        "pinned_tweet_id": "2034295067847147660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978274114138996736/r_khhgIT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1092,
+          "following_count": 721,
+          "like_count": 22903,
+          "listed_count": 2,
+          "media_count": 257,
+          "tweet_count": 8272
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-22T05:52:30.000Z",
+        "description": "人是一根能思想的苇草 提问箱：https://t.co/BtBxjf0j0l",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xixi38883",
+                "end": 38,
+                "expanded_url": "https://ngl.link/xixi38883",
+                "start": 15,
+                "url": "https://t.co/BtBxjf0j0l"
+              }
+            ]
+          }
+        },
+        "id": "2014214501416284160",
+        "name": "Xixi",
+        "pinned_tweet_id": "2032329261059854349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014222087808765952/hzvf-9Rm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2058,
+          "following_count": 9,
+          "like_count": 175,
+          "listed_count": 2,
+          "media_count": 25,
+          "tweet_count": 967
+        },
+        "username": "wgylly2",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1919880729783345152"
+      ],
+      "media_source_tweet_id": [
+        "1919880798024474851"
+      ]
+    },
+    "author_id": "1826281483675299840",
+    "conversation_id": "1920055653965455813",
+    "created_at": "2025-05-07T09:58:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-07T10:58:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920055653965455813"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1844410398407323648",
+          "start": 3,
+          "username": "dsfof1989"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VOvPpWdsGL",
+          "end": 43,
+          "expanded_url": "https://x.com/dsfof1989/status/1919880798024474851/video/1",
+          "media_key": "7_1919880729783345152",
+          "start": 20,
+          "url": "https://t.co/VOvPpWdsGL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920055653965455813",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919880798024474851",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dsfof1989: 最新力作 https://t.co/VOvPpWdsGL"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 33390,
+        "height": 720,
+        "media_key": "7_1919880729783345152",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1919880729783345152/pu/img/zuyl0tMHxBInPYuS.jpg",
+        "public_metrics": {
+          "view_count": 79
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1919880729783345152/pu/vid/avc1/474x270/EtkNspEljXpWNNLb.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1919880729783345152/pu/vid/avc1/632x360/lCKTP_Zp2wNTuOjg.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1919880729783345152/pu/vid/avc1/1264x720/6seUlqD157j3PSVX.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1919880729783345152/pu/pl/vB-oIljtO5A7qSR3.m3u8?tag=12"
+          }
+        ],
+        "width": 1264
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1919880729783345152"
+          ],
+          "media_source_tweet_id": [
+            "1919880798024474851"
+          ]
+        },
+        "author_id": "1826281483675299840",
+        "conversation_id": "1920055653965455813",
+        "created_at": "2025-05-07T09:58:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T10:58:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920055653965455813"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1844410398407323648",
+              "start": 3,
+              "username": "dsfof1989"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VOvPpWdsGL",
+              "end": 43,
+              "expanded_url": "https://x.com/dsfof1989/status/1919880798024474851/video/1",
+              "media_key": "7_1919880729783345152",
+              "start": 20,
+              "url": "https://t.co/VOvPpWdsGL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920055653965455813",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919880798024474851",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dsfof1989: 最新力作 https://t.co/VOvPpWdsGL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1919880729783345152"
+          ]
+        },
+        "author_id": "1844410398407323648",
+        "conversation_id": "1919880798024474851",
+        "created_at": "2025-05-06T22:23:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T23:23:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919880798024474851"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VOvPpWdsGL",
+              "end": 28,
+              "expanded_url": "https://x.com/dsfof1989/status/1919880798024474851/video/1",
+              "media_key": "7_1919880729783345152",
+              "start": 5,
+              "url": "https://t.co/VOvPpWdsGL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919880798024474851",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 186,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最新力作 https://t.co/VOvPpWdsGL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 492,
+          "following_count": 451,
+          "like_count": 8495,
+          "listed_count": 2,
+          "media_count": 140,
+          "tweet_count": 3568
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-10T16:11:30.000Z",
+        "description": "成都胖熊一只鸭\n前世大号@dsfin1989\n不定时抽粉丝线下互动\n叫妈妈只是我的爱好",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 12,
+                "username": "dsfin1989"
+              }
+            ]
+          }
+        },
+        "id": "1844410398407323648",
+        "location": "距离你1.0km",
+        "name": "希望遮住双眼的是乳房而不是迷茫",
+        "pinned_tweet_id": "1904540486553276660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917959574071726080/3zHforFn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1434,
+          "following_count": 683,
+          "like_count": 2906,
+          "listed_count": 1,
+          "media_count": 418,
+          "tweet_count": 1206
+        },
+        "username": "dsfof1989",
+        "verified": false
+      }
+    ]
+  }
+}

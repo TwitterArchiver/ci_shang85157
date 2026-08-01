@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1916403976607535435",
+    "created_at": "2025-04-27T08:20:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-27T09:20:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916407198521196803"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1692580662614847488",
+          "start": 0,
+          "username": "fangunmao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916407198521196803",
+    "in_reply_to_user_id": "1692580662614847488",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916403976607535435",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fangunmao 如何"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1916403976607535435",
+        "created_at": "2025-04-27T08:20:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T09:20:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916407198521196803"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1692580662614847488",
+              "start": 0,
+              "username": "fangunmao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916407198521196803",
+        "in_reply_to_user_id": "1692580662614847488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916403976607535435",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fangunmao 如何"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692580662614847488",
+        "conversation_id": "1916403976607535435",
+        "created_at": "2025-04-27T08:08:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T09:08:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916403976607535435"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1916403976607535435",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 82,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "淘宝为什么改得这么傻逼？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 412,
+          "following_count": 385,
+          "like_count": 6963,
+          "listed_count": 1,
+          "media_count": 123,
+          "tweet_count": 3066
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-18T16:54:25.000Z",
+        "description": "小猫的日常/最好最好的朋友@Ki69762/🐈的提问箱https://t.co/4MNxJ8gfE8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Ki69762"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/fangunmao",
+                "end": 50,
+                "expanded_url": "https://ngl.link/fangunmao",
+                "start": 27,
+                "url": "https://t.co/4MNxJ8gfE8"
+              }
+            ]
+          }
+        },
+        "id": "1692580662614847488",
+        "name": "翻滚猫",
+        "pinned_tweet_id": "1912745125501161686",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875793826822107136/uB4hA2yD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1584,
+          "following_count": 856,
+          "like_count": 33854,
+          "listed_count": 10,
+          "media_count": 622,
+          "tweet_count": 7838
+        },
+        "username": "fangunmao",
+        "verified": false
+      }
+    ]
+  }
+}

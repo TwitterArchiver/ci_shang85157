@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1895856610016362696",
+    "created_at": "2025-03-01T19:23:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-01T20:23:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895917766626165132"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1753348784573001728",
+          "start": 0,
+          "username": "Cheshire_kwine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895917766626165132",
+    "in_reply_to_user_id": "1753348784573001728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895856610016362696",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cheshire_kwine 虽然我对你表示同情，但是是不是有些太程序化了，自杀，被救，挂收款码，怎么都玩这样，要干嘛，缺钱就不要为家里添麻烦，起码为自己的家人想想"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1895856610016362696",
+        "created_at": "2025-03-01T19:23:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-01T20:23:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895917766626165132"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1753348784573001728",
+              "start": 0,
+              "username": "Cheshire_kwine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895917766626165132",
+        "in_reply_to_user_id": "1753348784573001728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895856610016362696",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cheshire_kwine 虽然我对你表示同情，但是是不是有些太程序化了，自杀，被救，挂收款码，怎么都玩这样，要干嘛，缺钱就不要为家里添麻烦，起码为自己的家人想想"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753348784573001728",
+        "conversation_id": "1895856610016362696",
+        "created_at": "2025-03-01T15:20:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-01T16:20:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1895856610016362696"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1895856610016362696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 16666,
+          "like_count": 152,
+          "quote_count": 5,
+          "reply_count": 37,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "朋友们，拿到手机了，我要进ICU了，插胃管和尿管，做血透，谢谢大家关心我 我很感动，但是费用有点多，我又给大家添麻烦了，希望好心人到时候能打赏我一点，我家真的没钱了\n三天后见吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲",
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844188914451365901/gNnOT4GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 274,
+          "like_count": 2618,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 1225
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-02T09:25:33.000Z",
+        "description": "",
+        "id": "1753348784573001728",
+        "name": "大猫猫归来，中间忘了后面也忘了",
+        "pinned_tweet_id": "1895622136271945763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878339168545411072/_roBeqHp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3130,
+          "following_count": 1347,
+          "like_count": 80519,
+          "listed_count": 12,
+          "media_count": 825,
+          "tweet_count": 12203
+        },
+        "username": "Cheshire_kwine",
+        "verified": false
+      }
+    ]
+  }
+}

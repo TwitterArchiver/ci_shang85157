@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1928451811221922008",
+    "created_at": "2025-05-30T15:15:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-30T16:15:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928470240629006732"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1899591811859197952",
+          "start": 0,
+          "username": "kissme_catt"
+        },
+        {
+          "end": 22,
+          "id": "1864946257481158656",
+          "start": 13,
+          "username": "Ash1nzou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928470240629006732",
+    "in_reply_to_user_id": "1899591811859197952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928468434666303948",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kissme_catt @Ash1nzou 有点过于残暴了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1928451811221922008",
+        "created_at": "2025-05-30T15:15:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-30T16:15:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928470240629006732"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1899591811859197952",
+              "start": 0,
+              "username": "kissme_catt"
+            },
+            {
+              "end": 22,
+              "id": "1864946257481158656",
+              "start": 13,
+              "username": "Ash1nzou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928470240629006732",
+        "in_reply_to_user_id": "1899591811859197952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928468434666303948",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kissme_catt @Ash1nzou 有点过于残暴了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1899591811859197952",
+        "conversation_id": "1928451811221922008",
+        "created_at": "2025-05-30T15:07:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-30T16:07:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928468434666303948"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1864946257481158656",
+              "start": 0,
+              "username": "Ash1nzou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928468434666303948",
+        "in_reply_to_user_id": "1864946257481158656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928467851511558502",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ash1nzou 他俩配吗 丽丽要🚪我就砍死他。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲，生理性别男，请不要私信给我发那种奇怪的东西了\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 74,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 609,
+          "following_count": 534,
+          "like_count": 10937,
+          "listed_count": 2,
+          "media_count": 173,
+          "tweet_count": 4533
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-11T22:42:46.000Z",
+        "description": "🦋infp｜低于14.8cm包皮过长不许发屌｜听到任何关于我的瓜请先来问我！！！！！｜尊师 @4rocky9",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 46,
+                "username": "4rocky9"
+              }
+            ]
+          }
+        },
+        "id": "1899591811859197952",
+        "name": "放屁像炸弹",
+        "pinned_tweet_id": "1927269242145038609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923280881638309890/OA9APaco_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2293,
+          "following_count": 162,
+          "like_count": 5363,
+          "listed_count": 3,
+          "media_count": 117,
+          "tweet_count": 3111
+        },
+        "username": "kissme_catt",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-06T08:13:43.000Z",
+        "description": "/恶人脸/虚伪肥宅/真实垃圾/精神病患/社会边缘人士/ 可接投稿",
+        "id": "1864946257481158656",
+        "name": "饮冰的刃",
+        "pinned_tweet_id": "1925227063121940981",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864946632820953092/_edfRZMJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 20,
+          "like_count": 314,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 627
+        },
+        "username": "Ash1nzou",
+        "verified": false
+      }
+    ]
+  }
+}

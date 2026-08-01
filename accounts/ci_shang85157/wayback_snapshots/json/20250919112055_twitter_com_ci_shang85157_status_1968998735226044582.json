@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1968842825509855450",
+    "created_at": "2025-09-19T11:20:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-19T12:20:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968998735226044582"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1813786364930064384",
+          "start": 0,
+          "username": "zhngxny48875771"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968998735226044582",
+    "in_reply_to_user_id": "1813786364930064384",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968842825509855450",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhngxny48875771 蛙趣"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2520,
+        "height": 1272,
+        "media_key": "13_1968842728181215232",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1968842728181215232/img/9OIE9nnmeJJMmbyq.jpg",
+        "public_metrics": {
+          "view_count": 110
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1968842728181215232/vid/avc1/320x564/u88YwNF28mjuJYFm.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1968842728181215232/vid/avc1/480x848/7yGUQrnvokAZk3fB.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1968842728181215232/vid/avc1/720x1272/hrdP2ddSkNKd4Qch.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1968842728181215232/pl/Lk-S4I0xH-sTe0iM.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1968842825509855450",
+        "created_at": "2025-09-19T11:20:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T12:20:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968998735226044582"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1813786364930064384",
+              "start": 0,
+              "username": "zhngxny48875771"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968998735226044582",
+        "in_reply_to_user_id": "1813786364930064384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968842825509855450",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhngxny48875771 蛙趣"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1968842728181215232"
+          ]
+        },
+        "author_id": "1813786364930064384",
+        "conversation_id": "1968842825509855450",
+        "created_at": "2025-09-19T01:01:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T02:01:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968842825509855450"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iSTfMN9lxZ",
+              "end": 23,
+              "expanded_url": "https://x.com/zhngxny48875771/status/1968842825509855450/video/1",
+              "media_key": "13_1968842728181215232",
+              "start": 0,
+              "url": "https://t.co/iSTfMN9lxZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968842825509855450",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 359,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/iSTfMN9lxZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧   小男友@pertx114514\n星努@wuyan_sleeeepy还有穹璃\n互fo可以私信我交朋友什么的 反正我还挺闲 然后就是没有然后了 一切都是最好的安排",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 27,
+                "username": "pertx114514"
+              },
+              {
+                "end": 57,
+                "start": 42,
+                "username": "wuyan_sleeeepy"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉方",
+        "pinned_tweet_id": "1932824152811188484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 792,
+          "following_count": 624,
+          "like_count": 15269,
+          "listed_count": 3,
+          "media_count": 183,
+          "tweet_count": 6061
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-18T04:02:31.000Z",
+        "description": "我是一只精神病小猫女孩呼吸",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nzl.com",
+                "end": 23,
+                "expanded_url": "http://nzl.com",
+                "start": 0,
+                "url": "https://t.co/sHwAlSJT0v"
+              }
+            ]
+          }
+        },
+        "id": "1813786364930064384",
+        "location": "泰拉大陸",
+        "name": "猫呼吸",
+        "pinned_tweet_id": "1962487270977736933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954909787281596416/SLouJirq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 761,
+          "following_count": 146,
+          "like_count": 9208,
+          "listed_count": 2,
+          "media_count": 257,
+          "tweet_count": 806
+        },
+        "url": "https://t.co/sHwAlSJT0v",
+        "username": "zhngxny48875771",
+        "verified": false
+      }
+    ]
+  }
+}

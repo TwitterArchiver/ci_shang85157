@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1960346173438636211",
+    "created_at": "2025-08-26T14:24:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-26T15:24:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960347609023004927"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1705262200036925440",
+          "start": 0,
+          "username": "xinjie87288"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960347609023004927",
+    "in_reply_to_user_id": "1705262200036925440",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960346173438636211",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xinjie87288 hhh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1538,
+        "media_key": "3_1960346139548688384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzSMbXSboAA9vrd.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1739,
+        "media_key": "3_1960346150923575297",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzSMcBqaoAEWYeS.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1538,
+        "media_key": "3_1960346163141595137",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzSMcvLa0AEf8Xa.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1960346173438636211",
+        "created_at": "2025-08-26T14:24:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T15:24:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960347609023004927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1705262200036925440",
+              "start": 0,
+              "username": "xinjie87288"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960347609023004927",
+        "in_reply_to_user_id": "1705262200036925440",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960346173438636211",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinjie87288 hhh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960346139548688384",
+            "3_1960346150923575297",
+            "3_1960346163141595137"
+          ]
+        },
+        "author_id": "1705262200036925440",
+        "conversation_id": "1960346173438636211",
+        "created_at": "2025-08-26T14:18:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T15:18:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960346173438636211"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1BRF3NjF8n",
+              "end": 49,
+              "expanded_url": "https://x.com/xinjie87288/status/1960346173438636211/photo/1",
+              "media_key": "3_1960346139548688384",
+              "start": 26,
+              "url": "https://t.co/1BRF3NjF8n"
+            },
+            {
+              "display_url": "pic.x.com/1BRF3NjF8n",
+              "end": 49,
+              "expanded_url": "https://x.com/xinjie87288/status/1960346173438636211/photo/1",
+              "media_key": "3_1960346150923575297",
+              "start": 26,
+              "url": "https://t.co/1BRF3NjF8n"
+            },
+            {
+              "display_url": "pic.x.com/1BRF3NjF8n",
+              "end": 49,
+              "expanded_url": "https://x.com/xinjie87288/status/1960346173438636211/photo/1",
+              "media_key": "3_1960346163141595137",
+              "start": 26,
+              "url": "https://t.co/1BRF3NjF8n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960346173438636211",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "⊙∀⊙！，原来已经170天了，现在手感超棒的🥺🥺🥺 https://t.co/1BRF3NjF8n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像失去了一条时间线，算了，我们从来吧",
+        "id": "1826281483675299840",
+        "name": "泉方",
+        "pinned_tweet_id": "1932824152811188484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 730,
+          "following_count": 574,
+          "like_count": 13479,
+          "listed_count": 3,
+          "media_count": 164,
+          "tweet_count": 5469
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-22T16:46:18.000Z",
+        "description": "现在大二，无证含糖，要当小药娘了25年3月9号开始吃的色，20号开始吃的补记录一下身体的变化，不定期上线",
+        "id": "1705262200036925440",
+        "name": "心劫🏳‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864526109850914822/92ZGss9i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 737,
+          "like_count": 197,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 207
+        },
+        "username": "xinjie87288",
+        "verified": false
+      }
+    ]
+  }
+}

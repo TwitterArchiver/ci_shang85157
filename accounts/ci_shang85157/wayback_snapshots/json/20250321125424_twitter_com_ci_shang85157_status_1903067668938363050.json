@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1903058541880971541",
+    "created_at": "2025-03-21T12:54:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-21T13:54:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903067668938363050"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1806972371607474176",
+          "start": 0,
+          "username": "Acgbaka233Ba"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903067668938363050",
+    "in_reply_to_user_id": "1806972371607474176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903058541880971541",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Acgbaka233Ba 这个跟系统有关系的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1903058537682817024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmkFqD1b0AAtBQc.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1903058541880971541",
+        "created_at": "2025-03-21T12:54:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-21T13:54:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903067668938363050"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1806972371607474176",
+              "start": 0,
+              "username": "Acgbaka233Ba"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903067668938363050",
+        "in_reply_to_user_id": "1806972371607474176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903058541880971541",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Acgbaka233Ba 这个跟系统有关系的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1903058537682817024"
+          ]
+        },
+        "author_id": "1806972371607474176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "1903058541880971541",
+        "created_at": "2025-03-21T12:18:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-21T13:18:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1903058541880971541"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VwQIMZ6QGx",
+              "end": 48,
+              "expanded_url": "https://x.com/Acgbaka233Ba/status/1903058541880971541/photo/1",
+              "media_key": "3_1903058537682817024",
+              "start": 25,
+              "url": "https://t.co/VwQIMZ6QGx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903058541880971541",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 107,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "16年的老古董s7e都有。华为是系统直接没法显示 https://t.co/VwQIMZ6QGx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 297,
+          "following_count": 308,
+          "like_count": 4226,
+          "listed_count": 1,
+          "media_count": 77,
+          "tweet_count": 1904
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T08:46:10.000Z",
+        "description": "在网络的海洋里游啊,超级笨蛋，我说我是10后信不信（10/06/15），必回关！想交朋友QAQ！辽宁海城人‖INFP‖可Q，想聊天！有偏执，容易怀疑别人『望涨fo』 |||提问我：https://t.co/HvlLXADoLR ||| 好朋友太多了都没办法放上去捏（无证含糖🍥）HRT:2025/3/19友跨？",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qiongli",
+                "end": 113,
+                "expanded_url": "https://ngl.link/qiongli",
+                "start": 90,
+                "url": "https://t.co/HvlLXADoLR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/KXqU7o2",
+                "end": 23,
+                "expanded_url": "https://b23.tv/KXqU7o2",
+                "start": 0,
+                "url": "https://t.co/LvjOLcq4lX"
+              }
+            ]
+          }
+        },
+        "id": "1806972371607474176",
+        "location": "fufu头头上",
+        "name": "穹璃_official₍˄·͈༝·͈˄*₎◞ ̑̑🍥🏳‍⚧",
+        "pinned_tweet_id": "1895444010946441402",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887445713812135936/7pACnNNo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 447,
+          "following_count": 524,
+          "like_count": 3514,
+          "listed_count": 2,
+          "media_count": 91,
+          "tweet_count": 1149
+        },
+        "url": "https://t.co/LvjOLcq4lX",
+        "username": "Acgbaka233Ba",
+        "verified": false
+      }
+    ]
+  }
+}

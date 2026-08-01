@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1959946617001595285",
+    "created_at": "2025-08-26T05:44:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-26T06:44:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960216699367493847"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1737053348740603904",
+          "start": 0,
+          "username": "shiroko2024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960216699367493847",
+    "in_reply_to_user_id": "1737053348740603904",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959946617001595285",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shiroko2024 跑步怎么瘦腿"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1959946613637734400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzMhD5SbYAADl8V.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1959946617001595285",
+        "created_at": "2025-08-26T05:44:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T06:44:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960216699367493847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1737053348740603904",
+              "start": 0,
+              "username": "shiroko2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960216699367493847",
+        "in_reply_to_user_id": "1737053348740603904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959946617001595285",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiroko2024 跑步怎么瘦腿"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1959946613637734400"
+          ]
+        },
+        "author_id": "1737053348740603904",
+        "conversation_id": "1959946617001595285",
+        "created_at": "2025-08-25T11:51:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T12:51:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959946617001595285"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1NgY1c6EcZ",
+              "end": 28,
+              "expanded_url": "https://x.com/shiroko2024/status/1959946617001595285/photo/1",
+              "media_key": "3_1959946613637734400",
+              "start": 5,
+              "url": "https://t.co/1NgY1c6EcZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959946617001595285",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 5740,
+          "like_count": 158,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "多运动好 https://t.co/1NgY1c6EcZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像失去了一条时间线，算了，我们从来吧",
+        "id": "1826281483675299840",
+        "name": "泉方",
+        "pinned_tweet_id": "1932824152811188484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 725,
+          "following_count": 572,
+          "like_count": 13428,
+          "listed_count": 3,
+          "media_count": 164,
+          "tweet_count": 5451
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-19T10:13:24.000Z",
+        "description": "白子单推人！！！\n妈妈 @kurioshifio | 好朋友 @GlimpseAbys | 爱你 @squirrelGUW | 私信48小时没回就是不想回你",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "kurioshifio"
+              },
+              {
+                "end": 43,
+                "start": 31,
+                "username": "GlimpseAbys"
+              },
+              {
+                "end": 61,
+                "start": 49,
+                "username": "squirrelGUW"
+              }
+            ]
+          }
+        },
+        "id": "1737053348740603904",
+        "location": "阿拜多斯职业高中",
+        "name": "白子亲～",
+        "pinned_tweet_id": "1923031111115907115",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949494547618373632/QuIUUfPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9399,
+          "following_count": 858,
+          "like_count": 231717,
+          "listed_count": 27,
+          "media_count": 1581,
+          "tweet_count": 15516
+        },
+        "username": "shiroko2024",
+        "verified": false
+      }
+    ]
+  }
+}

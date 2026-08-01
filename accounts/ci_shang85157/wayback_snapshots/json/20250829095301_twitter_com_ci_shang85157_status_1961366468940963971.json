@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1961351654512427397",
+    "created_at": "2025-08-29T09:53:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-29T10:53:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961366468940963971"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1489584031402504195",
+          "start": 0,
+          "username": "xxxtentaxoo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961366468940963971",
+    "in_reply_to_user_id": "1489584031402504195",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961364572150829218",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxxtentaxoo 那好吧，一路顺风啊bb"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1961351654512427397",
+        "created_at": "2025-08-29T09:53:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T10:53:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961366468940963971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1489584031402504195",
+              "start": 0,
+              "username": "xxxtentaxoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961366468940963971",
+        "in_reply_to_user_id": "1489584031402504195",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961364572150829218",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxxtentaxoo 那好吧，一路顺风啊bb"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1489584031402504195",
+        "conversation_id": "1961351654512427397",
+        "created_at": "2025-08-29T09:45:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T10:45:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961364572150829218"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1826281483675299840",
+              "start": 0,
+              "username": "ci_shang85157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961364572150829218",
+        "in_reply_to_user_id": "1826281483675299840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961355068726276165",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ci_shang85157 素"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧   小男友@pertx114514",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 27,
+                "username": "pertx114514"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉方",
+        "pinned_tweet_id": "1932824152811188484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 738,
+          "following_count": 570,
+          "like_count": 13636,
+          "listed_count": 3,
+          "media_count": 165,
+          "tweet_count": 5512
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-04T12:58:11.000Z",
+        "description": "废话×碎碎念",
+        "id": "1489584031402504195",
+        "location": "你的心里",
+        "name": "一条魚",
+        "pinned_tweet_id": "1959561331738333483",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1545396097597579264/poeOpbT2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 146,
+          "like_count": 1678,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 790
+        },
+        "username": "xxxtentaxoo",
+        "verified": false
+      }
+    ]
+  }
+}

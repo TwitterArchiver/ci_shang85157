@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1980136854977700310",
+    "created_at": "2025-10-20T06:31:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T07:31:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980159842842182001"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1642717433323745281",
+          "start": 0,
+          "username": "MozaikRR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980159842842182001",
+    "in_reply_to_user_id": "1642717433323745281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980136854977700310",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MozaikRR 我去你早说你这么萌啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1980136846119059456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3rb-GeWwAARXUQ.jpg",
+        "width": 1366
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1980136844583948288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3rb-AwW0AALx0U.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1980136844638461952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3rb-A9WoAAf7OV.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1980136844613316608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3rb-A3W8AAw08R.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1980136854977700310",
+        "created_at": "2025-10-20T06:31:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T07:31:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980159842842182001"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1642717433323745281",
+              "start": 0,
+              "username": "MozaikRR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980159842842182001",
+        "in_reply_to_user_id": "1642717433323745281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980136854977700310",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MozaikRR 我去你早说你这么萌啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980136846119059456",
+            "3_1980136844583948288",
+            "3_1980136844638461952",
+            "3_1980136844613316608"
+          ]
+        },
+        "author_id": "1642717433323745281",
+        "conversation_id": "1980136854977700310",
+        "created_at": "2025-10-20T04:59:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T05:59:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980136854977700310"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xdazIFcRtr",
+              "end": 32,
+              "expanded_url": "https://x.com/MozaikRR/status/1980136854977700310/photo/1",
+              "media_key": "3_1980136846119059456",
+              "start": 9,
+              "url": "https://t.co/xdazIFcRtr"
+            },
+            {
+              "display_url": "pic.x.com/xdazIFcRtr",
+              "end": 32,
+              "expanded_url": "https://x.com/MozaikRR/status/1980136854977700310/photo/1",
+              "media_key": "3_1980136844583948288",
+              "start": 9,
+              "url": "https://t.co/xdazIFcRtr"
+            },
+            {
+              "display_url": "pic.x.com/xdazIFcRtr",
+              "end": 32,
+              "expanded_url": "https://x.com/MozaikRR/status/1980136854977700310/photo/1",
+              "media_key": "3_1980136844638461952",
+              "start": 9,
+              "url": "https://t.co/xdazIFcRtr"
+            },
+            {
+              "display_url": "pic.x.com/xdazIFcRtr",
+              "end": 32,
+              "expanded_url": "https://x.com/MozaikRR/status/1980136854977700310/photo/1",
+              "media_key": "3_1980136844613316608",
+              "start": 9,
+              "url": "https://t.co/xdazIFcRtr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980136854977700310",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 487,
+          "like_count": 16,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "发两张脸依旧高p https://t.co/xdazIFcRtr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧 小男友@pertx114514  结义兄弟@wuyan_sleeeepy还有穹璃 互fo可以私信我交朋友什么的 反正我还挺闲 然后就是没有然后了 一切都是最好的安排https://t.co/ILEWFdOQz0。 ngl匿名问答",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "pertx114514"
+              },
+              {
+                "end": 58,
+                "start": 43,
+                "username": "wuyan_sleeeepy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%8950122",
+                "end": 127,
+                "expanded_url": "https://ngl.link/%E6%B3%8950122",
+                "start": 104,
+                "url": "https://t.co/ILEWFdOQz0"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉",
+        "pinned_tweet_id": "1970427616353296660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978274114138996736/r_khhgIT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 829,
+          "following_count": 671,
+          "like_count": 17676,
+          "listed_count": 2,
+          "media_count": 202,
+          "tweet_count": 6695
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-03T02:35:38.000Z",
+        "description": "舞萌舞萌舞萌舞萌舞萌 中二中二中二中二中二 音击音击音击音击音击 烤烤烤烤烤 d5jd5jd5jd5jd5j",
+        "id": "1642717433323745281",
+        "name": "+°♡求愛性少女症候群♡°+",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980138187793043456/awTN5IqG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 905,
+          "following_count": 330,
+          "like_count": 199,
+          "listed_count": 4,
+          "media_count": 42,
+          "tweet_count": 314
+        },
+        "username": "MozaikRR",
+        "verified": false
+      }
+    ]
+  }
+}

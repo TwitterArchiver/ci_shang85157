@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "2030058829963268448",
+    "created_at": "2026-03-07T05:30:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T06:30:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030154052336767244"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2029192138315972608",
+          "start": 0,
+          "username": "Ayanam1z1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030154052336767244",
+    "in_reply_to_user_id": "2029192138315972608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030058829963268448",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ayanam1z1 咋办"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "2030058829963268448",
+        "created_at": "2026-03-07T05:30:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T06:30:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030154052336767244"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2029192138315972608",
+              "start": 0,
+              "username": "Ayanam1z1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030154052336767244",
+        "in_reply_to_user_id": "2029192138315972608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030058829963268448",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ayanam1z1 咋办"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029192138315972608",
+        "conversation_id": "2030058829963268448",
+        "created_at": "2026-03-06T23:11:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T00:11:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030058829963268448"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2030058829963268448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "活着一点都不幸福，好难受。又想死了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧 https://t.co/ILEWFdOQz0。 ngl匿名问答 想交朋友或者互fo尽管私信我 每个人都会回",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%8950122",
+                "end": 45,
+                "expanded_url": "https://ngl.link/%E6%B3%8950122",
+                "start": 22,
+                "url": "https://t.co/ILEWFdOQz0"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "永雏泉",
+        "pinned_tweet_id": "2020083398971388378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978274114138996736/r_khhgIT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1094,
+          "following_count": 702,
+          "like_count": 21738,
+          "listed_count": 2,
+          "media_count": 250,
+          "tweet_count": 7965
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-04T13:48:54.000Z",
+        "description": "无言直fo爱好者｜互fo欢迎｜玩推只为交朋友",
+        "id": "2029192138315972608",
+        "name": "洋鸟消夏录",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029206728626319360/HpNDHCes_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 88,
+          "like_count": 150,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 68
+        },
+        "username": "Ayanam1z1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1870675529147338752"
+      ]
+    },
+    "author_id": "1826281483675299840",
+    "conversation_id": "1870495303092326746",
+    "created_at": "2024-12-22T03:39:39.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-22T04:39:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1870675543320142072"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1680834021377593344",
+          "start": 0,
+          "username": "baizhou_kawaii"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KZwPywhdyy",
+          "end": 54,
+          "expanded_url": "https://x.com/ci_shang85157/status/1870675543320142072/photo/1",
+          "media_key": "3_1870675529147338752",
+          "start": 31,
+          "url": "https://t.co/KZwPywhdyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1870675543320142072",
+    "in_reply_to_user_id": "1680834021377593344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1870495303092326746",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baizhou_kawaii 太民主了，给你李币，鬼图打码 https://t.co/KZwPywhdyy"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1870675543320142072].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1870675543320142072",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1870675543320142072"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 806,
+        "media_key": "3_1870675529147338752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GfX5e4TX0AAdBcM.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1870495260079742976"
+          ]
+        },
+        "author_id": "1680834021377593344",
+        "conversation_id": "1870495303092326746",
+        "created_at": "2024-12-21T15:43:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-21T16:43:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1870495303092326746"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qu5a1YmAMq",
+              "end": 34,
+              "expanded_url": "https://x.com/baizhou_kawaii/status/1870495303092326746/photo/1",
+              "media_key": "3_1870495260079742976",
+              "start": 11,
+              "url": "https://t.co/qu5a1YmAMq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1870495303092326746",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 10318,
+          "like_count": 127,
+          "quote_count": 2,
+          "reply_count": 11,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "发这图我见一个b一个 https://t.co/qu5a1YmAMq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，有兴趣就可以一起玩",
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844188914451365901/gNnOT4GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 270,
+          "like_count": 1318,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 508
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-17T06:57:26.000Z",
+        "description": "这里是白粥|怎么称呼都可以哦\n|ヨルシカ|牡丹は散っても花だ 夏が去っても追慕は\n|很重要的人🥰\n@Sus1e_Glitter\n@susiethegamer\n@kagurazakaSusie\n@KeihinTohoku_JR\n@Tokyu_Toyok0\n@kyoto_kar4suma\n@JR_yamanoteE235",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 49,
+                "username": "Sus1e_Glitter"
+              },
+              {
+                "end": 78,
+                "start": 64,
+                "username": "susiethegamer"
+              },
+              {
+                "end": 95,
+                "start": 79,
+                "username": "kagurazakaSusie"
+              },
+              {
+                "end": 112,
+                "start": 96,
+                "username": "KeihinTohoku_JR"
+              },
+              {
+                "end": 126,
+                "start": 113,
+                "username": "Tokyu_Toyok0"
+              },
+              {
+                "end": 142,
+                "start": 127,
+                "username": "kyoto_kar4suma"
+              },
+              {
+                "end": 159,
+                "start": 143,
+                "username": "JR_yamanoteE235"
+              }
+            ]
+          }
+        },
+        "id": "1680834021377593344",
+        "location": "距离你2.9km",
+        "name": "总有几个傻逼天天发那张李颖币图，见一个拉黑一个，真的烦，想发的提前把我拉黑，谁也看不到谁，这样最好。",
+        "pinned_tweet_id": "1865673360228938229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864989788589428737/ZJhH8lZW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1553,
+          "following_count": 913,
+          "like_count": 50439,
+          "listed_count": 8,
+          "media_count": 3226,
+          "tweet_count": 18053
+        },
+        "username": "baizhou_kawaii",
+        "verified": false
+      }
+    ]
+  }
+}

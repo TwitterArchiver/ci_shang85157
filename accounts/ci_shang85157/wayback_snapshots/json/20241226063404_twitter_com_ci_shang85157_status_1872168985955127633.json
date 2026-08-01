@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1871915967917469854",
+    "created_at": "2024-12-26T06:34:04.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-26T07:34:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1872168985955127633"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "702827952803680256",
+          "start": 0,
+          "username": "allvulples"
+        },
+        {
+          "end": 25,
+          "id": "1527743101242064896",
+          "start": 12,
+          "username": "MaimaiLee123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1872168985955127633",
+    "in_reply_to_user_id": "702827952803680256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872168159714938896",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@allvulples @MaimaiLee123 我肯定要自己决定，但是我想要知道什么是对的什么是错误的，肯定想往好的方向发展的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1871915967917469854",
+        "created_at": "2024-12-26T06:34:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-26T07:34:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872168985955127633"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "702827952803680256",
+              "start": 0,
+              "username": "allvulples"
+            },
+            {
+              "end": 25,
+              "id": "1527743101242064896",
+              "start": 12,
+              "username": "MaimaiLee123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872168985955127633",
+        "in_reply_to_user_id": "702827952803680256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872168159714938896",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@allvulples @MaimaiLee123 我肯定要自己决定，但是我想要知道什么是对的什么是错误的，肯定想往好的方向发展的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "702827952803680256",
+        "conversation_id": "1871915967917469854",
+        "created_at": "2024-12-26T06:30:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-26T07:30:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872168159714938896"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1826281483675299840",
+              "start": 0,
+              "username": "ci_shang85157"
+            },
+            {
+              "end": 28,
+              "id": "1527743101242064896",
+              "start": 15,
+              "username": "MaimaiLee123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872168159714938896",
+        "in_reply_to_user_id": "1826281483675299840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872167775139181042",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ci_shang85157 @MaimaiLee123 你生命只有一次，你不能自己決定嗎？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，有兴趣就可以一起玩",
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844188914451365901/gNnOT4GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 284,
+          "like_count": 1459,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 598
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2016-02-25T12:10:16.000Z",
+        "description": "BIG BANG BAD BOYS AND GIRLS.",
+        "id": "702827952803680256",
+        "location": "Hong Kong",
+        "name": "Demonkeyse Manell",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851675836552003584/P9GHvu4w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 1533,
+          "like_count": 12304,
+          "listed_count": 4,
+          "media_count": 128,
+          "tweet_count": 15748
+        },
+        "username": "allvulples",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-20T20:08:57.000Z",
+        "description": "人只有醒来才知道自己睡了一觉\n\n｜ INTJ ｜感谢follow ｜\n电报   https://t.co/qYINMLQgVt \n自留地  https://t.co/WQYgnkH9Ew",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/maimaitalk",
+                "end": 63,
+                "expanded_url": "https://t.me/maimaitalk",
+                "start": 40,
+                "url": "https://t.co/qYINMLQgVt"
+              },
+              {
+                "display_url": "imleemaimai.com",
+                "end": 93,
+                "expanded_url": "http://imleemaimai.com",
+                "start": 70,
+                "url": "https://t.co/WQYgnkH9Ew"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@lim0102",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@lim0102",
+                "start": 0,
+                "url": "https://t.co/TnPIUW2gMT"
+              }
+            ]
+          }
+        },
+        "id": "1527743101242064896",
+        "location": "IP属地:由于相关法律法规及政策,该地址不予显示",
+        "name": "李麦麦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7529,
+          "following_count": 1343,
+          "like_count": 16231,
+          "listed_count": 33,
+          "media_count": 1001,
+          "tweet_count": 4494
+        },
+        "url": "https://t.co/TnPIUW2gMT",
+        "username": "MaimaiLee123",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1896947380773392525",
+    "created_at": "2025-03-06T10:52:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-06T11:52:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897601261484306672"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1752134204240830464",
+          "start": 0,
+          "username": "klink3022423208"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897601261484306672",
+    "in_reply_to_user_id": "1752134204240830464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896947380773392525",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@klink3022423208 非常理解你，我也有这样过"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1896947380773392525",
+        "created_at": "2025-03-06T10:52:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-06T11:52:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897601261484306672"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1752134204240830464",
+              "start": 0,
+              "username": "klink3022423208"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897601261484306672",
+        "in_reply_to_user_id": "1752134204240830464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896947380773392525",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@klink3022423208 非常理解你，我也有这样过"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752134204240830464",
+        "conversation_id": "1896947380773392525",
+        "created_at": "2025-03-04T15:34:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-04T16:34:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896947380773392525"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1896947380773392525",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 443,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我最终还是把自己喜欢的人删掉了\n是同班的一位喜欢了很久的女孩子.\n对方对我没意思，我却一直内耗和抱有期待\n为了早日终结这种痛苦，我还是这样做了\n\n又一次这样了..又一次，像轮回一样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844188914451365901/gNnOT4GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 306,
+          "like_count": 3059,
+          "listed_count": 1,
+          "media_count": 62,
+          "tweet_count": 1417
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-30T00:58:48.000Z",
+        "description": "在这里写一些关于我自己的小东西",
+        "id": "1752134204240830464",
+        "name": "卡莲卡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1752376673331236864/DmyjclOn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 48,
+          "like_count": 3269,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 309
+        },
+        "username": "klink3022423208",
+        "verified": false
+      }
+    ]
+  }
+}

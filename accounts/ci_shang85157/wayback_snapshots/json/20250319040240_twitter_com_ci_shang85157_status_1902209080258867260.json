@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1902040168892395725",
+    "created_at": "2025-03-19T04:02:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-19T05:02:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1902209080258867260"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 14,
+          "normalized_text": "建政",
+          "probability": 0.758,
+          "start": 13,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1544202883263971329",
+          "start": 0,
+          "username": "dai54717034"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902209080258867260",
+    "in_reply_to_user_id": "1544202883263971329",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902040168892395725",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dai54717034 建政"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1902040158654099459",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmVncmUa8AMWZU2.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1902040168892395725",
+        "created_at": "2025-03-19T04:02:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-19T05:02:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902209080258867260"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 14,
+              "normalized_text": "建政",
+              "probability": 0.758,
+              "start": 13,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1544202883263971329",
+              "start": 0,
+              "username": "dai54717034"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902209080258867260",
+        "in_reply_to_user_id": "1544202883263971329",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902040168892395725",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dai54717034 建政"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1902040158654099459"
+          ]
+        },
+        "author_id": "1544202883263971329",
+        "conversation_id": "1902040168892395725",
+        "created_at": "2025-03-18T16:51:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-18T17:51:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1902040168892395725"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NS6x2Ld7Tz",
+              "end": 28,
+              "expanded_url": "https://x.com/dai54717034/status/1902040168892395725/photo/1",
+              "media_key": "3_1902040158654099459",
+              "start": 5,
+              "url": "https://t.co/NS6x2Ld7Tz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902040168892395725",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 4036,
+          "like_count": 133,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "决战时刻 https://t.co/NS6x2Ld7Tz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 308,
+          "like_count": 4094,
+          "listed_count": 1,
+          "media_count": 76,
+          "tweet_count": 1857
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-05T06:14:03.000Z",
+        "description": "雄关漫道真如铁，而今迈步从头越。",
+        "id": "1544202883263971329",
+        "location": "我们能相见的彼岸",
+        "name": "明夷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859234882494283776/NRf1wreg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4105,
+          "following_count": 2259,
+          "like_count": 10539,
+          "listed_count": 28,
+          "media_count": 1883,
+          "tweet_count": 16558
+        },
+        "username": "dai54717034",
+        "verified": false
+      }
+    ]
+  }
+}

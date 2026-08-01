@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1874812396533096807",
+    "created_at": "2025-01-03T10:11:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-03T11:11:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1875122805005836720"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1014528347999596547",
+          "start": 0,
+          "username": "shenlanss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1875122805005836720",
+    "in_reply_to_user_id": "1014528347999596547",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1875054739974652297",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shenlanss 怎么催眠我想试试"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1874812396533096807",
+        "created_at": "2025-01-03T10:11:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-03T11:11:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875122805005836720"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1014528347999596547",
+              "start": 0,
+              "username": "shenlanss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875122805005836720",
+        "in_reply_to_user_id": "1014528347999596547",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875054739974652297",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shenlanss 怎么催眠我想试试"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1014528347999596547",
+        "conversation_id": "1874812396533096807",
+        "created_at": "2025-01-03T05:41:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-03T06:41:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875054739974652297"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1826281483675299840",
+              "start": 0,
+              "username": "ci_shang85157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875054739974652297",
+        "in_reply_to_user_id": "1826281483675299840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875023440069181784",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ci_shang85157 哈哈哈可以什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，有兴趣就可以一起玩",
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844188914451365901/gNnOT4GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 201,
+          "like_count": 1806,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 775
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2018-07-04T15:16:21.000Z",
+        "description": "圈龄7年s dom 坐标合肥 理工类研究生/已出柜 找1m/sub qq755579201 家有可爱猫猫狗狗版",
+        "id": "1014528347999596547",
+        "location": "北京, 中华人民共和国",
+        "name": "深蓝催眠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1740445140014321664/6td6Lk-9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 786,
+          "following_count": 381,
+          "like_count": 516,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 99
+        },
+        "username": "shenlanss",
+        "verified": false
+      }
+    ]
+  }
+}

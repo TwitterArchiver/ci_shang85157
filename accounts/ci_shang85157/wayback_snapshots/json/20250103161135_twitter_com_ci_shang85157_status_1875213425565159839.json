@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1874323487026012236",
+    "created_at": "2025-01-03T16:11:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-03T17:11:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1875213425565159839"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1553199487908061184",
+          "start": 0,
+          "username": "200_3n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1875213425565159839",
+    "in_reply_to_user_id": "1553199487908061184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1874323487026012236",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@200_3n 因为我没有你的微信"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1874323487026012236",
+        "created_at": "2025-01-03T16:11:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-03T17:11:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875213425565159839"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1553199487908061184",
+              "start": 0,
+              "username": "200_3n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875213425565159839",
+        "in_reply_to_user_id": "1553199487908061184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1874323487026012236",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@200_3n 因为我没有你的微信"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1553199487908061184",
+        "conversation_id": "1874323487026012236",
+        "created_at": "2025-01-01T05:15:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-01T06:15:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1874323487026012236"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1874323487026012236",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5434,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不懂今天到目前为止微信为啥没有一个人找我😂牛逼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，有兴趣就可以一起玩",
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844188914451365901/gNnOT4GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 201,
+          "like_count": 1813,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 784
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-30T02:03:21.000Z",
+        "description": "",
+        "id": "1553199487908061184",
+        "name": "池",
+        "pinned_tweet_id": "1865774549096157514",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1553200262663139329/56X-HXiU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2727,
+          "following_count": 92,
+          "like_count": 617,
+          "listed_count": 3,
+          "media_count": 5,
+          "tweet_count": 366
+        },
+        "username": "200_3n",
+        "verified": false
+      }
+    ]
+  }
+}

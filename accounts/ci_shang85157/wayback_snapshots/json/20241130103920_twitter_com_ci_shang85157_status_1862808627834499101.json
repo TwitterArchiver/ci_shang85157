@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1862780179140976905",
+    "created_at": "2024-11-30T10:39:20.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-30T11:39:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1862808627834499101"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1856233009617526784",
+          "start": 0,
+          "username": "wngpng113167"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862808627834499101",
+    "in_reply_to_user_id": "1856233009617526784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1862780179140976905",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wngpng113167 我这里也好多这种傻逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1862780179140976905",
+        "created_at": "2024-11-30T10:39:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-30T11:39:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862808627834499101"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1856233009617526784",
+              "start": 0,
+              "username": "wngpng113167"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862808627834499101",
+        "in_reply_to_user_id": "1856233009617526784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862780179140976905",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wngpng113167 我这里也好多这种傻逼"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1862780132194197504"
+          ]
+        },
+        "author_id": "1856233009617526784",
+        "conversation_id": "1862780179140976905",
+        "created_at": "2024-11-30T08:46:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-30T09:46:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1862780179140976905"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XicHOUK5H4",
+              "end": 130,
+              "expanded_url": "https://x.com/wngpng113167/status/1862780179140976905/photo/1",
+              "media_key": "3_1862780132194197504",
+              "start": 107,
+              "url": "https://t.co/XicHOUK5H4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862780179140976905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "他妈的 有毛病 这都多少个了？？我他妈对三次元女性不感兴趣 ，像这样给我发消息 能不能给我滚远点，乖乖的滚回你的臭泥烂勾 吃你的恶心大鸡巴去吧，原你们脑子里都被狠狠的灌满蛆虫，最后他妈的被别人削掉四肢 变成人棍！ https://t.co/XicHOUK5H4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，有兴趣就可以一起玩",
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844188914451365901/gNnOT4GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 208,
+          "like_count": 839,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 164
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-12T07:10:33.000Z",
+        "description": "消灭三体暴政，世界属于男娘！\n这个世界就是个男娘",
+        "id": "1856233009617526784",
+        "name": "喜欢男娘 那就喜欢他的所有吧！",
+        "pinned_tweet_id": "1856241471197757941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856234123808968704/MMt7YI0S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 272,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 53
+        },
+        "username": "wngpng113167",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1966026069351567821",
+    "created_at": "2025-09-11T06:28:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-11T07:28:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1966026069351567821"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kasaikoxyg/sta…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/kasaikoxyg/status/1965801535058890877",
+          "start": 4,
+          "url": "https://t.co/z8rmK2ca9o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966026069351567821",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965801535058890877",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "学会了 https://t.co/z8rmK2ca9o"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 348483,
+        "height": 480,
+        "media_key": "13_1965801354338906112",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1965801354338906112/img/yw-7zglsimaC-22G.jpg",
+        "public_metrics": {
+          "view_count": 20339
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1965801354338906112/vid/avc1/476x270/6TQ1VLsnJxB-o_NZ.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1965801354338906112/vid/avc1/636x360/M0m9aitcjEZcMFpk.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1965801354338906112/vid/avc1/848x480/wJzUanCqmTRDU1VF.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1965801354338906112/pl/lPwfodYipUQ4HuR6.m3u8?v=7cb"
+          }
+        ],
+        "width": 848
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1966026069351567821",
+        "created_at": "2025-09-11T06:28:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T07:28:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966026069351567821"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kasaikoxyg/sta…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/kasaikoxyg/status/1965801535058890877",
+              "start": 4,
+              "url": "https://t.co/z8rmK2ca9o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966026069351567821",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965801535058890877",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "学会了 https://t.co/z8rmK2ca9o"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1965801354338906112"
+          ]
+        },
+        "author_id": "1943704460813041665",
+        "conversation_id": "1965801535058890877",
+        "created_at": "2025-09-10T15:36:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T16:36:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965801535058890877"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XHX94M2sm7",
+              "end": 37,
+              "expanded_url": "https://x.com/kasaikoxyg/status/1965801535058890877/video/1",
+              "media_key": "13_1965801354338906112",
+              "start": 14,
+              "url": "https://t.co/XHX94M2sm7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965801535058890877",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 356,
+          "impression_count": 36611,
+          "like_count": 641,
+          "quote_count": 9,
+          "reply_count": 12,
+          "retweet_count": 56
+        },
+        "reply_settings": "everyone",
+        "text": "很好的教学，使我的嘴巴升级 https://t.co/XHX94M2sm7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧   小男友@pertx114514\n星努@wuyan_sleeeepy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 27,
+                "username": "pertx114514"
+              },
+              {
+                "end": 57,
+                "start": 42,
+                "username": "wuyan_sleeeepy"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉方",
+        "pinned_tweet_id": "1963923748203139355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 779,
+          "following_count": 606,
+          "like_count": 14716,
+          "listed_count": 3,
+          "media_count": 178,
+          "tweet_count": 5869
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-11T16:10:40.000Z",
+        "description": "新人药娘hrt三个月，偶尔od，请多关照，没有脑子想到什么说什么",
+        "id": "1943704460813041665",
+        "name": "浅羽笠井子",
+        "pinned_tweet_id": "1948640428825231453",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943704888426582016/8p8MdfCk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 580,
+          "following_count": 523,
+          "like_count": 10493,
+          "listed_count": 2,
+          "media_count": 91,
+          "tweet_count": 3171
+        },
+        "username": "kasaikoxyg",
+        "verified": false
+      }
+    ]
+  }
+}

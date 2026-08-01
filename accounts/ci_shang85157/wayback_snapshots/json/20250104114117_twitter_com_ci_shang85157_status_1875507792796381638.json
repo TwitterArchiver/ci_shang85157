@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1875200198550712464",
+    "created_at": "2025-01-04T11:41:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-04T12:41:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1875507792796381638"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1773954885932965888",
+          "start": 0,
+          "username": "SoftCloud123456"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1875507792796381638",
+    "in_reply_to_user_id": "1773954885932965888",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1875200198550712464",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SoftCloud123456 17"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1875200198550712464",
+        "created_at": "2025-01-04T11:41:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-04T12:41:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875507792796381638"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1773954885932965888",
+              "start": 0,
+              "username": "SoftCloud123456"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875507792796381638",
+        "in_reply_to_user_id": "1773954885932965888",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875200198550712464",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SoftCloud123456 17"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1773954885932965888",
+        "conversation_id": "1875200198550712464",
+        "created_at": "2025-01-03T15:19:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-03T16:19:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1875200198550712464"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1875200198550712464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2693,
+          "like_count": 58,
+          "quote_count": 0,
+          "reply_count": 42,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们都是几岁开始玩推特的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，有兴趣就可以一起玩",
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844188914451365901/gNnOT4GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 203,
+          "like_count": 1851,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 807
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-30T06:06:33.000Z",
+        "description": "断糖友跨",
+        "id": "1773954885932965888",
+        "location": "Chine",
+        "name": "软云🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1774479389197283820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874838492246888449/5i9jTB3c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 727,
+          "following_count": 1987,
+          "like_count": 407,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 749
+        },
+        "username": "SoftCloud123456",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1914337986755629407",
+    "created_at": "2025-04-21T15:50:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-21T16:50:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914345961390064046"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1425416862276464642",
+          "start": 0,
+          "username": "MisakaMisakaxfu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914345961390064046",
+    "in_reply_to_user_id": "1425416862276464642",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914337986755629407",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MisakaMisakaxfu 这是干嘛"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1060,
+        "media_key": "3_1914337984050319361",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpEYQP9bUAEJl1H.jpg",
+        "width": 784
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1914337986755629407",
+        "created_at": "2025-04-21T15:50:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-21T16:50:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914345961390064046"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1425416862276464642",
+              "start": 0,
+              "username": "MisakaMisakaxfu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914345961390064046",
+        "in_reply_to_user_id": "1425416862276464642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914337986755629407",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MisakaMisakaxfu 这是干嘛"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1914337984050319361"
+          ]
+        },
+        "author_id": "1425416862276464642",
+        "conversation_id": "1914337986755629407",
+        "created_at": "2025-04-21T15:18:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-21T16:18:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914337986755629407"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UagwHnRUK0",
+              "end": 36,
+              "expanded_url": "https://x.com/MisakaMisakaxfu/status/1914337986755629407/photo/1",
+              "media_key": "3_1914337984050319361",
+              "start": 13,
+              "url": "https://t.co/UagwHnRUK0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914337986755629407",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "莫名其妙又要多一笔开支😭 https://t.co/UagwHnRUK0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 392,
+          "following_count": 374,
+          "like_count": 6286,
+          "listed_count": 1,
+          "media_count": 109,
+          "tweet_count": 2889
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-11T11:20:53.000Z",
+        "description": "中国人｜00后｜是学生｜INFP-T｜爱好二次元，航模，摄影，数码｜喜欢打音游，雷批，邦邦人（ガルパ），拉拉人｜🏳️‍⚧️🏳️‍🌈友好｜不建政｜｜里:@misakamisa10032",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 75,
+                "username": "misakamisa10032"
+              }
+            ]
+          }
+        },
+        "id": "1425416862276464642",
+        "location": "都市学院",
+        "name": "Misaka10526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904179123070832640/-9bTcW9j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 635,
+          "like_count": 6709,
+          "listed_count": 0,
+          "media_count": 463,
+          "tweet_count": 1803
+        },
+        "username": "MisakaMisakaxfu",
+        "verified": false
+      }
+    ]
+  }
+}

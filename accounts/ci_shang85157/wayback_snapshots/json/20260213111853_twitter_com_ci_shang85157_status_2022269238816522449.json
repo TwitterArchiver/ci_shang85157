@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "2022269238816522449",
+    "created_at": "2026-02-13T11:18:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T12:18:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022269238816522449"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2020173367773724672",
+          "start": 3,
+          "username": "fu_gc78361"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022269238816522449",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 56
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021632796998164871",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fu_gc78361: 推特其实是个社交软件不是看片软件"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "2022269238816522449",
+        "created_at": "2026-02-13T11:18:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T12:18:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022269238816522449"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2020173367773724672",
+              "start": 3,
+              "username": "fu_gc78361"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022269238816522449",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 56
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021632796998164871",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fu_gc78361: 推特其实是个社交软件不是看片软件"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020173367773724672",
+        "conversation_id": "2021632796998164871",
+        "created_at": "2026-02-11T17:09:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T18:09:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021632796998164871"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2021632796998164871",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 278192,
+          "like_count": 1624,
+          "quote_count": 12,
+          "reply_count": 582,
+          "retweet_count": 56
+        },
+        "reply_settings": "everyone",
+        "text": "推特其实是个社交软件不是看片软件"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧 https://t.co/ILEWFdOQz0。 ngl匿名问答 想交朋友或者互fo尽管私信我 每个人都会回",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%8950122",
+                "end": 45,
+                "expanded_url": "https://ngl.link/%E6%B3%8950122",
+                "start": 22,
+                "url": "https://t.co/ILEWFdOQz0"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "永雏泉",
+        "pinned_tweet_id": "2020083398971388378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978274114138996736/r_khhgIT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1103,
+          "following_count": 701,
+          "like_count": 21296,
+          "listed_count": 2,
+          "media_count": 243,
+          "tweet_count": 7803
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-07T16:30:48.000Z",
+        "description": "🚪52纯圈",
+        "id": "2020173367773724672",
+        "name": "依赖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021269041428705280/9ba-LsA__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 317,
+          "following_count": 4,
+          "like_count": 30,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 259
+        },
+        "username": "fu_gc78361",
+        "verified": false
+      }
+    ]
+  }
+}

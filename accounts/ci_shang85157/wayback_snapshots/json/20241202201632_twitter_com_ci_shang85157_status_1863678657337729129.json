@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1863376497878474835",
+    "created_at": "2024-12-02T20:16:32.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-02T21:16:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1863678657337729129"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1841626911228780545",
+          "start": 0,
+          "username": "kujou_Queen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1863678657337729129",
+    "in_reply_to_user_id": "1841626911228780545",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1863376497878474835",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kujou_Queen 先富带动后富，实现共同富裕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1863376497878474835",
+        "created_at": "2024-12-02T20:16:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-02T21:16:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863678657337729129"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1841626911228780545",
+              "start": 0,
+              "username": "kujou_Queen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863678657337729129",
+        "in_reply_to_user_id": "1841626911228780545",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863376497878474835",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kujou_Queen 先富带动后富，实现共同富裕"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1863376494921441280"
+          ]
+        },
+        "author_id": "1841626911228780545",
+        "conversation_id": "1863376497878474835",
+        "created_at": "2024-12-02T00:15:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-02T01:15:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1863376497878474835"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vOoTMx1zxJ",
+              "end": 29,
+              "expanded_url": "https://x.com/kujou_Queen/status/1863376497878474835/photo/1",
+              "media_key": "3_1863376494921441280",
+              "start": 6,
+              "url": "https://t.co/vOoTMx1zxJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863376497878474835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 20904,
+          "like_count": 197,
+          "quote_count": 3,
+          "reply_count": 85,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "南京大冒险 https://t.co/vOoTMx1zxJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，有兴趣就可以一起玩",
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844188914451365901/gNnOT4GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 217,
+          "like_count": 882,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 208
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-02T23:50:53.000Z",
+        "description": "我一直都是拥护共产党的啊\n巧克力形态:@Aria_kujou",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "Aria_kujou"
+              }
+            ]
+          }
+        },
+        "id": "1841626911228780545",
+        "location": "1937号猪圈1213窝",
+        "name": "🧸無敵小熊愛莉莎🍻🎌",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862034059385356288/_CaN1fl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 785,
+          "following_count": 464,
+          "like_count": 1326,
+          "listed_count": 3,
+          "media_count": 190,
+          "tweet_count": 758
+        },
+        "username": "kujou_Queen",
+        "verified": false
+      }
+    ]
+  }
+}

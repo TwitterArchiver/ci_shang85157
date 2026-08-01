@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1976007074938257408"
+      ]
+    },
+    "author_id": "1826281483675299840",
+    "conversation_id": "1976007091627106330",
+    "created_at": "2025-10-08T19:29:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-08T20:29:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1976007091627106330"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/KK25QZkqVc",
+          "end": 52,
+          "expanded_url": "https://x.com/ci_shang85157/status/1976007091627106330/photo/1",
+          "media_key": "3_1976007074938257408",
+          "start": 29,
+          "url": "https://t.co/KK25QZkqVc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976007091627106330",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "搞好了 蛮不错的 不过估计还有很多七零八碎的需要慢慢装饰 https://t.co/KK25QZkqVc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1976007074938257408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2wv9x9agAA7Uch.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976007074938257408"
+          ]
+        },
+        "author_id": "1826281483675299840",
+        "conversation_id": "1976007091627106330",
+        "created_at": "2025-10-08T19:29:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T20:29:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976007091627106330"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KK25QZkqVc",
+              "end": 52,
+              "expanded_url": "https://x.com/ci_shang85157/status/1976007091627106330/photo/1",
+              "media_key": "3_1976007074938257408",
+              "start": 29,
+              "url": "https://t.co/KK25QZkqVc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976007091627106330",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "搞好了 蛮不错的 不过估计还有很多七零八碎的需要慢慢装饰 https://t.co/KK25QZkqVc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧 小男友@pertx114514  结义兄弟@wuyan_sleeeepy还有穹璃 互fo可以私信我交朋友什么的 反正我还挺闲 然后就是没有然后了 一切都是最好的安排https://t.co/ILEWFdOQz0。 ngl匿名问答",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "pertx114514"
+              },
+              {
+                "end": 58,
+                "start": 43,
+                "username": "wuyan_sleeeepy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%8950122",
+                "end": 127,
+                "expanded_url": "https://ngl.link/%E6%B3%8950122",
+                "start": 104,
+                "url": "https://t.co/ILEWFdOQz0"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉方",
+        "pinned_tweet_id": "1970427616353296660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 817,
+          "following_count": 653,
+          "like_count": 16617,
+          "listed_count": 2,
+          "media_count": 197,
+          "tweet_count": 6493
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      }
+    ]
+  }
+}

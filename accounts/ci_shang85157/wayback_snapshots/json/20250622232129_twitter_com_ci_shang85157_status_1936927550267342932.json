@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1936527288042246636",
+    "created_at": "2025-06-22T23:21:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-23T00:21:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936927550267342932"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1499063886015725569",
+          "start": 0,
+          "username": "qingyou52867427"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936927550267342932",
+    "in_reply_to_user_id": "1499063886015725569",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936825798679499225",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qingyou52867427 确实是啊，我也觉得"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1936527288042246636",
+        "created_at": "2025-06-22T23:21:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T00:21:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936927550267342932"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1499063886015725569",
+              "start": 0,
+              "username": "qingyou52867427"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936927550267342932",
+        "in_reply_to_user_id": "1499063886015725569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936825798679499225",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingyou52867427 确实是啊，我也觉得"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499063886015725569",
+        "conversation_id": "1936527288042246636",
+        "created_at": "2025-06-22T16:37:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T17:37:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936825798679499225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1826281483675299840",
+              "start": 0,
+              "username": "ci_shang85157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936825798679499225",
+        "in_reply_to_user_id": "1826281483675299840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936527288042246636",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ci_shang85157 太方便了，试过一次精神科的安眠药，肯定不会再去吃褪黑素那些东西"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲，生理性别男，请不要私信给我发那种奇怪的东西了\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 74,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 741,
+          "following_count": 563,
+          "like_count": 13052,
+          "listed_count": 2,
+          "media_count": 199,
+          "tweet_count": 5237
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-02T16:47:45.000Z",
+        "description": "社交废物",
+        "id": "1499063886015725569",
+        "location": "幻想边缘",
+        "name": "清幽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1510712243016589320/--B4-NE1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 206,
+          "like_count": 641,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 356
+        },
+        "username": "qingyou52867427",
+        "verified": false
+      }
+    ]
+  }
+}

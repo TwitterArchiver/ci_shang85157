@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1988928823178719387",
+    "created_at": "2025-11-13T11:15:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T12:15:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1988928823178719387"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/DuoHong44622/s…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/DuoHong44622/status/1988195749499117853",
+          "start": 12,
+          "url": "https://t.co/8LEeBynNQ2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988928823178719387",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988195749499117853",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "能刷到这个我也是个傻逼 https://t.co/8LEeBynNQ2"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 27966,
+        "height": 960,
+        "media_key": "13_1988135403669647363",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1988135403669647363/img/Dj10EsKl2No3ilqm.jpg",
+        "public_metrics": {
+          "view_count": 313332
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1988135403669647363/vid/avc1/320x426/CKxow6JlnVVCYRZf.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1988135403669647363/vid/avc1/480x640/KXTmzvTXvqwfTivO.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1988135403669647363/vid/avc1/720x960/8oeiLyzGUN3o078M.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1988135403669647363/pl/0QBt_GvrwMgNIc2t.m3u8?v=b55"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1988928823178719387",
+        "created_at": "2025-11-13T11:15:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T12:15:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988928823178719387"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/DuoHong44622/s…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/DuoHong44622/status/1988195749499117853",
+              "start": 12,
+              "url": "https://t.co/8LEeBynNQ2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988928823178719387",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988195749499117853",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "能刷到这个我也是个傻逼 https://t.co/8LEeBynNQ2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1988135403669647363"
+          ]
+        },
+        "author_id": "1840220702328401922",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1988195749499117853",
+        "created_at": "2025-11-11T10:43:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T11:43:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988195749499117853"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FRV6cWFyRZ",
+              "end": 37,
+              "expanded_url": "https://x.com/DuoHong44622/status/1988195749499117853/video/1",
+              "media_key": "13_1988135403669647363",
+              "start": 14,
+              "url": "https://t.co/FRV6cWFyRZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988195749499117853",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 283,
+          "impression_count": 553908,
+          "like_count": 760,
+          "quote_count": 62,
+          "reply_count": 2088,
+          "retweet_count": 295
+        },
+        "reply_settings": "everyone",
+        "text": "中共国人日常食用的科技狠活 https://t.co/FRV6cWFyRZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧 小男友@pertx114514  结义兄弟@wuyan_sleeeepy @SoSleepy4wy还有穹璃 求求你们了找我聊天好不好https://t.co/ILEWFdOiJs。 ngl匿名问答",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "pertx114514"
+              },
+              {
+                "end": 58,
+                "start": 43,
+                "username": "wuyan_sleeeepy"
+              },
+              {
+                "end": 71,
+                "start": 59,
+                "username": "SoSleepy4wy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%8950122",
+                "end": 111,
+                "expanded_url": "https://ngl.link/%E6%B3%8950122",
+                "start": 88,
+                "url": "https://t.co/ILEWFdOiJs"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉",
+        "pinned_tweet_id": "1970427616353296660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978274114138996736/r_khhgIT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 828,
+          "following_count": 650,
+          "like_count": 18312,
+          "listed_count": 2,
+          "media_count": 211,
+          "tweet_count": 6968
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-29T02:43:20.000Z",
+        "description": "莫攀我，攀我太心偏。我是曲江临池柳，者人折了那人攀，恩爱一时间。\n投稿邮箱：duohongfang@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@Eyes010",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@Eyes010",
+                "start": 0,
+                "url": "https://t.co/N5CORw68N2"
+              }
+            ]
+          }
+        },
+        "id": "1840220702328401922",
+        "name": "所谓伊人 在水一方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892096852637646851/ZFlxxhMj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20310,
+          "following_count": 7237,
+          "like_count": 30899,
+          "listed_count": 70,
+          "media_count": 5505,
+          "tweet_count": 21881
+        },
+        "url": "https://t.co/N5CORw68N2",
+        "username": "DuoHong44622",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1875544102831583626",
+    "created_at": "2025-01-04T15:01:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-04T16:01:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1875558260239167817"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1484582068663521281",
+          "start": 0,
+          "username": "data_syuxchu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1875558260239167817",
+    "in_reply_to_user_id": "1484582068663521281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1875544102831583626",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@data_syuxchu 怎么有双面龟"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1875544102831583626",
+        "created_at": "2025-01-04T15:01:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-04T16:01:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875558260239167817"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1484582068663521281",
+              "start": 0,
+              "username": "data_syuxchu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875558260239167817",
+        "in_reply_to_user_id": "1484582068663521281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875544102831583626",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@data_syuxchu 怎么有双面龟"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1484582068663521281",
+        "conversation_id": "1875544102831583626",
+        "created_at": "2025-01-04T14:05:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-04T15:05:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875544102831583626"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "莠ﾋ卆髮? 闊溯亜‼️’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1MYxN…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1MYxNMndwrbJw",
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 进来陪主播睡觉",
+              "unwound_url": "https://twitter.com/i/spaces/1MYxNMndwrbJw/peek",
+              "url": "https://t.co/A6bXW3Amjo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875544102831583626",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 186,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/A6bXW3Amjo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，有兴趣就可以一起玩",
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844188914451365901/gNnOT4GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 207,
+          "like_count": 1882,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 829
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-21T17:42:21.000Z",
+        "description": "sjk ꄗ→@syuushuu_naizou ￤爹@losb555",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 6,
+                "username": "syuushuu_naizou"
+              },
+              {
+                "end": 33,
+                "start": 25,
+                "username": "losb555"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "querie.me/user/data_syux…",
+                "end": 23,
+                "expanded_url": "https://querie.me/user/data_syuxchu",
+                "start": 0,
+                "url": "https://t.co/IQWCDzb4eb"
+              }
+            ]
+          }
+        },
+        "id": "1484582068663521281",
+        "location": "🖱",
+        "name": "莠ﾋ卆髮? 闊溯亜‼️",
+        "pinned_tweet_id": "1866480745428189464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870784925995261952/0v5Dx5Mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1193,
+          "following_count": 330,
+          "like_count": 21332,
+          "listed_count": 7,
+          "media_count": 266,
+          "tweet_count": 2216
+        },
+        "url": "https://t.co/IQWCDzb4eb",
+        "username": "data_syuxchu",
+        "verified": false
+      }
+    ]
+  }
+}

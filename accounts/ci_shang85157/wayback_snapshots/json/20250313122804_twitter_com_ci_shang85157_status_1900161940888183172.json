@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1900160747478434126",
+    "created_at": "2025-03-13T12:28:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-13T13:28:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1900161940888183172"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1562409695616241664",
+          "start": 0,
+          "username": "MIcedblacktea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900161940888183172",
+    "in_reply_to_user_id": "1562409695616241664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900160747478434126",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MIcedblacktea 我可以吗宝宝"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1900160747478434126].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1900160747478434126",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1900160747478434126"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1900160747478434126",
+        "created_at": "2025-03-13T12:28:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-13T13:28:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900161940888183172"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1562409695616241664",
+              "start": 0,
+              "username": "MIcedblacktea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900161940888183172",
+        "in_reply_to_user_id": "1562409695616241664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900160747478434126",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MIcedblacktea 我可以吗宝宝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 279,
+          "following_count": 302,
+          "like_count": 3752,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 1701
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-24T12:02:10.000Z",
+        "description": "不od了/少前/军事/死宅/游戏/历史/心理疾病/阴暗逼/已断糖/互fo 在染血的铁丝网和支离破碎的手骨上，绽放的最纯挚的白蔷薇",
+        "id": "1562409695616241664",
+        "location": "远东",
+        "name": "Misaki",
+        "pinned_tweet_id": "1891803121459904546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888754180665577472/A8N2nbto_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 480,
+          "following_count": 587,
+          "like_count": 6730,
+          "listed_count": 5,
+          "media_count": 188,
+          "tweet_count": 1887
+        },
+        "username": "MIcedblacktea",
+        "verified": false
+      }
+    ]
+  }
+}

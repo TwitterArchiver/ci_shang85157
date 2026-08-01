@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "2048115511620481295",
+    "created_at": "2026-04-26T04:30:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T05:30:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048258508039360779"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1808818325562249216",
+          "start": 0,
+          "username": "YaoYang537"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048258508039360779",
+    "in_reply_to_user_id": "1808818325562249216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048115511620481295",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YaoYang537 别这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "2048115511620481295",
+        "created_at": "2026-04-26T04:30:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T05:30:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048258508039360779"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1808818325562249216",
+              "start": 0,
+              "username": "YaoYang537"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048258508039360779",
+        "in_reply_to_user_id": "1808818325562249216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048115511620481295",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YaoYang537 别这样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1808818325562249216",
+        "conversation_id": "2048115511620481295",
+        "created_at": "2026-04-25T19:02:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T20:02:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048115511620481295"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048115511620481295",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每次共同遇到的陌生人几乎都会喜欢上我的朋友们，网络上，现实中都一样。我是一个彻头彻尾的废物，好难受啊，和谁比都比不过"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧 https://t.co/ILEWFdOQz0。 ngl匿名问答",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%8950122",
+                "end": 45,
+                "expanded_url": "https://ngl.link/%E6%B3%8950122",
+                "start": 22,
+                "url": "https://t.co/ILEWFdOQz0"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "永雏泉",
+        "pinned_tweet_id": "2034295067847147660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978274114138996736/r_khhgIT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1073,
+          "following_count": 719,
+          "like_count": 23531,
+          "listed_count": 2,
+          "media_count": 262,
+          "tweet_count": 8425
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-04T11:01:20.000Z",
+        "description": "只是一个精神病不会给任何人造成麻烦",
+        "id": "1808818325562249216",
+        "name": "美工刀分尸圣母",
+        "pinned_tweet_id": "1986438279345181142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032144623209234433/yI4H3iip_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 33,
+          "like_count": 431,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 67
+        },
+        "username": "YaoYang537",
+        "verified": false
+      }
+    ]
+  }
+}

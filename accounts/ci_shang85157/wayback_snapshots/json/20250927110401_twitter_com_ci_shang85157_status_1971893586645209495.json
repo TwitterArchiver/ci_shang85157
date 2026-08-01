@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1971893586645209495",
+    "created_at": "2025-09-27T11:04:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-27T12:04:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1971893586645209495"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mimao_miao/sta…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/mimao_miao/status/1971827684687897007",
+          "start": 21,
+          "url": "https://t.co/ZmtiKGIRp0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971893586645209495",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971827684687897007",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我不想攻略任何人 我只想和喜欢我的人聊天 https://t.co/ZmtiKGIRp0"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1971893586645209495",
+        "created_at": "2025-09-27T11:04:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T12:04:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971893586645209495"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mimao_miao/sta…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/mimao_miao/status/1971827684687897007",
+              "start": 21,
+              "url": "https://t.co/ZmtiKGIRp0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971893586645209495",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971827684687897007",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不想攻略任何人 我只想和喜欢我的人聊天 https://t.co/ZmtiKGIRp0"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1774080135173664768",
+        "conversation_id": "1971827684687897007",
+        "created_at": "2025-09-27T06:42:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T07:42:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971827684687897007"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/CCoisd/status/…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/CCoisd/status/1971779809178267853",
+              "start": 21,
+              "url": "https://t.co/sGANavBekr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971827684687897007",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 774,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971779809178267853",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不想攻略任何人 我只想和喜欢我的人聊天 https://t.co/sGANavBekr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧 小男友@pertx114514还有穹璃 互fo可以私信我交朋友什么的 反正我还挺闲 然后就是没有然后了 一切都是最好的安排https://t.co/ILEWFdOQz0。 ngl匿名问答",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "pertx114514"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%8950122",
+                "end": 106,
+                "expanded_url": "https://ngl.link/%E6%B3%8950122",
+                "start": 83,
+                "url": "https://t.co/ILEWFdOQz0"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉方",
+        "pinned_tweet_id": "1970427616353296660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 807,
+          "following_count": 646,
+          "like_count": 16062,
+          "listed_count": 2,
+          "media_count": 192,
+          "tweet_count": 6316
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-30T14:24:17.000Z",
+        "description": "1i-3i-4i丨十八岁倒计时三个月...丨纯绿聊天🚪88丨高三在读丨不回意义不明的hi丨喜欢的会回关丨骂我的一辈子都只能是穷逼丨小号 @aomiao_o 互关可以申请丨提问箱:https://t.co/xdXIdkAjQv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 68,
+                "username": "aomiao_o"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/lll99265237548…",
+                "end": 112,
+                "expanded_url": "https://ngl.link/lll9926523754861",
+                "start": 89,
+                "url": "https://t.co/xdXIdkAjQv"
+              }
+            ]
+          }
+        },
+        "id": "1774080135173664768",
+        "location": "距离你0.3km",
+        "name": "咪猫",
+        "pinned_tweet_id": "1971129858664411550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971097184310525952/en0AWnkd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2932,
+          "following_count": 324,
+          "like_count": 9254,
+          "listed_count": 1,
+          "media_count": 141,
+          "tweet_count": 3253
+        },
+        "username": "mimao_miao",
+        "verified": false
+      }
+    ]
+  }
+}

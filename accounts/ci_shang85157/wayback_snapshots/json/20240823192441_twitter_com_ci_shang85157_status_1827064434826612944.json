@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1827047229670211866",
+    "created_at": "2024-08-23T19:24:41.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-23T20:24:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1827064434826612944"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1721553666749194240",
+          "start": 0,
+          "username": "yueTvTu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1827064434826612944",
+    "in_reply_to_user_id": "1721553666749194240",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1827047229670211866",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yueTvTu 王者dd？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1827047229670211866",
+        "created_at": "2024-08-23T19:24:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-23T20:24:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1827064434826612944"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1721553666749194240",
+              "start": 0,
+              "username": "yueTvTu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1827064434826612944",
+        "in_reply_to_user_id": "1721553666749194240",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1827047229670211866",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yueTvTu 王者dd？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1827047219419033600"
+          ]
+        },
+        "author_id": "1721553666749194240",
+        "conversation_id": "1827047229670211866",
+        "created_at": "2024-08-23T18:16:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-23T19:16:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1827047229670211866"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2ah8qlklft",
+              "end": 35,
+              "expanded_url": "https://twitter.com/yueTvTu/status/1827047229670211866/photo/1",
+              "media_key": "3_1827047219419033600",
+              "start": 12,
+              "url": "https://t.co/2aH8qLkLfT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1827047229670211866",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 751,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "贤者模式扣完了 谁王者 https://t.co/2aH8qLkLfT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "",
+        "id": "1826281483675299840",
+        "name": "伤心慈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826328643179802624/ScytKW-C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 29,
+          "like_count": 45,
+          "listed_count": 0,
+          "tweet_count": 6
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-06T15:42:46.000Z",
+        "description": "反差m。没关注的不要私窝不然拉黑✈️问了不回秒拉黑，看照片点媒体，@baihuQvQ69小号点关注防走丢",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 33,
+                "username": "baihuQvQ69"
+              }
+            ]
+          }
+        },
+        "id": "1721553666749194240",
+        "location": "距离你6.4km",
+        "name": "小水悦",
+        "pinned_tweet_id": "1794753740270149772",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1721554286163922944/fKueukT2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9952,
+          "following_count": 1,
+          "like_count": 48,
+          "listed_count": 4,
+          "tweet_count": 44
+        },
+        "username": "yueTvTu",
+        "verified": false
+      }
+    ]
+  }
+}

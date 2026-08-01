@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1895775284768678210",
+    "created_at": "2025-03-01T09:57:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-01T10:57:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1895775284768678210"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/coffgod/status…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/coffgod/status/1888113673065156808",
+          "start": 5,
+          "url": "https://t.co/yHp9ds9kFv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895775284768678210",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888113673065156808",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "人之常情 https://t.co/yHp9ds9kFv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1888113670309449728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjPtYSZakAAmLsh.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1895775284768678210",
+        "created_at": "2025-03-01T09:57:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-01T10:57:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1895775284768678210"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/coffgod/status…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/coffgod/status/1888113673065156808",
+              "start": 5,
+              "url": "https://t.co/yHp9ds9kFv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895775284768678210",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888113673065156808",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "人之常情 https://t.co/yHp9ds9kFv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1888113670309449728"
+          ]
+        },
+        "author_id": "1842326777500172289",
+        "conversation_id": "1876188958692106358",
+        "created_at": "2025-02-08T06:32:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-08T07:32:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888113673065156808"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "562680597",
+              "start": 0,
+              "username": "leijun"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/T69aNPxspt",
+              "end": 46,
+              "expanded_url": "https://x.com/coffgod/status/1888113673065156808/photo/1",
+              "media_key": "3_1888113670309449728",
+              "start": 23,
+              "url": "https://t.co/T69aNPxspt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888113673065156808",
+        "in_reply_to_user_id": "562680597",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3918,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876188958692106358",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@leijun 雷总我🦌到一半结果弹个你出来 https://t.co/T69aNPxspt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲",
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844188914451365901/gNnOT4GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 270,
+          "like_count": 2584,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 1198
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-04T22:11:55.000Z",
+        "description": "",
+        "id": "1842326777500172289",
+        "name": "coffgod",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842326998942674944/VjaFoqsc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 125,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 11
+        },
+        "username": "coffgod",
+        "verified": false
+      }
+    ]
+  }
+}

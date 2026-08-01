@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1980746116141330896",
+    "created_at": "2025-10-23T13:29:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-23T14:29:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981352377711284562"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1523294065063735298",
+          "start": 0,
+          "username": "Daryl336"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981352377711284562",
+    "in_reply_to_user_id": "1523294065063735298",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980746116141330896",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Daryl336 泉此方"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1980746091243913216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G30GE1bWQAAYaX6.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1980746116141330896",
+        "created_at": "2025-10-23T13:29:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T14:29:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981352377711284562"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1523294065063735298",
+              "start": 0,
+              "username": "Daryl336"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981352377711284562",
+        "in_reply_to_user_id": "1523294065063735298",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980746116141330896",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Daryl336 泉此方"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980746091243913216"
+          ]
+        },
+        "author_id": "1523294065063735298",
+        "conversation_id": "1980746116141330896",
+        "created_at": "2025-10-21T21:20:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T22:20:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980746116141330896"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zKncCYmfJp",
+              "end": 35,
+              "expanded_url": "https://x.com/Daryl336/status/1980746116141330896/photo/1",
+              "media_key": "3_1980746091243913216",
+              "start": 12,
+              "url": "https://t.co/zKncCYmfJp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980746116141330896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 93,
+          "impression_count": 132471,
+          "like_count": 694,
+          "quote_count": 29,
+          "reply_count": 255,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "谁才能撑起整个蓝毛界？ https://t.co/zKncCYmfJp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧 小男友@pertx114514  结义兄弟@wuyan_sleeeepy还有穹璃 求求你们了找我聊天好不好https://t.co/ILEWFdOiJs。 ngl匿名问答",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "pertx114514"
+              },
+              {
+                "end": 58,
+                "start": 43,
+                "username": "wuyan_sleeeepy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%8950122",
+                "end": 98,
+                "expanded_url": "https://ngl.link/%E6%B3%8950122",
+                "start": 75,
+                "url": "https://t.co/ILEWFdOiJs"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉",
+        "pinned_tweet_id": "1970427616353296660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978274114138996736/r_khhgIT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 830,
+          "following_count": 664,
+          "like_count": 17883,
+          "listed_count": 2,
+          "media_count": 205,
+          "tweet_count": 6763
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-08T13:29:58.000Z",
+        "description": "全网最尊重东雪莲博主。星野酱：@QiangGuoYouZi ｜莲宝：@AzumaSeren",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 15,
+                "username": "QiangGuoYouZi"
+              },
+              {
+                "end": 45,
+                "start": 34,
+                "username": "AzumaSeren"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/azumaseren",
+                "end": 23,
+                "expanded_url": "https://lit.link/azumaseren",
+                "start": 0,
+                "url": "https://t.co/2VU2VE8VPN"
+              }
+            ]
+          }
+        },
+        "id": "1523294065063735298",
+        "location": "二次元世界",
+        "name": "東京の雪蓮い⛩️",
+        "pinned_tweet_id": "1795925402092785966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976027691032657920/atmtbwt2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4320,
+          "following_count": 2995,
+          "like_count": 52904,
+          "listed_count": 20,
+          "media_count": 733,
+          "tweet_count": 4064
+        },
+        "url": "https://t.co/2VU2VE8VPN",
+        "username": "Daryl336",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1914619003039047893",
+    "created_at": "2025-04-22T14:28:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-22T15:28:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914687849787744515"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "702827952803680256",
+          "start": 0,
+          "username": "allvulples"
+        },
+        {
+          "end": 24,
+          "id": "1600462056464867329",
+          "start": 12,
+          "username": "FarParadise"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914687849787744515",
+    "in_reply_to_user_id": "702827952803680256",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914623698583327007",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@allvulples @FarParadise 非常有道理"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1914619003039047893",
+        "created_at": "2025-04-22T14:28:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T15:28:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914687849787744515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "702827952803680256",
+              "start": 0,
+              "username": "allvulples"
+            },
+            {
+              "end": 24,
+              "id": "1600462056464867329",
+              "start": 12,
+              "username": "FarParadise"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914687849787744515",
+        "in_reply_to_user_id": "702827952803680256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914623698583327007",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@allvulples @FarParadise 非常有道理"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "702827952803680256",
+        "conversation_id": "1914619003039047893",
+        "created_at": "2025-04-22T10:13:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T11:13:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914623698583327007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1600462056464867329",
+              "start": 0,
+              "username": "FarParadise"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914623698583327007",
+        "in_reply_to_user_id": "1600462056464867329",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914623486544502999",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FarParadise 有道理"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 375,
+          "like_count": 6324,
+          "listed_count": 1,
+          "media_count": 111,
+          "tweet_count": 2908
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2016-02-25T12:10:16.000Z",
+        "description": "BIG BANG BAD BOYS AND GIRLS.",
+        "id": "702827952803680256",
+        "location": "Hong Kong",
+        "name": "Demonkeyse Manell",
+        "pinned_tweet_id": "1913211554511954142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886505840297041922/T3n-n-l2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 628,
+          "following_count": 3202,
+          "like_count": 20321,
+          "listed_count": 3,
+          "media_count": 487,
+          "tweet_count": 25789
+        },
+        "username": "allvulples",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-07T12:07:52.000Z",
+        "description": "新古典布鲁斯重金属乐痴迷，喜欢冥想和大自然，退步保守 b（英），要救赎自己，要努力走窄门…\n「燕巢于飞幕上，鱼游于沸鼎中」——殊途同归学",
+        "id": "1600462056464867329",
+        "location": "动物庄园",
+        "name": "小王✝️",
+        "pinned_tweet_id": "1892403998709133594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906977214555697152/UcdZfaSH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2398,
+          "following_count": 1498,
+          "like_count": 29043,
+          "listed_count": 7,
+          "media_count": 2797,
+          "tweet_count": 12081
+        },
+        "username": "FarParadise",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1925174839297667164",
+    "created_at": "2025-05-21T23:51:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-22T00:51:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925338711912587643"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1715061725647491072",
+          "start": 0,
+          "username": "lmlikeperfect"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925338711912587643",
+    "in_reply_to_user_id": "1715061725647491072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925270704976691588",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lmlikeperfect 就是匹克的秤，一般都有个蓝牙，我当时随便买的，买回来才知道能连手机"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1925174839297667164",
+        "created_at": "2025-05-21T23:51:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-22T00:51:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925338711912587643"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1715061725647491072",
+              "start": 0,
+              "username": "lmlikeperfect"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925338711912587643",
+        "in_reply_to_user_id": "1715061725647491072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925270704976691588",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lmlikeperfect 就是匹克的秤，一般都有个蓝牙，我当时随便买的，买回来才知道能连手机"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715061725647491072",
+        "conversation_id": "1925174839297667164",
+        "created_at": "2025-05-21T19:21:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-21T20:21:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925270704976691588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1826281483675299840",
+              "start": 0,
+              "username": "ci_shang85157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925270704976691588",
+        "in_reply_to_user_id": "1826281483675299840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925174839297667164",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ci_shang85157 虽然怪怪的 但是我还是想问 什么软件什么称 能给了🔗吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲，生理性别男，请不要私信给我发那种奇怪的东西了\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 74,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 589,
+          "following_count": 513,
+          "like_count": 10153,
+          "listed_count": 2,
+          "media_count": 165,
+          "tweet_count": 4249
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-19T17:46:06.000Z",
+        "description": "不搞线下❌❌❌\n我也有啦哈哈哈哈哈哈https://t.co/mMFxXiJDwQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lmlikeperfect",
+                "end": 41,
+                "expanded_url": "https://ngl.link/lmlikeperfect",
+                "start": 18,
+                "url": "https://t.co/mMFxXiJDwQ"
+              }
+            ]
+          }
+        },
+        "id": "1715061725647491072",
+        "name": "里美美不要太美了",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844642454995337219/-B2oNzoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 23,
+          "like_count": 396,
+          "listed_count": 1,
+          "media_count": 123,
+          "tweet_count": 787
+        },
+        "username": "lmlikeperfect",
+        "verified": false
+      }
+    ]
+  }
+}

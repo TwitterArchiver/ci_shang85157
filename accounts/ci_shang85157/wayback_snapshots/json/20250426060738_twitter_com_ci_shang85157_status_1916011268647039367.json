@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1915639306590486793",
+    "created_at": "2025-04-26T06:07:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-26T07:07:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916011268647039367"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1756922914291474432",
+          "start": 0,
+          "username": "HuangJ38887"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916011268647039367",
+    "in_reply_to_user_id": "1756922914291474432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915639306590486793",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HuangJ38887 两个月了吗，我一直以为是去年的事情"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 288,
+        "media_key": "3_1915639299598671872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpW3yyJbYAAAmqn.jpg",
+        "width": 264
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1915639306590486793",
+        "created_at": "2025-04-26T06:07:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T07:07:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916011268647039367"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1756922914291474432",
+              "start": 0,
+              "username": "HuangJ38887"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916011268647039367",
+        "in_reply_to_user_id": "1756922914291474432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915639306590486793",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HuangJ38887 两个月了吗，我一直以为是去年的事情"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1915639299598671872"
+          ]
+        },
+        "author_id": "1756922914291474432",
+        "conversation_id": "1915639306590486793",
+        "created_at": "2025-04-25T05:29:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-25T06:29:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1915639306590486793"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PutfC8WwoJ",
+              "end": 23,
+              "expanded_url": "https://x.com/HuangJ38887/status/1915639306590486793/photo/1",
+              "media_key": "3_1915639299598671872",
+              "start": 0,
+              "url": "https://t.co/PutfC8WwoJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915639306590486793",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 4749,
+          "like_count": 146,
+          "quote_count": 1,
+          "reply_count": 24,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/PutfC8WwoJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 407,
+          "following_count": 381,
+          "like_count": 6806,
+          "listed_count": 1,
+          "media_count": 122,
+          "tweet_count": 3050
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-12T06:07:43.000Z",
+        "description": "男孩紙，是大陸人，互fo肯定回fo喵（沒fo私信我喵），台灣回歸派！！！盡量不參加任何鍵政， 世界共產主義萬歲，接納所有人，不是粉紅，因為被極端粉紅傷害過所以罵人會比較狠，珠廈學校最高通輯，中立政治，蔚藍檔案圈子保護者，非支黑，小號:@VIGLbb79EI88783",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 117,
+                "username": "VIGLbb79EI88783"
+              }
+            ]
+          }
+        },
+        "id": "1756922914291474432",
+        "location": "汕頭市ミレニアム科学技術学院",
+        "name": "Shadow_114514🇨🇳❤️🕊️❤️🇭🇰❤️🇲🇴❤️🌍❤️🇵🇸❤️🇹🇼",
+        "pinned_tweet_id": "1857766830091415748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871510699232673792/HKDsUe4i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 763,
+          "following_count": 1494,
+          "like_count": 25124,
+          "listed_count": 9,
+          "media_count": 332,
+          "tweet_count": 2908
+        },
+        "username": "HuangJ38887",
+        "verified": false
+      }
+    ]
+  }
+}

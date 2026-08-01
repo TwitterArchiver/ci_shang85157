@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1959330127784837375",
+    "created_at": "2025-08-23T23:02:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-24T00:02:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959390887139803567"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1662519550808846338",
+          "start": 0,
+          "username": "hee_unknow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959390887139803567",
+    "in_reply_to_user_id": "1662519550808846338",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959330127784837375",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hee_unknow 🙏🙏🙏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1959330127784837375",
+        "created_at": "2025-08-23T23:02:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T00:02:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959390887139803567"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1662519550808846338",
+              "start": 0,
+              "username": "hee_unknow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959390887139803567",
+        "in_reply_to_user_id": "1662519550808846338",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959330127784837375",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hee_unknow 🙏🙏🙏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662519550808846338",
+        "conversation_id": "1959330127784837375",
+        "created_at": "2025-08-23T19:01:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T20:01:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959330127784837375"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1959330127784837375",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 801,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "来点宝子互关🤓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像失去了一条时间线，算了，我们从来吧",
+        "id": "1826281483675299840",
+        "name": "泉方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 713,
+          "following_count": 560,
+          "like_count": 13189,
+          "listed_count": 2,
+          "media_count": 161,
+          "tweet_count": 5365
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-27T18:02:20.000Z",
+        "description": "我有一只特别特别好的腊梅花小狗☺️                   没礼貌的异性乱刀砍死 女孩子我都会回关",
+        "id": "1662519550808846338",
+        "name": "少女总统",
+        "pinned_tweet_id": "1959328659916927417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957114907683381248/sfGq_Ba2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 66,
+          "like_count": 141,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 93
+        },
+        "username": "hee_unknow",
+        "verified": false
+      }
+    ]
+  }
+}

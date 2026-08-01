@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1888749335984414720"
+      ]
+    },
+    "author_id": "1826281483675299840",
+    "conversation_id": "1888749338601627963",
+    "created_at": "2025-02-10T00:38:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-10T01:38:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1888749338601627963"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/V7nImNpNLI",
+          "end": 23,
+          "expanded_url": "https://x.com/ci_shang85157/status/1888749338601627963/photo/1",
+          "media_key": "3_1888749335984414720",
+          "start": 0,
+          "url": "https://t.co/V7nImNpNLI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888749338601627963",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/V7nImNpNLI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1254,
+        "media_key": "3_1888749335984414720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjYvg5kbIAAYZmZ.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1888749335984414720"
+          ]
+        },
+        "author_id": "1826281483675299840",
+        "conversation_id": "1888749338601627963",
+        "created_at": "2025-02-10T00:38:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-10T01:38:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1888749338601627963"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/V7nImNpNLI",
+              "end": 23,
+              "expanded_url": "https://x.com/ci_shang85157/status/1888749338601627963/photo/1",
+              "media_key": "3_1888749335984414720",
+              "start": 0,
+              "url": "https://t.co/V7nImNpNLI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888749338601627963",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/V7nImNpNLI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲",
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844188914451365901/gNnOT4GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 236,
+          "like_count": 2316,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 1058
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      }
+    ]
+  }
+}

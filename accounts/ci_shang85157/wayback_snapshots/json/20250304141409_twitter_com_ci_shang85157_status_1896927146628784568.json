@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1896822009159618820",
+    "created_at": "2025-03-04T14:14:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-04T15:14:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896927146628784568"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1876832792744792064",
+          "start": 0,
+          "username": "menntikorosei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896927146628784568",
+    "in_reply_to_user_id": "1876832792744792064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896822009159618820",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@menntikorosei 愉快的复仇吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1896822009159618820",
+        "created_at": "2025-03-04T14:14:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-04T15:14:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896927146628784568"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1876832792744792064",
+              "start": 0,
+              "username": "menntikorosei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896927146628784568",
+        "in_reply_to_user_id": "1876832792744792064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896822009159618820",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@menntikorosei 愉快的复仇吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1876832792744792064",
+        "conversation_id": "1896822009159618820",
+        "created_at": "2025-03-04T07:16:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-04T08:16:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896822009159618820"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1896822009159618820",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 380,
+          "like_count": 15,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "求你们和我网恋，伪恋也行🥺🥺🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲\n小猫：@kimKAAAAAILUV",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kimKAAAAAILUV"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844188914451365901/gNnOT4GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 290,
+          "like_count": 2776,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 1273
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-08T03:26:32.000Z",
+        "description": "如闪电般归来，双相精神病一个，女装爱好者，不键政，🉑互fo，双性恋 向我匿名问答：https://t.co/VFlYPDdDYv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/menntikorosei",
+                "end": 64,
+                "expanded_url": "https://ngl.link/menntikorosei",
+                "start": 41,
+                "url": "https://t.co/VFlYPDdDYv"
+              }
+            ]
+          }
+        },
+        "id": "1876832792744792064",
+        "location": "大贝塔里",
+        "name": "檬七（俊达萌二代目）",
+        "pinned_tweet_id": "1882465626012409968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876834159290966016/tLvBUcco_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 329,
+          "like_count": 1941,
+          "listed_count": 1,
+          "media_count": 465,
+          "tweet_count": 1165
+        },
+        "username": "menntikorosei",
+        "verified": false
+      }
+    ]
+  }
+}

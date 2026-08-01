@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1920136884489007529",
+    "created_at": "2025-05-07T15:53:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-07T16:53:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920145048718737905"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1756909109788753920",
+          "start": 0,
+          "username": "BaoFan7551"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920145048718737905",
+    "in_reply_to_user_id": "1756909109788753920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920136884489007529",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BaoFan7551 笑死我了，传奇cp"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14280,
+        "height": 1280,
+        "media_key": "7_1920136753014611968",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1920136753014611968/pu/img/zJtk-hB4498CV6J1.jpg",
+        "public_metrics": {
+          "view_count": 7
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1920136753014611968/pu/vid/avc1/320x568/qEcwRhOaxNEmYLhl.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1920136753014611968/pu/vid/avc1/480x852/yu13_iAtO8TTdJaK.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1920136753014611968/pu/vid/avc1/720x1280/nDfrd4onYorV1XXT.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1920136753014611968/pu/pl/vymgyDVVRJZ_Dlls.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1920136884489007529",
+        "created_at": "2025-05-07T15:53:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T16:53:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920145048718737905"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1756909109788753920",
+              "start": 0,
+              "username": "BaoFan7551"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920145048718737905",
+        "in_reply_to_user_id": "1756909109788753920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920136884489007529",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BaoFan7551 笑死我了，传奇cp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1920136753014611968"
+          ]
+        },
+        "author_id": "1756909109788753920",
+        "conversation_id": "1920136884489007529",
+        "created_at": "2025-05-07T15:21:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T16:21:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920136884489007529"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3RtREJboaT",
+              "end": 30,
+              "expanded_url": "https://x.com/BaoFan7551/status/1920136884489007529/video/1",
+              "media_key": "7_1920136753014611968",
+              "start": 7,
+              "url": "https://t.co/3RtREJboaT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920136884489007529",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "传奇cp上线 https://t.co/3RtREJboaT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 499,
+          "following_count": 454,
+          "like_count": 8623,
+          "listed_count": 2,
+          "media_count": 140,
+          "tweet_count": 3630
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-12T05:12:40.000Z",
+        "description": "炒币/大学生/不接推广合作/可互fo\n嘴贱但是命不贱\n\n喜欢随性发表一下所思所想/like make friend",
+        "id": "1756909109788753920",
+        "location": "china mainland",
+        "name": "包着番茄籽的番茄",
+        "pinned_tweet_id": "1898387152926626246",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876828438067363841/Jp8N96wc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 299,
+          "following_count": 929,
+          "like_count": 277,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 1546
+        },
+        "username": "BaoFan7551",
+        "verified": false
+      }
+    ]
+  }
+}

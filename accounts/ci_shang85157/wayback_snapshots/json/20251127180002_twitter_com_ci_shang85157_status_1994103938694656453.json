@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1994100485306109965",
+    "created_at": "2025-11-27T18:00:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T19:00:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994103938694656453"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1584127746850316288",
+          "start": 0,
+          "username": "tdu5525"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994103938694656453",
+    "in_reply_to_user_id": "1584127746850316288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994100485306109965",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tdu5525 泡面先生那个也好吃"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1994100476900724736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6x30Ywa0AARBwn.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1994100485306109965",
+        "created_at": "2025-11-27T18:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T19:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994103938694656453"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1584127746850316288",
+              "start": 0,
+              "username": "tdu5525"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994103938694656453",
+        "in_reply_to_user_id": "1584127746850316288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994100485306109965",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tdu5525 泡面先生那个也好吃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994100476900724736"
+          ]
+        },
+        "author_id": "1584127746850316288",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1994100485306109965",
+        "created_at": "2025-11-27T17:46:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T18:46:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994100485306109965"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EMiU0cKGVr",
+              "end": 43,
+              "expanded_url": "https://x.com/tdu5525/status/1994100485306109965/photo/1",
+              "media_key": "3_1994100476900724736",
+              "start": 20,
+              "url": "https://t.co/EMiU0cKGVr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994100485306109965",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个酱里麻面挺好吃的\n就是面饼有点大🥲 https://t.co/EMiU0cKGVr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧 结义兄弟@wuyan_sleeeepy @SoSleepy4wy还有穹璃 求求你们了找我聊天好不好https://t.co/ILEWFdOQz0。 ngl匿名问答",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 26,
+                "username": "wuyan_sleeeepy"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "SoSleepy4wy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%8950122",
+                "end": 94,
+                "expanded_url": "https://ngl.link/%E6%B3%8950122",
+                "start": 71,
+                "url": "https://t.co/ILEWFdOQz0"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉",
+        "pinned_tweet_id": "1970427616353296660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978274114138996736/r_khhgIT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 823,
+          "following_count": 652,
+          "like_count": 19155,
+          "listed_count": 2,
+          "media_count": 218,
+          "tweet_count": 7081
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-23T10:21:10.000Z",
+        "description": "明天后天下雨天",
+        "id": "1584127746850316288",
+        "location": "魅力大湾区",
+        "name": "土豆",
+        "pinned_tweet_id": "1799479289907380727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983856462469459976/4aAuTEVC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 900,
+          "like_count": 33333,
+          "listed_count": 1,
+          "media_count": 349,
+          "tweet_count": 2580
+        },
+        "username": "tdu5525",
+        "verified": false
+      }
+    ]
+  }
+}

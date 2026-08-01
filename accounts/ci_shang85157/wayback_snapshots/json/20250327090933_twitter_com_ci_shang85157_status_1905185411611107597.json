@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1904889015154991443",
+    "created_at": "2025-03-27T09:09:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-27T10:09:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905185411611107597"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1844410398407323648",
+          "start": 0,
+          "username": "cxbot10"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905185411611107597",
+    "in_reply_to_user_id": "1844410398407323648",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904889015154991443",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cxbot10 啤酒的口感很独特"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 39933,
+        "height": 720,
+        "media_key": "7_1904888237648470019",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1904888237648470019/pu/img/FtjqXUBXIB2klVLY.jpg",
+        "public_metrics": {
+          "view_count": 202
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1904888237648470019/pu/vid/avc1/480x270/8Ii5JGOTyZbdGGP_.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1904888237648470019/pu/vid/avc1/640x360/iOPU70fRPs7tEEDZ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1904888237648470019/pu/vid/avc1/1280x720/w1Eln7vpPiJEhtER.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1904888237648470019/pu/pl/gytiOor56y4h-zpb.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1904889015154991443",
+        "created_at": "2025-03-27T09:09:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-27T10:09:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905185411611107597"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1844410398407323648",
+              "start": 0,
+              "username": "cxbot10"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905185411611107597",
+        "in_reply_to_user_id": "1844410398407323648",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904889015154991443",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cxbot10 啤酒的口感很独特"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1904888237648470019"
+          ]
+        },
+        "author_id": "1844410398407323648",
+        "conversation_id": "1904889015154991443",
+        "created_at": "2025-03-26T13:31:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-26T14:31:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1904889015154991443"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cnZgOfCORw",
+              "end": 27,
+              "expanded_url": "https://x.com/cxbot10/status/1904889015154991443/video/1",
+              "media_key": "7_1904888237648470019",
+              "start": 4,
+              "url": "https://t.co/cnZgOfCORw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904889015154991443",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 827,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁想喝 https://t.co/cnZgOfCORw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 339,
+          "like_count": 4672,
+          "listed_count": 1,
+          "media_count": 84,
+          "tweet_count": 2093
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-10T16:11:30.000Z",
+        "description": "大号 @dsfin1989被封",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 3,
+                "username": "dsfin1989"
+              }
+            ]
+          }
+        },
+        "id": "1844410398407323648",
+        "location": "奶龙的爱巢",
+        "name": "仿生河南人会偷电子井盖吗",
+        "pinned_tweet_id": "1904540486553276660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904545069186613248/QjnSaGHv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 964,
+          "following_count": 396,
+          "like_count": 587,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 160
+        },
+        "username": "cxbot10",
+        "verified": false
+      }
+    ]
+  }
+}

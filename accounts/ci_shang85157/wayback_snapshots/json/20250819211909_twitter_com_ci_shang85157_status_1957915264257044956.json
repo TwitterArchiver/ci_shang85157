@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1957835463382954297",
+    "created_at": "2025-08-19T21:19:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-19T22:19:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957915264257044956"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1730672219213205504",
+          "start": 0,
+          "username": "pertx114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957915264257044956",
+    "in_reply_to_user_id": "1730672219213205504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957850609832587744",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pertx114514 那好吧那好吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1957835463382954297",
+        "created_at": "2025-08-19T21:19:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T22:19:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957915264257044956"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1730672219213205504",
+              "start": 0,
+              "username": "pertx114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957915264257044956",
+        "in_reply_to_user_id": "1730672219213205504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957850609832587744",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pertx114514 那好吧那好吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730672219213205504",
+        "conversation_id": "1957835463382954297",
+        "created_at": "2025-08-19T17:02:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T18:02:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957850609832587744"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1826281483675299840",
+              "start": 0,
+              "username": "ci_shang85157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957850609832587744",
+        "in_reply_to_user_id": "1826281483675299840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957835463382954297",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ci_shang85157 不会的宝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像失去了一条时间线，算了，我们从来吧",
+        "id": "1826281483675299840",
+        "name": "泉方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 706,
+          "following_count": 548,
+          "like_count": 12976,
+          "listed_count": 2,
+          "media_count": 159,
+          "tweet_count": 5299
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-01T19:36:56.000Z",
+        "description": "被遗忘的人，广东入，网络活跃度max，可以叫我小懒，因为真的很懒。现实内向b,你就觉得我是什么就是什么吧，欢迎来私信聊天，爱听歌，互fo，会一直视奸你的😇 Everything made sense to u",
+        "id": "1730672219213205504",
+        "location": "月球",
+        "name": "Lain",
+        "pinned_tweet_id": "1881066351571399102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957595839553318912/u_wTNXDC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 515,
+          "like_count": 7242,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 597
+        },
+        "username": "pertx114514",
+        "verified": false
+      }
+    ]
+  }
+}

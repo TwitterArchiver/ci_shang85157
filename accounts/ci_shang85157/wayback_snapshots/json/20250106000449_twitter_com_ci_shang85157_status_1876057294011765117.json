@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1875690084755816886",
+    "created_at": "2025-01-06T00:04:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-06T01:04:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1876057294011765117"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "702827952803680256",
+          "start": 0,
+          "username": "allvulples"
+        },
+        {
+          "end": 21,
+          "id": "2411954377",
+          "start": 12,
+          "username": "heanquan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876057294011765117",
+    "in_reply_to_user_id": "702827952803680256",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876056965010608161",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@allvulples @heanquan 让我了解了解"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1875690084755816886",
+        "created_at": "2025-01-06T00:04:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-06T01:04:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876057294011765117"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "702827952803680256",
+              "start": 0,
+              "username": "allvulples"
+            },
+            {
+              "end": 21,
+              "id": "2411954377",
+              "start": 12,
+              "username": "heanquan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876057294011765117",
+        "in_reply_to_user_id": "702827952803680256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876056965010608161",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@allvulples @heanquan 让我了解了解"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "702827952803680256",
+        "conversation_id": "1875690084755816886",
+        "created_at": "2025-01-06T00:03:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-06T01:03:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876056965010608161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1826281483675299840",
+              "start": 0,
+              "username": "ci_shang85157"
+            },
+            {
+              "end": 24,
+              "id": "2411954377",
+              "start": 15,
+              "username": "heanquan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876056965010608161",
+        "in_reply_to_user_id": "1826281483675299840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876056682973053203",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ci_shang85157 @heanquan 真不瞭解。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，有兴趣就可以一起玩",
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844188914451365901/gNnOT4GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 211,
+          "like_count": 1938,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 855
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2016-02-25T12:10:16.000Z",
+        "description": "BIG BANG BAD BOYS AND GIRLS.",
+        "id": "702827952803680256",
+        "location": "Hong Kong",
+        "name": "Demonkeyse Manell",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873637459722211328/xhsKFaVI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 1648,
+          "like_count": 13569,
+          "listed_count": 4,
+          "media_count": 155,
+          "tweet_count": 17576
+        },
+        "username": "allvulples",
+        "verified": false
+      },
+      {
+        "created_at": "2014-03-26T03:17:19.000Z",
+        "description": "He Anquan | 前上海外科医生Surgeon | 沪裔美国人 Shanghai American | 华尔街日报专访https://t.co/vpVCgubiss",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wsj.com/articles/shang…",
+                "end": 85,
+                "expanded_url": "https://www.wsj.com/articles/shanghai-lockdown-bolsters-a-fringe-independence-movement-11650706204",
+                "start": 62,
+                "url": "https://t.co/vpVCgubiss"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCOBkJ…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UCOBkJ9y25vTAb_IugHg5hxw",
+                "start": 0,
+                "url": "https://t.co/LMSWummYmZ"
+              }
+            ]
+          }
+        },
+        "id": "2411954377",
+        "location": "美国纽约",
+        "name": "何岸泉",
+        "pinned_tweet_id": "1874499298895032568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1781810725075177472/HRnUVZuK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37791,
+          "following_count": 883,
+          "like_count": 36443,
+          "listed_count": 187,
+          "media_count": 5966,
+          "tweet_count": 38412
+        },
+        "url": "https://t.co/LMSWummYmZ",
+        "username": "heanquan",
+        "verified": true
+      }
+    ]
+  }
+}

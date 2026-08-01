@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1906971168017707346",
+    "created_at": "2025-04-20T18:20:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-20T19:20:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914021443568095714"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1906933158370742272",
+          "start": 0,
+          "username": "WangXianWu0511"
+        },
+        {
+          "end": 23,
+          "id": "1033702170778976258",
+          "start": 16,
+          "username": "Do2mi1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914021443568095714",
+    "in_reply_to_user_id": "1906933158370742272",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914006867950674296",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WangXianWu0511 @Do2mi1 NO"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1906971168017707346",
+        "created_at": "2025-04-20T18:20:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-20T19:20:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914021443568095714"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1906933158370742272",
+              "start": 0,
+              "username": "WangXianWu0511"
+            },
+            {
+              "end": 23,
+              "id": "1033702170778976258",
+              "start": 16,
+              "username": "Do2mi1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914021443568095714",
+        "in_reply_to_user_id": "1906933158370742272",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914006867950674296",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WangXianWu0511 @Do2mi1 NO"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906933158370742272",
+        "conversation_id": "1906971168017707346",
+        "created_at": "2025-04-20T17:22:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-20T18:22:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914006867950674296"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1826281483675299840",
+              "start": 0,
+              "username": "ci_shang85157"
+            },
+            {
+              "end": 22,
+              "id": "1033702170778976258",
+              "start": 15,
+              "username": "Do2mi1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914006867950674296",
+        "in_reply_to_user_id": "1826281483675299840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913996023367958626",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ci_shang85157 @Do2mi1 出cos\n吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 367,
+          "like_count": 6041,
+          "listed_count": 1,
+          "media_count": 106,
+          "tweet_count": 2808
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-01T04:54:37.000Z",
+        "description": "",
+        "id": "1906933158370742272",
+        "name": "僵硬的一天",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906933300608040960/gsHm5Em__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 31,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 13
+        },
+        "username": "WangXianWu0511",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-26T13:06:17.000Z",
+        "description": "精神不太正常的原画，美宜佳店主（做不成了），不卖图不接单的剁剁酱\n--------CUT----------\nPIXIV:https://t.co/JWBma6ZxRw",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/29260452",
+                "end": 84,
+                "expanded_url": "http://pixiv.net/users/29260452",
+                "start": 61,
+                "url": "https://t.co/JWBma6ZxRw"
+              }
+            ]
+          }
+        },
+        "id": "1033702170778976258",
+        "name": "Do2mi多多酱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1119945894353199104/LbkR_onX_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8729,
+          "following_count": 94,
+          "like_count": 1632,
+          "listed_count": 74,
+          "media_count": 466,
+          "tweet_count": 1041
+        },
+        "username": "Do2mi1",
+        "verified": false
+      }
+    ]
+  }
+}

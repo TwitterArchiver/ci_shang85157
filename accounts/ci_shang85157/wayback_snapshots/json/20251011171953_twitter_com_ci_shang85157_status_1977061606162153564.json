@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1977061606162153564",
+    "created_at": "2025-10-11T17:19:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-11T18:19:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1977061606162153564"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/aa463bcd/statu…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/aa463bcd/status/1976717856873353404",
+          "start": 5,
+          "url": "https://t.co/V6Yo6eYpiO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977061606162153564",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976717856873353404",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我就这样 https://t.co/V6Yo6eYpiO"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12765,
+        "height": 1280,
+        "media_key": "13_1976717741576089600",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1976717741576089600/img/TwLb7QMNsPZaZ8fX.jpg",
+        "public_metrics": {
+          "view_count": 7638
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1976717741576089600/vid/avc1/320x690/GurTNguWLNpUqemq.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1976717741576089600/vid/avc1/480x1036/G7cmL366-UgxK3pz.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1976717741576089600/vid/avc1/592x1280/EoDPlUQgvS1L6MG4.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1976717741576089600/pl/mkqWQFhzi0md7r-O.m3u8?v=5a9"
+          }
+        ],
+        "width": 592
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1977061606162153564",
+        "created_at": "2025-10-11T17:19:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T18:19:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977061606162153564"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aa463bcd/statu…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/aa463bcd/status/1976717856873353404",
+              "start": 5,
+              "url": "https://t.co/V6Yo6eYpiO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977061606162153564",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976717856873353404",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我就这样 https://t.co/V6Yo6eYpiO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1976717741576089600"
+          ]
+        },
+        "author_id": "1506291557233999877",
+        "conversation_id": "1976717856873353404",
+        "created_at": "2025-10-10T18:33:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T19:33:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976717856873353404"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sAcnnoWa1Y",
+              "end": 37,
+              "expanded_url": "https://x.com/aa463bcd/status/1976717856873353404/video/1",
+              "media_key": "13_1976717741576089600",
+              "start": 14,
+              "url": "https://t.co/sAcnnoWa1Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976717856873353404",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 80,
+          "impression_count": 15137,
+          "like_count": 283,
+          "quote_count": 17,
+          "reply_count": 34,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "网左开学了之后就这样😾！！ https://t.co/sAcnnoWa1Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧 小男友@pertx114514  结义兄弟@wuyan_sleeeepy还有穹璃 互fo可以私信我交朋友什么的 反正我还挺闲 然后就是没有然后了 一切都是最好的安排https://t.co/ILEWFdOQz0。 ngl匿名问答",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "pertx114514"
+              },
+              {
+                "end": 58,
+                "start": 43,
+                "username": "wuyan_sleeeepy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%8950122",
+                "end": 127,
+                "expanded_url": "https://ngl.link/%E6%B3%8950122",
+                "start": 104,
+                "url": "https://t.co/ILEWFdOQz0"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉",
+        "pinned_tweet_id": "1970427616353296660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 815,
+          "following_count": 655,
+          "like_count": 16897,
+          "listed_count": 2,
+          "media_count": 197,
+          "tweet_count": 6547
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-22T15:27:57.000Z",
+        "description": "永远是深夜有多好",
+        "id": "1506291557233999877",
+        "location": "Japan",
+        "name": "⁺♡hazuki",
+        "pinned_tweet_id": "1959290971318837385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956555816674459648/Nbbrv0Mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 154,
+          "like_count": 4818,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 512
+        },
+        "username": "aa463bcd",
+        "verified": false
+      }
+    ]
+  }
+}

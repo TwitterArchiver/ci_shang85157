@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1887909814262710447",
+    "created_at": "2025-02-07T20:46:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-07T21:46:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887966161419256177"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1831961897899585536",
+          "start": 0,
+          "username": "lemon_bocchi_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887966161419256177",
+    "in_reply_to_user_id": "1831961897899585536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887966031651684395",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lemon_bocchi_ 早，我还在上班，但是摸鱼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1887909814262710447",
+        "created_at": "2025-02-07T20:46:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-07T21:46:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887966161419256177"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1831961897899585536",
+              "start": 0,
+              "username": "lemon_bocchi_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887966161419256177",
+        "in_reply_to_user_id": "1831961897899585536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887966031651684395",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lemon_bocchi_ 早，我还在上班，但是摸鱼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1831961897899585536",
+        "conversation_id": "1887909814262710447",
+        "created_at": "2025-02-07T20:45:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-07T21:45:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887966031651684395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1826281483675299840",
+              "start": 0,
+              "username": "ci_shang85157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887966031651684395",
+        "in_reply_to_user_id": "1826281483675299840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887965672682221871",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ci_shang85157 泉酱早"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲",
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844188914451365901/gNnOT4GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 225,
+          "like_count": 2233,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 1041
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-06T07:45:44.000Z",
+        "description": "🥰@Inhara_Akime 狗修金🙌🏻 @genya1976",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 1,
+                "username": "Inhara_Akime"
+              },
+              {
+                "end": 31,
+                "start": 21,
+                "username": "genya1976"
+              }
+            ]
+          }
+        },
+        "id": "1831961897899585536",
+        "location": "玖宮嶺",
+        "name": "黑夜里的波奇",
+        "pinned_tweet_id": "1883510982141710405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886427614526816256/im7t0170_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 578,
+          "following_count": 861,
+          "like_count": 52908,
+          "listed_count": 3,
+          "media_count": 1211,
+          "tweet_count": 9570
+        },
+        "username": "lemon_bocchi_",
+        "verified": false
+      }
+    ]
+  }
+}

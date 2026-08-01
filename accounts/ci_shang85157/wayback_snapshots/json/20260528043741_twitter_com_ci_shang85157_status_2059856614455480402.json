@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "2059566303418146885",
+    "created_at": "2026-05-28T04:37:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T05:37:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059856614455480402"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1942213637902348289",
+          "start": 0,
+          "username": "luobodoul"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059856614455480402",
+    "in_reply_to_user_id": "1942213637902348289",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059566303418146885",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luobodoul 下次编的像一点"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "2059566303418146885",
+        "created_at": "2026-05-28T04:37:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T05:37:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059856614455480402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1942213637902348289",
+              "start": 0,
+              "username": "luobodoul"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059856614455480402",
+        "in_reply_to_user_id": "1942213637902348289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059566303418146885",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luobodoul 下次编的像一点"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942213637902348289",
+        "conversation_id": "2059566303418146885",
+        "created_at": "2026-05-27T09:24:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T10:24:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059566303418146885"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059566303418146885",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 194582,
+          "like_count": 172,
+          "quote_count": 3,
+          "reply_count": 96,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "额上个月被男朋友内射了，这个月发现没来姨妈怎么办？？我才15岁啊啊我能不能自己去打掉…我再也不内射了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧 https://t.co/ILEWFdOQz0。 ngl匿名问答",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%8950122",
+                "end": 45,
+                "expanded_url": "https://ngl.link/%E6%B3%8950122",
+                "start": 22,
+                "url": "https://t.co/ILEWFdOQz0"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "永雏泉",
+        "pinned_tweet_id": "2050379357617819772",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978274114138996736/r_khhgIT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1114,
+          "following_count": 736,
+          "like_count": 24600,
+          "listed_count": 2,
+          "media_count": 269,
+          "tweet_count": 8738
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-07T13:26:36.000Z",
+        "description": "里垢｜记录日常和自己的碎碎念｜梦到什么写什么｜🚪128♡",
+        "id": "1942213637902348289",
+        "location": "0.2km",
+        "name": "萝卜🥕hara",
+        "pinned_tweet_id": "2056670934145307112",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989301958667296768/0IsFMdJ5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 845,
+          "following_count": 86,
+          "like_count": 302,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 324
+        },
+        "username": "luobodoul",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1920500597280878893",
+    "created_at": "2025-05-09T12:56:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-09T13:56:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920825082156396768"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1638012246038302721",
+          "start": 0,
+          "username": "zxzyyou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920825082156396768",
+    "in_reply_to_user_id": "1638012246038302721",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920824848332341658",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zxzyyou 已经好几个人说了，关系都没建立借钱反而会反感吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1920500597280878893",
+        "created_at": "2025-05-09T12:56:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-09T13:56:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920825082156396768"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1638012246038302721",
+              "start": 0,
+              "username": "zxzyyou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920825082156396768",
+        "in_reply_to_user_id": "1638012246038302721",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920824848332341658",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zxzyyou 已经好几个人说了，关系都没建立借钱反而会反感吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1638012246038302721",
+        "conversation_id": "1920500597280878893",
+        "created_at": "2025-05-09T12:55:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-09T13:55:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920824848332341658"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1826281483675299840",
+              "start": 0,
+              "username": "ci_shang85157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920824848332341658",
+        "in_reply_to_user_id": "1826281483675299840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920500597280878893",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ci_shang85157 借钱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 517,
+          "following_count": 475,
+          "like_count": 8952,
+          "listed_count": 2,
+          "media_count": 145,
+          "tweet_count": 3782
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-21T02:59:09.000Z",
+        "description": "分享花",
+        "id": "1638012246038302721",
+        "name": "阿友",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883399740009922561/TbXq3Ayi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 96,
+          "like_count": 1463,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 1529
+        },
+        "username": "zxzyyou",
+        "verified": false
+      }
+    ]
+  }
+}

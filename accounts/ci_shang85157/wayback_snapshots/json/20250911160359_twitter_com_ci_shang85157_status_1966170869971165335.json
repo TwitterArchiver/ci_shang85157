@@ -1,0 +1,553 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1966152795603730432"
+      ],
+      "media_source_tweet_id": [
+        "1966154040271937686"
+      ]
+    },
+    "author_id": "1826281483675299840",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1404909205924966400",
+          "name": "Doki Doki Literature Club"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1311309260597329921",
+          "name": "Visual novels"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1404909205924966400",
+          "name": "Doki Doki Literature Club"
+        }
+      }
+    ],
+    "conversation_id": "1966170869971165335",
+    "created_at": "2025-09-11T16:03:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-11T17:03:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966170869971165335"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 25,
+          "normalized_text": "monika",
+          "probability": 0.57,
+          "start": 20,
+          "type": "Person"
+        },
+        {
+          "end": 32,
+          "normalized_text": "DDLC",
+          "probability": 0.474,
+          "start": 29,
+          "type": "Organization"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 33,
+          "start": 28,
+          "tag": "DDLC"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1582889727694295041",
+          "start": 3,
+          "username": "Seo_miaa_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UMnYdY9Tm8",
+          "end": 57,
+          "expanded_url": "https://x.com/Seo_miaa_/status/1966154040271937686/video/1",
+          "media_key": "13_1966152795603730432",
+          "start": 34,
+          "url": "https://t.co/UMnYdY9Tm8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966170869971165335",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966154040271937686",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Seo_miaa_: just monika\n #DDLC https://t.co/UMnYdY9Tm8"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18650,
+        "height": 1280,
+        "media_key": "13_1966152795603730432",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1966152795603730432/img/cT8wLdhvsDtyR-wn.jpg",
+        "public_metrics": {
+          "view_count": 293
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1966152795603730432/vid/avc1/320x568/MTVKnvq4UwgbHpe_.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1966152795603730432/vid/avc1/480x852/fL7SZVFV5G10EPrK.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1966152795603730432/vid/avc1/720x1280/Ta4G8vA89aF_vqvl.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1966152795603730432/pl/kkRDYuP_y5DSumbu.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1966152795603730432"
+          ],
+          "media_source_tweet_id": [
+            "1966154040271937686"
+          ]
+        },
+        "author_id": "1826281483675299840",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1404909205924966400",
+              "name": "Doki Doki Literature Club"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311309260597329921",
+              "name": "Visual novels"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1404909205924966400",
+              "name": "Doki Doki Literature Club"
+            }
+          }
+        ],
+        "conversation_id": "1966170869971165335",
+        "created_at": "2025-09-11T16:03:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T17:03:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966170869971165335"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 25,
+              "normalized_text": "monika",
+              "probability": 0.57,
+              "start": 20,
+              "type": "Person"
+            },
+            {
+              "end": 32,
+              "normalized_text": "DDLC",
+              "probability": 0.474,
+              "start": 29,
+              "type": "Organization"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 28,
+              "tag": "DDLC"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1582889727694295041",
+              "start": 3,
+              "username": "Seo_miaa_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UMnYdY9Tm8",
+              "end": 57,
+              "expanded_url": "https://x.com/Seo_miaa_/status/1966154040271937686/video/1",
+              "media_key": "13_1966152795603730432",
+              "start": 34,
+              "url": "https://t.co/UMnYdY9Tm8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966170869971165335",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966154040271937686",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Seo_miaa_: just monika\n #DDLC https://t.co/UMnYdY9Tm8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1966152795603730432"
+          ]
+        },
+        "author_id": "1582889727694295041",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1404909205924966400",
+              "name": "Doki Doki Literature Club"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311309260597329921",
+              "name": "Visual novels"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1404909205924966400",
+              "name": "Doki Doki Literature Club"
+            }
+          }
+        ],
+        "conversation_id": "1966154040271937686",
+        "created_at": "2025-09-11T14:57:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T15:57:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966154040271937686"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 10,
+              "normalized_text": "monika",
+              "probability": 0.7526,
+              "start": 5,
+              "type": "Person"
+            },
+            {
+              "end": 17,
+              "normalized_text": "DDLC",
+              "probability": 0.5835,
+              "start": 14,
+              "type": "Organization"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 13,
+              "tag": "DDLC"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UMnYdY9Tm8",
+              "end": 42,
+              "expanded_url": "https://x.com/Seo_miaa_/status/1966154040271937686/video/1",
+              "media_key": "13_1966152795603730432",
+              "start": 19,
+              "url": "https://t.co/UMnYdY9Tm8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966154040271937686",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 876,
+          "like_count": 81,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "just monika\n #DDLC https://t.co/UMnYdY9Tm8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧   小男友@pertx114514\n星努@wuyan_sleeeepy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 27,
+                "username": "pertx114514"
+              },
+              {
+                "end": 57,
+                "start": 42,
+                "username": "wuyan_sleeeepy"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉方",
+        "pinned_tweet_id": "1963923748203139355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 779,
+          "following_count": 606,
+          "like_count": 14736,
+          "listed_count": 3,
+          "media_count": 178,
+          "tweet_count": 5878
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-20T00:23:01.000Z",
+        "description": "可以叫我小包包🫶是本人 同步照片ing",
+        "id": "1582889727694295041",
+        "name": "小包包一枚",
+        "pinned_tweet_id": "1923761669588820155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892525705927299072/yEGOGu05_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12069,
+          "following_count": 127,
+          "like_count": 2049,
+          "listed_count": 51,
+          "media_count": 79,
+          "tweet_count": 134
+        },
+        "username": "Seo_miaa_",
+        "verified": false
+      }
+    ]
+  }
+}

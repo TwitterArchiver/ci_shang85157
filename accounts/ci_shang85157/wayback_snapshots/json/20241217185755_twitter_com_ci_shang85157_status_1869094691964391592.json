@@ -1,0 +1,139 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1869093803912732884",
+    "created_at": "2024-12-17T18:57:55.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-17T19:57:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1869094691964391592"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1869094691964391592",
+    "in_reply_to_user_id": "1826281483675299840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1869093803912732884",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好像就是丢了一百块钱的样子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1869093803912732884",
+        "created_at": "2024-12-17T18:57:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-17T19:57:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869094691964391592"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1869094691964391592",
+        "in_reply_to_user_id": "1826281483675299840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1869093803912732884",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好像就是丢了一百块钱的样子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1869093803912732884",
+        "created_at": "2024-12-17T18:54:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-17T19:54:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869093803912732884"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1869093803912732884",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有些人就是比较看得开，比如背了很多贷款的人，或者是遇到很大事情的人，过几天都会笑嘻嘻的跟没事一样，是啊事情都过去了啊，但是我还是在深夜懊悔想起来还是小学生的时候我妈妈给我一个微信号，还在微信号里给我放了一百块，但是我因为当时也想有自己的隐私给密码改了，之后忘记了，哭了好一阵子。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，有兴趣就可以一起玩",
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844188914451365901/gNnOT4GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 263,
+          "like_count": 1204,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 430
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      }
+    ]
+  }
+}

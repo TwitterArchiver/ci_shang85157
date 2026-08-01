@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1931411732075003935",
+    "created_at": "2025-06-08T17:25:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-08T18:25:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931764410013630860"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1493116248137383938",
+          "start": 0,
+          "username": "FE68359693"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931764410013630860",
+    "in_reply_to_user_id": "1493116248137383938",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931764028474556582",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FE68359693 对啊对啊，这个真的很对，我要盗了发推文"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1931411732075003935",
+        "created_at": "2025-06-08T17:25:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T18:25:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931764410013630860"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1493116248137383938",
+              "start": 0,
+              "username": "FE68359693"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931764410013630860",
+        "in_reply_to_user_id": "1493116248137383938",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931764028474556582",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FE68359693 对啊对啊，这个真的很对，我要盗了发推文"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493116248137383938",
+        "conversation_id": "1931411732075003935",
+        "created_at": "2025-06-08T17:23:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T18:23:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931764028474556582"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1826281483675299840",
+              "start": 0,
+              "username": "ci_shang85157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931764028474556582",
+        "in_reply_to_user_id": "1826281483675299840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931411732075003935",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ci_shang85157 因为生活本就是痛苦为主旋律的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲，生理性别男，请不要私信给我发那种奇怪的东西了\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 74,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 648,
+          "following_count": 556,
+          "like_count": 11907,
+          "listed_count": 2,
+          "media_count": 187,
+          "tweet_count": 4888
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-14T06:53:54.000Z",
+        "description": "直男，INFP，XP复杂，🚪0.01元，希望你们每种情绪都能被重视",
+        "id": "1493116248137383938",
+        "location": "梦想中的世界",
+        "name": "野风",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850897959883546624/l5XGbf1F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 169,
+          "like_count": 21844,
+          "listed_count": 2,
+          "media_count": 325,
+          "tweet_count": 1902
+        },
+        "username": "FE68359693",
+        "verified": false
+      }
+    ]
+  }
+}

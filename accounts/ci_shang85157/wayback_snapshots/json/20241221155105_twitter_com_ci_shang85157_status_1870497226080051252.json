@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1870497167711911936"
+      ]
+    },
+    "author_id": "1826281483675299840",
+    "conversation_id": "1870025865511461333",
+    "created_at": "2024-12-21T15:51:05.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-21T16:51:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1870497226080051252"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1527743101242064896",
+          "start": 0,
+          "username": "MaimaiLee123"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DDpWictTvJ",
+          "end": 37,
+          "expanded_url": "https://x.com/ci_shang85157/status/1870497226080051252/photo/1",
+          "media_key": "3_1870497167711911936",
+          "start": 14,
+          "url": "https://t.co/DDpWictTvJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1870497226080051252",
+    "in_reply_to_user_id": "1527743101242064896",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1870495901682466982",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MaimaiLee123 https://t.co/DDpWictTvJ"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1870497226080051252].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1870497226080051252",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1870497226080051252"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 806,
+        "media_key": "3_1870497167711911936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GfVXQ4LXwAAzhrg.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1527743101242064896",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Non-fungible tokens",
+              "id": "1369311988040355840",
+              "name": "NFTs"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Investing",
+              "id": "847894353708068864",
+              "name": "Investing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Non-fungible tokens",
+              "id": "1369311988040355840",
+              "name": "NFTs"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491481998862348291",
+              "name": "Digital asset industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "1492162686204854274",
+              "name": "Digital assets & cryptocurrency"
+            }
+          }
+        ],
+        "conversation_id": "1870025865511461333",
+        "created_at": "2024-12-21T15:45:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-21T16:45:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1870495901682466982"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1826281483675299840",
+              "start": 0,
+              "username": "ci_shang85157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1870495901682466982",
+        "in_reply_to_user_id": "1826281483675299840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1870495500195279128",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ci_shang85157 李老师是猪脑子，发NFT就没这么多事情了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，有兴趣就可以一起玩",
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844188914451365901/gNnOT4GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 269,
+          "like_count": 1289,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 479
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-20T20:08:57.000Z",
+        "description": "人只有醒来才知道自己睡了一觉\n\n｜ INTJ ｜感谢follow ｜\n电报   https://t.co/qYINMLQgVt \n自留地  https://t.co/WQYgnkH9Ew",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/maimaitalk",
+                "end": 63,
+                "expanded_url": "https://t.me/maimaitalk",
+                "start": 40,
+                "url": "https://t.co/qYINMLQgVt"
+              },
+              {
+                "display_url": "imleemaimai.com",
+                "end": 93,
+                "expanded_url": "http://imleemaimai.com",
+                "start": 70,
+                "url": "https://t.co/WQYgnkH9Ew"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@lim0102",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@lim0102",
+                "start": 0,
+                "url": "https://t.co/TnPIUW2gMT"
+              }
+            ]
+          }
+        },
+        "id": "1527743101242064896",
+        "location": "IP属地:由于相关法律法规及政策,该地址不予显示",
+        "name": "李麦麦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5951,
+          "following_count": 721,
+          "like_count": 15213,
+          "listed_count": 23,
+          "media_count": 961,
+          "tweet_count": 4343
+        },
+        "url": "https://t.co/TnPIUW2gMT",
+        "username": "MaimaiLee123",
+        "verified": true
+      }
+    ]
+  }
+}

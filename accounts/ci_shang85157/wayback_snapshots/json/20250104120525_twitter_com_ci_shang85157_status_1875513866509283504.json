@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1874080277863317771",
+    "created_at": "2025-01-04T12:05:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-04T13:05:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1875513866509283504"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1829423359043719169",
+          "start": 0,
+          "username": "ujjkujjk74901"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1875513866509283504",
+    "in_reply_to_user_id": "1829423359043719169",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1874080277863317771",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ujjkujjk74901 为什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1874080277863317771",
+        "created_at": "2025-01-04T12:05:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-04T13:05:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875513866509283504"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1829423359043719169",
+              "start": 0,
+              "username": "ujjkujjk74901"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875513866509283504",
+        "in_reply_to_user_id": "1829423359043719169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1874080277863317771",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ujjkujjk74901 为什么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829423359043719169",
+        "conversation_id": "1874080277863317771",
+        "created_at": "2024-12-31T13:08:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-31T14:08:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1874080277863317771"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1874080277863317771",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5021,
+          "like_count": 58,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "25年我将禁止所有人性交"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，有兴趣就可以一起玩",
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844188914451365901/gNnOT4GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 203,
+          "like_count": 1866,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 822
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-30T07:38:25.000Z",
+        "description": "战无不胜的毛泽东思想万岁",
+        "id": "1829423359043719169",
+        "location": "中南海",
+        "name": "一般通过大粉红",
+        "pinned_tweet_id": "1874123457254027456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839662978393952256/MWG4US4-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 470,
+          "following_count": 131,
+          "like_count": 233,
+          "listed_count": 4,
+          "media_count": 66,
+          "tweet_count": 512
+        },
+        "username": "ujjkujjk74901",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,358 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1914935011784188214",
+    "created_at": "2025-04-23T12:57:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-23T13:57:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915027182092771535"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1807107145756008448",
+          "start": 0,
+          "username": "kagurazakaSiri_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/dimangmu8964/s…",
+          "end": 40,
+          "expanded_url": "https://x.com/dimangmu8964/status/1897628374656491974?s=19",
+          "start": 17,
+          "url": "https://t.co/vSanYRClce"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915027182092771535",
+    "in_reply_to_user_id": "1807107145756008448",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897628374656491974",
+        "type": "quoted"
+      },
+      {
+        "id": "1914935011784188214",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kagurazakaSiri_ https://t.co/vSanYRClce"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 51091,
+        "height": 1280,
+        "media_key": "13_1897628233455341568",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1897628233455341568/img/C_YzTU09kEjdouv_.jpg",
+        "public_metrics": {
+          "view_count": 435698
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1897628233455341568/vid/avc1/320x628/oinJR6YOL5gkUitt.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1897628233455341568/vid/avc1/480x942/EG0r21SBsVaCg_HB.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1897628233455341568/vid/avc1/652x1280/xMmE68_w9IVEigDs.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1897628233455341568/pl/-RG6oMyc_e86jPKp.m3u8?tag=14&v=b54"
+          }
+        ],
+        "width": 652
+      },
+      {
+        "height": 454,
+        "media_key": "3_1914935002900652032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpM3PUfa4AAFYCZ.jpg",
+        "width": 846
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1914935011784188214",
+        "created_at": "2025-04-23T12:57:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-23T13:57:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915027182092771535"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1807107145756008448",
+              "start": 0,
+              "username": "kagurazakaSiri_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/dimangmu8964/s…",
+              "end": 40,
+              "expanded_url": "https://x.com/dimangmu8964/status/1897628374656491974?s=19",
+              "start": 17,
+              "url": "https://t.co/vSanYRClce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915027182092771535",
+        "in_reply_to_user_id": "1807107145756008448",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897628374656491974",
+            "type": "quoted"
+          },
+          {
+            "id": "1914935011784188214",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kagurazakaSiri_ https://t.co/vSanYRClce"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1897628233455341568"
+          ]
+        },
+        "author_id": "1786565196913541120",
+        "conversation_id": "1897628374656491974",
+        "created_at": "2025-03-06T12:40:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-06T13:40:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897628374656491974"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/krviuAQZLh",
+              "end": 30,
+              "expanded_url": "https://x.com/dimangmu8964/status/1897628374656491974/video/1",
+              "media_key": "13_1897628233455341568",
+              "start": 7,
+              "url": "https://t.co/krviuAQZLh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897628374656491974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 196,
+          "impression_count": 799065,
+          "like_count": 722,
+          "quote_count": 35,
+          "reply_count": 93,
+          "retweet_count": 44
+        },
+        "reply_settings": "everyone",
+        "text": "年度最佳跨出 https://t.co/krviuAQZLh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1914935002900652032"
+          ]
+        },
+        "author_id": "1807107145756008448",
+        "conversation_id": "1914935011784188214",
+        "created_at": "2025-04-23T06:50:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-23T07:50:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914935011784188214"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/d97KtAR89B",
+              "end": 26,
+              "expanded_url": "https://x.com/kagurazakaSiri_/status/1914935011784188214/photo/1",
+              "media_key": "3_1914935002900652032",
+              "start": 3,
+              "url": "https://t.co/d97KtAR89B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914935011784188214",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3153,
+          "like_count": 38,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "致敬 https://t.co/d97KtAR89B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 402,
+          "following_count": 377,
+          "like_count": 6534,
+          "listed_count": 1,
+          "media_count": 113,
+          "tweet_count": 2983
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T17:41:40.000Z",
+        "description": "飞入宇宙的宇航员回望地球发现地球是个巨他妈大的栗子头，四目的对视穿过无垠的太空，穿过人类千万年的历程，穿过第一个氨基酸融合的瞬间，最终湮灭在无尽的时光里",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Allenium114",
+                "end": 23,
+                "expanded_url": "http://t.me/Allenium114",
+                "start": 0,
+                "url": "https://t.co/zULBkaIhWS"
+              }
+            ]
+          }
+        },
+        "id": "1807107145756008448",
+        "location": "重庆",
+        "name": "翎",
+        "pinned_tweet_id": "1900823119130227094",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906796197278523392/2eeHkFvY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2798,
+          "following_count": 727,
+          "like_count": 18455,
+          "listed_count": 6,
+          "media_count": 918,
+          "tweet_count": 6876
+        },
+        "url": "https://t.co/zULBkaIhWS",
+        "username": "kagurazakaSiri_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-04T01:15:24.000Z",
+        "description": "种花崛起之希望全在于我，为中华崛起而奋斗",
+        "id": "1786565196913541120",
+        "location": "北京市西城区西华门大街28号",
+        "name": "迅鸽🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888808700875509760/Myhp0mOE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2062,
+          "following_count": 1130,
+          "like_count": 84501,
+          "listed_count": 16,
+          "media_count": 1316,
+          "tweet_count": 23095
+        },
+        "username": "dimangmu8964",
+        "verified": false
+      }
+    ]
+  }
+}

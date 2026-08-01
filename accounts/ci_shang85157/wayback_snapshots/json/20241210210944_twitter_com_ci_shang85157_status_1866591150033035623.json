@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1866065075544445130",
+    "created_at": "2024-12-10T21:09:44.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-10T22:09:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1866591150033035623"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1841626911228780545",
+          "start": 0,
+          "username": "kujou_Queen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1866591150033035623",
+    "in_reply_to_user_id": "1841626911228780545",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1866065075544445130",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kujou_Queen 这是俺拾嘞"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1866065075544445130",
+        "created_at": "2024-12-10T21:09:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-10T22:09:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866591150033035623"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1841626911228780545",
+              "start": 0,
+              "username": "kujou_Queen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866591150033035623",
+        "in_reply_to_user_id": "1841626911228780545",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866065075544445130",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kujou_Queen 这是俺拾嘞"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841626911228780545",
+        "conversation_id": "1866065075544445130",
+        "created_at": "2024-12-09T10:19:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-09T11:19:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1866065075544445130"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1866065075544445130",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5431,
+          "like_count": 122,
+          "quote_count": 0,
+          "reply_count": 35,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "为什么我都吃拼好饭了还要被中国人偷外卖。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，有兴趣就可以一起玩",
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844188914451365901/gNnOT4GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 242,
+          "like_count": 1014,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 318
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-02T23:50:53.000Z",
+        "description": "我一直在试着愛中国人、、、",
+        "id": "1841626911228780545",
+        "location": "1937号猪圈1213窝",
+        "name": "🧸憤怒小熊愛莉莎🍻🎌",
+        "pinned_tweet_id": "1865679988986646794",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864122049582780417/Ii5Kh-SQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 885,
+          "following_count": 440,
+          "like_count": 1546,
+          "listed_count": 3,
+          "media_count": 105,
+          "tweet_count": 791
+        },
+        "username": "kujou_Queen",
+        "verified": false
+      }
+    ]
+  }
+}

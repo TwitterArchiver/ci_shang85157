@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1957430142206443751",
+    "created_at": "2025-08-19T01:54:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-19T02:54:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957622186120032329"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1776529486143795200",
+          "start": 0,
+          "username": "lennon_joh99197"
+        },
+        {
+          "end": 29,
+          "id": "1898675806966341632",
+          "start": 17,
+          "username": "Lillcuainil"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957622186120032329",
+    "in_reply_to_user_id": "1776529486143795200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957510948656480531",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lennon_joh99197 @Lillcuainil 你啊你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1957430142206443751",
+        "created_at": "2025-08-19T01:54:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T02:54:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957622186120032329"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1776529486143795200",
+              "start": 0,
+              "username": "lennon_joh99197"
+            },
+            {
+              "end": 29,
+              "id": "1898675806966341632",
+              "start": 17,
+              "username": "Lillcuainil"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957622186120032329",
+        "in_reply_to_user_id": "1776529486143795200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957510948656480531",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lennon_joh99197 @Lillcuainil 你啊你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776529486143795200",
+        "conversation_id": "1957430142206443751",
+        "created_at": "2025-08-18T18:32:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T19:32:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957510948656480531"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1898675806966341632",
+              "start": 0,
+              "username": "Lillcuainil"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957510948656480531",
+        "in_reply_to_user_id": "1898675806966341632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957430142206443751",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lillcuainil 这是真的🚬"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像失去了一条时间线，算了，我们从来吧",
+        "id": "1826281483675299840",
+        "name": "泉方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 704,
+          "following_count": 550,
+          "like_count": 12900,
+          "listed_count": 2,
+          "media_count": 159,
+          "tweet_count": 5272
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-06T08:37:13.000Z",
+        "description": "08男高（休学中）/互联网幽灵/哈基米哈基汪爱好者/休学抑郁文艺阴湿养胃长发男（存疑",
+        "id": "1776529486143795200",
+        "location": "在你身后",
+        "name": "江列侬",
+        "pinned_tweet_id": "1934252219282641310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936360085837484032/RAGNfm3l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 344,
+          "like_count": 10344,
+          "listed_count": 0,
+          "media_count": 234,
+          "tweet_count": 2715
+        },
+        "username": "lennon_joh99197",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-09T10:03:06.000Z",
+        "description": "我是小礼呀！碎碎念日常、请多跟我聊聊天吧！互关可以加wx找我玩！我很可爱请给我发腹肌照好吗？好的！😈我爱发啥发啥别他妈来贴脸。cnm 自用蜂鸟VPN https://t.co/eXg64PaLYj",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 98,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=E9vmBwfD",
+                "start": 75,
+                "url": "https://t.co/eXg64PaLYj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lill19761",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lill19761",
+                "start": 0,
+                "url": "https://t.co/AiQNlOcvfJ"
+              }
+            ]
+          }
+        },
+        "id": "1898675806966341632",
+        "location": "想向我提问请戳👉🏻",
+        "name": "lii",
+        "pinned_tweet_id": "1949447799474708689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950087013111349248/UH0FeHIY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1579,
+          "following_count": 214,
+          "like_count": 153,
+          "listed_count": 4,
+          "media_count": 965,
+          "tweet_count": 14886
+        },
+        "url": "https://t.co/AiQNlOcvfJ",
+        "username": "Lillcuainil",
+        "verified": false
+      }
+    ]
+  }
+}

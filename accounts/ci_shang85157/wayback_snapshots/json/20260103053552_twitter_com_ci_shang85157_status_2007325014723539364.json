@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "2007241323464847767",
+    "created_at": "2026-01-03T05:35:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T06:35:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007325014723539364"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1795232279733886976",
+          "start": 0,
+          "username": "AiXipi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007325014723539364",
+    "in_reply_to_user_id": "1795232279733886976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007241323464847767",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AiXipi 这个很棒吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5033,
+        "height": 1280,
+        "media_key": "13_2007241149086609417",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2007241149086609417/img/MIMo-j1nBpy_2MRK.jpg",
+        "public_metrics": {
+          "view_count": 39
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2007241149086609417/vid/avc1/320x568/Ke4YsOMfBxDXDZi1.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2007241149086609417/vid/avc1/480x852/Ww3jFMtJwHdoqlTJ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2007241149086609417/vid/avc1/720x1280/DGgl7MSXSC5xqUVW.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2007241149086609417/pl/l5MKa6nXTvdCM_ZM.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 16500,
+        "height": 1280,
+        "media_key": "13_2007241149095002112",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2007241149095002112/img/fM1LgzA-Q2Zq-RT_.jpg",
+        "public_metrics": {
+          "view_count": 9
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2007241149095002112/vid/avc1/320x568/8xoaQq26Czf2kGj4.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2007241149095002112/vid/avc1/480x852/qXDhmVaD8JbJRn99.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2007241149095002112/vid/avc1/720x1280/IzwsmuSNjsK5O3d6.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2007241149095002112/pl/Ryr0fVVoSyyGxTP0.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "2007241323464847767",
+        "created_at": "2026-01-03T05:35:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T06:35:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007325014723539364"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1795232279733886976",
+              "start": 0,
+              "username": "AiXipi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007325014723539364",
+        "in_reply_to_user_id": "1795232279733886976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007241323464847767",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AiXipi 这个很棒吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2007241149086609417",
+            "13_2007241149095002112"
+          ]
+        },
+        "author_id": "1795232279733886976",
+        "conversation_id": "2007241323464847767",
+        "created_at": "2026-01-03T00:03:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T01:03:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007241323464847767"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 14,
+              "tag": "收奴"
+            },
+            {
+              "end": 21,
+              "start": 18,
+              "tag": "抖s"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WEV648CAJv",
+              "end": 45,
+              "expanded_url": "https://x.com/AiXipi/status/2007241323464847767/video/1",
+              "media_key": "13_2007241149086609417",
+              "start": 22,
+              "url": "https://t.co/WEV648CAJv"
+            },
+            {
+              "display_url": "pic.x.com/WEV648CAJv",
+              "end": 45,
+              "expanded_url": "https://x.com/AiXipi/status/2007241323464847767/video/1",
+              "media_key": "13_2007241149095002112",
+              "start": 22,
+              "url": "https://t.co/WEV648CAJv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007241323464847767",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 98,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "這是我在古時候拍的擦邊視頻 #收奴 #抖s https://t.co/WEV648CAJv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧 https://t.co/ILEWFdOiJs。 ngl匿名问答 想交朋友或者互fo尽管私信我 每个人都会回",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%8950122",
+                "end": 45,
+                "expanded_url": "https://ngl.link/%E6%B3%8950122",
+                "start": 22,
+                "url": "https://t.co/ILEWFdOiJs"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉",
+        "pinned_tweet_id": "2006393841994371256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978274114138996736/r_khhgIT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 918,
+          "following_count": 674,
+          "like_count": 20290,
+          "listed_count": 2,
+          "media_count": 230,
+          "tweet_count": 7431
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-27T23:15:16.000Z",
+        "description": "34歲 聖死寂殿撒旦苦修院 惡魔學係碩士⛧ @xiaoyv_zero",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "xiaoyv_zero"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/84874022",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/84874022",
+                "start": 0,
+                "url": "https://t.co/6OD2gBOI3j"
+              }
+            ]
+          }
+        },
+        "id": "1795232279733886976",
+        "location": "脑子里",
+        "name": "✧⋄⋆⋅𝔵𝔦𝔵𝔦𝔭𝔦𝔤𝔦𝔢𝔵⋅⋆⋄✧",
+        "pinned_tweet_id": "1974089926431162713",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007287598734012416/mENUkL7Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1600,
+          "following_count": 158,
+          "like_count": 3257,
+          "listed_count": 9,
+          "media_count": 22,
+          "tweet_count": 928
+        },
+        "url": "https://t.co/6OD2gBOI3j",
+        "username": "AiXipi",
+        "verified": false
+      }
+    ]
+  }
+}

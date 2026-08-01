@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1896916196672651277",
+    "created_at": "2025-03-05T05:54:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-05T06:54:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897163715595899192"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1804511862366572546",
+          "start": 0,
+          "username": "Yuyejing1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897163715595899192",
+    "in_reply_to_user_id": "1804511862366572546",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897112669909663930",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuyejing1 别哭，有我呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1896916196672651277",
+        "created_at": "2025-03-05T05:54:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-05T06:54:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897163715595899192"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1804511862366572546",
+              "start": 0,
+              "username": "Yuyejing1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897163715595899192",
+        "in_reply_to_user_id": "1804511862366572546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897112669909663930",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuyejing1 别哭，有我呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804511862366572546",
+        "conversation_id": "1896916196672651277",
+        "created_at": "2025-03-05T02:31:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-05T03:31:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897112669909663930"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1826281483675299840",
+              "start": 0,
+              "username": "ci_shang85157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897112669909663930",
+        "in_reply_to_user_id": "1826281483675299840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896916196672651277",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ci_shang85157 哭了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲\n小猫：@kimKAAAAAILUV",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kimKAAAAAILUV"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844188914451365901/gNnOT4GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 294,
+          "like_count": 2830,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 1297
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-22T13:49:03.000Z",
+        "description": "随便玩玩/推广自辩 自辨！",
+        "id": "1804511862366572546",
+        "location": "🚪70",
+        "name": "靖",
+        "pinned_tweet_id": "1896914748979159277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828090599259742208/iWBKahpm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5808,
+          "following_count": 81,
+          "like_count": 1492,
+          "listed_count": 9,
+          "media_count": 20,
+          "tweet_count": 1066
+        },
+        "username": "Yuyejing1",
+        "verified": false
+      }
+    ]
+  }
+}

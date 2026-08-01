@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1879414297442562255",
+    "created_at": "2025-01-15T19:38:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-15T20:38:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1879614102986989965"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1548730132432568326",
+          "start": 0,
+          "username": "ILove_Jin_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1879614102986989965",
+    "in_reply_to_user_id": "1548730132432568326",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1879414297442562255",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ILove_Jin_ 神秘感会让人有探索的欲望"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1879414297442562255].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1879414297442562255",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1879414297442562255"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1879414297442562255",
+        "created_at": "2025-01-15T19:38:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-15T20:38:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1879614102986989965"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1548730132432568326",
+              "start": 0,
+              "username": "ILove_Jin_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879614102986989965",
+        "in_reply_to_user_id": "1548730132432568326",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879414297442562255",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ILove_Jin_ 神秘感会让人有探索的欲望"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲",
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844188914451365901/gNnOT4GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 228,
+          "like_count": 2226,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 1014
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-17T18:03:33.000Z",
+        "description": "上升处女，Army。只嘲笑他人命运从不惋惜🤭圣母爱支病极端男权请绕道",
+        "id": "1548730132432568326",
+        "location": "Japan",
+        "name": "The V",
+        "pinned_tweet_id": "1878009798496756220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876881769892618240/7Nkzfc0w_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 2873,
+          "following_count": 481,
+          "like_count": 51943,
+          "listed_count": 9,
+          "media_count": 594,
+          "tweet_count": 16752
+        },
+        "username": "ILove_Jin_",
+        "verified": false
+      }
+    ]
+  }
+}

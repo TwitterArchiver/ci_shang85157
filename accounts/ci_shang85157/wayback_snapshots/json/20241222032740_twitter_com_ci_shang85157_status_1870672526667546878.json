@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1870672515351388160"
+      ]
+    },
+    "author_id": "1826281483675299840",
+    "conversation_id": "1870672526667546878",
+    "created_at": "2024-12-22T03:27:40.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-22T04:27:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1870672526667546878"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wtv1b7Un02",
+          "end": 34,
+          "expanded_url": "https://x.com/ci_shang85157/status/1870672526667546878/photo/1",
+          "media_key": "3_1870672515351388160",
+          "start": 11,
+          "url": "https://t.co/wtv1b7Un02"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1870672526667546878",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "感受到了圈米的力量！ https://t.co/wtv1b7Un02"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1870672526667546878].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1870672526667546878",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1870672526667546878"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 662,
+        "media_key": "3_1870672515351388160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GfX2vdCbIAAzVqH.jpg",
+        "width": 1079
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，有兴趣就可以一起玩",
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844188914451365901/gNnOT4GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 270,
+          "like_count": 1315,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 505
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      }
+    ]
+  }
+}

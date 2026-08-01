@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1959992369908236311",
+    "created_at": "2025-08-26T08:56:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-26T09:56:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960265126684066084"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1594566045263880192",
+          "start": 0,
+          "username": "Rinyo0712"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960265126684066084",
+    "in_reply_to_user_id": "1594566045263880192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960264791139758491",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rinyo0712 不是我，我是搞抽象的，这个跟投厕没区别了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1959992369908236311",
+        "created_at": "2025-08-26T08:56:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T09:56:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960265126684066084"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1594566045263880192",
+              "start": 0,
+              "username": "Rinyo0712"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960265126684066084",
+        "in_reply_to_user_id": "1594566045263880192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960264791139758491",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rinyo0712 不是我，我是搞抽象的，这个跟投厕没区别了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1594566045263880192",
+        "conversation_id": "1959992369908236311",
+        "created_at": "2025-08-26T08:55:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T09:55:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960264791139758491"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1826281483675299840",
+              "start": 0,
+              "username": "ci_shang85157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960264791139758491",
+        "in_reply_to_user_id": "1826281483675299840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960178575732363675",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ci_shang85157 感觉妆娘有点踩坑，瞳子不怎么显色还少了个领带，不过自己开心就好啦！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像失去了一条时间线，算了，我们从来吧",
+        "id": "1826281483675299840",
+        "name": "泉方",
+        "pinned_tweet_id": "1932824152811188484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 727,
+          "following_count": 574,
+          "like_count": 13447,
+          "listed_count": 3,
+          "media_count": 164,
+          "tweet_count": 5461
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-21T05:39:16.000Z",
+        "description": "",
+        "id": "1594566045263880192",
+        "name": "Ringyu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1621340302618537984/BpqpoDsc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 252,
+          "like_count": 1280,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 662
+        },
+        "username": "Rinyo0712",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1971934764920864931",
+    "created_at": "2025-09-27T14:36:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-27T15:36:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971947031125209279"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1904150959229734912",
+          "start": 0,
+          "username": "mengmeng091297"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971947031125209279",
+    "in_reply_to_user_id": "1904150959229734912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971934764920864931",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mengmeng091297 这个怎么算"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1971934764920864931",
+        "created_at": "2025-09-27T14:36:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T15:36:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971947031125209279"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1904150959229734912",
+              "start": 0,
+              "username": "mengmeng091297"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971947031125209279",
+        "in_reply_to_user_id": "1904150959229734912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971934764920864931",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mengmeng091297 这个怎么算"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904150959229734912",
+        "conversation_id": "1971934764920864931",
+        "created_at": "2025-09-27T13:47:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T14:47:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971934764920864931"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1971934764920864931",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "秋分室友给我算塔罗 说我到冬至这段时间感情上会有三人行🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧 小男友@pertx114514还有穹璃 互fo可以私信我交朋友什么的 反正我还挺闲 然后就是没有然后了 一切都是最好的安排https://t.co/ILEWFdOQz0。 ngl匿名问答",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "pertx114514"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%8950122",
+                "end": 106,
+                "expanded_url": "https://ngl.link/%E6%B3%8950122",
+                "start": 83,
+                "url": "https://t.co/ILEWFdOQz0"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉方",
+        "pinned_tweet_id": "1970427616353296660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 808,
+          "following_count": 646,
+          "like_count": 16083,
+          "listed_count": 2,
+          "media_count": 193,
+          "tweet_count": 6326
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-24T12:40:08.000Z",
+        "description": "",
+        "id": "1904150959229734912",
+        "name": "梦梦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960792117137301507/eZYFeeRR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 69,
+          "like_count": 1638,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 746
+        },
+        "username": "mengmeng091297",
+        "verified": false
+      }
+    ]
+  }
+}

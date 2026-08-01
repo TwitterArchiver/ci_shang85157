@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1967600228183523394",
+    "created_at": "2025-09-15T17:14:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-15T18:14:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967638049652969853"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1774080135173664768",
+          "start": 0,
+          "username": "mimao_miao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967638049652969853",
+    "in_reply_to_user_id": "1774080135173664768",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967600228183523394",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mimao_miao 很糖"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 267,
+        "media_key": "3_1967600225595580416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G05R-vqaYAAOyGi.jpg",
+        "width": 439
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1967600228183523394",
+        "created_at": "2025-09-15T17:14:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T18:14:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967638049652969853"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1774080135173664768",
+              "start": 0,
+              "username": "mimao_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967638049652969853",
+        "in_reply_to_user_id": "1774080135173664768",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967600228183523394",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mimao_miao 很糖"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967600225595580416"
+          ]
+        },
+        "author_id": "1774080135173664768",
+        "conversation_id": "1967600228183523394",
+        "created_at": "2025-09-15T14:43:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T15:43:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967600228183523394"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UPiaSRd1an",
+              "end": 46,
+              "expanded_url": "https://x.com/mimao_miao/status/1967600228183523394/photo/1",
+              "media_key": "3_1967600225595580416",
+              "start": 23,
+              "url": "https://t.co/UPiaSRd1an"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967600228183523394",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 814,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我对用这种头像的人的好感度为-9999999 https://t.co/UPiaSRd1an"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧   小男友@pertx114514\n星努@wuyan_sleeeepy还有穹璃",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 27,
+                "username": "pertx114514"
+              },
+              {
+                "end": 57,
+                "start": 42,
+                "username": "wuyan_sleeeepy"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉方",
+        "pinned_tweet_id": "1932824152811188484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 782,
+          "following_count": 615,
+          "like_count": 14966,
+          "listed_count": 3,
+          "media_count": 180,
+          "tweet_count": 5954
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-30T14:24:17.000Z",
+        "description": "1i-3i-4i丨邪恶猫今年刚满一十七丨没🚪别问了丨不回意义不明的hi丨聊黄滚，给我发鸡吧更是祝烂屌丨骂我骚扰我的都是被操烂屁眼的死肥猪丨小号 @aomiao_o 互关可以申请丨提问箱:https://t.co/xdXIdkAjQv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 72,
+                "username": "aomiao_o"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/lll99265237548…",
+                "end": 116,
+                "expanded_url": "https://ngl.link/lll9926523754861",
+                "start": 93,
+                "url": "https://t.co/xdXIdkAjQv"
+              }
+            ]
+          }
+        },
+        "id": "1774080135173664768",
+        "name": "咪猫",
+        "pinned_tweet_id": "1960987052952183136",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964011995579215872/4r1gl97P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1316,
+          "following_count": 263,
+          "like_count": 5882,
+          "listed_count": 1,
+          "media_count": 102,
+          "tweet_count": 2115
+        },
+        "username": "mimao_miao",
+        "verified": false
+      }
+    ]
+  }
+}

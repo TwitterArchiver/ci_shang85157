@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1918368260237738321",
+    "created_at": "2025-05-02T21:02:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-02T22:02:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1918410805290442865"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1226849579951243266",
+          "start": 0,
+          "username": "admi_n123456"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918410805290442865",
+    "in_reply_to_user_id": "1226849579951243266",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918368260237738321",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@admi_n123456 还不错"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1705,
+        "media_key": "3_1918368089118486528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gp9pnPRaMAA9OvG.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1706,
+        "media_key": "3_1918368092511715330",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gp9pnb6awAIEL_J.jpg",
+        "width": 1279
+      },
+      {
+        "height": 1706,
+        "media_key": "3_1918368112787017728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gp9poncbUAAGSht.jpg",
+        "width": 1279
+      },
+      {
+        "height": 4096,
+        "media_key": "3_1918368124329705472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gp9ppScawAAIyQ7.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1918368260237738321",
+        "created_at": "2025-05-02T21:02:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-02T22:02:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918410805290442865"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1226849579951243266",
+              "start": 0,
+              "username": "admi_n123456"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918410805290442865",
+        "in_reply_to_user_id": "1226849579951243266",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918368260237738321",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@admi_n123456 还不错"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1918368089118486528",
+            "3_1918368092511715330",
+            "3_1918368112787017728",
+            "3_1918368124329705472"
+          ]
+        },
+        "author_id": "1226849579951243266",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1918368260237738321",
+        "created_at": "2025-05-02T18:13:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-02T19:13:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1918368260237738321"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fldyB6SRPV",
+              "end": 44,
+              "expanded_url": "https://x.com/admi_n123456/status/1918368260237738321/photo/1",
+              "media_key": "3_1918368089118486528",
+              "start": 21,
+              "url": "https://t.co/fldyB6SRPV"
+            },
+            {
+              "display_url": "pic.x.com/fldyB6SRPV",
+              "end": 44,
+              "expanded_url": "https://x.com/admi_n123456/status/1918368260237738321/photo/1",
+              "media_key": "3_1918368092511715330",
+              "start": 21,
+              "url": "https://t.co/fldyB6SRPV"
+            },
+            {
+              "display_url": "pic.x.com/fldyB6SRPV",
+              "end": 44,
+              "expanded_url": "https://x.com/admi_n123456/status/1918368260237738321/photo/1",
+              "media_key": "3_1918368112787017728",
+              "start": 21,
+              "url": "https://t.co/fldyB6SRPV"
+            },
+            {
+              "display_url": "pic.x.com/fldyB6SRPV",
+              "end": 44,
+              "expanded_url": "https://x.com/admi_n123456/status/1918368260237738321/photo/1",
+              "media_key": "3_1918368124329705472",
+              "start": 21,
+              "url": "https://t.co/fldyB6SRPV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918368260237738321",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我画的卧蚕和没有一样\n头一天就油了我服了 https://t.co/fldyB6SRPV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 438,
+          "following_count": 424,
+          "like_count": 7845,
+          "listed_count": 1,
+          "media_count": 136,
+          "tweet_count": 3343
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-10T12:45:17.000Z",
+        "description": "叫我被窝 非二元  双相一型混合 半死不活 身高 150/48kg 地雷系（心理） 喜欢我的人都有恋丑癖 🚪88 福利群+绿泡泡",
+        "id": "1226849579951243266",
+        "location": "ICU病房",
+        "name": "a d m i n",
+        "pinned_tweet_id": "1908495430838845829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840690366053564416/ullCQ_ls_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1836,
+          "following_count": 1227,
+          "like_count": 13721,
+          "listed_count": 5,
+          "media_count": 1197,
+          "tweet_count": 8099
+        },
+        "username": "admi_n123456",
+        "verified": false
+      }
+    ]
+  }
+}

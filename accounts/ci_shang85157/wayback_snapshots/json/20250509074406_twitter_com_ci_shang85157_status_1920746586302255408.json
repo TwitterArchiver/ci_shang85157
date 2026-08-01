@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1920500597280878893",
+    "created_at": "2025-05-09T07:44:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-09T08:44:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920746586302255408"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1612045525850939393",
+          "start": 0,
+          "username": "waretowatasi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920746586302255408",
+    "in_reply_to_user_id": "1612045525850939393",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920736872701001936",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@waretowatasi 私も"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1920500597280878893",
+        "created_at": "2025-05-09T07:44:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-09T08:44:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920746586302255408"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1612045525850939393",
+              "start": 0,
+              "username": "waretowatasi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920746586302255408",
+        "in_reply_to_user_id": "1612045525850939393",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920736872701001936",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@waretowatasi 私も"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1612045525850939393",
+        "conversation_id": "1920500597280878893",
+        "created_at": "2025-05-09T07:05:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-09T08:05:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920736872701001936"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1826281483675299840",
+              "start": 0,
+              "username": "ci_shang85157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920736872701001936",
+        "in_reply_to_user_id": "1826281483675299840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920500597280878893",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ci_shang85157 お金があられば......"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 513,
+          "following_count": 473,
+          "like_count": 8905,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 3748
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-08T11:17:18.000Z",
+        "description": "初めまして、これからよろしくね！休みの時にゲームが大好きです。N3のために日本語を勉強しています。毎日は頑張っています！",
+        "id": "1612045525850939393",
+        "name": "辺緣游荡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917956832167071744/ESlgbhD4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 136,
+          "like_count": 2719,
+          "listed_count": 2,
+          "media_count": 66,
+          "tweet_count": 1187
+        },
+        "username": "waretowatasi",
+        "verified": false
+      }
+    ]
+  }
+}

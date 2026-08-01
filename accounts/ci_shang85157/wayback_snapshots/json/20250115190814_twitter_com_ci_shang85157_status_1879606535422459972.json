@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1879606532847099904"
+      ]
+    },
+    "author_id": "1826281483675299840",
+    "conversation_id": "1879318583953821841",
+    "created_at": "2025-01-15T19:08:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-15T20:08:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1879606535422459972"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1666599054917218305",
+          "start": 0,
+          "username": "kirakira4th"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eFGiPE5kMS",
+          "end": 36,
+          "expanded_url": "https://x.com/ci_shang85157/status/1879606535422459972/photo/1",
+          "media_key": "3_1879606532847099904",
+          "start": 13,
+          "url": "https://t.co/eFGiPE5kMS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1879606535422459972",
+    "in_reply_to_user_id": "1666599054917218305",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1879318583953821841",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kirakira4th https://t.co/eFGiPE5kMS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1879606532847099904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GhW0Ltva4AAcaQM.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1879606532847099904"
+          ]
+        },
+        "author_id": "1826281483675299840",
+        "conversation_id": "1879318583953821841",
+        "created_at": "2025-01-15T19:08:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-15T20:08:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1879606535422459972"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1666599054917218305",
+              "start": 0,
+              "username": "kirakira4th"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eFGiPE5kMS",
+              "end": 36,
+              "expanded_url": "https://x.com/ci_shang85157/status/1879606535422459972/photo/1",
+              "media_key": "3_1879606532847099904",
+              "start": 13,
+              "url": "https://t.co/eFGiPE5kMS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879606535422459972",
+        "in_reply_to_user_id": "1666599054917218305",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879318583953821841",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kirakira4th https://t.co/eFGiPE5kMS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1879318578270445568"
+          ]
+        },
+        "author_id": "1666599054917218305",
+        "conversation_id": "1879318583953821841",
+        "created_at": "2025-01-15T00:04:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-15T01:04:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1879318583953821841"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UqlvPLs8zW",
+              "end": 23,
+              "expanded_url": "https://x.com/kirakira4th/status/1879318583953821841/photo/1",
+              "media_key": "3_1879318578270445568",
+              "start": 0,
+              "url": "https://t.co/UqlvPLs8zW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879318583953821841",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2930,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/UqlvPLs8zW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲",
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844188914451365901/gNnOT4GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 227,
+          "like_count": 2217,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 1009
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-08T00:12:47.000Z",
+        "description": "你觉得是那就是",
+        "id": "1666599054917218305",
+        "name": "仿生井盖会梦见电子河南人吗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875792193795088384/0kEOTGgO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10544,
+          "following_count": 2317,
+          "like_count": 42160,
+          "listed_count": 16,
+          "media_count": 248,
+          "tweet_count": 10867
+        },
+        "username": "kirakira4th",
+        "verified": false
+      }
+    ]
+  }
+}

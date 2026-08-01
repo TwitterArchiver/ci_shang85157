@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1916457257442906112"
+      ]
+    },
+    "author_id": "1826281483675299840",
+    "conversation_id": "1916457261708583195",
+    "created_at": "2025-04-27T11:39:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-27T12:39:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1916457261708583195"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/G3KYpnNpug",
+          "end": 38,
+          "expanded_url": "https://x.com/ci_shang85157/status/1916457261708583195/photo/1",
+          "media_key": "3_1916457257442906112",
+          "start": 15,
+          "url": "https://t.co/G3KYpnNpug"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916457261708583195",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谁想看我的大🐔8️⃣，😈😈😈 https://t.co/G3KYpnNpug"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1916457261708583195].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1916457261708583195",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1916457261708583195"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 852,
+        "media_key": "3_1916457257442906112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpifuMkakAADXKb.jpg",
+        "width": 834
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 410,
+          "following_count": 408,
+          "like_count": 7051,
+          "listed_count": 1,
+          "media_count": 125,
+          "tweet_count": 3093
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      }
+    ]
+  }
+}

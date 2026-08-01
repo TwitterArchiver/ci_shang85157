@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1920858776329969818",
+    "created_at": "2025-05-10T08:35:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-10T09:35:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921121951185084499"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "702491170698457089",
+          "start": 0,
+          "username": "migun030"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921121951185084499",
+    "in_reply_to_user_id": "702491170698457089",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920858776329969818",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@migun030 “波奇怪物”"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 538,
+        "media_key": "3_1920858716188057601",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqhC00IaIAERzU5.jpg",
+        "width": 381
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1920858776329969818",
+        "created_at": "2025-05-10T08:35:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-10T09:35:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921121951185084499"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "702491170698457089",
+              "start": 0,
+              "username": "migun030"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921121951185084499",
+        "in_reply_to_user_id": "702491170698457089",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920858776329969818",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@migun030 “波奇怪物”"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1920858716188057601"
+          ]
+        },
+        "author_id": "702491170698457089",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1920858776329969818",
+        "created_at": "2025-05-09T15:09:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-09T16:09:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920858776329969818"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XNGugXP7QC",
+              "end": 34,
+              "expanded_url": "https://x.com/migun030/status/1920858776329969818/photo/1",
+              "media_key": "3_1920858716188057601",
+              "start": 11,
+              "url": "https://t.co/XNGugXP7QC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920858776329969818",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 184,
+          "impression_count": 67241,
+          "like_count": 1213,
+          "quote_count": 16,
+          "reply_count": 51,
+          "retweet_count": 53
+        },
+        "reply_settings": "everyone",
+        "text": "這藥量跟紅茶有得比了 https://t.co/XNGugXP7QC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 529,
+          "following_count": 484,
+          "like_count": 9071,
+          "listed_count": 2,
+          "media_count": 146,
+          "tweet_count": 3831
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2016-02-24T13:52:01.000Z",
+        "description": "台灣的創作者\n\n台湾のYoutuber",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCHXLU…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCHXLU4JyS2uDL2dy9QG159g/featured",
+                "start": 0,
+                "url": "https://t.co/fEwfxCYlSn"
+              }
+            ]
+          }
+        },
+        "id": "702491170698457089",
+        "location": "台灣",
+        "name": "MIGUN米柑🫥歡迎合作邀約",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1344289985281736705/19M7H4yq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3000,
+          "following_count": 706,
+          "like_count": 3400,
+          "listed_count": 13,
+          "media_count": 434,
+          "tweet_count": 4115
+        },
+        "url": "https://t.co/fEwfxCYlSn",
+        "username": "migun030",
+        "verified": false
+      }
+    ]
+  }
+}

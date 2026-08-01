@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1685263779645550592",
+    "created_at": "2024-09-23T20:30:20.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-23T21:30:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1838314980481077599"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1472814126095237123",
+          "start": 0,
+          "username": "H03949416"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1838314980481077599",
+    "in_reply_to_user_id": "1472814126095237123",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1685263779645550592",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@H03949416 为什么不戴个锁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1685263779645550592",
+        "created_at": "2024-09-23T20:30:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-23T21:30:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1838314980481077599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1472814126095237123",
+              "start": 0,
+              "username": "H03949416"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838314980481077599",
+        "in_reply_to_user_id": "1472814126095237123",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1685263779645550592",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@H03949416 为什么不戴个锁"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1685263765238063104"
+          ]
+        },
+        "author_id": "1472814126095237123",
+        "conversation_id": "1685263779645550592",
+        "created_at": "2023-07-29T12:19:30.000Z",
+        "edit_controls": {
+          "editable_until": "2023-07-29T13:19:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1685263779645550592"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/itcf1xrbat",
+              "end": 23,
+              "expanded_url": "https://twitter.com/H03949416/status/1685263779645550592/photo/1",
+              "media_key": "3_1685263765238063104",
+              "start": 0,
+              "url": "https://t.co/itCf1XrbaT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1685263779645550592",
+        "lang": "zxx",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1904,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/itCf1XrbaT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "",
+        "id": "1826281483675299840",
+        "name": "伤心慈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826328643179802624/ScytKW-C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 117,
+          "like_count": 247,
+          "listed_count": 0,
+          "tweet_count": 13
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-20T06:20:32.000Z",
+        "description": "襄阳1 QQ 315533354",
+        "id": "1472814126095237123",
+        "location": "湖北襄阳",
+        "name": "日晕金钱豹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558245121161736193/CdDgXxiU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 3597,
+          "like_count": 121,
+          "listed_count": 0,
+          "tweet_count": 396
+        },
+        "username": "H03949416",
+        "verified": false
+      }
+    ]
+  }
+}

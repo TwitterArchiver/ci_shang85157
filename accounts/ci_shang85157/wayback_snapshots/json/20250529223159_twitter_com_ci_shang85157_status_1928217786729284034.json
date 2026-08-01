@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1928160617019437553",
+    "created_at": "2025-05-29T22:31:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-29T23:31:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928217786729284034"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1756909109788753920",
+          "start": 0,
+          "username": "BaoFan7551"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928217786729284034",
+    "in_reply_to_user_id": "1756909109788753920",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928160617019437553",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BaoFan7551 香草泥宝宝"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1928160461977178113",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsIzuW4aUAExI8E.jpg",
+        "width": 933
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1928160462270779394",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsIzuX-aUAIPhRU.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1928160606299054080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsIz2whbYAAkQEy.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1928160617019437553",
+        "created_at": "2025-05-29T22:31:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-29T23:31:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928217786729284034"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1756909109788753920",
+              "start": 0,
+              "username": "BaoFan7551"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928217786729284034",
+        "in_reply_to_user_id": "1756909109788753920",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928160617019437553",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BaoFan7551 香草泥宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1928160461977178113",
+            "3_1928160462270779394",
+            "3_1928160606299054080"
+          ]
+        },
+        "author_id": "1756909109788753920",
+        "conversation_id": "1928160617019437553",
+        "created_at": "2025-05-29T18:44:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-29T19:44:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928160617019437553"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ALmfa20kHq",
+              "end": 70,
+              "expanded_url": "https://x.com/BaoFan7551/status/1928160617019437553/photo/1",
+              "media_key": "3_1928160461977178113",
+              "start": 47,
+              "url": "https://t.co/ALmfa20kHq"
+            },
+            {
+              "display_url": "pic.x.com/ALmfa20kHq",
+              "end": 70,
+              "expanded_url": "https://x.com/BaoFan7551/status/1928160617019437553/photo/1",
+              "media_key": "3_1928160462270779394",
+              "start": 47,
+              "url": "https://t.co/ALmfa20kHq"
+            },
+            {
+              "display_url": "pic.x.com/ALmfa20kHq",
+              "end": 70,
+              "expanded_url": "https://x.com/BaoFan7551/status/1928160617019437553/photo/1",
+              "media_key": "3_1928160606299054080",
+              "start": 47,
+              "url": "https://t.co/ALmfa20kHq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928160617019437553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大晚上宿舍里偷偷拍照喵\n腿型太差了，拍出来跟个大鸡腿一样，过阵子准备去游泳，大家伙别嫌弃喵🥺 https://t.co/ALmfa20kHq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲，生理性别男，请不要私信给我发那种奇怪的东西了\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 74,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 605,
+          "following_count": 532,
+          "like_count": 10812,
+          "listed_count": 2,
+          "media_count": 171,
+          "tweet_count": 4478
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-12T05:12:40.000Z",
+        "description": "05 年性别男读大学/可互 fo/取向未知但是对所有人包容除了傻逼人傻逼事情",
+        "id": "1756909109788753920",
+        "location": "china mainland",
+        "name": "包着番茄籽的番茄",
+        "pinned_tweet_id": "1923230527705817125",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876828438067363841/Jp8N96wc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 363,
+          "following_count": 1012,
+          "like_count": 327,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 1847
+        },
+        "username": "BaoFan7551",
+        "verified": false
+      }
+    ]
+  }
+}

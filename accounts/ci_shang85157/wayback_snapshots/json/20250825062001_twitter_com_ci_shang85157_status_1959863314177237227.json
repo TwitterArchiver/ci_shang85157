@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1959860309679862088",
+    "created_at": "2025-08-25T06:20:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-25T07:20:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959863314177237227"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1948974359798005760",
+          "start": 0,
+          "username": "duduarmy319575"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959863314177237227",
+    "in_reply_to_user_id": "1948974359798005760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959860309679862088",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@duduarmy319575 我想吃这个汉堡，最好是麦当劳的，华莱士也可以"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1959860309679862088",
+        "created_at": "2025-08-25T06:20:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T07:20:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959863314177237227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1948974359798005760",
+              "start": 0,
+              "username": "duduarmy319575"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959863314177237227",
+        "in_reply_to_user_id": "1948974359798005760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959860309679862088",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@duduarmy319575 我想吃这个汉堡，最好是麦当劳的，华莱士也可以"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948974359798005760",
+        "conversation_id": "1959860309679862088",
+        "created_at": "2025-08-25T06:08:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T07:08:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959860309679862088"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1959860309679862088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "卧槽我只吃了一包薯条和土豆泥和一个鸡腿就饱了。剩下的谁吃给你寄过去，汉堡都没动"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像失去了一条时间线，算了，我们从来吧",
+        "id": "1826281483675299840",
+        "name": "泉方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 720,
+          "following_count": 573,
+          "like_count": 13322,
+          "listed_count": 3,
+          "media_count": 161,
+          "tweet_count": 5410
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-26T05:11:21.000Z",
+        "description": "上网唠叨的\n我是先天超雄重度抑郁症焦虑症狂躁症\n只要主页帖子不是太猎奇的都会回关（🐔和🦆别来噢）\n非常爱吃垃圾食品\n聊骚的盗图的主页有臭玩意的死妈了",
+        "id": "1948974359798005760",
+        "location": "叽里咕噜国",
+        "name": "爱吃洋芋的洋芋",
+        "pinned_tweet_id": "1959764765011837117",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959103893595688960/gqEInB86_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 169,
+          "like_count": 752,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 269
+        },
+        "username": "duduarmy319575",
+        "verified": false
+      }
+    ]
+  }
+}

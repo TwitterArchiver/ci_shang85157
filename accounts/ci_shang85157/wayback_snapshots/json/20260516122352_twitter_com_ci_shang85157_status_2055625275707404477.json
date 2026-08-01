@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1612053907999715328",
+    "created_at": "2026-05-16T12:23:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T13:23:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055625275707404477"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1573934134212562944",
+          "start": 0,
+          "username": "daibi23_"
+        },
+        {
+          "end": 21,
+          "id": "1533024617811812352",
+          "start": 10,
+          "username": "Spr1ngW1nd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055625275707404477",
+    "in_reply_to_user_id": "1573934134212562944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1709764351908090271",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@daibi23_ @Spr1ngW1nd 现在呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1612053907999715328",
+        "created_at": "2026-05-16T12:23:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T13:23:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055625275707404477"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1573934134212562944",
+              "start": 0,
+              "username": "daibi23_"
+            },
+            {
+              "end": 21,
+              "id": "1533024617811812352",
+              "start": 10,
+              "username": "Spr1ngW1nd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055625275707404477",
+        "in_reply_to_user_id": "1573934134212562944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1709764351908090271",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@daibi23_ @Spr1ngW1nd 现在呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1573934134212562944",
+        "conversation_id": "1612053907999715328",
+        "created_at": "2023-10-05T02:56:02.000Z",
+        "edit_controls": {
+          "editable_until": "2023-10-05T03:56:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1709764351908090271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1533024617811812352",
+              "start": 0,
+              "username": "Spr1ngW1nd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1709764351908090271",
+        "in_reply_to_user_id": "1533024617811812352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19570,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1612059448746602496",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Spr1ngW1nd 想試試喵😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧 https://t.co/ILEWFdOQz0。 ngl匿名问答",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%8950122",
+                "end": 45,
+                "expanded_url": "https://ngl.link/%E6%B3%8950122",
+                "start": 22,
+                "url": "https://t.co/ILEWFdOQz0"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "永雏泉",
+        "pinned_tweet_id": "2034295067847147660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978274114138996736/r_khhgIT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1099,
+          "following_count": 729,
+          "like_count": 24299,
+          "listed_count": 2,
+          "media_count": 269,
+          "tweet_count": 8642
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-25T07:15:38.000Z",
+        "description": "",
+        "id": "1573934134212562944",
+        "name": "4989a",
+        "pinned_tweet_id": "1800366581064904948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016413454790516736/d1KIq2_C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 26,
+          "like_count": 24153,
+          "listed_count": 2,
+          "media_count": 156,
+          "tweet_count": 2816
+        },
+        "username": "daibi23_",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-04T09:55:35.000Z",
+        "description": "药物滥用的内容相关会转发到@Overdose_Wind /#StandWithUkraine/",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 46,
+                "start": 29,
+                "tag": "StandWithUkraine"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 27,
+                "start": 13,
+                "username": "Overdose_Wind"
+              }
+            ]
+          }
+        },
+        "id": "1533024617811812352",
+        "location": "Japan",
+        "name": "Spring风#参宿四",
+        "pinned_tweet_id": "1555067952335970305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1606726635713335296/TrmJq-XY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6859,
+          "following_count": 359,
+          "like_count": 4411,
+          "listed_count": 17,
+          "media_count": 450,
+          "tweet_count": 4947
+        },
+        "username": "Spr1ngW1nd",
+        "verified": false
+      }
+    ]
+  }
+}

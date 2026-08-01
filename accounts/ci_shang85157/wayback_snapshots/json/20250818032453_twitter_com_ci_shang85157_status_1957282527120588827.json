@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1957280535845425499",
+    "created_at": "2025-08-18T03:24:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-18T04:24:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957282527120588827"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1711301624726208512",
+          "start": 0,
+          "username": "sharkhopeuhappy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957282527120588827",
+    "in_reply_to_user_id": "1711301624726208512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957282397139206513",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sharkhopeuhappy 为人民服务"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1957280535845425499",
+        "created_at": "2025-08-18T03:24:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T04:24:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957282527120588827"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1711301624726208512",
+              "start": 0,
+              "username": "sharkhopeuhappy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957282527120588827",
+        "in_reply_to_user_id": "1711301624726208512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957282397139206513",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sharkhopeuhappy 为人民服务"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1711301624726208512",
+        "conversation_id": "1957280535845425499",
+        "created_at": "2025-08-18T03:24:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T04:24:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957282397139206513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1826281483675299840",
+              "start": 0,
+              "username": "ci_shang85157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957282397139206513",
+        "in_reply_to_user_id": "1826281483675299840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957282265274421499",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ci_shang85157 好好休息🫡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "退一段时间？可能是一个月？也可能不会回来了",
+        "id": "1826281483675299840",
+        "name": "泉方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 697,
+          "following_count": 544,
+          "like_count": 12794,
+          "listed_count": 2,
+          "media_count": 161,
+          "tweet_count": 5230
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-09T08:44:44.000Z",
+        "description": "♂ | welcome friend | 找个没人认识的地方发日常| 尽量不键政 | 会分享游戏&动画 | 守望先锋国服大师玩家(掉钻石了😭) | 希望你每天开心 | 仇恨的链条只能带来更多仇恨｜备用身体未启用@sharkwithhappy | 欢迎加steam好友战网好友一起玩游戏 | 互fo请私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 105,
+                "username": "sharkwithhappy"
+              }
+            ]
+          }
+        },
+        "id": "1711301624726208512",
+        "location": "斯卡里茨",
+        "name": "shark🦈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885552110156341250/gLV9MOp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 577,
+          "following_count": 608,
+          "like_count": 20071,
+          "listed_count": 0,
+          "media_count": 1188,
+          "tweet_count": 11473
+        },
+        "username": "sharkhopeuhappy",
+        "verified": false
+      }
+    ]
+  }
+}

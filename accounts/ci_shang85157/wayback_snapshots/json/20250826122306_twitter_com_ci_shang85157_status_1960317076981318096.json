@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1960311657558626805",
+    "created_at": "2025-08-26T12:23:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-26T13:23:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960317076981318096"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1746353897403498496",
+          "start": 0,
+          "username": "wuyan_sleeeepy"
+        },
+        {
+          "end": 27,
+          "id": "1824688188750712832",
+          "start": 16,
+          "username": "Gotohitory"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960317076981318096",
+    "in_reply_to_user_id": "1746353897403498496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960316345230164130",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wuyan_sleeeepy @Gotohitory 卖钱好不好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1960311657558626805",
+        "created_at": "2025-08-26T12:23:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T13:23:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960317076981318096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1746353897403498496",
+              "start": 0,
+              "username": "wuyan_sleeeepy"
+            },
+            {
+              "end": 27,
+              "id": "1824688188750712832",
+              "start": 16,
+              "username": "Gotohitory"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960317076981318096",
+        "in_reply_to_user_id": "1746353897403498496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960316345230164130",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wuyan_sleeeepy @Gotohitory 卖钱好不好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1746353897403498496",
+        "conversation_id": "1960311657558626805",
+        "created_at": "2025-08-26T12:20:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T13:20:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960316345230164130"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1824688188750712832",
+              "start": 0,
+              "username": "Gotohitory"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960316345230164130",
+        "in_reply_to_user_id": "1824688188750712832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960314068117708888",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gotohitory 很脏啊混蛋，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像失去了一条时间线，算了，我们从来吧",
+        "id": "1826281483675299840",
+        "name": "泉方",
+        "pinned_tweet_id": "1932824152811188484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 729,
+          "following_count": 574,
+          "like_count": 13474,
+          "listed_count": 3,
+          "media_count": 164,
+          "tweet_count": 5467
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-14T02:10:02.000Z",
+        "description": "这个人废话很多\n彼氏@Gotohitory ..    ⃢・ u ・⃢    .. /凑厨子阳痿主治医生@czz2360366574/非常好的猫猫爱来自三水@owl8964catさぶ@don_tgotobed",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "Gotohitory"
+              },
+              {
+                "end": 66,
+                "start": 52,
+                "username": "czz2360366574"
+              },
+              {
+                "end": 89,
+                "start": 78,
+                "username": "owl8964cat"
+              },
+              {
+                "end": 104,
+                "start": 91,
+                "username": "don_tgotobed"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wusanshui",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wusanshui",
+                "start": 0,
+                "url": "https://t.co/172LkvOsbA"
+              }
+            ]
+          }
+        },
+        "id": "1746353897403498496",
+        "location": "我想过得幸福点",
+        "name": "三水水水",
+        "pinned_tweet_id": "1945760821016932543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957421800175849472/Rt7GiUUp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249,
+          "following_count": 247,
+          "like_count": 23738,
+          "listed_count": 3,
+          "media_count": 340,
+          "tweet_count": 3488
+        },
+        "url": "https://t.co/172LkvOsbA",
+        "username": "wuyan_sleeeepy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-17T06:02:43.000Z",
+        "description": "马克思恩格斯列宁毛腊福柯黑格尔弗洛伊德拉康齐泽克阿尔都塞的学徒\n我有癔症\nʟᴇғᴛɪsᴛs & ʀɪɢʜᴛɪsᴛs ғʀɪᴇɴᴅʟʏ\n你在寻找什么？想要的答复？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/bangumi/play/e…",
+                "end": 23,
+                "expanded_url": "http://www.bilibili.com/bangumi/play/ep1449272?spm_id_from=333.337.0.0",
+                "start": 0,
+                "url": "https://t.co/SwFrhxk2nW"
+              }
+            ]
+          }
+        },
+        "id": "1824688188750712832",
+        "location": "母鸡卡国际精神分析大会被赶出去的代表 苦来兮苦已死",
+        "name": "大MortisBocchi的痛苦gAZE🍟",
+        "pinned_tweet_id": "1958117997517885785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952456944079589376/47_8n3fb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 698,
+          "following_count": 1371,
+          "like_count": 27227,
+          "listed_count": 2,
+          "media_count": 366,
+          "tweet_count": 7613
+        },
+        "url": "https://t.co/SwFrhxk2nW",
+        "username": "Gotohitory",
+        "verified": false
+      }
+    ]
+  }
+}

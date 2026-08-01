@@ -1,0 +1,554 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1919968551592403051",
+    "created_at": "2025-05-07T09:44:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-07T10:44:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920051994594566489"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1799911661324951553",
+          "start": 0,
+          "username": "XMYao1998"
+        },
+        {
+          "end": 22,
+          "id": "1374318572328001539",
+          "start": 11,
+          "username": "xyberdolls"
+        },
+        {
+          "end": 33,
+          "id": "1492931885776834563",
+          "start": 23,
+          "username": "xyberlabs"
+        },
+        {
+          "end": 43,
+          "id": "1544273013079670787",
+          "start": 34,
+          "username": "xybereum"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920051994594566489",
+    "in_reply_to_user_id": "1799911661324951553",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919968551592403051",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XMYao1998 @xyberdolls @xyberlabs @xybereum 几把不辣嘛"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 93333,
+        "height": 1920,
+        "media_key": "13_1919968458315595778",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1919968458315595778/img/kvuKB-CdmY2UBigy.jpg",
+        "public_metrics": {
+          "view_count": 31316
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1919968458315595778/vid/avc1/480x852/l0GW7VFUkHd2sDms.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1919968458315595778/vid/avc1/720x1280/1qlqtiNe6H_oWxA8.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1919968458315595778/vid/avc1/320x568/R4HIv5sCQRHp2YgB.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1919968458315595778/pl/FDbNBxIpjKa20JpI.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1919968458315595778/vid/avc1/1080x1920/WaxC9OEo2xsuk8ai.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1919968551592403051",
+        "created_at": "2025-05-07T09:44:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T10:44:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920051994594566489"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1799911661324951553",
+              "start": 0,
+              "username": "XMYao1998"
+            },
+            {
+              "end": 22,
+              "id": "1374318572328001539",
+              "start": 11,
+              "username": "xyberdolls"
+            },
+            {
+              "end": 33,
+              "id": "1492931885776834563",
+              "start": 23,
+              "username": "xyberlabs"
+            },
+            {
+              "end": 43,
+              "id": "1544273013079670787",
+              "start": 34,
+              "username": "xybereum"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920051994594566489",
+        "in_reply_to_user_id": "1799911661324951553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919968551592403051",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XMYao1998 @xyberdolls @xyberlabs @xybereum 几把不辣嘛"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1919968458315595778"
+          ]
+        },
+        "author_id": "1799911661324951553",
+        "conversation_id": "1919968551592403051",
+        "created_at": "2025-05-07T04:12:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T05:12:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919968551592403051"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 124,
+              "id": "1374318572328001539",
+              "start": 113,
+              "username": "xyberdolls"
+            },
+            {
+              "end": 135,
+              "id": "1492931885776834563",
+              "start": 125,
+              "username": "xyberlabs"
+            },
+            {
+              "end": 145,
+              "id": "1544273013079670787",
+              "start": 136,
+              "username": "xybereum"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DmGRBpIdZR",
+              "end": 169,
+              "expanded_url": "https://x.com/XMYao1998/status/1919968551592403051/video/1",
+              "media_key": "13_1919968458315595778",
+              "start": 146,
+              "url": "https://t.co/DmGRBpIdZR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919968551592403051",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 337,
+          "impression_count": 83096,
+          "like_count": 1069,
+          "quote_count": 19,
+          "reply_count": 36,
+          "retweet_count": 156
+        },
+        "reply_settings": "everyone",
+        "text": "《鸡巴精液火鸡面》\n双倍辣的火鸡面裹住鸡巴疯狂撸动，酱料直接放在马眼上品尝，用舌头把酱料怼进马眼里把精液腌入味，最后口爆出来用精液拌火鸡面，一镜到底全部吃完！\n\n🎉51入门有活动！超大优惠！\n🎬VIP群内包含全部完整版视频\n\n@xyberdolls\n@xyberlabs\n@xybereum https://t.co/DmGRBpIdZR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 492,
+          "following_count": 451,
+          "like_count": 8488,
+          "listed_count": 2,
+          "media_count": 140,
+          "tweet_count": 3563
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-09T21:09:40.000Z",
+        "description": "🔞All links/社交链接集合👉 https://t.co/RfWBGnHAwc 🩵 OF👉 https://t.co/rSx2NpO8q2 NSFW 18+",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/XMYao1998",
+                "end": 42,
+                "expanded_url": "https://linktr.ee/XMYao1998",
+                "start": 19,
+                "url": "https://t.co/RfWBGnHAwc"
+              },
+              {
+                "display_url": "onlyfans.com/xmyao1998x",
+                "end": 72,
+                "expanded_url": "https://onlyfans.com/xmyao1998x",
+                "start": 49,
+                "url": "https://t.co/rSx2NpO8q2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XMYao1998XXX",
+                "end": 23,
+                "expanded_url": "https://t.me/XMYao1998XXX",
+                "start": 0,
+                "url": "https://t.co/iGMAfoMBSf"
+              }
+            ]
+          }
+        },
+        "id": "1799911661324951553",
+        "location": "🔞🎬Telegram电报纸飞机✈️",
+        "name": "汐梦瑶🌙",
+        "pinned_tweet_id": "1898214831364489338",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809748125151817728/93-mE-OG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 435595,
+          "following_count": 27,
+          "like_count": 235,
+          "listed_count": 1032,
+          "media_count": 261,
+          "tweet_count": 897
+        },
+        "url": "https://t.co/iGMAfoMBSf",
+        "username": "XMYao1998",
+        "verified": true
+      },
+      {
+        "created_at": "2021-03-23T11:17:46.000Z",
+        "description": "不一样的定制约会@guozhiya520|全国优质线下cos找@jjkkcc789|全球外围质量最高@yunle128|C圈天花板小棉の袄@Kisskissouo|C圈六年老墙敬业版@sex9934|蘑菇街最专业包养平台@mogujieby|奈奈高端外围定制@cat93964009|夜浪漫高端外围严选@YLM__003",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 8,
+                "username": "guozhiya520"
+              },
+              {
+                "end": 41,
+                "start": 31,
+                "username": "jjkkcc789"
+              },
+              {
+                "end": 59,
+                "start": 50,
+                "username": "yunle128"
+              },
+              {
+                "end": 81,
+                "start": 69,
+                "username": "Kisskissouo"
+              },
+              {
+                "end": 99,
+                "start": 91,
+                "username": "sex9934"
+              },
+              {
+                "end": 120,
+                "start": 110,
+                "username": "mogujieby"
+              },
+              {
+                "end": 141,
+                "start": 129,
+                "username": "cat93964009"
+              },
+              {
+                "end": 160,
+                "start": 151,
+                "username": "YLM__003"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/addlist/5P4JGR…",
+                "end": 23,
+                "expanded_url": "https://t.me/addlist/5P4JGRfR0_RjMzUx",
+                "start": 0,
+                "url": "https://t.co/QlhWL9jTmL"
+              }
+            ]
+          }
+        },
+        "id": "1374318572328001539",
+        "location": "私信@xybereum过认证|点链接进女生群聊天群",
+        "name": "小新の日常",
+        "pinned_tweet_id": "1688077877080653825",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1619252887451996160/mVVn4qvB_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 939818,
+          "following_count": 262,
+          "like_count": 4628,
+          "listed_count": 1191,
+          "media_count": 0,
+          "tweet_count": 12199
+        },
+        "url": "https://t.co/QlhWL9jTmL",
+        "username": "xyberdolls",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-13T18:41:44.000Z",
+        "description": "💯靠谱中介找他们👉『全国线下c圈安排@jinchencos18|全国优质线下cos找@jjkkcc789|「妹团」全国学妹包养@MTxBY|玩c圈就找小熊浪漫屋@xiaoxiongcos002|奈奈高端外围私人定制@cat93964009|不一样的定制约会@guozhiya520|🔥有空位』",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 18,
+                "username": "jinchencos18"
+              },
+              {
+                "end": 52,
+                "start": 42,
+                "username": "jjkkcc789"
+              },
+              {
+                "end": 69,
+                "start": 63,
+                "username": "MTxBY"
+              },
+              {
+                "end": 96,
+                "start": 80,
+                "username": "xiaoxiongcos002"
+              },
+              {
+                "end": 119,
+                "start": 107,
+                "username": "cat93964009"
+              },
+              {
+                "end": 140,
+                "start": 128,
+                "username": "guozhiya520"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/addlist/5P4JGR…",
+                "end": 23,
+                "expanded_url": "https://t.me/addlist/5P4JGRfR0_RjMzUx",
+                "start": 0,
+                "url": "https://t.co/vPllxUav6l"
+              }
+            ]
+          }
+        },
+        "id": "1492931885776834563",
+        "location": "私信@xybereum过认证|点链接进女生聊天群",
+        "name": "赛博玩偶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1619254783860445184/RG5H6BEO_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 379342,
+          "following_count": 9,
+          "like_count": 0,
+          "listed_count": 835,
+          "media_count": 0,
+          "tweet_count": 1505
+        },
+        "url": "https://t.co/vPllxUav6l",
+        "username": "xyberlabs",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-05T10:53:39.000Z",
+        "description": "不一样的定制约会@guozhiya520|全国优质线下cos找@jjkkcc789|「妹团」全国学妹包养@MTxBY|靠谱鸭鸭在线拉皮条@yayaya2339|性价比优质cos找@xiaojicosqiang1|奈奈高端外围私人定制@cat93964009|夜浪漫全国外围严选基地@YLM__003",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 8,
+                "username": "guozhiya520"
+              },
+              {
+                "end": 41,
+                "start": 31,
+                "username": "jjkkcc789"
+              },
+              {
+                "end": 58,
+                "start": 52,
+                "username": "MTxBY"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "yayaya2339"
+              },
+              {
+                "end": 105,
+                "start": 89,
+                "username": "xiaojicosqiang1"
+              },
+              {
+                "end": 128,
+                "start": 116,
+                "username": "cat93964009"
+              },
+              {
+                "end": 149,
+                "start": 140,
+                "username": "YLM__003"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/addlist/5P4JGR…",
+                "end": 23,
+                "expanded_url": "https://t.me/addlist/5P4JGRfR0_RjMzUx",
+                "start": 0,
+                "url": "https://t.co/ZVzfgq8Ibw"
+              }
+            ]
+          }
+        },
+        "id": "1544273013079670787",
+        "location": "请私信我过认证🆙|本号未关注则表示未经认证🙅",
+        "name": "小白の日常",
+        "pinned_tweet_id": "1688078153208545280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1622527038698700803/62rIhkox_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395419,
+          "following_count": 1516,
+          "like_count": 2294,
+          "listed_count": 487,
+          "media_count": 0,
+          "tweet_count": 9407
+        },
+        "url": "https://t.co/ZVzfgq8Ibw",
+        "username": "xybereum",
+        "verified": true
+      }
+    ]
+  }
+}

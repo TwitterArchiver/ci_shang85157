@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1913963183129366650",
+    "created_at": "2025-04-21T06:49:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-21T07:49:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914209938542572000"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1810271489721249792",
+          "start": 0,
+          "username": "xzjdex"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914209938542572000",
+    "in_reply_to_user_id": "1810271489721249792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913963183129366650",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xzjdex 谢谢你，开心了🥰🥰🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1913963171733532672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Go_DXTRbcAAe6UJ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1913963183129366650",
+        "created_at": "2025-04-21T06:49:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-21T07:49:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914209938542572000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1810271489721249792",
+              "start": 0,
+              "username": "xzjdex"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914209938542572000",
+        "in_reply_to_user_id": "1810271489721249792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913963183129366650",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xzjdex 谢谢你，开心了🥰🥰🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1913963171733532672"
+          ]
+        },
+        "author_id": "1810271489721249792",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1913963183129366650",
+        "created_at": "2025-04-20T14:29:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-20T15:29:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913963183129366650"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bPbKkp8moR",
+              "end": 31,
+              "expanded_url": "https://x.com/xzjdex/status/1913963183129366650/photo/1",
+              "media_key": "3_1913963171733532672",
+              "start": 8,
+              "url": "https://t.co/bPbKkp8moR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913963183129366650",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 26175,
+          "like_count": 194,
+          "quote_count": 2,
+          "reply_count": 81,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "麻绳专挑细处断 https://t.co/bPbKkp8moR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390,
+          "following_count": 371,
+          "like_count": 6091,
+          "listed_count": 1,
+          "media_count": 106,
+          "tweet_count": 2830
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-08T11:15:44.000Z",
+        "description": "不要皱巴巴 🚪88",
+        "id": "1810271489721249792",
+        "name": "野原彻",
+        "pinned_tweet_id": "1885600949546209584",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854224562470486016/PRi2pElj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 61,
+          "like_count": 1720,
+          "listed_count": 1,
+          "media_count": 93,
+          "tweet_count": 825
+        },
+        "username": "xzjdex",
+        "verified": false
+      }
+    ]
+  }
+}

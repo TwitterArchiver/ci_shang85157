@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1918258807328915934",
+    "created_at": "2025-05-02T10:59:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-02T11:59:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1918259121973018805"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1918259121973018805",
+    "in_reply_to_user_id": "1826281483675299840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918258807328915934",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "然后，加微信不敢，但是去找不认识的女生敬酒，表演惩罚都可以，我发现我好像不是害怕丢人，玩是玩的起，但是好像确实有点社恐，怎么回事呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1918258807328915934",
+        "created_at": "2025-05-02T10:59:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-02T11:59:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918259121973018805"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1918259121973018805",
+        "in_reply_to_user_id": "1826281483675299840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918258807328915934",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "然后，加微信不敢，但是去找不认识的女生敬酒，表演惩罚都可以，我发现我好像不是害怕丢人，玩是玩的起，但是好像确实有点社恐，怎么回事呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1918258807328915934",
+        "created_at": "2025-05-02T10:58:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-02T11:58:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918258807328915934"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1918258807328915934",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想起来昨天晚上的事情，昨天晚上喝酒到三点，本来要结束去酒吧玩，但是感觉很没意思，我不知道为什么了，自从不谈恋爱之后上大学好像和女生没什么聊的劲头了，昨天晚上是四男五女，玩半天玩真心话大冒险，大冒险输了让我去加邻桌不认识人的微信，我都感觉不好意思，可能是脸皮太薄了，也可能是自卑什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 436,
+          "following_count": 417,
+          "like_count": 7749,
+          "listed_count": 1,
+          "media_count": 136,
+          "tweet_count": 3302
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1929751272200327550",
+    "created_at": "2025-06-03T15:36:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-03T16:36:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929925239540199619"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1823729658833055745",
+          "start": 0,
+          "username": "pijiuyayaya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929925239540199619",
+    "in_reply_to_user_id": "1823729658833055745",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929751272200327550",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pijiuyayaya 盗了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15139,
+        "height": 1280,
+        "media_key": "7_1929751236674555904",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1929751236674555904/pu/img/ZsnFo5N05eU3AVZh.jpg",
+        "public_metrics": {
+          "view_count": 87
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1929751236674555904/pu/vid/avc1/320x568/3SacG2ZetsxB-PE4.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1929751236674555904/pu/vid/avc1/480x852/QxDvJIczwHrPpDTO.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1929751236674555904/pu/vid/avc1/720x1280/zoP3ebbKczYHuPiF.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1929751236674555904/pu/pl/vb1cr_oB2SLcgL_z.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1929751272200327550",
+        "created_at": "2025-06-03T15:36:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T16:36:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929925239540199619"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1823729658833055745",
+              "start": 0,
+              "username": "pijiuyayaya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929925239540199619",
+        "in_reply_to_user_id": "1823729658833055745",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929751272200327550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pijiuyayaya 盗了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1929751236674555904"
+          ]
+        },
+        "author_id": "1823729658833055745",
+        "conversation_id": "1929751272200327550",
+        "created_at": "2025-06-03T04:05:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T05:05:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1929751272200327550"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "男高"
+            },
+            {
+              "end": 12,
+              "start": 4,
+              "tag": "忧郁是一种天赋"
+            },
+            {
+              "end": 16,
+              "start": 13,
+              "tag": "吐烟"
+            },
+            {
+              "end": 30,
+              "start": 17,
+              "tag": "你失约的戒指我换成了烟圈"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iCLznAjFE6",
+              "end": 54,
+              "expanded_url": "https://x.com/pijiuyayaya/status/1929751272200327550/video/1",
+              "media_key": "7_1929751236674555904",
+              "start": 31,
+              "url": "https://t.co/iCLznAjFE6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929751272200327550",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 699,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#男高 #忧郁是一种天赋 #吐烟 #你失约的戒指我换成了烟圈 https://t.co/iCLznAjFE6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲，生理性别男，请不要私信给我发那种奇怪的东西了\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 74,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 623,
+          "following_count": 542,
+          "like_count": 11403,
+          "listed_count": 2,
+          "media_count": 181,
+          "tweet_count": 4707
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-14T14:33:41.000Z",
+        "description": "鹈鹕不知道写什么所以决定睡觉觉觉觉觉觉觉觉觉觉觉觉去了",
+        "id": "1823729658833055745",
+        "name": "鹈鹕吃烤肠也吃鹌鹑",
+        "pinned_tweet_id": "1927295862364868888",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926615139739897856/luxuAdbk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 508,
+          "following_count": 297,
+          "like_count": 8461,
+          "listed_count": 8,
+          "media_count": 976,
+          "tweet_count": 7330
+        },
+        "username": "pijiuyayaya",
+        "verified": false
+      }
+    ]
+  }
+}

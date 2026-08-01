@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1928108727594536964"
+      ]
+    },
+    "author_id": "1826281483675299840",
+    "conversation_id": "1911422478401876278",
+    "created_at": "2025-05-29T15:18:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-29T16:18:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928108736197054640"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/SKe9sE33Zq",
+          "end": 23,
+          "expanded_url": "https://x.com/ci_shang85157/status/1928108736197054640/photo/1",
+          "media_key": "3_1928108727594536964",
+          "start": 0,
+          "url": "https://t.co/SKe9sE33Zq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928108736197054640",
+    "in_reply_to_user_id": "1826281483675299840",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927371771017097303",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/SKe9sE33Zq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1859,
+        "media_key": "3_1928108727594536964",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsIErBSaUAQKwjU.jpg",
+        "width": 1059
+      },
+      {
+        "height": 2020,
+        "media_key": "3_1927371759814144000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gr9mZ2XXcAAcnEp.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1928108727594536964"
+          ]
+        },
+        "author_id": "1826281483675299840",
+        "conversation_id": "1911422478401876278",
+        "created_at": "2025-05-29T15:18:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-29T16:18:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928108736197054640"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SKe9sE33Zq",
+              "end": 23,
+              "expanded_url": "https://x.com/ci_shang85157/status/1928108736197054640/photo/1",
+              "media_key": "3_1928108727594536964",
+              "start": 0,
+              "url": "https://t.co/SKe9sE33Zq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928108736197054640",
+        "in_reply_to_user_id": "1826281483675299840",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927371771017097303",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/SKe9sE33Zq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1927371759814144000"
+          ]
+        },
+        "author_id": "1826281483675299840",
+        "conversation_id": "1911422478401876278",
+        "created_at": "2025-05-27T14:30:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T15:30:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927371771017097303"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QwbGvATD3d",
+              "end": 23,
+              "expanded_url": "https://x.com/ci_shang85157/status/1927371771017097303/photo/1",
+              "media_key": "3_1927371759814144000",
+              "start": 0,
+              "url": "https://t.co/QwbGvATD3d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927371771017097303",
+        "in_reply_to_user_id": "1826281483675299840",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 194,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926620846971408389",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/QwbGvATD3d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲，生理性别男，请不要私信给我发那种奇怪的东西了\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 74,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 604,
+          "following_count": 532,
+          "like_count": 10783,
+          "listed_count": 2,
+          "media_count": 171,
+          "tweet_count": 4469
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      }
+    ]
+  }
+}

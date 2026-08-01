@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1912389366951137491",
+    "created_at": "2025-04-16T08:32:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-16T09:32:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912423946668110151"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1692013623319969792",
+          "start": 0,
+          "username": "Sugita_Midoriko"
+        },
+        {
+          "end": 27,
+          "id": "1515920862205001732",
+          "start": 17,
+          "username": "cnmdsjdqs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912423946668110151",
+    "in_reply_to_user_id": "1692013623319969792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912399380314796125",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sugita_Midoriko @cnmdsjdqs 吃这么好了已经"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1912389366951137491",
+        "created_at": "2025-04-16T08:32:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T09:32:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912423946668110151"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1692013623319969792",
+              "start": 0,
+              "username": "Sugita_Midoriko"
+            },
+            {
+              "end": 27,
+              "id": "1515920862205001732",
+              "start": 17,
+              "username": "cnmdsjdqs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912423946668110151",
+        "in_reply_to_user_id": "1692013623319969792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912399380314796125",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sugita_Midoriko @cnmdsjdqs 吃这么好了已经"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692013623319969792",
+        "conversation_id": "1912389366951137491",
+        "created_at": "2025-04-16T06:55:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T07:55:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912399380314796125"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1515920862205001732",
+              "start": 0,
+              "username": "cnmdsjdqs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912399380314796125",
+        "in_reply_to_user_id": "1515920862205001732",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912389366951137491",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cnmdsjdqs 喜欢吃么，吃点喜欢吃的八"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 361,
+          "like_count": 5537,
+          "listed_count": 1,
+          "media_count": 96,
+          "tweet_count": 2572
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-17T03:21:22.000Z",
+        "description": "妹@_AkitaYura💓IloveTsukasa 电波系、跨性别🏳️‍⚧️、二次元、非人类；可可爱爱，装跨顺男，树的天使，三氯福司\n|she/they|mtf|无性别主义|女权主义|hrt2025.1.28|基督徒💮",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 1,
+                "username": "_AkitaYura"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/koshian_green",
+                "end": 23,
+                "expanded_url": "http://ngl.link/koshian_green",
+                "start": 0,
+                "url": "https://t.co/ELFVWyur34"
+              }
+            ]
+          }
+        },
+        "id": "1692013623319969792",
+        "location": "夏の大三角",
+        "name": "🎀杉綠福司♓",
+        "pinned_tweet_id": "1910309703848255874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907707757370949632/L4CzkdPo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1016,
+          "following_count": 598,
+          "like_count": 24752,
+          "listed_count": 6,
+          "media_count": 388,
+          "tweet_count": 4961
+        },
+        "url": "https://t.co/ELFVWyur34",
+        "username": "Sugita_Midoriko",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-18T05:11:56.000Z",
+        "description": "🉑叫我小玖 如果这个号被封了请移步逃生舱 @11404wa 希特勒梦女？\n@Akiscara_3405这是我妈妈\n                                                             有的人操你妈的，你TM爱看不看没逼着你看，不想看把我拉黑，再骂我的全家都死完🙄滚",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 21,
+                "username": "11404wa"
+              },
+              {
+                "end": 51,
+                "start": 37,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1515920862205001732",
+        "location": "🚪88 188 288 520 1314  不退🚪",
+        "name": "玖枙",
+        "pinned_tweet_id": "1903277570206171307",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900892248486932484/D4YRSeFe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 670,
+          "following_count": 118,
+          "like_count": 3169,
+          "listed_count": 0,
+          "media_count": 155,
+          "tweet_count": 782
+        },
+        "username": "cnmdsjdqs",
+        "verified": false
+      }
+    ]
+  }
+}

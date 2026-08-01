@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1842600761609589046",
+    "created_at": "2024-11-19T05:54:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-19T06:54:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1858750797405630594"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1677280789095141377",
+          "start": 0,
+          "username": "mngy247033"
+        },
+        {
+          "end": 24,
+          "id": "1544202883263971329",
+          "start": 12,
+          "username": "dai54717034"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1858750797405630594",
+    "in_reply_to_user_id": "1677280789095141377",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1858638636700627325",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mngy247033 @dai54717034 私信嘛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1842600761609589046",
+        "created_at": "2024-11-19T05:54:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-19T06:54:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1858750797405630594"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1677280789095141377",
+              "start": 0,
+              "username": "mngy247033"
+            },
+            {
+              "end": 24,
+              "id": "1544202883263971329",
+              "start": 12,
+              "username": "dai54717034"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858750797405630594",
+        "in_reply_to_user_id": "1677280789095141377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858638636700627325",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mngy247033 @dai54717034 私信嘛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1677280789095141377",
+        "conversation_id": "1842600761609589046",
+        "created_at": "2024-11-18T22:29:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-18T23:29:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1858638636700627325"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1826281483675299840",
+              "start": 0,
+              "username": "ci_shang85157"
+            },
+            {
+              "end": 27,
+              "id": "1544202883263971329",
+              "start": 15,
+              "username": "dai54717034"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858638636700627325",
+        "in_reply_to_user_id": "1826281483675299840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858572613720961085",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ci_shang85157 @dai54717034 所以……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，有兴趣就可以一起玩",
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844188914451365901/gNnOT4GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 179,
+          "like_count": 638,
+          "listed_count": 0,
+          "tweet_count": 109
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-07T11:38:09.000Z",
+        "description": "アニメアニメアニメしかない！",
+        "id": "1677280789095141377",
+        "location": "Kaohsiung Taiwan",
+        "name": "由紀優子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1677281070801379328/TTOMQrca_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 14,
+          "like_count": 5,
+          "listed_count": 0,
+          "tweet_count": 37
+        },
+        "username": "mngy247033",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-05T06:14:03.000Z",
+        "description": "今我来兮，杨柳依依\n\n再见，如果还能再见的话。",
+        "id": "1544202883263971329",
+        "location": "天际省",
+        "name": "明夷",
+        "pinned_tweet_id": "1849274641019269404",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772267865275863040/NSP8idMz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3639,
+          "following_count": 2271,
+          "like_count": 9675,
+          "listed_count": 23,
+          "tweet_count": 15918
+        },
+        "username": "dai54717034",
+        "verified": false
+      }
+    ]
+  }
+}

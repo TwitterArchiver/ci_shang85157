@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1927608675499163672",
+    "created_at": "2025-05-28T06:12:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-28T07:12:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927608978508267890"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1918261520817065984",
+          "start": 0,
+          "username": "BipolarBP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927608978508267890",
+    "in_reply_to_user_id": "1918261520817065984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927608675499163672",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BipolarBP 能睡着就好了，总失眠不好"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1103,
+        "media_key": "3_1927608667379019776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsA93r0XMAAdBe7.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1927608675499163672",
+        "created_at": "2025-05-28T06:12:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T07:12:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927608978508267890"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1918261520817065984",
+              "start": 0,
+              "username": "BipolarBP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927608978508267890",
+        "in_reply_to_user_id": "1918261520817065984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927608675499163672",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BipolarBP 能睡着就好了，总失眠不好"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1927608667379019776"
+          ]
+        },
+        "author_id": "1918261520817065984",
+        "conversation_id": "1927608675499163672",
+        "created_at": "2025-05-28T06:11:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T07:11:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927608675499163672"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/51ZEilFARg",
+              "end": 36,
+              "expanded_url": "https://x.com/BipolarBP/status/1927608675499163672/photo/1",
+              "media_key": "3_1927608667379019776",
+              "start": 13,
+              "url": "https://t.co/51ZEilFARg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927608675499163672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不知道发什么了，但是睡觉 https://t.co/51ZEilFARg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲，生理性别男，请不要私信给我发那种奇怪的东西了\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 74,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 600,
+          "following_count": 524,
+          "like_count": 10623,
+          "listed_count": 2,
+          "media_count": 170,
+          "tweet_count": 4386
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-02T11:09:46.000Z",
+        "description": "非二元，非健全，取向男，友跨，能和我交朋友吗 SHE/THEY/THEM",
+        "id": "1918261520817065984",
+        "name": "双相情感障碍",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921442393619935232/GutosocN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 81,
+          "like_count": 30,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 35
+        },
+        "username": "BipolarBP",
+        "verified": false
+      }
+    ]
+  }
+}

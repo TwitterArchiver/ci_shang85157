@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1834555298926739796",
+    "created_at": "2024-10-05T21:24:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-05T22:24:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1842677349604884689"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 20,
+          "normalized_text": "河南",
+          "probability": 0.3583,
+          "start": 19,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1547431894056402945",
+          "start": 0,
+          "username": "CamilleARieulle"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1842677349604884689",
+    "in_reply_to_user_id": "1547431894056402945",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1834555298926739796",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CamilleARieulle 54河南"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1834555298926739796",
+        "created_at": "2024-10-05T21:24:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-05T22:24:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1842677349604884689"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "河南",
+              "probability": 0.3583,
+              "start": 19,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1547431894056402945",
+              "start": 0,
+              "username": "CamilleARieulle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1842677349604884689",
+        "in_reply_to_user_id": "1547431894056402945",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1834555298926739796",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CamilleARieulle 54河南"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547431894056402945",
+        "conversation_id": "1834555298926739796",
+        "created_at": "2024-09-13T11:30:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-13T12:30:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1834555298926739796"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1834555298926739796",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 177,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "調查\n請來的推友回覆一下自己高中時的班級人數 如果可以麻煩同時回覆地區 致謝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "",
+        "id": "1826281483675299840",
+        "name": "伤心慈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826328643179802624/ScytKW-C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 144,
+          "like_count": 403,
+          "listed_count": 0,
+          "tweet_count": 31
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-14T04:05:04.000Z",
+        "description": "Anarchism無政府主義🏴️/Equalisation of sexual minorities性少數平權/Zaunhegnin上海人/Linguistics語言學/Heraldry紋章學/Pansexual泛性戀/09年/Transfem🏳️‍⚧️/Langue：Mand/Goet/En/Fr自學中",
+        "id": "1547431894056402945",
+        "location": "Nancy, France",
+        "name": "未命名-Camille A. Rieulle🩵🩷🤍🩷🩵",
+        "pinned_tweet_id": "1613129051753050112",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1817500681260900352/ygFvdPGn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 972,
+          "following_count": 1636,
+          "like_count": 2257,
+          "listed_count": 4,
+          "tweet_count": 2837
+        },
+        "username": "CamilleARieulle",
+        "verified": false
+      }
+    ]
+  }
+}

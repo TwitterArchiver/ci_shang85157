@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1908921020960092450",
+    "created_at": "2025-04-07T22:14:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-07T23:14:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909369273623232884"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1689275528572760064",
+          "start": 0,
+          "username": "5mRtist"
+        },
+        {
+          "end": 19,
+          "id": "1578364241362309120",
+          "start": 9,
+          "username": "wuren_Ltd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909369273623232884",
+    "in_reply_to_user_id": "1689275528572760064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909368905862164602",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@5mRtist @wuren_Ltd 那就好，不要干这种事情"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1908921020960092450",
+        "created_at": "2025-04-07T22:14:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-07T23:14:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909369273623232884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1689275528572760064",
+              "start": 0,
+              "username": "5mRtist"
+            },
+            {
+              "end": 19,
+              "id": "1578364241362309120",
+              "start": 9,
+              "username": "wuren_Ltd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909369273623232884",
+        "in_reply_to_user_id": "1689275528572760064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909368905862164602",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5mRtist @wuren_Ltd 那就好，不要干这种事情"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1689275528572760064",
+        "conversation_id": "1908921020960092450",
+        "created_at": "2025-04-07T22:13:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-07T23:13:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909368905862164602"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1826281483675299840",
+              "start": 0,
+              "username": "ci_shang85157"
+            },
+            {
+              "end": 25,
+              "id": "1578364241362309120",
+              "start": 15,
+              "username": "wuren_Ltd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909368905862164602",
+        "in_reply_to_user_id": "1826281483675299840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909284744707424741",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ci_shang85157 @wuren_Ltd 不会，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 351,
+          "like_count": 5058,
+          "listed_count": 1,
+          "media_count": 89,
+          "tweet_count": 2319
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-09T14:00:59.000Z",
+        "description": "15岁高中生｜无明确立场｜无明确意识形态｜发的内容会比较杂｜简中/繁中混用｜对所有人保持友好🩵｜请不要对我扣帽子或人身攻击，说话时保持文明，我也会礼貌对待大家🩵我没有b过任何人，尊重每一种声音💜 有蓝标的才是本人。🙏精神病友好，小孩哥友好🙏",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "5mr.top",
+                "end": 23,
+                "expanded_url": "http://www.5mr.top",
+                "start": 0,
+                "url": "https://t.co/gOK4bNBI2K"
+              }
+            ]
+          }
+        },
+        "id": "1689275528572760064",
+        "location": "距你4.51km",
+        "name": "5mR",
+        "pinned_tweet_id": "1870638198768169190",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823995534987943936/20q2mxDH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4834,
+          "following_count": 1554,
+          "like_count": 30219,
+          "listed_count": 12,
+          "media_count": 239,
+          "tweet_count": 6271
+        },
+        "url": "https://t.co/gOK4bNBI2K",
+        "username": "5mRtist",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-07T12:39:05.000Z",
+        "description": "关于我在想什么 \n满洲人属 \n政治观点大约是坐标系平面卷成圆筒，原点与对点连线上的任意点 \n功德箱开放，快给我钱\n阿米娜唯一指定真身\n招梦2记：collective unconscious搭子 \n吉祥动物：🦉",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/wurenInc",
+                "end": 23,
+                "expanded_url": "https://t.me/wurenInc",
+                "start": 0,
+                "url": "https://t.co/EmkIiTTxZF"
+              }
+            ]
+          }
+        },
+        "id": "1578364241362309120",
+        "location": "龙转回",
+        "name": "无人",
+        "pinned_tweet_id": "1903319102053331337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906685483960475648/ruSPUz-4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28625,
+          "following_count": 1352,
+          "like_count": 16727,
+          "listed_count": 77,
+          "media_count": 658,
+          "tweet_count": 2712
+        },
+        "url": "https://t.co/EmkIiTTxZF",
+        "username": "wuren_Ltd",
+        "verified": false
+      }
+    ]
+  }
+}

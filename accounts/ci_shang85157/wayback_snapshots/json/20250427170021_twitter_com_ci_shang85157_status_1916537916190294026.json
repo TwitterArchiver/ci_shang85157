@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1916521826005713314",
+    "created_at": "2025-04-27T17:00:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-27T18:00:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916537916190294026"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1802723205016367104",
+          "start": 0,
+          "username": "9k0Lmddhiw36199"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916537916190294026",
+    "in_reply_to_user_id": "1802723205016367104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916521826005713314",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@9k0Lmddhiw36199 1910的话活到现在也不容易"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1916521826005713314",
+        "created_at": "2025-04-27T17:00:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T18:00:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916537916190294026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1802723205016367104",
+              "start": 0,
+              "username": "9k0Lmddhiw36199"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916537916190294026",
+        "in_reply_to_user_id": "1802723205016367104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916521826005713314",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@9k0Lmddhiw36199 1910的话活到现在也不容易"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1802723205016367104",
+        "conversation_id": "1916521826005713314",
+        "created_at": "2025-04-27T15:56:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T16:56:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916521826005713314"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1916521826005713314",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2539,
+          "like_count": 30,
+          "quote_count": 1,
+          "reply_count": 23,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "卧槽 感觉推上全是0708的人在玩推 像我这种10后怎么办"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲\n小猫：@kimKAAAAAILUV\n好朋友：@cupric_oxide_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kimKAAAAAILUV"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "cupric_oxide_"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "pinned_tweet_id": "1897240279993999652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899449078406127616/eavDIHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 411,
+          "following_count": 410,
+          "like_count": 7133,
+          "listed_count": 1,
+          "media_count": 127,
+          "tweet_count": 3127
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-17T15:21:28.000Z",
+        "description": "如果你也抽象 那么你可以关注我了（男同勿扰谢谢🙏）",
+        "id": "1802723205016367104",
+        "location": "杭州",
+        "name": "zhouzhou",
+        "pinned_tweet_id": "1894947977137103019",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837163714661011457/DW1Ps1xa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9346,
+          "following_count": 725,
+          "like_count": 1621,
+          "listed_count": 16,
+          "media_count": 239,
+          "tweet_count": 5425
+        },
+        "username": "9k0Lmddhiw36199",
+        "verified": false
+      }
+    ]
+  }
+}

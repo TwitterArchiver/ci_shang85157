@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "2039603194305851586",
+    "created_at": "2026-04-02T07:17:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T08:17:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039603194305851586"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wbsdsf/status/…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/wbsdsf/status/2039416833946919298",
+          "start": 8,
+          "url": "https://t.co/iuvJIXjL7Z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039603194305851586",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039416833946919298",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "真看不下去了。 https://t.co/iuvJIXjL7Z"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11955,
+        "height": 844,
+        "media_key": "7_2039416812245520385",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2039416812245520385/pu/img/OMMAnBJWD-nyRkag.jpg",
+        "public_metrics": {
+          "view_count": 7256
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2039416812245520385/pu/vid/avc1/320x510/m8kmHgDpV4w5fOsY.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2039416812245520385/pu/vid/avc1/528x844/-r4s_fbbdqzHuujA.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2039416812245520385/pu/pl/Pzd_1xLoNJ9Fzg_p.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 528
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "2039603194305851586",
+        "created_at": "2026-04-02T07:17:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T08:17:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039603194305851586"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wbsdsf/status/…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/wbsdsf/status/2039416833946919298",
+              "start": 8,
+              "url": "https://t.co/iuvJIXjL7Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039603194305851586",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039416833946919298",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真看不下去了。 https://t.co/iuvJIXjL7Z"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2039416812245520385"
+          ]
+        },
+        "author_id": "1593905954575171584",
+        "conversation_id": "2039416833946919298",
+        "created_at": "2026-04-01T18:57:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T19:57:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039416833946919298"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8hiNkb3Zjc",
+              "end": 23,
+              "expanded_url": "https://x.com/wbsdsf/status/2039416833946919298/video/1",
+              "media_key": "7_2039416812245520385",
+              "start": 0,
+              "url": "https://t.co/8hiNkb3Zjc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039416833946919298",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 59,
+          "impression_count": 14721,
+          "like_count": 335,
+          "quote_count": 5,
+          "reply_count": 11,
+          "retweet_count": 37
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/8hiNkb3Zjc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧 https://t.co/ILEWFdOQz0。 ngl匿名问答 我已经遇到了能改变我一生的人@Oori_Tvv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 69,
+                "username": "Oori_Tvv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%8950122",
+                "end": 45,
+                "expanded_url": "https://ngl.link/%E6%B3%8950122",
+                "start": 22,
+                "url": "https://t.co/ILEWFdOQz0"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "永雏泉",
+        "pinned_tweet_id": "2034295067847147660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978274114138996736/r_khhgIT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1093,
+          "following_count": 724,
+          "like_count": 23131,
+          "listed_count": 2,
+          "media_count": 258,
+          "tweet_count": 8311
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-19T09:56:15.000Z",
+        "description": "一个纯粹的性压抑郭楠\n仇男仇女仇异性恋仇同性恋仇顺直仇多元仇年上仇年下仇左仇友仇s仇m仇猫仇狗仇小孩仇老人\n埋胸爱好者\n再也不叫妈了因为没人愿意当\n@shbwbclmg 碎碎念小号只过熟人\nhttps://t.co/kFn7X34Ikl",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 74,
+                "username": "shbwbclmg"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/198964dsfws",
+                "end": 118,
+                "expanded_url": "https://ngl.link/198964dsfws",
+                "start": 95,
+                "url": "https://t.co/kFn7X34Ikl"
+              }
+            ]
+          }
+        },
+        "id": "1593905954575171584",
+        "location": "马斯克妈妈的坟墓里",
+        "name": "也许没人认识我",
+        "pinned_tweet_id": "2034683026307961326",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978164101701611520/lJ5SMSpS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13483,
+          "following_count": 2242,
+          "like_count": 58037,
+          "listed_count": 19,
+          "media_count": 2621,
+          "tweet_count": 26042
+        },
+        "username": "wbsdsf",
+        "verified": false
+      }
+    ]
+  }
+}

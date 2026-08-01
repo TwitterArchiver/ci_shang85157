@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1861966111769796834",
+    "created_at": "2024-11-29T06:49:41.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-29T07:49:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1862388444326240612"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1352984011870662659",
+          "start": 0,
+          "username": "texas26687252"
+        },
+        {
+          "end": 23,
+          "id": "1433678976564662273",
+          "start": 15,
+          "username": "hsn8086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862388444326240612",
+    "in_reply_to_user_id": "1352984011870662659",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1862215031309705589",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@texas26687252 @hsn8086 玩galgame玩多了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1861966111769796834",
+        "created_at": "2024-11-29T06:49:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-29T07:49:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862388444326240612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1352984011870662659",
+              "start": 0,
+              "username": "texas26687252"
+            },
+            {
+              "end": 23,
+              "id": "1433678976564662273",
+              "start": 15,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862388444326240612",
+        "in_reply_to_user_id": "1352984011870662659",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862215031309705589",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@texas26687252 @hsn8086 玩galgame玩多了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1352984011870662659",
+        "conversation_id": "1861966111769796834",
+        "created_at": "2024-11-28T19:20:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-28T20:20:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862215031309705589"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1433678976564662273",
+              "start": 0,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862215031309705589",
+        "in_reply_to_user_id": "1433678976564662273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1406,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861966111769796834",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086 我猜猜这个面不会是？？？🤔\n面硬加咸蔬菜加倍蒜末和油多多😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，有兴趣就可以一起玩",
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844188914451365901/gNnOT4GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 206,
+          "like_count": 831,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 151
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-23T14:18:31.000Z",
+        "description": "好消息：规矩不是死的\n坏消息：我可能是      \n你fo我？\n那我也fo宁！！！（歪头瞪眼）",
+        "id": "1352984011870662659",
+        "name": "texas",
+        "pinned_tweet_id": "1849853588249735416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774610759852654593/-QpwVnz8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 129,
+          "like_count": 1110,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 970
+        },
+        "username": "texas26687252",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 内: @hsn8086k | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 14,
+                "username": "hsn8086k"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1846240135534596297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1707161507161944064/DD0pRpE6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18506,
+          "following_count": 887,
+          "like_count": 36132,
+          "listed_count": 56,
+          "media_count": 3367,
+          "tweet_count": 7841
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

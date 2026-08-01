@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1858934943910625414",
+    "created_at": "2024-11-20T06:01:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-20T07:01:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1859114757577732379"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1781159756289417216",
+          "start": 0,
+          "username": "AbbieOyama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1859114757577732379",
+    "in_reply_to_user_id": "1781159756289417216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1858934943910625414",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AbbieOyama 如果可以的话我可以陪你帮助你解决"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1858934943910625414",
+        "created_at": "2024-11-20T06:01:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-20T07:01:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1859114757577732379"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1781159756289417216",
+              "start": 0,
+              "username": "AbbieOyama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859114757577732379",
+        "in_reply_to_user_id": "1781159756289417216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858934943910625414",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AbbieOyama 如果可以的话我可以陪你帮助你解决"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781159756289417216",
+        "conversation_id": "1858934943910625414",
+        "created_at": "2024-11-19T18:06:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-19T19:06:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1858934943910625414"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1858934943910625414",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2173,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "求助一下大家\n\n1 . 在外面有楼梯的地方我坐着轮椅要怎么上去？（我去了好多地方都有楼梯，连麦当劳都有楼梯。）\n\n2 . 没有无障碍厕所的情况下怎么上厕所？残联我找过了，这个城市没有无障碍厕所的。旅馆我也有去过，里面厕所太小了轮椅进不去。\n\n救救我呜呜呜，谢谢你们。我想要开始新的生活了🥺🥺🥺。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，有兴趣就可以一起玩",
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844188914451365901/gNnOT4GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 182,
+          "like_count": 676,
+          "listed_count": 0,
+          "tweet_count": 117
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-19T03:16:13.000Z",
+        "description": "障害者，車椅子。女の子になりたい。日本の東京で暮らしたい！私は中国人で、日本語ができないので、間違った日本語があるかもしれません。",
+        "id": "1781159756289417216",
+        "location": "日本 東京",
+        "name": "緒山潮汐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1781319510714404864/U-o-jh_G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 547,
+          "following_count": 114,
+          "like_count": 27,
+          "listed_count": 0,
+          "tweet_count": 139
+        },
+        "username": "AbbieOyama",
+        "verified": true
+      }
+    ]
+  }
+}

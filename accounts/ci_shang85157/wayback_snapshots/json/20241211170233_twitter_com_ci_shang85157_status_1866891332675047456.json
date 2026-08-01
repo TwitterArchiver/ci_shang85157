@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1866781873147711877",
+    "created_at": "2024-12-11T17:02:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-11T18:02:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1866891332675047456"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1790831068729229312",
+          "start": 0,
+          "username": "Fkmaomaochong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1866891332675047456",
+    "in_reply_to_user_id": "1790831068729229312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1866781873147711877",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fkmaomaochong 九年义务教育还需要普及"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1866781873147711877",
+        "created_at": "2024-12-11T17:02:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-11T18:02:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866891332675047456"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1790831068729229312",
+              "start": 0,
+              "username": "Fkmaomaochong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866891332675047456",
+        "in_reply_to_user_id": "1790831068729229312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866781873147711877",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fkmaomaochong 九年义务教育还需要普及"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "1866781872182743040"
+          ]
+        },
+        "author_id": "1790831068729229312",
+        "conversation_id": "1866781873147711877",
+        "created_at": "2024-12-11T09:47:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-11T10:47:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866781873147711877"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1866781873147711877",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 68675,
+          "like_count": 278,
+          "quote_count": 44,
+          "reply_count": 265,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "0.8和0.11哪个大"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，有兴趣就可以一起玩",
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844188914451365901/gNnOT4GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 245,
+          "like_count": 1049,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 335
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-15T19:47:54.000Z",
+        "description": "🦈的食物 @qing2202",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "qing2202"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xyz.damo3.site/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://xyz.damo3.site/#/register?code=TNgWSGKQ",
+                "start": 0,
+                "url": "https://t.co/ut1t1xDksE"
+              }
+            ]
+          }
+        },
+        "id": "1790831068729229312",
+        "location": "极乐世界",
+        "name": "₊⁺ ·绒松松· ﾟ ₊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834192244641062912/GEb3WfjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22546,
+          "following_count": 61,
+          "like_count": 14522,
+          "listed_count": 30,
+          "media_count": 119,
+          "tweet_count": 3329
+        },
+        "url": "https://t.co/ut1t1xDksE",
+        "username": "Fkmaomaochong",
+        "verified": false
+      }
+    ]
+  }
+}

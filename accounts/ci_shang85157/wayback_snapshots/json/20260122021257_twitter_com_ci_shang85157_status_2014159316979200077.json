@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2013762153249906688"
+      ],
+      "media_source_tweet_id": [
+        "2013762209164173626"
+      ]
+    },
+    "author_id": "1826281483675299840",
+    "conversation_id": "2014159316979200077",
+    "created_at": "2026-01-22T02:12:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T03:12:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014159316979200077"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1733558420270125056",
+          "start": 3,
+          "username": "HourlyChiyoChan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qptOwuZPG7",
+          "end": 44,
+          "expanded_url": "https://x.com/HourlyChiyoChan/status/2013762209164173626/video/1",
+          "media_key": "13_2013762153249906688",
+          "start": 21,
+          "url": "https://t.co/qptOwuZPG7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014159316979200077",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1051
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013762209164173626",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HourlyChiyoChan: https://t.co/qptOwuZPG7"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15833,
+        "height": 576,
+        "media_key": "13_2013762153249906688",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2013762153249906688/img/KdEZzZU_FjTlX4bh.jpg",
+        "public_metrics": {
+          "view_count": 46072
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2013762153249906688/vid/avc1/360x270/wiFp-jibp3M_435p.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2013762153249906688/vid/avc1/480x360/tuaRxe3S5VscSk6f.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2013762153249906688/vid/avc1/768x576/Wobd4CmajnbvELgS.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2013762153249906688/pl/i1y7vgeyNHr91ono.m3u8?v=47b"
+          }
+        ],
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2013762153249906688"
+          ],
+          "media_source_tweet_id": [
+            "2013762209164173626"
+          ]
+        },
+        "author_id": "1826281483675299840",
+        "conversation_id": "2014159316979200077",
+        "created_at": "2026-01-22T02:12:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T03:12:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014159316979200077"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1733558420270125056",
+              "start": 3,
+              "username": "HourlyChiyoChan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qptOwuZPG7",
+              "end": 44,
+              "expanded_url": "https://x.com/HourlyChiyoChan/status/2013762209164173626/video/1",
+              "media_key": "13_2013762153249906688",
+              "start": 21,
+              "url": "https://t.co/qptOwuZPG7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014159316979200077",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1051
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013762209164173626",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HourlyChiyoChan: https://t.co/qptOwuZPG7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2013762153249906688"
+          ]
+        },
+        "author_id": "1733558420270125056",
+        "conversation_id": "2013762209164173626",
+        "created_at": "2026-01-20T23:54:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T00:54:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013762209164173626"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qptOwuZPG7",
+              "end": 23,
+              "expanded_url": "https://x.com/HourlyChiyoChan/status/2013762209164173626/video/1",
+              "media_key": "13_2013762153249906688",
+              "start": 0,
+              "url": "https://t.co/qptOwuZPG7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013762209164173626",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1646,
+          "impression_count": 361505,
+          "like_count": 6767,
+          "quote_count": 28,
+          "reply_count": 9,
+          "retweet_count": 1051
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/qptOwuZPG7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧 https://t.co/ILEWFdOiJs。 ngl匿名问答 想交朋友或者互fo尽管私信我 每个人都会回",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%8950122",
+                "end": 45,
+                "expanded_url": "https://ngl.link/%E6%B3%8950122",
+                "start": 22,
+                "url": "https://t.co/ILEWFdOiJs"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉",
+        "pinned_tweet_id": "2005263135222165835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978274114138996736/r_khhgIT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 982,
+          "following_count": 672,
+          "like_count": 20371,
+          "listed_count": 2,
+          "media_count": 233,
+          "tweet_count": 7532
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-09T18:45:28.000Z",
+        "description": "Daily Medias of Chiyo Mihama and Her Friends Across all the Universes 🐶 ͏adm: @twinpeaksv Icon and Banner by @SauberDojoRama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 78,
+                "username": "twinpeaksv"
+              },
+              {
+                "end": 124,
+                "start": 109,
+                "username": "SauberDojoRama"
+              }
+            ]
+          }
+        },
+        "id": "1733558420270125056",
+        "name": "Chiyo & Friends",
+        "pinned_tweet_id": "1874642058184650796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876759939407888384/6JzdMtMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16108,
+          "following_count": 267,
+          "like_count": 3888,
+          "listed_count": 11,
+          "media_count": 1449,
+          "tweet_count": 4170
+        },
+        "username": "HourlyChiyoChan",
+        "verified": true
+      }
+    ]
+  }
+}
