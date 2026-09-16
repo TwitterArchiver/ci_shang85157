@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2087427588071546880"
+      ]
+    },
+    "author_id": "1826281483675299840",
+    "conversation_id": "2087427640122921094",
+    "created_at": "2026-08-12T06:35:06.000Z",
+    "display_text_range": [
+      0,
+      0
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T07:35:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087427640122921094"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7XYaeZwIHC",
+          "end": 23,
+          "expanded_url": "https://x.com/ci_shang85157/status/2087427640122921094/video/1",
+          "media_key": "13_2087427588071546880",
+          "start": 0,
+          "url": "https://t.co/7XYaeZwIHC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087427640122921094",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "13_2087427588071546880"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/7XYaeZwIHC"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2146,
+        "height": 960,
+        "media_key": "13_2087427588071546880",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2087427588071546880/img/bRFMVMtvb1zSXa29.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087427588071546880/vid/avc1/320x426/zYYIeHE_XKCrjI3s.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087427588071546880/vid/avc1/480x640/0TdG7WaQ2fvB222A.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087427588071546880/vid/avc1/720x960/FiaUpNCSHGajwiIy.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2087427588071546880/pl/RaOx3d2zy10io1_a.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2087427588071546880"
+          ]
+        },
+        "author_id": "1826281483675299840",
+        "conversation_id": "2087427640122921094",
+        "created_at": "2026-08-12T06:35:06.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T07:35:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087427640122921094"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7XYaeZwIHC",
+              "end": 23,
+              "expanded_url": "https://x.com/ci_shang85157/status/2087427640122921094/video/1",
+              "media_key": "13_2087427588071546880",
+              "start": 0,
+              "url": "https://t.co/7XYaeZwIHC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087427640122921094",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2087427588071546880"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/7XYaeZwIHC"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧 https://t.co/ILEWFdOiJs。 ngl匿名问答。  嗯我是男生 不要认错了。主人@YuganQwQ我的私信看不了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 71,
+                "username": "YuganQwQ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%8950122",
+                "end": 45,
+                "expanded_url": "https://ngl.link/%E6%B3%8950122",
+                "start": 22,
+                "url": "https://t.co/ILEWFdOiJs"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087427640122921094",
+        "name": "永雏泉",
+        "pinned_tweet_id": "2060026487768760460",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1826281483675299840/1739601675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978274114138996736/r_khhgIT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1151,
+          "following_count": 756,
+          "like_count": 25342,
+          "listed_count": 2,
+          "media_count": 286,
+          "tweet_count": 9115
+        },
+        "url": "",
+        "username": "ci_shang85157",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

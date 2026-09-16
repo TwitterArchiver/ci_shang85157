@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "2080834227504120192",
+    "created_at": "2026-08-05T09:51:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T10:51:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084940308794818767"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1800728241025785856",
+          "start": 0,
+          "username": "ezaizi_ovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084940308794818767",
+    "in_reply_to_user_id": "1800728241025785856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083486333134389506",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ezaizi_ovo 不会吧 很便宜的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "2080834227504120192",
+        "created_at": "2026-08-05T09:51:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T10:51:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084940308794818767"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1800728241025785856",
+              "start": 0,
+              "username": "ezaizi_ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084940308794818767",
+        "in_reply_to_user_id": "1800728241025785856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083486333134389506",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ezaizi_ovo 不会吧 很便宜的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1800728241025785856",
+        "conversation_id": "2080834227504120192",
+        "created_at": "2026-08-01T09:33:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T10:33:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083486333134389506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1826281483675299840",
+              "start": 0,
+              "username": "ci_shang85157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083486333134389506",
+        "in_reply_to_user_id": "1826281483675299840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080834227504120192",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ci_shang85157 我这加巴好贵啊，，，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧 https://t.co/ILEWFdOQz0。 ngl匿名问答。  嗯我是男生 不要认错了。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%8950122",
+                "end": 45,
+                "expanded_url": "https://ngl.link/%E6%B3%8950122",
+                "start": 22,
+                "url": "https://t.co/ILEWFdOQz0"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "永雏泉",
+        "pinned_tweet_id": "2060026487768760460",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978274114138996736/r_khhgIT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1150,
+          "following_count": 749,
+          "like_count": 25175,
+          "listed_count": 2,
+          "media_count": 282,
+          "tweet_count": 9048
+        },
+        "url": "",
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-12T03:14:20.000Z",
+        "description": "鵝",
+        "id": "1800728241025785856",
+        "name": "e.rar",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846542065905311744/kNYHVmu0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 44,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 539
+        },
+        "url": "",
+        "username": "ezaizi_ovo",
+        "verified": false
+      }
+    ]
+  }
+}

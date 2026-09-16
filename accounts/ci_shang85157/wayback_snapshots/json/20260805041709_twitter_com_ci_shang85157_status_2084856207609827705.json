@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "2084830792887492906",
+    "created_at": "2026-08-05T04:17:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T05:17:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084856207609827705"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1967167200059645952",
+          "start": 0,
+          "username": "aomiao_o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084856207609827705",
+    "in_reply_to_user_id": "1967167200059645952",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084830792887492906",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aomiao_o 笑死我吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3599,
+        "media_key": "3_2084830783081156609",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO7OjSJaEAE2YDB.jpg",
+        "width": 1641
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "2084830792887492906",
+        "created_at": "2026-08-05T04:17:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T05:17:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084856207609827705"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1967167200059645952",
+              "start": 0,
+              "username": "aomiao_o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084856207609827705",
+        "in_reply_to_user_id": "1967167200059645952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084830792887492906",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aomiao_o 笑死我吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084830783081156609"
+          ]
+        },
+        "author_id": "1967167200059645952",
+        "conversation_id": "2084830792887492906",
+        "created_at": "2026-08-05T02:36:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T03:36:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084830792887492906"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QTtvSe2iEx",
+              "end": 42,
+              "expanded_url": "https://x.com/aomiao_o/status/2084830792887492906/photo/1",
+              "media_key": "3_2084830783081156609",
+              "start": 19,
+              "url": "https://t.co/QTtvSe2iEx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084830792887492906",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 73,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是淡定的😂😂我尼玛地址用的我妈公司 https://t.co/QTtvSe2iEx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧 https://t.co/ILEWFdOQz0。 ngl匿名问答。  嗯我是男生 不要认错了。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%8950122",
+                "end": 45,
+                "expanded_url": "https://ngl.link/%E6%B3%8950122",
+                "start": 22,
+                "url": "https://t.co/ILEWFdOQz0"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "永雏泉",
+        "pinned_tweet_id": "2060026487768760460",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978274114138996736/r_khhgIT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1148,
+          "following_count": 748,
+          "like_count": 25174,
+          "listed_count": 2,
+          "media_count": 282,
+          "tweet_count": 9047
+        },
+        "url": "",
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-14T10:03:14.000Z",
+        "description": "我重生了丨1i3i4i丨18岁奔向大一丨纯绿聊天🚪88丨防炸备用小号@mimaodemao 我辨别出是人就能关注丨私信看情况回",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "mimaodemao"
+              }
+            ]
+          }
+        },
+        "id": "1967167200059645952",
+        "location": "置顶推广自辨",
+        "name": "咪猫",
+        "pinned_tweet_id": "2029885618801758295",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004593627616722944/gAw7wrQB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4173,
+          "following_count": 303,
+          "like_count": 4599,
+          "listed_count": 10,
+          "media_count": 98,
+          "tweet_count": 1951
+        },
+        "url": "",
+        "username": "aomiao_o",
+        "verified": false
+      }
+    ]
+  }
+}

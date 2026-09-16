@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "2084294824895926761",
+    "created_at": "2026-08-04T00:01:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T01:01:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084429476914733073"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1779854230175817728",
+          "start": 0,
+          "username": "YbyyWg"
+        },
+        {
+          "end": 20,
+          "id": "2013233628847980544",
+          "start": 8,
+          "username": "Asukai_Yuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084429476914733073",
+    "in_reply_to_user_id": "1779854230175817728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084400520782029252",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YbyyWg @Asukai_Yuki 已经引起众怒了 开盒还是轻的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "2084294824895926761",
+        "created_at": "2026-08-04T00:01:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T01:01:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084429476914733073"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1779854230175817728",
+              "start": 0,
+              "username": "YbyyWg"
+            },
+            {
+              "end": 20,
+              "id": "2013233628847980544",
+              "start": 8,
+              "username": "Asukai_Yuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084429476914733073",
+        "in_reply_to_user_id": "1779854230175817728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084400520782029252",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YbyyWg @Asukai_Yuki 已经引起众怒了 开盒还是轻的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779854230175817728",
+        "conversation_id": "2084294824895926761",
+        "created_at": "2026-08-03T22:06:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T23:06:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084400520782029252"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2013233628847980544",
+              "start": 0,
+              "username": "Asukai_Yuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084400520782029252",
+        "in_reply_to_user_id": "2013233628847980544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 189,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084294824895926761",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Asukai_Yuki 开盒太严重了吧，骂骂几句算了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧 https://t.co/ILEWFdOQz0。 ngl匿名问答。  嗯我是男生 不要认错了。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%8950122",
+                "end": 45,
+                "expanded_url": "https://ngl.link/%E6%B3%8950122",
+                "start": 22,
+                "url": "https://t.co/ILEWFdOQz0"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "永雏泉",
+        "pinned_tweet_id": "2060026487768760460",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978274114138996736/r_khhgIT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1142,
+          "following_count": 748,
+          "like_count": 25105,
+          "listed_count": 2,
+          "media_count": 280,
+          "tweet_count": 9029
+        },
+        "url": "",
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-15T12:48:22.000Z",
+        "description": "垃圾桶",
+        "id": "1779854230175817728",
+        "name": "幸福降临",
+        "pinned_tweet_id": "2079696665028788573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833287159329275904/PdXsNcjK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 356,
+          "following_count": 82,
+          "like_count": 944,
+          "listed_count": 1,
+          "media_count": 87,
+          "tweet_count": 1923
+        },
+        "url": "",
+        "username": "YbyyWg",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-19T12:54:43.000Z",
+        "description": "＝飞鸟井郁希/yuki | 🏳️‍⚧️🏳️‍🌈enby | 餐券女 | 天真的和感伤的吉他手 | 红色担当❤️ | 滚男oc | re0，昴公但是i昴草昴\n\n前世 @SUNSET_ROCK_\n好朋友：@0803SUHONG @zou_hua62172 @hynsug_aaugcx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 82,
+                "username": "SUNSET_ROCK_"
+              },
+              {
+                "end": 111,
+                "start": 100,
+                "username": "0803SUHONG"
+              },
+              {
+                "end": 125,
+                "start": 112,
+                "username": "zou_hua62172"
+              },
+              {
+                "end": 140,
+                "start": 126,
+                "username": "hynsug_aaugcx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+yZ4u21Oez7Y3Z…",
+                "end": 23,
+                "expanded_url": "https://t.me/+yZ4u21Oez7Y3ZmQ9",
+                "start": 0,
+                "url": "https://t.co/HPwIfhLJlR"
+              }
+            ]
+          }
+        },
+        "id": "2013233628847980544",
+        "location": "纯绿🚪52/99/150 tele频道在下面",
+        "name": "飞鸟井郁希",
+        "pinned_tweet_id": "2083503232459174093",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078508009702268928/p6S16Kqi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 532,
+          "following_count": 256,
+          "like_count": 416,
+          "listed_count": 1,
+          "media_count": 322,
+          "tweet_count": 3303
+        },
+        "url": "https://t.co/HPwIfhLJlR",
+        "username": "Asukai_Yuki",
+        "verified": false
+      }
+    ]
+  }
+}

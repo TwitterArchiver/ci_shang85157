@@ -1,0 +1,381 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "5G",
+          "id": "1085628093627195392",
+          "name": "5G"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2099421521085374522",
+    "created_at": "2026-09-14T08:54:30.000Z",
+    "display_text_range": [
+      0,
+      109
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T09:54:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099421521085374522"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1051173694779863040",
+          "start": 3,
+          "username": "madina__mart"
+        },
+        {
+          "end": 108,
+          "id": "1133190478290046978",
+          "start": 92,
+          "username": "OscarSa45267516"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099421521085374522",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099330082825519265",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @madina__mart: 发到大号了我靠\n抽5份pr，每份是5g，需要支付6元邮费\n等100fo抽（会不会有点太高了）\n\n总之就是五份pr每份5g，点关注评论参与\n\n买pr找@OscarSa45267516🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "5G",
+              "id": "1085628093627195392",
+              "name": "5G"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2099421521085374522",
+        "created_at": "2026-09-14T08:54:30.000Z",
+        "display_text_range": [
+          0,
+          109
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T09:54:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099421521085374522"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1051173694779863040",
+              "start": 3,
+              "username": "madina__mart"
+            },
+            {
+              "end": 108,
+              "id": "1133190478290046978",
+              "start": 92,
+              "username": "OscarSa45267516"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099421521085374522",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099330082825519265",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @madina__mart: 发到大号了我靠\n抽5份pr，每份是5g，需要支付6元邮费\n等100fo抽（会不会有点太高了）\n\n总之就是五份pr每份5g，点关注评论参与\n\n买pr找@OscarSa45267516🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1051173694779863040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "5G",
+              "id": "1085628093627195392",
+              "name": "5G"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2099330082825519265",
+        "created_at": "2026-09-14T02:51:10.000Z",
+        "display_text_range": [
+          0,
+          91
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T03:51:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099330082825519265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 90,
+              "id": "1133190478290046978",
+              "start": 74,
+              "username": "OscarSa45267516"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099330082825519265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 354,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "发到大号了我靠\n抽5份pr，每份是5g，需要支付6元邮费\n等100fo抽（会不会有点太高了）\n\n总之就是五份pr每份5g，点关注评论参与\n\n买pr找@OscarSa45267516🥹"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧 https://t.co/ILEWFdOiJs。 ngl匿名问答。  嗯我是男生 不要认错了。妈妈@YuganQwQ 欢迎大家找我玩。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 71,
+                "username": "YuganQwQ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%8950122",
+                "end": 45,
+                "expanded_url": "https://ngl.link/%E6%B3%8950122",
+                "start": 22,
+                "url": "https://t.co/ILEWFdOiJs"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099421521085374522",
+        "name": "永雏泉",
+        "pinned_tweet_id": "2060026487768760460",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1826281483675299840/1739601675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978274114138996736/r_khhgIT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1197,
+          "following_count": 783,
+          "like_count": 26030,
+          "listed_count": 2,
+          "media_count": 317,
+          "tweet_count": 9510
+        },
+        "url": "",
+        "username": "ci_shang85157",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-10-13T18:11:53.000Z",
+        "description": "二世复活！买pr私聊我呀\n一世账号2d4SEUFUBFzltqB\n三世账号OscarSa45267516\n一个联系不上可以换一个联系噢",
+        "id": "1051173694779863040",
+        "is_identity_verified": false,
+        "location": "美国",
+        "most_recent_tweet_id": "2099381194676916716",
+        "name": "小爱同学_二世",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1051173694779863040/1781710907",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067271497765515264/x4DT4Mus_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 29,
+          "like_count": 39,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 41
+        },
+        "url": "",
+        "username": "madina__mart",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-05-28T01:57:18.000Z",
+        "description": "出售一些pr，欢迎私聊\n一世账号2d4SEUFUBFzltqB\n二世账号madina__mart\n一个联系不上可以换一个联系噢",
+        "id": "1133190478290046978",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099319657899725057",
+        "name": "小爱同学_三世！",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1133190478290046978/1782226130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069432386597933056/XTveVfKH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 13,
+          "like_count": 26,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 71
+        },
+        "url": "",
+        "username": "OscarSa45267516",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

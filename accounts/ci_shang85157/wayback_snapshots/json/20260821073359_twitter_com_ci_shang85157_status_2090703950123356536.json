@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090703939792728064"
+      ]
+    },
+    "author_id": "1826281483675299840",
+    "conversation_id": "2090703950123356536",
+    "created_at": "2026-08-21T07:33:59.000Z",
+    "display_text_range": [
+      0,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T08:33:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090703950123356536"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 17,
+          "tag": "我的X周年纪念日"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ajCnCCG6LM",
+          "end": 50,
+          "expanded_url": "https://x.com/ci_shang85157/status/2090703950123356536/photo/1",
+          "media_key": "3_2090703939792728064",
+          "start": 27,
+          "url": "https://t.co/ajCnCCG6LM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090703950123356536",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2090703939792728064"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "还记得你何时加入 X 吗？我知道！#我的X周年纪念日 https://t.co/ajCnCCG6LM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2090703939792728064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQOsJ_3a8AAHKWC.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090703939792728064"
+          ]
+        },
+        "author_id": "1826281483675299840",
+        "conversation_id": "2090703950123356536",
+        "created_at": "2026-08-21T07:33:59.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T08:33:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090703950123356536"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 17,
+              "tag": "我的X周年纪念日"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ajCnCCG6LM",
+              "end": 50,
+              "expanded_url": "https://x.com/ci_shang85157/status/2090703950123356536/photo/1",
+              "media_key": "3_2090703939792728064",
+              "start": 27,
+              "url": "https://t.co/ajCnCCG6LM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090703950123356536",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090703939792728064"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还记得你何时加入 X 吗？我知道！#我的X周年纪念日 https://t.co/ajCnCCG6LM"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧 https://t.co/ILEWFdOiJs。 ngl匿名问答。  嗯我是男生 不要认错了。主人@YuganQwQ我的私信看不了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 71,
+                "username": "YuganQwQ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%8950122",
+                "end": 45,
+                "expanded_url": "https://ngl.link/%E6%B3%8950122",
+                "start": 22,
+                "url": "https://t.co/ILEWFdOiJs"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090703950123356536",
+        "name": "永雏泉",
+        "pinned_tweet_id": "2060026487768760460",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1826281483675299840/1739601675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978274114138996736/r_khhgIT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1178,
+          "following_count": 756,
+          "like_count": 25618,
+          "listed_count": 2,
+          "media_count": 305,
+          "tweet_count": 9285
+        },
+        "url": "",
+        "username": "ci_shang85157",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

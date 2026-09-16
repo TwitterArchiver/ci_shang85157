@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092145327885406208"
+      ]
+    },
+    "author_id": "1826281483675299840",
+    "conversation_id": "2092145342477435092",
+    "created_at": "2026-08-25T07:01:34.000Z",
+    "display_text_range": [
+      0,
+      2
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T08:01:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092145342477435092"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2wJAjGnN5z",
+          "end": 26,
+          "expanded_url": "https://x.com/ci_shang85157/status/2092145342477435092/photo/1",
+          "media_key": "3_2092145327885406208",
+          "start": 3,
+          "url": "https://t.co/2wJAjGnN5z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092145342477435092",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2092145327885406208"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这我 https://t.co/2wJAjGnN5z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 929,
+        "media_key": "3_2092145327885406208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQjLF08aUAAZd1r.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092145327885406208"
+          ]
+        },
+        "author_id": "1826281483675299840",
+        "conversation_id": "2092145342477435092",
+        "created_at": "2026-08-25T07:01:34.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T08:01:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092145342477435092"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2wJAjGnN5z",
+              "end": 26,
+              "expanded_url": "https://x.com/ci_shang85157/status/2092145342477435092/photo/1",
+              "media_key": "3_2092145327885406208",
+              "start": 3,
+              "url": "https://t.co/2wJAjGnN5z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092145342477435092",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092145327885406208"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这我 https://t.co/2wJAjGnN5z"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧 https://t.co/ILEWFdOiJs。 ngl匿名问答。  嗯我是男生 不要认错了。主人@YuganQwQ我的私信看不了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 71,
+                "username": "YuganQwQ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%8950122",
+                "end": 45,
+                "expanded_url": "https://ngl.link/%E6%B3%8950122",
+                "start": 22,
+                "url": "https://t.co/ILEWFdOiJs"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092145342477435092",
+        "name": "永雏泉",
+        "pinned_tweet_id": "2060026487768760460",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1826281483675299840/1739601675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978274114138996736/r_khhgIT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1173,
+          "following_count": 754,
+          "like_count": 25624,
+          "listed_count": 2,
+          "media_count": 307,
+          "tweet_count": 9297
+        },
+        "url": "",
+        "username": "ci_shang85157",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

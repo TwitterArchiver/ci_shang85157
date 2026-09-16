@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "2087439139109318873",
+    "created_at": "2026-08-12T09:02:25.000Z",
+    "display_text_range": [
+      10,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T10:02:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087464711478743277"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1570466382365728771",
+          "start": 0,
+          "username": "m8o9j6i4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087464711478743277",
+    "in_reply_to_user_id": "1570466382365728771",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087456717215039633",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@m8o9j6i4 宝宝"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2087456717215039633].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2087456717215039633",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2087456717215039633"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "2087439139109318873",
+        "created_at": "2026-08-12T09:02:25.000Z",
+        "display_text_range": [
+          10,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T10:02:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087464711478743277"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1570466382365728771",
+              "start": 0,
+              "username": "m8o9j6i4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087464711478743277",
+        "in_reply_to_user_id": "1570466382365728771",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087456717215039633",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@m8o9j6i4 宝宝"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧 https://t.co/ILEWFdOiJs。 ngl匿名问答。  嗯我是男生 不要认错了。主人@YuganQwQ我的私信看不了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 71,
+                "username": "YuganQwQ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%8950122",
+                "end": 45,
+                "expanded_url": "https://ngl.link/%E6%B3%8950122",
+                "start": 22,
+                "url": "https://t.co/ILEWFdOiJs"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087464711478743277",
+        "name": "永雏泉",
+        "pinned_tweet_id": "2060026487768760460",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1826281483675299840/1739601675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978274114138996736/r_khhgIT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1153,
+          "following_count": 755,
+          "like_count": 25346,
+          "listed_count": 2,
+          "media_count": 287,
+          "tweet_count": 9120
+        },
+        "url": "",
+        "username": "ci_shang85157",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-09-15T17:35:48.000Z",
+        "description": "我大号@mo6ji4 被封了😭\n最好最善良最可爱的好厚米：@BigFreshShrimp @SuperShrimp9000  @miku_suki393939\nemmmmmmmmm🚪14000000\n开放私信所以fo之前请私信说明，私密账号所以不认识的人不过\n有事联系不上找我的宝宝传话",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "mo6ji4"
+              },
+              {
+                "end": 44,
+                "start": 29,
+                "username": "BigFreshShrimp"
+              },
+              {
+                "end": 61,
+                "start": 45,
+                "username": "SuperShrimp9000"
+              },
+              {
+                "end": 79,
+                "start": 63,
+                "username": "miku_suki393939"
+              }
+            ]
+          }
+        },
+        "id": "1570466382365728771",
+        "is_identity_verified": false,
+        "location": "厄普西隆南极总部",
+        "most_recent_tweet_id": "1861829673694666960",
+        "name": "青蛙姬",
+        "pinned_tweet_id": "1903068922070565313",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1570466382365728771/1718090593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869701810270961664/P39j1RK6_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 334,
+          "like_count": 42347,
+          "listed_count": 1,
+          "media_count": 1539,
+          "tweet_count": 13982
+        },
+        "url": "",
+        "username": "m8o9j6i4",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

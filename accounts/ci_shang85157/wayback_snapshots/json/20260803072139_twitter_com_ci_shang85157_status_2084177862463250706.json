@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "2083948568575115672",
+    "created_at": "2026-08-03T07:21:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T08:21:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084177862463250706"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1768332499510558723",
+          "start": 0,
+          "username": "ChuCaoJiCute"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084177862463250706",
+    "in_reply_to_user_id": "1768332499510558723",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084048153578447338",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChuCaoJiCute 难怪呢 我是菊花手机"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2084048153578447338].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2084048153578447338",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2084048153578447338"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "2083948568575115672",
+        "created_at": "2026-08-03T07:21:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T08:21:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084177862463250706"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1768332499510558723",
+              "start": 0,
+              "username": "ChuCaoJiCute"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084177862463250706",
+        "in_reply_to_user_id": "1768332499510558723",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084048153578447338",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChuCaoJiCute 难怪呢 我是菊花手机"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧 https://t.co/ILEWFdOQz0。 ngl匿名问答。  嗯我是男生 不要认错了。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%8950122",
+                "end": 45,
+                "expanded_url": "https://ngl.link/%E6%B3%8950122",
+                "start": 22,
+                "url": "https://t.co/ILEWFdOQz0"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "永雏泉",
+        "pinned_tweet_id": "2060026487768760460",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978274114138996736/r_khhgIT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1140,
+          "following_count": 747,
+          "like_count": 25061,
+          "listed_count": 2,
+          "media_count": 280,
+          "tweet_count": 9014
+        },
+        "url": "",
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-14T17:45:05.000Z",
+        "description": "新中国人丨双性恋丨MTX丨随时会和任何人翻脸丨蓝勾支黑猪造反教徒台巴腊左看到这儿死全家丨小米公司我操你妈丨闲鱼平台我操你妈",
+        "id": "1768332499510558723",
+        "location": "特朗普就是俺们回民养哈的",
+        "name": "喵喵露今天吃什么🐱(骂我的永远都是中国人)",
+        "pinned_tweet_id": "2075869841400209775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073776593726808064/ceDazwaI_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 941,
+          "following_count": 819,
+          "like_count": 27522,
+          "listed_count": 4,
+          "media_count": 764,
+          "tweet_count": 7254
+        },
+        "url": "",
+        "username": "ChuCaoJiCute",
+        "verified": false
+      }
+    ]
+  }
+}

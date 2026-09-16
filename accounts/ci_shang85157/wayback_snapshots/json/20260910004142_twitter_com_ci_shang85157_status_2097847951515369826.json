@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "2097633101308666211",
+    "created_at": "2026-09-10T00:41:42.000Z",
+    "display_text_range": [
+      15,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T01:41:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097847951515369826"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1571724777609637889",
+          "start": 0,
+          "username": "aaaaa00847066"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097847951515369826",
+    "in_reply_to_user_id": "1571724777609637889",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097633101308666211",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aaaaa00847066 这这这。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2097632754523688960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRxJ4GKb0AAJAUZ.jpg",
+        "width": 1033
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "2097633101308666211",
+        "created_at": "2026-09-10T00:41:42.000Z",
+        "display_text_range": [
+          15,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T01:41:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097847951515369826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1571724777609637889",
+              "start": 0,
+              "username": "aaaaa00847066"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097847951515369826",
+        "in_reply_to_user_id": "1571724777609637889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097633101308666211",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aaaaa00847066 这这这。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097632754523688960"
+          ]
+        },
+        "author_id": "1571724777609637889",
+        "conversation_id": "2097633101308666211",
+        "created_at": "2026-09-09T10:27:58.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T11:27:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097633101308666211"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HINbyySiq1",
+              "end": 37,
+              "expanded_url": "https://x.com/aaaaa00847066/status/2097633101308666211/photo/1",
+              "media_key": "3_2097632754523688960",
+              "start": 14,
+              "url": "https://t.co/HINbyySiq1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097633101308666211",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097632754523688960"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 48234,
+          "like_count": 156,
+          "quote_count": 0,
+          "reply_count": 46,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哦哦我就这样一直被戏耍吧！ https://t.co/HINbyySiq1"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧 https://t.co/ILEWFdOiJs。 ngl匿名问答。  嗯我是男生 不要认错了。妈妈@YuganQwQ 欢迎大家找我玩。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 71,
+                "username": "YuganQwQ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%8950122",
+                "end": 45,
+                "expanded_url": "https://ngl.link/%E6%B3%8950122",
+                "start": 22,
+                "url": "https://t.co/ILEWFdOiJs"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097847951515369826",
+        "name": "永雏泉",
+        "pinned_tweet_id": "2060026487768760460",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1826281483675299840/1739601675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978274114138996736/r_khhgIT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1198,
+          "following_count": 770,
+          "like_count": 25941,
+          "listed_count": 2,
+          "media_count": 315,
+          "tweet_count": 9462
+        },
+        "url": "",
+        "username": "ci_shang85157",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-09-19T04:56:15.000Z",
+        "description": "4i/互关请和我加v/有很多碎碎念/没有建模都是高p",
+        "id": "1571724777609637889",
+        "is_identity_verified": false,
+        "location": "火星",
+        "most_recent_tweet_id": "2097727755739955232",
+        "name": "w",
+        "pinned_tweet_id": "2013357806263689285",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1571724777609637889/1682778285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066086831666683904/StKvjqRd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2099,
+          "following_count": 392,
+          "like_count": 701,
+          "listed_count": 3,
+          "media_count": 14,
+          "tweet_count": 184
+        },
+        "url": "",
+        "username": "aaaaa00847066",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

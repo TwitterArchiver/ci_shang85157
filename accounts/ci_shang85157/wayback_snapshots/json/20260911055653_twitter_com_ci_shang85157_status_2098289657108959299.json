@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "2098035642139808118",
+    "created_at": "2026-09-11T05:56:53.000Z",
+    "display_text_range": [
+      12,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T06:56:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098289657108959299"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2016164479038586887",
+          "start": 0,
+          "username": "imnotTTing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098289657108959299",
+    "in_reply_to_user_id": "2016164479038586887",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098035642139808118",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@imnotTTing 见怪不怪了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "2098035642139808118",
+        "created_at": "2026-09-11T05:56:53.000Z",
+        "display_text_range": [
+          12,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T06:56:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098289657108959299"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2016164479038586887",
+              "start": 0,
+              "username": "imnotTTing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098289657108959299",
+        "in_reply_to_user_id": "2016164479038586887",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098035642139808118",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@imnotTTing 见怪不怪了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016164479038586887",
+        "conversation_id": "2098035642139808118",
+        "created_at": "2026-09-10T13:07:31.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T14:07:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098035642139808118"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098035642139808118",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8529,
+          "like_count": 172,
+          "quote_count": 2,
+          "reply_count": 30,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我真的不想再刷到未成年od自残做爱的帖子了我完全生理不适。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧 https://t.co/ILEWFdOiJs。 ngl匿名问答。  嗯我是男生 不要认错了。妈妈@YuganQwQ 欢迎大家找我玩。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 71,
+                "username": "YuganQwQ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%8950122",
+                "end": 45,
+                "expanded_url": "https://ngl.link/%E6%B3%8950122",
+                "start": 22,
+                "url": "https://t.co/ILEWFdOiJs"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098289657108959299",
+        "name": "永雏泉",
+        "pinned_tweet_id": "2060026487768760460",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1826281483675299840/1739601675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978274114138996736/r_khhgIT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1200,
+          "following_count": 776,
+          "like_count": 26006,
+          "listed_count": 2,
+          "media_count": 315,
+          "tweet_count": 9493
+        },
+        "url": "",
+        "username": "ci_shang85157",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-27T15:00:59.000Z",
+        "description": "infj 05 我有文艺病\n不看不约 没礼貌的不回拉黑T _ T\n匿名：https://t.co/RaFzW1JSdg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/imnottting",
+                "end": 59,
+                "expanded_url": "https://ngl.link/imnottting",
+                "start": 36,
+                "url": "https://t.co/RaFzW1JSdg"
+              }
+            ]
+          }
+        },
+        "id": "2016164479038586887",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098282096246792367",
+        "name": "TING×2",
+        "pinned_tweet_id": "2096821669927280863",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2016164479038586887/1789037754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096819237868404736/rDA0oE54_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 24,
+          "like_count": 256,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 176
+        },
+        "url": "",
+        "username": "imnotTTing",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

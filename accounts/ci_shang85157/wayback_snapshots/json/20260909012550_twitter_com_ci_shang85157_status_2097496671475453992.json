@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "2097216705806352524",
+    "created_at": "2026-09-09T01:25:50.000Z",
+    "display_text_range": [
+      9,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T02:25:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097496671475453992"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1497763303052832775",
+          "start": 0,
+          "username": "ericisw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097496671475453992",
+    "in_reply_to_user_id": "1497763303052832775",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097216705806352524",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ericisw 东北人装的台湾人"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 35179,
+        "height": 1024,
+        "media_key": "13_2097216613246509056",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2097216613246509056/img/ZTNO0pRhGBxA37XK.jpg",
+        "public_metrics": {
+          "view_count": 280
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097216613246509056/vid/avc1/320x568/tXCr4M6y1pNbOrlK.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097216613246509056/vid/avc1/480x852/AvltRzBD8ID3fdUe.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097216613246509056/vid/avc1/576x1024/bOu5jMfcPkccb-N9.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2097216613246509056/pl/GVa8BNYcNGtZsQbX.m3u8"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "2097216705806352524",
+        "created_at": "2026-09-09T01:25:50.000Z",
+        "display_text_range": [
+          9,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T02:25:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097496671475453992"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1497763303052832775",
+              "start": 0,
+              "username": "ericisw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097496671475453992",
+        "in_reply_to_user_id": "1497763303052832775",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097216705806352524",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ericisw 东北人装的台湾人"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2097216613246509056"
+          ]
+        },
+        "author_id": "1497763303052832775",
+        "conversation_id": "2097216705806352524",
+        "created_at": "2026-09-08T06:53:21.000Z",
+        "display_text_range": [
+          0,
+          63
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T07:53:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097216705806352524"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LfuzyoAnQK",
+              "end": 87,
+              "expanded_url": "https://x.com/ericisw/status/2097216705806352524/video/1",
+              "media_key": "13_2097216613246509056",
+              "start": 64,
+              "url": "https://t.co/LfuzyoAnQK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097216705806352524",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2097216613246509056"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 711,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "台湾游客看见桌上的花生，上前询问能不能买。本来不卖的花生，店主一听对方是台湾同胞，立马热情招呼：“抓！随便抓！都是一家人嘛！” https://t.co/LfuzyoAnQK"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧 https://t.co/ILEWFdOiJs。 ngl匿名问答。  嗯我是男生 不要认错了。妈妈@YuganQwQ 欢迎大家找我玩。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 71,
+                "username": "YuganQwQ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%8950122",
+                "end": 45,
+                "expanded_url": "https://ngl.link/%E6%B3%8950122",
+                "start": 22,
+                "url": "https://t.co/ILEWFdOiJs"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097496671475453992",
+        "name": "永雏泉",
+        "pinned_tweet_id": "2060026487768760460",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1826281483675299840/1739601675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978274114138996736/r_khhgIT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1198,
+          "following_count": 767,
+          "like_count": 25894,
+          "listed_count": 2,
+          "media_count": 313,
+          "tweet_count": 9443
+        },
+        "url": "",
+        "username": "ci_shang85157",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-27T02:39:52.000Z",
+        "description": "｜中年拆解 | 人性、情感、现实一针见血 |",
+        "id": "1497763303052832775",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097496664798089227",
+        "name": "Eric",
+        "pinned_tweet_id": "2096235371604652266",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1497763303052832775/1773744790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1742328676744880128/-xq5Zz-K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7500,
+          "following_count": 4620,
+          "like_count": 31541,
+          "listed_count": 8,
+          "media_count": 730,
+          "tweet_count": 6701
+        },
+        "url": "",
+        "username": "ericisw",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

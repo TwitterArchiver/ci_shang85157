@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "2096151626885021849",
+    "created_at": "2026-09-05T13:43:06.000Z",
+    "display_text_range": [
+      26,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T14:43:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096232656455291302"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2079079065303334912",
+          "start": 0,
+          "username": "jdwdj0721"
+        },
+        {
+          "end": 25,
+          "id": "2073934453454614530",
+          "start": 11,
+          "username": "dreamolly1997"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096232656455291302",
+    "in_reply_to_user_id": "2079079065303334912",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096151626885021849",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jdwdj0721 @dreamolly1997 求你了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 735,
+        "media_key": "3_2096151612586594305",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRcGySeWEAEUAZ_.jpg",
+        "width": 1170
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2096151612582465540",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRcGySdXEAQFX5A.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "2096151626885021849",
+        "created_at": "2026-09-05T13:43:06.000Z",
+        "display_text_range": [
+          26,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T14:43:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096232656455291302"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2079079065303334912",
+              "start": 0,
+              "username": "jdwdj0721"
+            },
+            {
+              "end": 25,
+              "id": "2073934453454614530",
+              "start": 11,
+              "username": "dreamolly1997"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096232656455291302",
+        "in_reply_to_user_id": "2079079065303334912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096151626885021849",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jdwdj0721 @dreamolly1997 求你了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096151612586594305",
+            "3_2096151612582465540"
+          ]
+        },
+        "author_id": "2079079065303334912",
+        "conversation_id": "2096151626885021849",
+        "created_at": "2026-09-05T08:21:07.000Z",
+        "display_text_range": [
+          0,
+          141
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T09:21:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096151626885021849"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9hCgIG7o9X",
+              "end": 165,
+              "expanded_url": "https://x.com/jdwdj0721/status/2096151626885021849/photo/1",
+              "media_key": "3_2096151612586594305",
+              "start": 142,
+              "url": "https://t.co/9hCgIG7o9X"
+            },
+            {
+              "display_url": "pic.x.com/9hCgIG7o9X",
+              "end": 165,
+              "expanded_url": "https://x.com/jdwdj0721/status/2096151626885021849/photo/1",
+              "media_key": "3_2096151612582465540",
+              "start": 142,
+              "url": "https://t.co/9hCgIG7o9X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096151626885021849",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096151612586594305"
+          },
+          {
+            "media_key": "3_2096151612582465540"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 225,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "我将随机赠送 0.01 CNY给一个人！\n\n按照承诺，我将发送 0.01 CNY（约6980 0000 0000 ZWD）给一位幸运的关注者，诚信第一！\n\n要参与，请点赞、转发并评论“好的”。\n\n* 如果你不是关注者，你将被取消资格。\n\n获奖者将在 4小时内公布！\n\n抓住你的机会！ https://t.co/9hCgIG7o9X"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧 https://t.co/ILEWFdOiJs。 ngl匿名问答。  嗯我是男生 不要认错了。妈妈@YuganQwQ 欢迎大家找我玩。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 71,
+                "username": "YuganQwQ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%8950122",
+                "end": 45,
+                "expanded_url": "https://ngl.link/%E6%B3%8950122",
+                "start": 22,
+                "url": "https://t.co/ILEWFdOiJs"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096232656455291302",
+        "name": "永雏泉",
+        "pinned_tweet_id": "2060026487768760460",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1826281483675299840/1739601675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978274114138996736/r_khhgIT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1190,
+          "following_count": 762,
+          "like_count": 25806,
+          "listed_count": 2,
+          "media_count": 312,
+          "tweet_count": 9416
+        },
+        "url": "",
+        "username": "ci_shang85157",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-20T05:41:58.000Z",
+        "description": "喜欢穿女装和白丝喵～\n|坐标岳池🥵|2011/09/25|学日语ing…|喜欢捣鼓电子产品和软件|收藏老iPhone\\iPad\\Mac|喜欢骑自行车😍|x重度依赖|\n提问箱:https://t.co/j1mTAMAE0Q\n抖音:jdwdj0721\nWeChat:jdwdj0721\nQ群:710673097",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "us.quizby.me/c/jdwdj0721",
+                "end": 110,
+                "expanded_url": "http://us.quizby.me/c/jdwdj0721",
+                "start": 87,
+                "url": "https://t.co/j1mTAMAE0Q"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "us.quizby.me/c/jdwdj0721",
+                "end": 23,
+                "expanded_url": "https://us.quizby.me/c/jdwdj0721",
+                "start": 0,
+                "url": "https://t.co/4tZwp2P7U0"
+              }
+            ]
+          }
+        },
+        "id": "2079079065303334912",
+        "is_identity_verified": false,
+        "location": "地球",
+        "most_recent_tweet_id": "2096230236966834204",
+        "name": "Xiao（互fo喵）",
+        "pinned_tweet_id": "2093125645119217701",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2079079065303334912/1787418370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087368849750466560/Eep9-xb7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 623,
+          "like_count": 8339,
+          "listed_count": 0,
+          "media_count": 342,
+          "tweet_count": 839
+        },
+        "url": "https://t.co/4tZwp2P7U0",
+        "username": "jdwdj0721",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n08的魔法使\n🚪88，什么都没有",
+        "id": "2073934453454614530",
+        "is_identity_verified": false,
+        "location": "molise 的心里！",
+        "most_recent_tweet_id": "2096232553686737327",
+        "name": "molly",
+        "pinned_tweet_id": "2095379425076621420",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2073934453454614530/1783770009",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370,
+          "following_count": 780,
+          "like_count": 5196,
+          "listed_count": 0,
+          "media_count": 136,
+          "tweet_count": 5057
+        },
+        "url": "",
+        "username": "dreamolly1997",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

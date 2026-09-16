@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "2098219430161617175",
+    "created_at": "2026-09-12T22:36:19.000Z",
+    "display_text_range": [
+      11,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T23:36:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098903561199554658"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1747146335323844609",
+          "start": 0,
+          "username": "aozn24428"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098903561199554658",
+    "in_reply_to_user_id": "1747146335323844609",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098863151953674524",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aozn24428 应该没事吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "2098219430161617175",
+        "created_at": "2026-09-12T22:36:19.000Z",
+        "display_text_range": [
+          11,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T23:36:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098903561199554658"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1747146335323844609",
+              "start": 0,
+              "username": "aozn24428"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098903561199554658",
+        "in_reply_to_user_id": "1747146335323844609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098863151953674524",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aozn24428 应该没事吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1747146335323844609",
+        "conversation_id": "2098219430161617175",
+        "created_at": "2026-09-12T19:55:45.000Z",
+        "display_text_range": [
+          15,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T20:55:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098863151953674524"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1826281483675299840",
+              "start": 0,
+              "username": "ci_shang85157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098863151953674524",
+        "in_reply_to_user_id": "1826281483675299840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098219430161617175",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ci_shang85157 我操你去医院看看"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧 https://t.co/ILEWFdOiJs。 ngl匿名问答。  嗯我是男生 不要认错了。妈妈@YuganQwQ 欢迎大家找我玩。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 71,
+                "username": "YuganQwQ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%8950122",
+                "end": 45,
+                "expanded_url": "https://ngl.link/%E6%B3%8950122",
+                "start": 22,
+                "url": "https://t.co/ILEWFdOiJs"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098903561199554658",
+        "name": "永雏泉",
+        "pinned_tweet_id": "2060026487768760460",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1826281483675299840/1739601675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978274114138996736/r_khhgIT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1199,
+          "following_count": 781,
+          "like_count": 26017,
+          "listed_count": 2,
+          "media_count": 316,
+          "tweet_count": 9497
+        },
+        "url": "",
+        "username": "ci_shang85157",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-16T06:38:51.000Z",
+        "description": "只是在和自己聊天",
+        "id": "1747146335323844609",
+        "is_identity_verified": false,
+        "location": "你心里❤️",
+        "most_recent_tweet_id": "2098902994880462969",
+        "name": "妹子幸运一点吧",
+        "pinned_tweet_id": "2066436022750294207",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1747146335323844609/1737022588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879835045579624448/jO2JXuKG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2479,
+          "following_count": 348,
+          "like_count": 33373,
+          "listed_count": 10,
+          "media_count": 1863,
+          "tweet_count": 25404
+        },
+        "url": "",
+        "username": "aozn24428",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

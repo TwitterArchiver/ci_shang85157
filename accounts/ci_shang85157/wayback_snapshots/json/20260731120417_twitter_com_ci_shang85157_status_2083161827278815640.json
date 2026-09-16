@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083161762745245696"
+      ]
+    },
+    "author_id": "1826281483675299840",
+    "conversation_id": "2083161827278815640",
+    "created_at": "2026-07-31T12:04:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T13:04:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083161827278815640"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/pKvE3Blb9f",
+          "end": 38,
+          "expanded_url": "https://x.com/ci_shang85157/status/2083161827278815640/photo/1",
+          "media_key": "3_2083161762745245696",
+          "start": 15,
+          "url": "https://t.co/pKvE3Blb9f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083161827278815640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "爸爸妈妈们。帮我转帖好不好。 https://t.co/pKvE3Blb9f"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1037,
+        "media_key": "3_2083161762745245696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOjglg4bYAAmemQ.jpg",
+        "width": 1037
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083161762745245696"
+          ]
+        },
+        "author_id": "1826281483675299840",
+        "conversation_id": "2083161827278815640",
+        "created_at": "2026-07-31T12:04:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T13:04:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083161827278815640"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pKvE3Blb9f",
+              "end": 38,
+              "expanded_url": "https://x.com/ci_shang85157/status/2083161827278815640/photo/1",
+              "media_key": "3_2083161762745245696",
+              "start": 15,
+              "url": "https://t.co/pKvE3Blb9f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083161827278815640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "爸爸妈妈们。帮我转帖好不好。 https://t.co/pKvE3Blb9f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧 https://t.co/ILEWFdOQz0。 ngl匿名问答。  嗯我是男生 不要认错了。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%8950122",
+                "end": 45,
+                "expanded_url": "https://ngl.link/%E6%B3%8950122",
+                "start": 22,
+                "url": "https://t.co/ILEWFdOQz0"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "永雏泉",
+        "pinned_tweet_id": "2060026487768760460",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978274114138996736/r_khhgIT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1140,
+          "following_count": 745,
+          "like_count": 24960,
+          "listed_count": 2,
+          "media_count": 275,
+          "tweet_count": 8973
+        },
+        "url": "",
+        "username": "ci_shang85157",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "2087451906541306200",
+    "created_at": "2026-08-13T06:38:29.000Z",
+    "display_text_range": [
+      15,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T07:38:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087790877012070566"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1889200694986756096",
+          "start": 0,
+          "username": "OvOxiaomi8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087790877012070566",
+    "in_reply_to_user_id": "1889200694986756096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087451906541306200",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OvOxiaomi8964 永远 以后告白可以说“我想和你野生狗奶一样在一起”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "2087451906541306200",
+        "created_at": "2026-08-13T06:38:29.000Z",
+        "display_text_range": [
+          15,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T07:38:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087790877012070566"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1889200694986756096",
+              "start": 0,
+              "username": "OvOxiaomi8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087790877012070566",
+        "in_reply_to_user_id": "1889200694986756096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087451906541306200",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OvOxiaomi8964 永远 以后告白可以说“我想和你野生狗奶一样在一起”"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889200694986756096",
+        "conversation_id": "2087451906541306200",
+        "created_at": "2026-08-12T08:11:32.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T09:11:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087451906541306200"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087451906541306200",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15892,
+          "like_count": 113,
+          "quote_count": 0,
+          "reply_count": 60,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "野生狗奶到底是何物…"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧 https://t.co/ILEWFdOiJs。 ngl匿名问答。  嗯我是男生 不要认错了。主人@YuganQwQ我的私信看不了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 71,
+                "username": "YuganQwQ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%8950122",
+                "end": 45,
+                "expanded_url": "https://ngl.link/%E6%B3%8950122",
+                "start": 22,
+                "url": "https://t.co/ILEWFdOiJs"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087790877012070566",
+        "name": "永雏泉",
+        "pinned_tweet_id": "2060026487768760460",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1826281483675299840/1739601675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978274114138996736/r_khhgIT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1158,
+          "following_count": 759,
+          "like_count": 25423,
+          "listed_count": 2,
+          "media_count": 295,
+          "tweet_count": 9154
+        },
+        "url": "",
+        "username": "ci_shang85157",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-11T06:32:08.000Z",
+        "description": "全世界最爱老公呀🐈\n搬我帖子到墙内的人死全家。我没素质。\n俺不互fo不回私信! @OnOxiaomi（⬅️仅过互关）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 40,
+                "username": "OnOxiaomi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%96%B5%E5%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%96%B5%E5%96%B5%E5%96%B556588",
+                "start": 0,
+                "url": "https://t.co/bFvbqgw3Nk"
+              }
+            ]
+          }
+        },
+        "id": "1889200694986756096",
+        "is_identity_verified": false,
+        "location": "匿名信箱➡️",
+        "most_recent_tweet_id": "2087789814133448930",
+        "name": "我的智齿可疼了",
+        "pinned_tweet_id": "1970395598131208203",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1889200694986756096/1777310226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046810726686433280/YI_-e75p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4494,
+          "following_count": 271,
+          "like_count": 30318,
+          "listed_count": 15,
+          "media_count": 1123,
+          "tweet_count": 18490
+        },
+        "url": "https://t.co/bFvbqgw3Nk",
+        "username": "OvOxiaomi8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

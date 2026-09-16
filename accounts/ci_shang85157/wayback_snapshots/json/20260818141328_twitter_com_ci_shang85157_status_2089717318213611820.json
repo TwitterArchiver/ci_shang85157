@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "2089404211507384443",
+    "created_at": "2026-08-18T14:13:28.000Z",
+    "display_text_range": [
+      17,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T15:13:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089717318213611820"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2048780984418492416",
+          "start": 0,
+          "username": "Michael90398026"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089717318213611820",
+    "in_reply_to_user_id": "2048780984418492416",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089404211507384443",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Michael90398026 我也是。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "2089404211507384443",
+        "created_at": "2026-08-18T14:13:28.000Z",
+        "display_text_range": [
+          17,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T15:13:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089717318213611820"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2048780984418492416",
+              "start": 0,
+              "username": "Michael90398026"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089717318213611820",
+        "in_reply_to_user_id": "2048780984418492416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089404211507384443",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Michael90398026 我也是。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048780984418492416",
+        "conversation_id": "2089404211507384443",
+        "created_at": "2026-08-17T17:29:17.000Z",
+        "display_text_range": [
+          0,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T18:29:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089404211507384443"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089404211507384443",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我每天买加巴喷丁但根本没药效 只是为了缓解戒断 我好痛苦 而且也没有钱了 我还要被赶出家门了 我好想。。。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧 https://t.co/ILEWFdOiJs。 ngl匿名问答。  嗯我是男生 不要认错了。主人@YuganQwQ我的私信看不了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 71,
+                "username": "YuganQwQ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%8950122",
+                "end": 45,
+                "expanded_url": "https://ngl.link/%E6%B3%8950122",
+                "start": 22,
+                "url": "https://t.co/ILEWFdOiJs"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089717318213611820",
+        "name": "永雏泉",
+        "pinned_tweet_id": "2060026487768760460",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1826281483675299840/1739601675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978274114138996736/r_khhgIT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1171,
+          "following_count": 762,
+          "like_count": 25586,
+          "listed_count": 2,
+          "media_count": 303,
+          "tweet_count": 9260
+        },
+        "url": "",
+        "username": "ci_shang85157",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-27T15:07:19.000Z",
+        "description": "邪恶夏树                                                                                                         在此纪念:@otxiashu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 114,
+                "username": "otxiashu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ot78725",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ot78725",
+                "start": 0,
+                "url": "https://t.co/3CzjIlW3sx"
+              }
+            ]
+          }
+        },
+        "id": "2048780984418492416",
+        "is_identity_verified": false,
+        "location": "沃尔库塔-5",
+        "most_recent_tweet_id": "2089406902962905104",
+        "name": "Natsuki",
+        "pinned_tweet_id": "2086173833321660888",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2048780984418492416/1786099001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085680977037426688/X3l9dl6n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 61,
+          "like_count": 88,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 79
+        },
+        "url": "https://t.co/3CzjIlW3sx",
+        "username": "Michael90398026",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

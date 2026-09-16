@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "2093873829726867818",
+    "created_at": "2026-08-30T05:25:44.000Z",
+    "display_text_range": [
+      14,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T06:25:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093933166470021189"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2047879211168493568",
+          "start": 0,
+          "username": "aberyoheiabe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093933166470021189",
+    "in_reply_to_user_id": "2047879211168493568",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093873829726867818",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aberyoheiabe 用嘴巴呼吸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "2093873829726867818",
+        "created_at": "2026-08-30T05:25:44.000Z",
+        "display_text_range": [
+          14,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T06:25:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093933166470021189"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2047879211168493568",
+              "start": 0,
+              "username": "aberyoheiabe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093933166470021189",
+        "in_reply_to_user_id": "2047879211168493568",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093873829726867818",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aberyoheiabe 用嘴巴呼吸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047879211168493568",
+        "conversation_id": "2093873829726867818",
+        "created_at": "2026-08-30T01:29:57.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T02:29:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093873829726867818"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2093873829726867818",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 959,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "要是真的呼吸抑制\n如何及时自救😰"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧 https://t.co/ILEWFdOiJs。 ngl匿名问答。  嗯我是男生 不要认错了。妈妈@YuganQwQ 欢迎大家找我玩。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 71,
+                "username": "YuganQwQ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%8950122",
+                "end": 45,
+                "expanded_url": "https://ngl.link/%E6%B3%8950122",
+                "start": 22,
+                "url": "https://t.co/ILEWFdOiJs"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093933166470021189",
+        "name": "永雏泉",
+        "pinned_tweet_id": "2060026487768760460",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1826281483675299840/1739601675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978274114138996736/r_khhgIT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1185,
+          "following_count": 762,
+          "like_count": 25703,
+          "listed_count": 2,
+          "media_count": 309,
+          "tweet_count": 9362
+        },
+        "url": "",
+        "username": "ci_shang85157",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-25T03:24:13.000Z",
+        "description": "⊹ すずめ ⊹ 前世：@aberyoheiabe⌇三代目：@aberyoheiszm⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  〇Ð ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo\n↓🦋的联系方式！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "aberyoheiabe"
+              },
+              {
+                "end": 42,
+                "start": 29,
+                "username": "aberyoheiszm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/aberyo…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/aberyoheiskm.bsky.social",
+                "start": 0,
+                "url": "https://t.co/8Sfw0dOLQB"
+              }
+            ]
+          }
+        },
+        "id": "2047879211168493568",
+        "is_identity_verified": false,
+        "location": "地獄の監禁室",
+        "most_recent_tweet_id": "2093932976136745328",
+        "name": "⊹ SUZUME ⊹🩵（寻回互fo）",
+        "pinned_tweet_id": "2085446161243201959",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047879211168493568/1777087553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047885258499162112/U69oegBR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 360,
+          "following_count": 310,
+          "like_count": 847,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 519
+        },
+        "url": "https://t.co/8Sfw0dOLQB",
+        "username": "aberyoheiabe",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

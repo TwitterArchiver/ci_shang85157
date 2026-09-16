@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "2097505964320800916",
+    "created_at": "2026-09-10T01:17:53.000Z",
+    "display_text_range": [
+      16,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T02:17:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097857059249356975"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2023707996623437824",
+          "start": 0,
+          "username": "GoneAngels8964"
+        },
+        {
+          "end": 18,
+          "id": "18899974",
+          "start": 16,
+          "username": "1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097857059249356975",
+    "in_reply_to_user_id": "2023707996623437824",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097505964320800916",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GoneAngels8964 @1"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [1].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "1",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "1"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1706,
+        "media_key": "3_2097505957219901440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRvWjhZboAADRNq.jpg",
+        "width": 1279
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "2097505964320800916",
+        "created_at": "2026-09-10T01:17:53.000Z",
+        "display_text_range": [
+          16,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T02:17:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097857059249356975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2023707996623437824",
+              "start": 0,
+              "username": "GoneAngels8964"
+            },
+            {
+              "end": 18,
+              "id": "18899974",
+              "start": 16,
+              "username": "1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097857059249356975",
+        "in_reply_to_user_id": "2023707996623437824",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097505964320800916",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GoneAngels8964 @1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097505957219901440"
+          ]
+        },
+        "author_id": "2023707996623437824",
+        "conversation_id": "2097505964320800916",
+        "created_at": "2026-09-09T02:02:46.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T03:02:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097505964320800916"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ayiIFNn6w7",
+              "end": 30,
+              "expanded_url": "https://x.com/GoneAngels8964/status/2097505964320800916/photo/1",
+              "media_key": "3_2097505957219901440",
+              "start": 7,
+              "url": "https://t.co/ayiIFNn6w7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097505964320800916",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2097505957219901440"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 760,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 29,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "這是哪位推友 https://t.co/ayiIFNn6w7"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧 https://t.co/ILEWFdOiJs。 ngl匿名问答。  嗯我是男生 不要认错了。妈妈@YuganQwQ 欢迎大家找我玩。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 71,
+                "username": "YuganQwQ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%8950122",
+                "end": 45,
+                "expanded_url": "https://ngl.link/%E6%B3%8950122",
+                "start": 22,
+                "url": "https://t.co/ILEWFdOiJs"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097857059249356975",
+        "name": "永雏泉",
+        "pinned_tweet_id": "2060026487768760460",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1826281483675299840/1739601675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978274114138996736/r_khhgIT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1198,
+          "following_count": 772,
+          "like_count": 25948,
+          "listed_count": 2,
+          "media_count": 315,
+          "tweet_count": 9466
+        },
+        "url": "",
+        "username": "ci_shang85157",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-17T10:36:10.000Z",
+        "description": "🏳️‍⚧️Transgender/Non-binary",
+        "id": "2023707996623437824",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097851005547540691",
+        "name": "小Lain",
+        "pinned_tweet_id": "2096797569712267771",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2023707996623437824/1785839737",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095699403013345280/FwLb5GKX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 135,
+          "like_count": 3623,
+          "listed_count": 0,
+          "media_count": 136,
+          "tweet_count": 1341
+        },
+        "url": "",
+        "username": "GoneAngels8964",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

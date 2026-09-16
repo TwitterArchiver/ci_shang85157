@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "2090757495459586050",
+    "created_at": "2026-08-21T14:17:49.000Z",
+    "display_text_range": [
+      10,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T15:17:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090805575244550437"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2059524216127733760",
+          "start": 0,
+          "username": "zhuge132"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090805575244550437",
+    "in_reply_to_user_id": "2059524216127733760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090797500378587340",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhuge132 对啊 我总是习惯给自己贴标签 我是什么样的人其实不重要吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "2090757495459586050",
+        "created_at": "2026-08-21T14:17:49.000Z",
+        "display_text_range": [
+          10,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T15:17:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090805575244550437"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2059524216127733760",
+              "start": 0,
+              "username": "zhuge132"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090805575244550437",
+        "in_reply_to_user_id": "2059524216127733760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090797500378587340",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhuge132 对啊 我总是习惯给自己贴标签 我是什么样的人其实不重要吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059524216127733760",
+        "conversation_id": "2090757495459586050",
+        "created_at": "2026-08-21T13:45:43.000Z",
+        "display_text_range": [
+          15,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T14:45:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090797500378587340"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1826281483675299840",
+              "start": 0,
+              "username": "ci_shang85157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090797500378587340",
+        "in_reply_to_user_id": "1826281483675299840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090757495459586050",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ci_shang85157 不要试图给自己打标签，很容易潜意识就固化一件事了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧 https://t.co/ILEWFdOiJs。 ngl匿名问答。  嗯我是男生 不要认错了。主人@YuganQwQ我的私信看不了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 71,
+                "username": "YuganQwQ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%8950122",
+                "end": 45,
+                "expanded_url": "https://ngl.link/%E6%B3%8950122",
+                "start": 22,
+                "url": "https://t.co/ILEWFdOiJs"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090805575244550437",
+        "name": "永雏泉",
+        "pinned_tweet_id": "2060026487768760460",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1826281483675299840/1739601675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978274114138996736/r_khhgIT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1177,
+          "following_count": 755,
+          "like_count": 25627,
+          "listed_count": 2,
+          "media_count": 305,
+          "tweet_count": 9291
+        },
+        "url": "",
+        "username": "ci_shang85157",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-27T06:37:54.000Z",
+        "description": "你好，我是小雨",
+        "id": "2059524216127733760",
+        "is_identity_verified": false,
+        "location": "长亭古道，依稀船旁",
+        "most_recent_tweet_id": "2090798484337377701",
+        "name": "诸葛",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059524216127733760/1784038781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077035249402527744/xKc_7lGO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 58,
+          "like_count": 169,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 191
+        },
+        "url": "",
+        "username": "zhuge132",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

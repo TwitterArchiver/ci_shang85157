@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "2087701454010400801",
+    "created_at": "2026-08-13T17:06:18.000Z",
+    "display_text_range": [
+      13,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T18:06:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087948875973747045"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1598343662357794816",
+          "start": 0,
+          "username": "yun85013877"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087948875973747045",
+    "in_reply_to_user_id": "1598343662357794816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087701454010400801",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yun85013877 你怎么跟狗一样总想跪。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "2087701454010400801",
+        "created_at": "2026-08-13T17:06:18.000Z",
+        "display_text_range": [
+          13,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T18:06:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087948875973747045"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1598343662357794816",
+              "start": 0,
+              "username": "yun85013877"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087948875973747045",
+        "in_reply_to_user_id": "1598343662357794816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087701454010400801",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yun85013877 你怎么跟狗一样总想跪。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598343662357794816",
+        "conversation_id": "2087701454010400801",
+        "created_at": "2026-08-13T00:43:08.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T01:43:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087701454010400801"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087701454010400801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 120,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的觉得血统纯粹的少民自己对自己民族认同感特别骄傲特别强的人很高贵……看着就想下跪"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧 https://t.co/ILEWFdOiJs。 ngl匿名问答。  嗯我是男生 不要认错了。主人@YuganQwQ我的私信看不了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 71,
+                "username": "YuganQwQ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%8950122",
+                "end": 45,
+                "expanded_url": "https://ngl.link/%E6%B3%8950122",
+                "start": 22,
+                "url": "https://t.co/ILEWFdOiJs"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087948875973747045",
+        "name": "永雏泉",
+        "pinned_tweet_id": "2060026487768760460",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1826281483675299840/1739601675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978274114138996736/r_khhgIT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1159,
+          "following_count": 760,
+          "like_count": 25472,
+          "listed_count": 2,
+          "media_count": 296,
+          "tweet_count": 9173
+        },
+        "url": "",
+        "username": "ci_shang85157",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-12-01T15:50:10.000Z",
+        "description": "軍犬になりたい軍事愛好家、私を善良な犬として交流してください🐕☺️ 褒めるのは全然惜しまないタイプで、つい褒めちゃうんです。 もしご迷惑だったら、本当にすみません。サブカルチャー愛好家、電子音楽愛好家、少数民族至上主义，哲学と心理学愛好家",
+        "id": "1598343662357794816",
+        "is_identity_verified": false,
+        "location": "奈良 奈良市",
+        "most_recent_tweet_id": "2087932136263454812",
+        "name": "輝夜kiko",
+        "pinned_tweet_id": "2087818577575592147",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1598343662357794816/1783014172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075144477753380864/zbyR7_41_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 569,
+          "like_count": 4780,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 677
+        },
+        "url": "",
+        "username": "yun85013877",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "2097594801952874717",
+    "created_at": "2026-09-09T10:32:50.000Z",
+    "display_text_range": [
+      14,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T11:32:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097634328645956031"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1784109678953480192",
+          "start": 0,
+          "username": "chidianmaima"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097634328645956031",
+    "in_reply_to_user_id": "1784109678953480192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097594801952874717",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chidianmaima 顿顿宝宝"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2097594788698828800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRwnWMcasAACyWd.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "2097594801952874717",
+        "created_at": "2026-09-09T10:32:50.000Z",
+        "display_text_range": [
+          14,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T11:32:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097634328645956031"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1784109678953480192",
+              "start": 0,
+              "username": "chidianmaima"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097634328645956031",
+        "in_reply_to_user_id": "1784109678953480192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097594801952874717",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chidianmaima 顿顿宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097594788698828800"
+          ]
+        },
+        "author_id": "1784109678953480192",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2097594801952874717",
+        "created_at": "2026-09-09T07:55:46.000Z",
+        "display_text_range": [
+          0,
+          98
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T08:55:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097594801952874717"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lIU2uuWnXG",
+              "end": 122,
+              "expanded_url": "https://x.com/chidianmaima/status/2097594801952874717/photo/1",
+              "media_key": "3_2097594788698828800",
+              "start": 99,
+              "url": "https://t.co/lIU2uuWnXG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097594801952874717",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097594788698828800"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 477,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "300fo了谢谢大家^ ^搞一个抽奖吧\n一等奖52cny 1位\n二等奖30cny 2位\n三等奖13.14cmy 3位\n到时候会Grok抽奖保证公平\n9.11开奖 参加方式是关注➕转发➕评论\n爱你们 https://t.co/lIU2uuWnXG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧 https://t.co/ILEWFdOiJs。 ngl匿名问答。  嗯我是男生 不要认错了。妈妈@YuganQwQ 欢迎大家找我玩。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 71,
+                "username": "YuganQwQ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%8950122",
+                "end": 45,
+                "expanded_url": "https://ngl.link/%E6%B3%8950122",
+                "start": 22,
+                "url": "https://t.co/ILEWFdOiJs"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097634328645956031",
+        "name": "永雏泉",
+        "pinned_tweet_id": "2060026487768760460",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1826281483675299840/1739601675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978274114138996736/r_khhgIT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1197,
+          "following_count": 769,
+          "like_count": 25909,
+          "listed_count": 2,
+          "media_count": 314,
+          "tweet_count": 9455
+        },
+        "url": "",
+        "username": "ci_shang85157",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-27T06:38:02.000Z",
+        "description": "双向11年💊🔪二号机@luanma7n",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 10,
+                "username": "luanma7n"
+              }
+            ]
+          }
+        },
+        "id": "1784109678953480192",
+        "is_identity_verified": false,
+        "location": "坟墓",
+        "most_recent_tweet_id": "2097627393754321313",
+        "name": "乱",
+        "pinned_tweet_id": "2097026618489442499",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1784109678953480192/1785667049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 312,
+          "following_count": 110,
+          "like_count": 952,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 510
+        },
+        "url": "",
+        "username": "chidianmaima",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "2087161779977916561",
+    "created_at": "2026-08-11T14:40:28.000Z",
+    "display_text_range": [
+      13,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T15:40:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087187397645836618"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1806972371607474176",
+          "start": 0,
+          "username": "QiongliBAKA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087187397645836618",
+    "in_reply_to_user_id": "1806972371607474176",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087161779977916561",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QiongliBAKA 你好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "2087161779977916561",
+        "created_at": "2026-08-11T14:40:28.000Z",
+        "display_text_range": [
+          13,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T15:40:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087187397645836618"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1806972371607474176",
+              "start": 0,
+              "username": "QiongliBAKA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087187397645836618",
+        "in_reply_to_user_id": "1806972371607474176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087161779977916561",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QiongliBAKA 你好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1806972371607474176",
+        "conversation_id": "2087161779977916561",
+        "created_at": "2026-08-11T12:58:40.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T13:58:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087161779977916561"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087161779977916561",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "来点人理理我"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧 https://t.co/ILEWFdOiJs。 ngl匿名问答。  嗯我是男生 不要认错了。主人@YuganQwQ我的私信看不了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 71,
+                "username": "YuganQwQ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%8950122",
+                "end": 45,
+                "expanded_url": "https://ngl.link/%E6%B3%8950122",
+                "start": 22,
+                "url": "https://t.co/ILEWFdOiJs"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087187397645836618",
+        "name": "永雏泉",
+        "pinned_tweet_id": "2060026487768760460",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1826281483675299840/1739601675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978274114138996736/r_khhgIT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1146,
+          "following_count": 755,
+          "like_count": 25312,
+          "listed_count": 2,
+          "media_count": 283,
+          "tweet_count": 9102
+        },
+        "url": "",
+        "username": "ci_shang85157",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-29T08:46:10.000Z",
+        "description": "在网络的海洋里游啊｜辽宁人｜小号「逃生舱」@Qiongli_BAKA‖物理意义上的高人因为身高≈180cm\n平时发布日常\n现实中见不得人。。。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 21,
+                "username": "Qiongli_BAKA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/WiBZ0sh",
+                "end": 23,
+                "expanded_url": "https://b23.tv/WiBZ0sh",
+                "start": 0,
+                "url": "https://t.co/alRvzxVnuF"
+              }
+            ]
+          }
+        },
+        "id": "1806972371607474176",
+        "is_identity_verified": false,
+        "location": "happiness",
+        "most_recent_tweet_id": "2087161779977916561",
+        "name": "是穹璃捏",
+        "pinned_tweet_id": "2084852204004086056",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1806972371607474176/1780125374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069300212926214144/9Z4ekt4A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1100,
+          "following_count": 1218,
+          "like_count": 8621,
+          "listed_count": 3,
+          "media_count": 262,
+          "tweet_count": 2577
+        },
+        "url": "https://t.co/alRvzxVnuF",
+        "username": "QiongliBAKA",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

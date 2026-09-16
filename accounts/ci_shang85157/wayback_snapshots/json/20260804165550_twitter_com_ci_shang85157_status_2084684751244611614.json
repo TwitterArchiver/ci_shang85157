@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "2084524747950572020",
+    "created_at": "2026-08-04T16:55:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T17:55:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084684751244611614"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1902932345390579712",
+          "start": 0,
+          "username": "Q902751453852"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084684751244611614",
+    "in_reply_to_user_id": "1902932345390579712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084645446249758808",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Q902751453852 不知道。我在药房买的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "2084524747950572020",
+        "created_at": "2026-08-04T16:55:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T17:55:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084684751244611614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1902932345390579712",
+              "start": 0,
+              "username": "Q902751453852"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084684751244611614",
+        "in_reply_to_user_id": "1902932345390579712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084645446249758808",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Q902751453852 不知道。我在药房买的。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902932345390579712",
+        "conversation_id": "2084524747950572020",
+        "created_at": "2026-08-04T14:19:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T15:19:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084645446249758808"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1826281483675299840",
+              "start": 0,
+              "username": "ci_shang85157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084645446249758808",
+        "in_reply_to_user_id": "1826281483675299840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 88,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084524747950572020",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ci_shang85157 这个价格买进口的不行吗。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧 https://t.co/ILEWFdOQz0。 ngl匿名问答。  嗯我是男生 不要认错了。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%8950122",
+                "end": 45,
+                "expanded_url": "https://ngl.link/%E6%B3%8950122",
+                "start": 22,
+                "url": "https://t.co/ILEWFdOQz0"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "永雏泉",
+        "pinned_tweet_id": "2060026487768760460",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978274114138996736/r_khhgIT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1147,
+          "following_count": 748,
+          "like_count": 25163,
+          "listed_count": 2,
+          "media_count": 282,
+          "tweet_count": 9044
+        },
+        "url": "",
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-21T03:56:50.000Z",
+        "description": "",
+        "id": "1902932345390579712",
+        "name": "q",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970555771470651393/90Q32IT3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 555,
+          "like_count": 3480,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 559
+        },
+        "url": "",
+        "username": "Q902751453852",
+        "verified": false
+      }
+    ]
+  }
+}

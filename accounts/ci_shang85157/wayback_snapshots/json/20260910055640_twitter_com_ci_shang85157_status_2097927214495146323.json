@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "2097670845175140579",
+    "created_at": "2026-09-10T05:56:40.000Z",
+    "display_text_range": [
+      10,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T06:56:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097927214495146323"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2090493219801120769",
+          "start": 0,
+          "username": "bo1109bo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097927214495146323",
+    "in_reply_to_user_id": "2090493219801120769",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097670845175140579",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bo1109bo 我抽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "2097670845175140579",
+        "created_at": "2026-09-10T05:56:40.000Z",
+        "display_text_range": [
+          10,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T06:56:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097927214495146323"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2090493219801120769",
+              "start": 0,
+              "username": "bo1109bo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097927214495146323",
+        "in_reply_to_user_id": "2090493219801120769",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097670845175140579",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bo1109bo 我抽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2090493219801120769",
+        "conversation_id": "2097670845175140579",
+        "created_at": "2026-09-09T12:57:56.000Z",
+        "display_text_range": [
+          0,
+          83
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T13:57:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097670845175140579"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097670845175140579",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 167,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "抽点10tQKT羟，抽奖。截止日期9.11 12:00。       作为一个腰带，先打出自己的名号\n参与方式，点赞转发本帖并评论留言，我会用数字轮盘选一位公平公正的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧 https://t.co/ILEWFdOiJs。 ngl匿名问答。  嗯我是男生 不要认错了。妈妈@YuganQwQ 欢迎大家找我玩。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 71,
+                "username": "YuganQwQ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%8950122",
+                "end": 45,
+                "expanded_url": "https://ngl.link/%E6%B3%8950122",
+                "start": 22,
+                "url": "https://t.co/ILEWFdOiJs"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097927214495146323",
+        "name": "永雏泉",
+        "pinned_tweet_id": "2060026487768760460",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1826281483675299840/1739601675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978274114138996736/r_khhgIT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1199,
+          "following_count": 774,
+          "like_count": 25949,
+          "listed_count": 2,
+          "media_count": 315,
+          "tweet_count": 9471
+        },
+        "url": "",
+        "username": "ci_shang85157",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T17:40:24.000Z",
+        "description": "",
+        "id": "2090493219801120769",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097670845175140579",
+        "name": "辞",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092442727774576640/bJRzjiH2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 16,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 8
+        },
+        "url": "",
+        "username": "bo1109bo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

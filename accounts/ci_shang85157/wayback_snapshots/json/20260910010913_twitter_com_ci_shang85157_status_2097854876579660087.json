@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "2097821633272819754",
+    "created_at": "2026-09-10T01:09:13.000Z",
+    "display_text_range": [
+      14,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T02:09:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097854876579660087"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2089340554605998080",
+          "start": 0,
+          "username": "Kagami060507"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097854876579660087",
+    "in_reply_to_user_id": "2089340554605998080",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097821633272819754",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kagami060507 我蹲蹲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "2097821633272819754",
+        "created_at": "2026-09-10T01:09:13.000Z",
+        "display_text_range": [
+          14,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T02:09:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097854876579660087"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2089340554605998080",
+              "start": 0,
+              "username": "Kagami060507"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097854876579660087",
+        "in_reply_to_user_id": "2089340554605998080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097821633272819754",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kagami060507 我蹲蹲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2089340554605998080",
+        "conversation_id": "2097821633272819754",
+        "created_at": "2026-09-09T22:57:07.000Z",
+        "display_text_range": [
+          0,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T23:57:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097821633272819754"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097821633272819754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 165,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近过得不是很开心☹️\n但是不妨碍我吃麦当劳😋\n抽个人依旧 19.9 穷鬼套餐 评论参与抽奖\n明天（9.11）开奖"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧 https://t.co/ILEWFdOiJs。 ngl匿名问答。  嗯我是男生 不要认错了。妈妈@YuganQwQ 欢迎大家找我玩。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 71,
+                "username": "YuganQwQ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%8950122",
+                "end": 45,
+                "expanded_url": "https://ngl.link/%E6%B3%8950122",
+                "start": 22,
+                "url": "https://t.co/ILEWFdOiJs"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097854876579660087",
+        "name": "永雏泉",
+        "pinned_tweet_id": "2060026487768760460",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1826281483675299840/1739601675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978274114138996736/r_khhgIT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1198,
+          "following_count": 772,
+          "like_count": 25947,
+          "listed_count": 2,
+          "media_count": 315,
+          "tweet_count": 9465
+        },
+        "url": "",
+        "username": "ci_shang85157",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-17T13:17:35.000Z",
+        "description": "转生小号 发点碎碎念当朋友圈玩没有 偶尔爆点金币欢迎宝宝们互 fo 没有🚪没有福利看\nvx:...展开",
+        "id": "2089340554605998080",
+        "is_identity_verified": false,
+        "location": "墳墓",
+        "most_recent_tweet_id": "2097821633272819754",
+        "name": "Kagami",
+        "pinned_tweet_id": "2090806620884480418",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2089340554605998080/1787480445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090345739495067648/HWZzn5xn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 85,
+          "like_count": 23,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 117
+        },
+        "url": "",
+        "username": "Kagami060507",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
