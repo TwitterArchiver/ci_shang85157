@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1838246244906627075",
+    "created_at": "2024-09-23T20:37:18.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-23T21:37:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1838316732953284754"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1799110433548140544",
+          "start": 0,
+          "username": "KatiePeter3119"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1838316732953284754",
+    "in_reply_to_user_id": "1799110433548140544",
+    "lang": "und",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1838246244906627075",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KatiePeter3119 1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1838246244906627075",
+        "created_at": "2024-09-23T20:37:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-23T21:37:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1838316732953284754"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1799110433548140544",
+              "start": 0,
+              "username": "KatiePeter3119"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838316732953284754",
+        "in_reply_to_user_id": "1799110433548140544",
+        "lang": "und",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1838246244906627075",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KatiePeter3119 1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1799110433548140544",
+        "conversation_id": "1838246244906627075",
+        "created_at": "2024-09-23T15:57:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-23T16:57:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1838246244906627075"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1838246244906627075",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 6212,
+          "like_count": 53,
+          "quote_count": 0,
+          "reply_count": 47,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天的任务，还没领的可以过来领了，点赞后评论扣1，私信：领取任务，就可以领到最新的任务了，私信就"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "",
+        "id": "1826281483675299840",
+        "name": "伤心慈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826328643179802624/ScytKW-C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 118,
+          "like_count": 250,
+          "listed_count": 0,
+          "tweet_count": 13
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-07T16:05:37.000Z",
+        "description": "爆骂羞辱贱狗，要被骂的，先把关注点上，不点关注一律不回复，礼貌一点哈，上来发🐔。直接拉黑",
+        "id": "1799110433548140544",
+        "location": "Hong Kong",
+        "name": "SM老师",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834537989730701312/pOuu0Y2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 5,
+          "like_count": 18,
+          "listed_count": 0,
+          "tweet_count": 18
+        },
+        "username": "KatiePeter3119",
+        "verified": false
+      }
+    ]
+  }
+}

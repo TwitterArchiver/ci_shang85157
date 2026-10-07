@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1826281483675299840",
+    "conversation_id": "1878357223782449516",
+    "created_at": "2025-01-12T10:45:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-12T11:45:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1878392896052670657"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1860519931537719296",
+          "start": 0,
+          "username": "KR_100505"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1878392896052670657",
+    "in_reply_to_user_id": "1860519931537719296",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1878357223782449516",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KR_100505 5"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1878357223782449516",
+        "created_at": "2025-01-12T10:45:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-12T11:45:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1878392896052670657"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1860519931537719296",
+              "start": 0,
+              "username": "KR_100505"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878392896052670657",
+        "in_reply_to_user_id": "1860519931537719296",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1878357223782449516",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KR_100505 5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1878357221781712896"
+          ]
+        },
+        "author_id": "1860519931537719296",
+        "conversation_id": "1878357223782449516",
+        "created_at": "2025-01-12T08:23:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-12T09:23:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1878357223782449516"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n8jNnVIv1J",
+              "end": 26,
+              "expanded_url": "https://x.com/KR_100505/status/1878357223782449516/photo/1",
+              "media_key": "3_1878357221781712896",
+              "start": 3,
+              "url": "https://t.co/n8jNnVIv1J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878357223782449516",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 219,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "☝️ https://t.co/n8jNnVIv1J"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "喜欢聊天，欢迎随时骚扰，可以聊聊天，互fo请私信我，最近越来越喜欢有事没事来看看推了，所以很闲",
+        "id": "1826281483675299840",
+        "name": "泉此方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844188914451365901/gNnOT4GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 220,
+          "like_count": 2088,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 937
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-24T03:05:13.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zr_100505",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zr_100505",
+                "start": 0,
+                "url": "https://t.co/Ch2BqnxhbX"
+              }
+            ]
+          }
+        },
+        "id": "1860519931537719296",
+        "location": "皮特凯恩群岛",
+        "name": "Zara",
+        "pinned_tweet_id": "1870246778580177070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860520250892046336/jStXQrnN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 153,
+          "like_count": 1580,
+          "listed_count": 1,
+          "media_count": 484,
+          "tweet_count": 909
+        },
+        "url": "https://t.co/Ch2BqnxhbX",
+        "username": "KR_100505",
+        "verified": false
+      }
+    ]
+  }
+}
